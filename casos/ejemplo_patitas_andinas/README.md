@@ -22,7 +22,7 @@ Comercio electrónico de alimento y accesorios para mascotas (Lima, Trujillo y P
 
 ## Cómo ejecutar el Colab
 1. Abra `notebooks/EJEMPLO_PMD2_Patitas_Andinas.ipynb` en Google Colab (File → Open notebook → GitHub) o en Jupyter local.
-2. Complete `USUARIO` si lo ejecuta desde su fork (en local usa la carpeta `../data`).
+2. Los datos se leen siempre desde GitHub (`Rociosayan/pmd2-aei-2026ii`). Si lo ejecuta desde su fork, cambie `USUARIO`.
 3. *Runtime → Run all*. Tarda unos minutos; las semillas están fijadas y dos ejecuciones dan las mismas cifras.
 4. Opcional: para evaluar el motor LLM del asistente, guarde `ANTHROPIC_API_KEY` en los *Secrets* de Colab. **No** suba claves al repositorio; sin clave, el LLM se declara «no ejecutado».
 

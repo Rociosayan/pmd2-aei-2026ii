@@ -16,10 +16,22 @@ Además hay un **caso ejemplo resuelto** (`casos/ejemplo_patitas_andinas`: datos
 
 El enunciado completo (situación, decisión, presupuestos y preguntas de sustentación) está en el documento de los cinco casos, y la rúbrica en el documento de la rúbrica.
 
+## Abrir el cuaderno de inicio en Colab
+Los datos se leen **desde este repositorio de GitHub** (URL raw), nunca de un archivo local. Si trabaja desde su fork, cambie `USUARIO` en la primera celda.
+
+| Grupo | Caso | Colab |
+|---|---|---|
+| 1 | AndeHogar | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/pmd2-aei-2026ii/blob/main/casos/caso1_andehogar/notebooks/00_inicio.ipynb) |
+| 2 | Café de Origen | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/pmd2-aei-2026ii/blob/main/casos/caso2_cafe_de_origen/notebooks/00_inicio.ipynb) |
+| 3 | VitalFit | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/pmd2-aei-2026ii/blob/main/casos/caso3_vitalfit/notebooks/00_inicio.ipynb) |
+| 4 | Suministros Sur | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/pmd2-aei-2026ii/blob/main/casos/caso4_suministros_sur/notebooks/00_inicio.ipynb) |
+| 5 | AulaActiva | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/pmd2-aei-2026ii/blob/main/casos/caso5_aulaactiva/notebooks/00_inicio.ipynb) |
+| ejemplo | Patitas Andinas (resuelto) | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rociosayan/pmd2-aei-2026ii/blob/main/casos/ejemplo_patitas_andinas/notebooks/EJEMPLO_PMD2_Patitas_Andinas.ipynb) |
+
 ## Cómo empezar
 1. Un integrante hace **Fork** de este repositorio a su cuenta de GitHub y agrega a los demás como colaboradores.
 2. Abra `casos/<su caso>/notebooks/00_inicio.ipynb` en Google Colab (File → Open notebook → GitHub), complete `USUARIO` y `GRUPO`, y ejecútelo.
-3. Los datos se leen directamente desde GitHub con la URL *raw* (su fork debe ser público); no necesita descargar archivos.
+3. Los datos se leen directamente desde GitHub con la URL *raw* (su fork debe ser público); no necesita descargar archivos. Cambie `USUARIO` por el suyo.
 4. Cada integrante trabaja con su propia cuenta: los *commits* de cada uno son evidencia de su aporte en la sustentación.
 
 ## Estructura
