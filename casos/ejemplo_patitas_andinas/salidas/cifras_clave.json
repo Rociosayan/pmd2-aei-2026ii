@@ -1,0 +1,10 @@
+{
+ "clientes": 2165,
+ "churn_pr_auc_prueba": 0.428806,
+ "umbral": 0.35,
+ "contactos": 135,
+ "margen_operacion_optimo": 31984.7758,
+ "margen_operacion_politica": 29026.1537,
+ "valor_retencion_optimo": 422.655743,
+ "acierto_asistente": 1.0
+}

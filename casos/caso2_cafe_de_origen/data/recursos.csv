@@ -1,0 +1,21 @@
+periodo,recurso,linea,disponibilidad,consumo_unitario,coste,margen,limite,unidad,elegibilidad,nota
+2026-11,produccion,Origen Selva,,0.3037,7.76,24.24,,bolsas de 250 g,tostadora_1,"consumo_unitario = kg de café verde por bolsa (rendimiento 0,84 y merma 2 %); coste = coste variable por bolsa; margen = precio de lista − coste"
+2026-11,horas_tostado,Origen Selva,,0.0556,,,,horas/bolsa,,
+2026-11,precio_cafe_verde,Origen Selva,,,18.0,,,S/ por kg,,escenario base; el escenario de sensibilidad lo aumenta 15 %
+2026-11,vida_util_dias,Origen Selva,40.0,,,,,días,,plazo máximo recomendado entre tueste y entrega
+2026-11,produccion,Mezcla Casa,,0.3068,5.67,20.33,,bolsas de 250 g,tostadora_1 y tostadora_2,"consumo_unitario = kg de café verde por bolsa (rendimiento 0,84 y merma 3 %); coste = coste variable por bolsa; margen = precio de lista − coste"
+2026-11,horas_tostado,Mezcla Casa,,0.0417,,,,horas/bolsa,,
+2026-11,precio_cafe_verde,Mezcla Casa,,,12.0,,,S/ por kg,,escenario base; el escenario de sensibilidad lo aumenta 15 %
+2026-11,vida_util_dias,Mezcla Casa,45.0,,,,,días,,plazo máximo recomendado entre tueste y entrega
+2026-11,cafe_verde,todas,,,,,780.0,kg,,"rendimiento de tostado supuesto 0,84"
+2026-11,bolsas_empaque,todas,,,,,2800.0,bolsas,,
+2026-11,horas_tostado,todas,,,,,140.0,horas,,
+2026-11,coste_variable_total,todas,,,,,19000.0,S/,,
+2026-11,presupuesto_retencion,todas,,,,,5000.0,S/,,
+2026-11,llamada,todas,,,7.0,,350.0,llamadas,,
+2026-11,mejora_plan,todas,,,6.0,,,S/ por suscriptor que la utiliza,,declarar la tasa de utilización supuesta
+2026-11,horizonte_retencion,todas,,6.0,,,,meses,,
+2026-11,aumento_coste_materia_prima,todas,,0.15,,,,fraccion,,escenario de sensibilidad
+2026-11,efecto_incremental,bajo,0.0,,,,,fraccion,,
+2026-11,efecto_incremental,medio,0.04,,,,,fraccion,,
+2026-11,efecto_incremental,alto,0.08,,,,,fraccion,,

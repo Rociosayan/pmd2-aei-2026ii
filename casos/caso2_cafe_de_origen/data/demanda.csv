@@ -1,0 +1,1201 @@
+semana,sede,linea,solicitado,atendido,faltante,solicitado_suscripcion,solicitado_adicional,precio,coste_unitario
+2023-01-02,Lima Centro,Origen Selva,102,102,0,65,37,32.0,7.76
+2023-01-02,Lima Centro,Mezcla Casa,73,48,25,41,32,26.0,5.67
+2023-01-02,Lima Norte-Sur,Origen Selva,81,81,0,45,36,32.0,7.76
+2023-01-02,Lima Norte-Sur,Mezcla Casa,70,56,14,51,19,26.0,5.67
+2023-01-02,Provincias,Origen Selva,49,49,0,33,16,32.0,7.76
+2023-01-02,Provincias,Mezcla Casa,37,29,8,15,22,26.0,5.67
+2023-01-09,Lima Centro,Origen Selva,95,95,0,68,27,32.0,7.76
+2023-01-09,Lima Centro,Mezcla Casa,73,73,0,57,16,26.0,5.67
+2023-01-09,Lima Norte-Sur,Origen Selva,65,65,0,47,18,32.0,7.76
+2023-01-09,Lima Norte-Sur,Mezcla Casa,63,63,0,46,17,26.0,5.67
+2023-01-09,Provincias,Origen Selva,43,43,0,33,10,32.0,7.76
+2023-01-09,Provincias,Mezcla Casa,28,28,0,17,11,26.0,5.67
+2023-01-16,Lima Centro,Origen Selva,88,88,0,67,21,32.0,7.76
+2023-01-16,Lima Centro,Mezcla Casa,61,61,0,53,8,26.0,5.67
+2023-01-16,Lima Norte-Sur,Origen Selva,85,85,0,63,22,32.0,7.76
+2023-01-16,Lima Norte-Sur,Mezcla Casa,47,47,0,35,12,26.0,5.67
+2023-01-16,Provincias,Origen Selva,40,40,0,27,13,32.0,7.76
+2023-01-16,Provincias,Mezcla Casa,26,26,0,23,3,26.0,5.67
+2023-01-23,Lima Centro,Origen Selva,89,89,0,69,20,32.0,7.76
+2023-01-23,Lima Centro,Mezcla Casa,49,49,0,37,12,26.0,5.67
+2023-01-23,Lima Norte-Sur,Origen Selva,81,81,0,59,22,32.0,7.76
+2023-01-23,Lima Norte-Sur,Mezcla Casa,76,76,0,46,30,26.0,5.67
+2023-01-23,Provincias,Origen Selva,38,38,0,27,11,32.0,7.76
+2023-01-23,Provincias,Mezcla Casa,23,23,0,19,4,26.0,5.67
+2023-01-30,Lima Centro,Origen Selva,76,76,0,60,16,32.0,7.76
+2023-01-30,Lima Centro,Mezcla Casa,61,61,0,43,18,26.0,5.67
+2023-01-30,Lima Norte-Sur,Origen Selva,97,97,0,79,18,32.0,7.76
+2023-01-30,Lima Norte-Sur,Mezcla Casa,44,44,0,35,9,26.0,5.67
+2023-01-30,Provincias,Origen Selva,39,39,0,26,13,32.0,7.76
+2023-01-30,Provincias,Mezcla Casa,26,26,0,24,2,26.0,5.67
+2023-02-06,Lima Centro,Origen Selva,87,87,0,67,20,32.0,7.76
+2023-02-06,Lima Centro,Mezcla Casa,51,51,0,34,17,26.0,5.67
+2023-02-06,Lima Norte-Sur,Origen Selva,93,93,0,61,32,32.0,7.76
+2023-02-06,Lima Norte-Sur,Mezcla Casa,50,50,0,38,12,26.0,5.67
+2023-02-06,Provincias,Origen Selva,31,31,0,27,4,32.0,7.76
+2023-02-06,Provincias,Mezcla Casa,26,26,0,21,5,26.0,5.67
+2023-02-13,Lima Centro,Origen Selva,86,86,0,66,20,32.0,7.76
+2023-02-13,Lima Centro,Mezcla Casa,60,60,0,46,14,26.0,5.67
+2023-02-13,Lima Norte-Sur,Origen Selva,83,83,0,53,30,32.0,7.76
+2023-02-13,Lima Norte-Sur,Mezcla Casa,47,47,0,35,12,26.0,5.67
+2023-02-13,Provincias,Origen Selva,43,43,0,30,13,32.0,7.76
+2023-02-13,Provincias,Mezcla Casa,13,13,0,10,3,26.0,5.67
+2023-02-20,Lima Centro,Origen Selva,95,95,0,76,19,32.0,7.76
+2023-02-20,Lima Centro,Mezcla Casa,66,66,0,49,17,26.0,5.67
+2023-02-20,Lima Norte-Sur,Origen Selva,87,87,0,66,21,32.0,7.76
+2023-02-20,Lima Norte-Sur,Mezcla Casa,35,35,0,26,9,26.0,5.67
+2023-02-20,Provincias,Origen Selva,45,45,0,32,13,32.0,7.76
+2023-02-20,Provincias,Mezcla Casa,25,25,0,20,5,26.0,5.67
+2023-02-27,Lima Centro,Origen Selva,104,104,0,81,23,32.0,7.76
+2023-02-27,Lima Centro,Mezcla Casa,46,46,0,25,21,26.0,5.67
+2023-02-27,Lima Norte-Sur,Origen Selva,72,72,0,54,18,32.0,7.76
+2023-02-27,Lima Norte-Sur,Mezcla Casa,69,69,0,63,6,26.0,5.67
+2023-02-27,Provincias,Origen Selva,57,57,0,44,13,32.0,7.76
+2023-02-27,Provincias,Mezcla Casa,24,24,0,16,8,26.0,5.67
+2023-03-06,Lima Centro,Origen Selva,79,79,0,67,12,32.0,7.76
+2023-03-06,Lima Centro,Mezcla Casa,61,61,0,46,15,26.0,5.67
+2023-03-06,Lima Norte-Sur,Origen Selva,70,70,0,57,13,32.0,7.76
+2023-03-06,Lima Norte-Sur,Mezcla Casa,46,46,0,38,8,26.0,5.67
+2023-03-06,Provincias,Origen Selva,29,29,0,25,4,32.0,7.76
+2023-03-06,Provincias,Mezcla Casa,20,20,0,17,3,26.0,5.67
+2023-03-13,Lima Centro,Origen Selva,95,95,0,78,17,32.0,7.76
+2023-03-13,Lima Centro,Mezcla Casa,55,55,0,40,15,26.0,5.67
+2023-03-13,Lima Norte-Sur,Origen Selva,88,88,0,67,21,32.0,7.76
+2023-03-13,Lima Norte-Sur,Mezcla Casa,55,55,0,44,11,26.0,5.67
+2023-03-13,Provincias,Origen Selva,33,33,0,23,10,32.0,7.76
+2023-03-13,Provincias,Mezcla Casa,20,20,0,14,6,26.0,5.67
+2023-03-20,Lima Centro,Origen Selva,93,93,0,71,22,32.0,7.76
+2023-03-20,Lima Centro,Mezcla Casa,69,69,0,59,10,26.0,5.67
+2023-03-20,Lima Norte-Sur,Origen Selva,85,85,0,67,18,32.0,7.76
+2023-03-20,Lima Norte-Sur,Mezcla Casa,46,46,0,27,19,26.0,5.67
+2023-03-20,Provincias,Origen Selva,23,23,0,16,7,32.0,7.76
+2023-03-20,Provincias,Mezcla Casa,30,30,0,23,7,26.0,5.67
+2023-03-27,Lima Centro,Origen Selva,106,106,0,86,20,32.0,7.76
+2023-03-27,Lima Centro,Mezcla Casa,39,39,0,24,15,26.0,5.67
+2023-03-27,Lima Norte-Sur,Origen Selva,80,80,0,59,21,32.0,7.76
+2023-03-27,Lima Norte-Sur,Mezcla Casa,68,68,0,58,10,26.0,5.67
+2023-03-27,Provincias,Origen Selva,41,41,0,38,3,32.0,7.76
+2023-03-27,Provincias,Mezcla Casa,20,20,0,7,13,26.0,5.67
+2023-04-03,Lima Centro,Origen Selva,85,69,16,56,29,32.0,7.76
+2023-04-03,Lima Centro,Mezcla Casa,82,82,0,60,22,26.0,5.67
+2023-04-03,Lima Norte-Sur,Origen Selva,64,50,14,44,20,32.0,7.76
+2023-04-03,Lima Norte-Sur,Mezcla Casa,57,57,0,39,18,26.0,5.67
+2023-04-03,Provincias,Origen Selva,33,29,4,25,8,32.0,7.76
+2023-04-03,Provincias,Mezcla Casa,34,34,0,23,11,26.0,5.67
+2023-04-10,Lima Centro,Origen Selva,115,105,10,95,20,32.0,7.76
+2023-04-10,Lima Centro,Mezcla Casa,54,54,0,38,16,26.0,5.67
+2023-04-10,Lima Norte-Sur,Origen Selva,65,52,13,46,19,32.0,7.76
+2023-04-10,Lima Norte-Sur,Mezcla Casa,74,74,0,63,11,26.0,5.67
+2023-04-10,Provincias,Origen Selva,40,32,8,30,10,32.0,7.76
+2023-04-10,Provincias,Mezcla Casa,22,22,0,14,8,26.0,5.67
+2023-04-17,Lima Centro,Origen Selva,96,96,0,79,17,32.0,7.76
+2023-04-17,Lima Centro,Mezcla Casa,69,69,0,54,15,26.0,5.67
+2023-04-17,Lima Norte-Sur,Origen Selva,88,88,0,75,13,32.0,7.76
+2023-04-17,Lima Norte-Sur,Mezcla Casa,40,40,0,28,12,26.0,5.67
+2023-04-17,Provincias,Origen Selva,20,20,0,20,0,32.0,7.76
+2023-04-17,Provincias,Mezcla Casa,23,23,0,21,2,26.0,5.67
+2023-04-24,Lima Centro,Origen Selva,95,95,0,75,20,32.0,7.76
+2023-04-24,Lima Centro,Mezcla Casa,52,52,0,36,16,26.0,5.67
+2023-04-24,Lima Norte-Sur,Origen Selva,103,103,0,84,19,32.0,7.76
+2023-04-24,Lima Norte-Sur,Mezcla Casa,46,46,0,34,12,26.0,5.67
+2023-04-24,Provincias,Origen Selva,38,38,0,31,7,32.0,7.76
+2023-04-24,Provincias,Mezcla Casa,20,20,0,17,3,26.0,5.67
+2023-05-01,Lima Centro,Origen Selva,76,76,0,62,14,32.0,7.76
+2023-05-01,Lima Centro,Mezcla Casa,47,47,0,36,11,26.0,5.67
+2023-05-01,Lima Norte-Sur,Origen Selva,54,54,0,29,25,32.0,7.76
+2023-05-01,Lima Norte-Sur,Mezcla Casa,59,59,0,49,10,26.0,5.67
+2023-05-01,Provincias,Origen Selva,33,33,0,24,9,32.0,7.76
+2023-05-01,Provincias,Mezcla Casa,32,32,0,21,11,26.0,5.67
+2023-05-08,Lima Centro,Origen Selva,109,109,0,85,24,32.0,7.76
+2023-05-08,Lima Centro,Mezcla Casa,56,56,0,39,17,26.0,5.67
+2023-05-08,Lima Norte-Sur,Origen Selva,67,67,0,55,12,32.0,7.76
+2023-05-08,Lima Norte-Sur,Mezcla Casa,64,64,0,52,12,26.0,5.67
+2023-05-08,Provincias,Origen Selva,31,31,0,20,11,32.0,7.76
+2023-05-08,Provincias,Mezcla Casa,26,26,0,19,7,26.0,5.67
+2023-05-15,Lima Centro,Origen Selva,116,116,0,94,22,32.0,7.76
+2023-05-15,Lima Centro,Mezcla Casa,65,65,0,51,14,26.0,5.67
+2023-05-15,Lima Norte-Sur,Origen Selva,94,94,0,74,20,32.0,7.76
+2023-05-15,Lima Norte-Sur,Mezcla Casa,60,60,0,38,22,26.0,5.67
+2023-05-15,Provincias,Origen Selva,27,27,0,21,6,32.0,7.76
+2023-05-15,Provincias,Mezcla Casa,25,25,0,19,6,26.0,5.67
+2023-05-22,Lima Centro,Origen Selva,90,90,0,75,15,32.0,7.76
+2023-05-22,Lima Centro,Mezcla Casa,52,52,0,39,13,26.0,5.67
+2023-05-22,Lima Norte-Sur,Origen Selva,88,88,0,61,27,32.0,7.76
+2023-05-22,Lima Norte-Sur,Mezcla Casa,43,43,0,37,6,26.0,5.67
+2023-05-22,Provincias,Origen Selva,25,25,0,22,3,32.0,7.76
+2023-05-22,Provincias,Mezcla Casa,32,32,0,22,10,26.0,5.67
+2023-05-29,Lima Centro,Origen Selva,84,84,0,63,21,32.0,7.76
+2023-05-29,Lima Centro,Mezcla Casa,54,54,0,42,12,26.0,5.67
+2023-05-29,Lima Norte-Sur,Origen Selva,69,69,0,47,22,32.0,7.76
+2023-05-29,Lima Norte-Sur,Mezcla Casa,58,58,0,51,7,26.0,5.67
+2023-05-29,Provincias,Origen Selva,37,37,0,27,10,32.0,7.76
+2023-05-29,Provincias,Mezcla Casa,21,21,0,21,0,26.0,5.67
+2023-06-05,Lima Centro,Origen Selva,89,89,0,68,21,32.0,7.76
+2023-06-05,Lima Centro,Mezcla Casa,70,70,0,57,13,26.0,5.67
+2023-06-05,Lima Norte-Sur,Origen Selva,76,76,0,50,26,32.0,7.76
+2023-06-05,Lima Norte-Sur,Mezcla Casa,64,64,0,46,18,26.0,5.67
+2023-06-05,Provincias,Origen Selva,43,43,0,36,7,32.0,7.76
+2023-06-05,Provincias,Mezcla Casa,22,22,0,15,7,26.0,5.67
+2023-06-12,Lima Centro,Origen Selva,106,106,0,84,22,32.0,7.76
+2023-06-12,Lima Centro,Mezcla Casa,77,77,0,58,19,26.0,5.67
+2023-06-12,Lima Norte-Sur,Origen Selva,94,94,0,75,19,32.0,7.76
+2023-06-12,Lima Norte-Sur,Mezcla Casa,38,38,0,29,9,26.0,5.67
+2023-06-12,Provincias,Origen Selva,22,22,0,10,12,32.0,7.76
+2023-06-12,Provincias,Mezcla Casa,18,18,0,12,6,26.0,5.67
+2023-06-19,Lima Centro,Origen Selva,104,104,0,82,22,32.0,7.76
+2023-06-19,Lima Centro,Mezcla Casa,71,71,0,57,14,26.0,5.67
+2023-06-19,Lima Norte-Sur,Origen Selva,92,92,0,70,22,32.0,7.76
+2023-06-19,Lima Norte-Sur,Mezcla Casa,52,52,0,34,18,26.0,5.67
+2023-06-19,Provincias,Origen Selva,46,46,0,33,13,32.0,7.76
+2023-06-19,Provincias,Mezcla Casa,22,22,0,16,6,26.0,5.67
+2023-06-26,Lima Centro,Origen Selva,85,85,0,61,24,32.0,7.76
+2023-06-26,Lima Centro,Mezcla Casa,45,45,0,34,11,26.0,5.67
+2023-06-26,Lima Norte-Sur,Origen Selva,69,69,0,58,11,32.0,7.76
+2023-06-26,Lima Norte-Sur,Mezcla Casa,58,58,0,47,11,26.0,5.67
+2023-06-26,Provincias,Origen Selva,42,42,0,39,3,32.0,7.76
+2023-06-26,Provincias,Mezcla Casa,19,19,0,9,10,26.0,5.67
+2023-07-03,Lima Centro,Origen Selva,90,90,0,70,20,32.0,7.76
+2023-07-03,Lima Centro,Mezcla Casa,71,71,0,53,18,26.0,5.67
+2023-07-03,Lima Norte-Sur,Origen Selva,67,67,0,52,15,32.0,7.76
+2023-07-03,Lima Norte-Sur,Mezcla Casa,54,54,0,42,12,26.0,5.67
+2023-07-03,Provincias,Origen Selva,36,36,0,29,7,32.0,7.76
+2023-07-03,Provincias,Mezcla Casa,27,27,0,19,8,26.0,5.67
+2023-07-10,Lima Centro,Origen Selva,122,122,0,90,32,32.0,7.76
+2023-07-10,Lima Centro,Mezcla Casa,65,65,0,52,13,26.0,5.67
+2023-07-10,Lima Norte-Sur,Origen Selva,83,83,0,62,21,32.0,7.76
+2023-07-10,Lima Norte-Sur,Mezcla Casa,69,69,0,54,15,26.0,5.67
+2023-07-10,Provincias,Origen Selva,37,37,0,26,11,32.0,7.76
+2023-07-10,Provincias,Mezcla Casa,17,17,0,9,8,26.0,5.67
+2023-07-17,Lima Centro,Origen Selva,99,99,0,76,23,32.0,7.76
+2023-07-17,Lima Centro,Mezcla Casa,78,78,0,61,17,26.0,5.67
+2023-07-17,Lima Norte-Sur,Origen Selva,64,64,0,47,17,32.0,7.76
+2023-07-17,Lima Norte-Sur,Mezcla Casa,52,52,0,43,9,26.0,5.67
+2023-07-17,Provincias,Origen Selva,25,25,0,18,7,32.0,7.76
+2023-07-17,Provincias,Mezcla Casa,25,25,0,13,12,26.0,5.67
+2023-07-24,Lima Centro,Origen Selva,106,106,0,92,14,32.0,7.76
+2023-07-24,Lima Centro,Mezcla Casa,53,53,0,42,11,26.0,5.67
+2023-07-24,Lima Norte-Sur,Origen Selva,92,92,0,75,17,32.0,7.76
+2023-07-24,Lima Norte-Sur,Mezcla Casa,38,38,0,25,13,26.0,5.67
+2023-07-24,Provincias,Origen Selva,45,45,0,37,8,32.0,7.76
+2023-07-24,Provincias,Mezcla Casa,33,33,0,28,5,26.0,5.67
+2023-07-31,Lima Centro,Origen Selva,87,87,0,62,25,32.0,7.76
+2023-07-31,Lima Centro,Mezcla Casa,77,77,0,57,20,26.0,5.67
+2023-07-31,Lima Norte-Sur,Origen Selva,73,73,0,52,21,32.0,7.76
+2023-07-31,Lima Norte-Sur,Mezcla Casa,49,49,0,39,10,26.0,5.67
+2023-07-31,Provincias,Origen Selva,24,24,0,18,6,32.0,7.76
+2023-07-31,Provincias,Mezcla Casa,16,16,0,13,3,26.0,5.67
+2023-08-07,Lima Centro,Origen Selva,107,107,0,81,26,32.0,7.76
+2023-08-07,Lima Centro,Mezcla Casa,79,79,0,59,20,26.0,5.67
+2023-08-07,Lima Norte-Sur,Origen Selva,81,81,0,63,18,32.0,7.76
+2023-08-07,Lima Norte-Sur,Mezcla Casa,57,57,0,41,16,26.0,5.67
+2023-08-07,Provincias,Origen Selva,42,42,0,29,13,32.0,7.76
+2023-08-07,Provincias,Mezcla Casa,27,27,0,20,7,26.0,5.67
+2023-08-14,Lima Centro,Origen Selva,112,112,0,89,23,32.0,7.76
+2023-08-14,Lima Centro,Mezcla Casa,81,81,0,58,23,26.0,5.67
+2023-08-14,Lima Norte-Sur,Origen Selva,91,91,0,78,13,32.0,7.76
+2023-08-14,Lima Norte-Sur,Mezcla Casa,51,51,0,39,12,26.0,5.67
+2023-08-14,Provincias,Origen Selva,27,27,0,22,5,32.0,7.76
+2023-08-14,Provincias,Mezcla Casa,18,18,0,17,1,26.0,5.67
+2023-08-21,Lima Centro,Origen Selva,95,95,0,68,27,32.0,7.76
+2023-08-21,Lima Centro,Mezcla Casa,59,59,0,39,20,26.0,5.67
+2023-08-21,Lima Norte-Sur,Origen Selva,76,76,0,57,19,32.0,7.76
+2023-08-21,Lima Norte-Sur,Mezcla Casa,62,62,0,38,24,26.0,5.67
+2023-08-21,Provincias,Origen Selva,41,41,0,35,6,32.0,7.76
+2023-08-21,Provincias,Mezcla Casa,20,20,0,18,2,26.0,5.67
+2023-08-28,Lima Centro,Origen Selva,102,102,0,78,24,32.0,7.76
+2023-08-28,Lima Centro,Mezcla Casa,76,76,0,48,28,26.0,5.67
+2023-08-28,Lima Norte-Sur,Origen Selva,106,106,0,84,22,32.0,7.76
+2023-08-28,Lima Norte-Sur,Mezcla Casa,51,51,0,42,9,26.0,5.67
+2023-08-28,Provincias,Origen Selva,31,31,0,26,5,32.0,7.76
+2023-08-28,Provincias,Mezcla Casa,22,22,0,21,1,26.0,5.67
+2023-09-04,Lima Centro,Origen Selva,131,131,0,95,36,32.0,7.76
+2023-09-04,Lima Centro,Mezcla Casa,53,53,0,44,9,26.0,5.67
+2023-09-04,Lima Norte-Sur,Origen Selva,80,80,0,55,25,32.0,7.76
+2023-09-04,Lima Norte-Sur,Mezcla Casa,53,53,0,40,13,26.0,5.67
+2023-09-04,Provincias,Origen Selva,34,34,0,29,5,32.0,7.76
+2023-09-04,Provincias,Mezcla Casa,16,16,0,12,4,26.0,5.67
+2023-09-11,Lima Centro,Origen Selva,90,90,0,74,16,32.0,7.76
+2023-09-11,Lima Centro,Mezcla Casa,74,74,0,51,23,26.0,5.67
+2023-09-11,Lima Norte-Sur,Origen Selva,77,77,0,65,12,32.0,7.76
+2023-09-11,Lima Norte-Sur,Mezcla Casa,39,39,0,27,12,26.0,5.67
+2023-09-11,Provincias,Origen Selva,34,34,0,20,14,32.0,7.76
+2023-09-11,Provincias,Mezcla Casa,16,16,0,11,5,26.0,5.67
+2023-09-18,Lima Centro,Origen Selva,101,101,0,83,18,32.0,7.76
+2023-09-18,Lima Centro,Mezcla Casa,73,73,0,53,20,26.0,5.67
+2023-09-18,Lima Norte-Sur,Origen Selva,81,81,0,60,21,32.0,7.76
+2023-09-18,Lima Norte-Sur,Mezcla Casa,57,57,0,41,16,26.0,5.67
+2023-09-18,Provincias,Origen Selva,50,50,0,39,11,32.0,7.76
+2023-09-18,Provincias,Mezcla Casa,22,22,0,15,7,26.0,5.67
+2023-09-25,Lima Centro,Origen Selva,85,85,0,65,20,32.0,7.76
+2023-09-25,Lima Centro,Mezcla Casa,72,72,0,52,20,26.0,5.67
+2023-09-25,Lima Norte-Sur,Origen Selva,78,78,0,61,17,32.0,7.76
+2023-09-25,Lima Norte-Sur,Mezcla Casa,51,51,0,41,10,26.0,5.67
+2023-09-25,Provincias,Origen Selva,30,30,0,30,0,32.0,7.76
+2023-09-25,Provincias,Mezcla Casa,37,37,0,27,10,26.0,5.67
+2023-10-02,Lima Centro,Origen Selva,118,118,0,89,29,32.0,7.76
+2023-10-02,Lima Centro,Mezcla Casa,80,80,0,57,23,26.0,5.67
+2023-10-02,Lima Norte-Sur,Origen Selva,67,67,0,53,14,32.0,7.76
+2023-10-02,Lima Norte-Sur,Mezcla Casa,73,73,0,55,18,26.0,5.67
+2023-10-02,Provincias,Origen Selva,29,29,0,23,6,32.0,7.76
+2023-10-02,Provincias,Mezcla Casa,32,32,0,23,9,26.0,5.67
+2023-10-09,Lima Centro,Origen Selva,106,106,0,88,18,32.0,7.76
+2023-10-09,Lima Centro,Mezcla Casa,50,50,0,44,6,26.0,5.67
+2023-10-09,Lima Norte-Sur,Origen Selva,81,81,0,69,12,32.0,7.76
+2023-10-09,Lima Norte-Sur,Mezcla Casa,48,48,0,40,8,26.0,5.67
+2023-10-09,Provincias,Origen Selva,24,24,0,17,7,32.0,7.76
+2023-10-09,Provincias,Mezcla Casa,17,17,0,12,5,26.0,5.67
+2023-10-16,Lima Centro,Origen Selva,106,106,0,84,22,32.0,7.76
+2023-10-16,Lima Centro,Mezcla Casa,77,77,0,61,16,26.0,5.67
+2023-10-16,Lima Norte-Sur,Origen Selva,73,73,0,48,25,32.0,7.76
+2023-10-16,Lima Norte-Sur,Mezcla Casa,68,68,0,49,19,26.0,5.67
+2023-10-16,Provincias,Origen Selva,45,45,0,32,13,32.0,7.76
+2023-10-16,Provincias,Mezcla Casa,33,33,0,28,5,26.0,5.67
+2023-10-23,Lima Centro,Origen Selva,107,107,0,80,27,32.0,7.76
+2023-10-23,Lima Centro,Mezcla Casa,61,61,0,48,13,26.0,5.67
+2023-10-23,Lima Norte-Sur,Origen Selva,88,88,0,65,23,32.0,7.76
+2023-10-23,Lima Norte-Sur,Mezcla Casa,48,48,0,33,15,26.0,5.67
+2023-10-23,Provincias,Origen Selva,62,62,0,45,17,32.0,7.76
+2023-10-23,Provincias,Mezcla Casa,23,23,0,17,6,26.0,5.67
+2023-10-30,Lima Centro,Origen Selva,142,142,0,114,28,32.0,7.76
+2023-10-30,Lima Centro,Mezcla Casa,85,85,0,59,26,26.0,5.67
+2023-10-30,Lima Norte-Sur,Origen Selva,92,92,0,74,18,32.0,7.76
+2023-10-30,Lima Norte-Sur,Mezcla Casa,63,63,0,50,13,26.0,5.67
+2023-10-30,Provincias,Origen Selva,31,31,0,17,14,32.0,7.76
+2023-10-30,Provincias,Mezcla Casa,30,30,0,24,6,26.0,5.67
+2023-11-06,Lima Centro,Origen Selva,85,85,0,65,20,32.0,7.76
+2023-11-06,Lima Centro,Mezcla Casa,65,65,0,54,11,26.0,5.67
+2023-11-06,Lima Norte-Sur,Origen Selva,102,102,0,75,27,32.0,7.76
+2023-11-06,Lima Norte-Sur,Mezcla Casa,63,63,0,41,22,26.0,5.67
+2023-11-06,Provincias,Origen Selva,47,47,0,28,19,32.0,7.76
+2023-11-06,Provincias,Mezcla Casa,34,34,0,22,12,26.0,5.67
+2023-11-13,Lima Centro,Origen Selva,98,98,0,72,26,32.0,7.76
+2023-11-13,Lima Centro,Mezcla Casa,73,73,0,59,14,26.0,5.67
+2023-11-13,Lima Norte-Sur,Origen Selva,92,92,0,73,19,32.0,7.76
+2023-11-13,Lima Norte-Sur,Mezcla Casa,52,52,0,37,15,26.0,5.67
+2023-11-13,Provincias,Origen Selva,37,37,0,31,6,32.0,7.76
+2023-11-13,Provincias,Mezcla Casa,19,19,0,12,7,26.0,5.67
+2023-11-20,Lima Centro,Origen Selva,109,109,0,84,25,32.0,7.76
+2023-11-20,Lima Centro,Mezcla Casa,63,63,0,48,15,26.0,5.67
+2023-11-20,Lima Norte-Sur,Origen Selva,97,97,0,73,24,32.0,7.76
+2023-11-20,Lima Norte-Sur,Mezcla Casa,54,54,0,35,19,26.0,5.67
+2023-11-20,Provincias,Origen Selva,41,41,0,37,4,32.0,7.76
+2023-11-20,Provincias,Mezcla Casa,25,25,0,22,3,26.0,5.67
+2023-11-27,Lima Centro,Origen Selva,129,129,0,109,20,32.0,7.76
+2023-11-27,Lima Centro,Mezcla Casa,70,70,0,48,22,26.0,5.67
+2023-11-27,Lima Norte-Sur,Origen Selva,70,70,0,51,19,32.0,7.76
+2023-11-27,Lima Norte-Sur,Mezcla Casa,75,75,0,57,18,26.0,5.67
+2023-11-27,Provincias,Origen Selva,45,45,0,40,5,32.0,7.76
+2023-11-27,Provincias,Mezcla Casa,22,22,0,14,8,26.0,5.67
+2023-12-04,Lima Centro,Origen Selva,111,111,0,85,26,32.0,7.76
+2023-12-04,Lima Centro,Mezcla Casa,78,78,0,61,17,26.0,5.67
+2023-12-04,Lima Norte-Sur,Origen Selva,80,80,0,62,18,32.0,7.76
+2023-12-04,Lima Norte-Sur,Mezcla Casa,70,70,0,58,12,26.0,5.67
+2023-12-04,Provincias,Origen Selva,32,32,0,25,7,32.0,7.76
+2023-12-04,Provincias,Mezcla Casa,21,21,0,17,4,26.0,5.67
+2023-12-11,Lima Centro,Origen Selva,108,108,0,83,25,32.0,7.76
+2023-12-11,Lima Centro,Mezcla Casa,90,90,0,62,28,26.0,5.67
+2023-12-11,Lima Norte-Sur,Origen Selva,97,97,0,75,22,32.0,7.76
+2023-12-11,Lima Norte-Sur,Mezcla Casa,55,55,0,41,14,26.0,5.67
+2023-12-11,Provincias,Origen Selva,32,32,0,23,9,32.0,7.76
+2023-12-11,Provincias,Mezcla Casa,20,20,0,16,4,26.0,5.67
+2023-12-18,Lima Centro,Origen Selva,85,85,0,53,32,32.0,7.76
+2023-12-18,Lima Centro,Mezcla Casa,83,83,0,70,13,26.0,5.67
+2023-12-18,Lima Norte-Sur,Origen Selva,87,87,0,67,20,32.0,7.76
+2023-12-18,Lima Norte-Sur,Mezcla Casa,48,48,0,32,16,26.0,5.67
+2023-12-18,Provincias,Origen Selva,49,49,0,38,11,32.0,7.76
+2023-12-18,Provincias,Mezcla Casa,30,30,0,23,7,26.0,5.67
+2023-12-25,Lima Centro,Origen Selva,122,122,0,93,29,32.0,7.76
+2023-12-25,Lima Centro,Mezcla Casa,83,83,0,62,21,26.0,5.67
+2023-12-25,Lima Norte-Sur,Origen Selva,79,79,0,55,24,32.0,7.76
+2023-12-25,Lima Norte-Sur,Mezcla Casa,66,66,0,53,13,26.0,5.67
+2023-12-25,Provincias,Origen Selva,39,39,0,31,8,32.0,7.76
+2023-12-25,Provincias,Mezcla Casa,37,37,0,31,6,26.0,5.67
+2024-01-01,Lima Centro,Origen Selva,126,126,0,98,28,32.0,7.76
+2024-01-01,Lima Centro,Mezcla Casa,84,84,0,60,24,26.0,5.67
+2024-01-01,Lima Norte-Sur,Origen Selva,96,96,0,75,21,32.0,7.76
+2024-01-01,Lima Norte-Sur,Mezcla Casa,96,96,0,57,39,26.0,5.67
+2024-01-01,Provincias,Origen Selva,26,26,0,18,8,32.0,7.76
+2024-01-01,Provincias,Mezcla Casa,21,21,0,16,5,26.0,5.67
+2024-01-08,Lima Centro,Origen Selva,89,89,0,68,21,32.0,7.76
+2024-01-08,Lima Centro,Mezcla Casa,81,81,0,66,15,26.0,5.67
+2024-01-08,Lima Norte-Sur,Origen Selva,87,87,0,74,13,32.0,7.76
+2024-01-08,Lima Norte-Sur,Mezcla Casa,54,54,0,44,10,26.0,5.67
+2024-01-08,Provincias,Origen Selva,34,34,0,22,12,32.0,7.76
+2024-01-08,Provincias,Mezcla Casa,26,26,0,19,7,26.0,5.67
+2024-01-15,Lima Centro,Origen Selva,114,114,0,85,29,32.0,7.76
+2024-01-15,Lima Centro,Mezcla Casa,89,89,0,76,13,26.0,5.67
+2024-01-15,Lima Norte-Sur,Origen Selva,95,95,0,73,22,32.0,7.76
+2024-01-15,Lima Norte-Sur,Mezcla Casa,46,46,0,39,7,26.0,5.67
+2024-01-15,Provincias,Origen Selva,56,56,0,43,13,32.0,7.76
+2024-01-15,Provincias,Mezcla Casa,23,23,0,16,7,26.0,5.67
+2024-01-22,Lima Centro,Origen Selva,102,91,11,84,18,32.0,7.76
+2024-01-22,Lima Centro,Mezcla Casa,58,58,0,42,16,26.0,5.67
+2024-01-22,Lima Norte-Sur,Origen Selva,85,72,13,63,22,32.0,7.76
+2024-01-22,Lima Norte-Sur,Mezcla Casa,57,57,0,53,4,26.0,5.67
+2024-01-22,Provincias,Origen Selva,56,46,10,43,13,32.0,7.76
+2024-01-22,Provincias,Mezcla Casa,34,34,0,25,9,26.0,5.67
+2024-01-29,Lima Centro,Origen Selva,120,120,0,96,24,32.0,7.76
+2024-01-29,Lima Centro,Mezcla Casa,106,106,0,75,31,26.0,5.67
+2024-01-29,Lima Norte-Sur,Origen Selva,111,111,0,76,35,32.0,7.76
+2024-01-29,Lima Norte-Sur,Mezcla Casa,51,51,0,34,17,26.0,5.67
+2024-01-29,Provincias,Origen Selva,34,34,0,25,9,32.0,7.76
+2024-01-29,Provincias,Mezcla Casa,26,26,0,16,10,26.0,5.67
+2024-02-05,Lima Centro,Origen Selva,119,119,0,86,33,32.0,7.76
+2024-02-05,Lima Centro,Mezcla Casa,63,63,0,54,9,26.0,5.67
+2024-02-05,Lima Norte-Sur,Origen Selva,111,111,0,79,32,32.0,7.76
+2024-02-05,Lima Norte-Sur,Mezcla Casa,59,59,0,48,11,26.0,5.67
+2024-02-05,Provincias,Origen Selva,33,33,0,23,10,32.0,7.76
+2024-02-05,Provincias,Mezcla Casa,11,11,0,7,4,26.0,5.67
+2024-02-12,Lima Centro,Origen Selva,107,107,0,79,28,32.0,7.76
+2024-02-12,Lima Centro,Mezcla Casa,85,85,0,61,24,26.0,5.67
+2024-02-12,Lima Norte-Sur,Origen Selva,96,96,0,78,18,32.0,7.76
+2024-02-12,Lima Norte-Sur,Mezcla Casa,53,53,0,34,19,26.0,5.67
+2024-02-12,Provincias,Origen Selva,41,41,0,30,11,32.0,7.76
+2024-02-12,Provincias,Mezcla Casa,26,26,0,23,3,26.0,5.67
+2024-02-19,Lima Centro,Origen Selva,122,122,0,97,25,32.0,7.76
+2024-02-19,Lima Centro,Mezcla Casa,75,75,0,51,24,26.0,5.67
+2024-02-19,Lima Norte-Sur,Origen Selva,93,93,0,66,27,32.0,7.76
+2024-02-19,Lima Norte-Sur,Mezcla Casa,61,61,0,49,12,26.0,5.67
+2024-02-19,Provincias,Origen Selva,58,58,0,39,19,32.0,7.76
+2024-02-19,Provincias,Mezcla Casa,39,39,0,33,6,26.0,5.67
+2024-02-26,Lima Centro,Origen Selva,117,117,0,73,44,32.0,7.76
+2024-02-26,Lima Centro,Mezcla Casa,69,69,0,56,13,26.0,5.67
+2024-02-26,Lima Norte-Sur,Origen Selva,87,87,0,53,34,32.0,7.76
+2024-02-26,Lima Norte-Sur,Mezcla Casa,63,63,0,45,18,26.0,5.67
+2024-02-26,Provincias,Origen Selva,22,22,0,18,4,32.0,7.76
+2024-02-26,Provincias,Mezcla Casa,22,22,0,19,3,26.0,5.67
+2024-03-04,Lima Centro,Origen Selva,118,118,0,83,35,32.0,7.76
+2024-03-04,Lima Centro,Mezcla Casa,78,78,0,60,18,26.0,5.67
+2024-03-04,Lima Norte-Sur,Origen Selva,99,99,0,80,19,32.0,7.76
+2024-03-04,Lima Norte-Sur,Mezcla Casa,63,63,0,48,15,26.0,5.67
+2024-03-04,Provincias,Origen Selva,30,30,0,24,6,32.0,7.76
+2024-03-04,Provincias,Mezcla Casa,17,17,0,9,8,26.0,5.67
+2024-03-11,Lima Centro,Origen Selva,120,120,0,88,32,32.0,7.76
+2024-03-11,Lima Centro,Mezcla Casa,71,71,0,55,16,26.0,5.67
+2024-03-11,Lima Norte-Sur,Origen Selva,112,112,0,84,28,32.0,7.76
+2024-03-11,Lima Norte-Sur,Mezcla Casa,52,52,0,43,9,26.0,5.67
+2024-03-11,Provincias,Origen Selva,26,26,0,20,6,32.0,7.76
+2024-03-11,Provincias,Mezcla Casa,18,18,0,17,1,26.0,5.67
+2024-03-18,Lima Centro,Origen Selva,135,135,0,105,30,32.0,7.76
+2024-03-18,Lima Centro,Mezcla Casa,55,55,0,44,11,26.0,5.67
+2024-03-18,Lima Norte-Sur,Origen Selva,82,82,0,59,23,32.0,7.76
+2024-03-18,Lima Norte-Sur,Mezcla Casa,64,64,0,51,13,26.0,5.67
+2024-03-18,Provincias,Origen Selva,59,59,0,46,13,32.0,7.76
+2024-03-18,Provincias,Mezcla Casa,18,18,0,13,5,26.0,5.67
+2024-03-25,Lima Centro,Origen Selva,92,92,0,68,24,32.0,7.76
+2024-03-25,Lima Centro,Mezcla Casa,83,83,0,62,21,26.0,5.67
+2024-03-25,Lima Norte-Sur,Origen Selva,98,98,0,63,35,32.0,7.76
+2024-03-25,Lima Norte-Sur,Mezcla Casa,69,69,0,52,17,26.0,5.67
+2024-03-25,Provincias,Origen Selva,45,45,0,35,10,32.0,7.76
+2024-03-25,Provincias,Mezcla Casa,25,25,0,17,8,26.0,5.67
+2024-04-01,Lima Centro,Origen Selva,116,116,0,94,22,32.0,7.76
+2024-04-01,Lima Centro,Mezcla Casa,77,77,0,60,17,26.0,5.67
+2024-04-01,Lima Norte-Sur,Origen Selva,98,98,0,72,26,32.0,7.76
+2024-04-01,Lima Norte-Sur,Mezcla Casa,60,60,0,48,12,26.0,5.67
+2024-04-01,Provincias,Origen Selva,28,28,0,21,7,32.0,7.76
+2024-04-01,Provincias,Mezcla Casa,15,15,0,8,7,26.0,5.67
+2024-04-08,Lima Centro,Origen Selva,114,114,0,89,25,32.0,7.76
+2024-04-08,Lima Centro,Mezcla Casa,70,59,11,49,21,26.0,5.67
+2024-04-08,Lima Norte-Sur,Origen Selva,122,122,0,101,21,32.0,7.76
+2024-04-08,Lima Norte-Sur,Mezcla Casa,50,35,15,32,18,26.0,5.67
+2024-04-08,Provincias,Origen Selva,35,35,0,26,9,32.0,7.76
+2024-04-08,Provincias,Mezcla Casa,12,8,4,8,4,26.0,5.67
+2024-04-15,Lima Centro,Origen Selva,129,129,0,96,33,32.0,7.76
+2024-04-15,Lima Centro,Mezcla Casa,77,77,0,59,18,26.0,5.67
+2024-04-15,Lima Norte-Sur,Origen Selva,83,83,0,61,22,32.0,7.76
+2024-04-15,Lima Norte-Sur,Mezcla Casa,61,61,0,47,14,26.0,5.67
+2024-04-15,Provincias,Origen Selva,54,54,0,44,10,32.0,7.76
+2024-04-15,Provincias,Mezcla Casa,25,25,0,20,5,26.0,5.67
+2024-04-22,Lima Centro,Origen Selva,94,94,0,73,21,32.0,7.76
+2024-04-22,Lima Centro,Mezcla Casa,66,66,0,46,20,26.0,5.67
+2024-04-22,Lima Norte-Sur,Origen Selva,103,103,0,82,21,32.0,7.76
+2024-04-22,Lima Norte-Sur,Mezcla Casa,67,67,0,47,20,26.0,5.67
+2024-04-22,Provincias,Origen Selva,36,36,0,31,5,32.0,7.76
+2024-04-22,Provincias,Mezcla Casa,30,30,0,26,4,26.0,5.67
+2024-04-29,Lima Centro,Origen Selva,126,126,0,91,35,32.0,7.76
+2024-04-29,Lima Centro,Mezcla Casa,93,75,18,67,26,26.0,5.67
+2024-04-29,Lima Norte-Sur,Origen Selva,87,87,0,73,14,32.0,7.76
+2024-04-29,Lima Norte-Sur,Mezcla Casa,62,56,6,42,20,26.0,5.67
+2024-04-29,Provincias,Origen Selva,35,35,0,21,14,32.0,7.76
+2024-04-29,Provincias,Mezcla Casa,19,17,2,15,4,26.0,5.67
+2024-05-06,Lima Centro,Origen Selva,76,76,0,58,18,32.0,7.76
+2024-05-06,Lima Centro,Mezcla Casa,92,92,0,71,21,26.0,5.67
+2024-05-06,Lima Norte-Sur,Origen Selva,104,104,0,78,26,32.0,7.76
+2024-05-06,Lima Norte-Sur,Mezcla Casa,73,73,0,56,17,26.0,5.67
+2024-05-06,Provincias,Origen Selva,22,22,0,13,9,32.0,7.76
+2024-05-06,Provincias,Mezcla Casa,18,18,0,14,4,26.0,5.67
+2024-05-13,Lima Centro,Origen Selva,113,113,0,92,21,32.0,7.76
+2024-05-13,Lima Centro,Mezcla Casa,96,96,0,75,21,26.0,5.67
+2024-05-13,Lima Norte-Sur,Origen Selva,104,104,0,89,15,32.0,7.76
+2024-05-13,Lima Norte-Sur,Mezcla Casa,48,48,0,30,18,26.0,5.67
+2024-05-13,Provincias,Origen Selva,37,37,0,29,8,32.0,7.76
+2024-05-13,Provincias,Mezcla Casa,36,36,0,31,5,26.0,5.67
+2024-05-20,Lima Centro,Origen Selva,120,120,0,87,33,32.0,7.76
+2024-05-20,Lima Centro,Mezcla Casa,67,67,0,50,17,26.0,5.67
+2024-05-20,Lima Norte-Sur,Origen Selva,92,92,0,57,35,32.0,7.76
+2024-05-20,Lima Norte-Sur,Mezcla Casa,67,67,0,56,11,26.0,5.67
+2024-05-20,Provincias,Origen Selva,50,50,0,44,6,32.0,7.76
+2024-05-20,Provincias,Mezcla Casa,28,28,0,21,7,26.0,5.67
+2024-05-27,Lima Centro,Origen Selva,98,98,0,71,27,32.0,7.76
+2024-05-27,Lima Centro,Mezcla Casa,92,92,0,70,22,26.0,5.67
+2024-05-27,Lima Norte-Sur,Origen Selva,90,90,0,67,23,32.0,7.76
+2024-05-27,Lima Norte-Sur,Mezcla Casa,69,69,0,54,15,26.0,5.67
+2024-05-27,Provincias,Origen Selva,48,48,0,31,17,32.0,7.76
+2024-05-27,Provincias,Mezcla Casa,19,19,0,11,8,26.0,5.67
+2024-06-03,Lima Centro,Origen Selva,122,108,14,89,33,32.0,7.76
+2024-06-03,Lima Centro,Mezcla Casa,63,63,0,41,22,26.0,5.67
+2024-06-03,Lima Norte-Sur,Origen Selva,103,84,19,79,24,32.0,7.76
+2024-06-03,Lima Norte-Sur,Mezcla Casa,68,68,0,56,12,26.0,5.67
+2024-06-03,Provincias,Origen Selva,31,24,7,21,10,32.0,7.76
+2024-06-03,Provincias,Mezcla Casa,22,22,0,14,8,26.0,5.67
+2024-06-10,Lima Centro,Origen Selva,136,136,0,98,38,32.0,7.76
+2024-06-10,Lima Centro,Mezcla Casa,69,69,0,55,14,26.0,5.67
+2024-06-10,Lima Norte-Sur,Origen Selva,110,110,0,82,28,32.0,7.76
+2024-06-10,Lima Norte-Sur,Mezcla Casa,53,53,0,33,20,26.0,5.67
+2024-06-10,Provincias,Origen Selva,44,44,0,35,9,32.0,7.76
+2024-06-10,Provincias,Mezcla Casa,26,26,0,20,6,26.0,5.67
+2024-06-17,Lima Centro,Origen Selva,114,114,0,74,40,32.0,7.76
+2024-06-17,Lima Centro,Mezcla Casa,80,80,0,70,10,26.0,5.67
+2024-06-17,Lima Norte-Sur,Origen Selva,87,87,0,62,25,32.0,7.76
+2024-06-17,Lima Norte-Sur,Mezcla Casa,54,54,0,46,8,26.0,5.67
+2024-06-17,Provincias,Origen Selva,57,57,0,47,10,32.0,7.76
+2024-06-17,Provincias,Mezcla Casa,20,20,0,15,5,26.0,5.67
+2024-06-24,Lima Centro,Origen Selva,94,94,0,72,22,32.0,7.76
+2024-06-24,Lima Centro,Mezcla Casa,78,78,0,60,18,26.0,5.67
+2024-06-24,Lima Norte-Sur,Origen Selva,84,84,0,66,18,32.0,7.76
+2024-06-24,Lima Norte-Sur,Mezcla Casa,77,77,0,53,24,26.0,5.67
+2024-06-24,Provincias,Origen Selva,38,38,0,28,10,32.0,7.76
+2024-06-24,Provincias,Mezcla Casa,29,29,0,18,11,26.0,5.67
+2024-07-01,Lima Centro,Origen Selva,107,107,0,82,25,32.0,7.76
+2024-07-01,Lima Centro,Mezcla Casa,81,81,0,59,22,26.0,5.67
+2024-07-01,Lima Norte-Sur,Origen Selva,117,117,0,86,31,32.0,7.76
+2024-07-01,Lima Norte-Sur,Mezcla Casa,49,49,0,44,5,26.0,5.67
+2024-07-01,Provincias,Origen Selva,45,45,0,34,11,32.0,7.76
+2024-07-01,Provincias,Mezcla Casa,10,10,0,7,3,26.0,5.67
+2024-07-08,Lima Centro,Origen Selva,121,121,0,97,24,32.0,7.76
+2024-07-08,Lima Centro,Mezcla Casa,89,77,12,63,26,26.0,5.67
+2024-07-08,Lima Norte-Sur,Origen Selva,116,116,0,88,28,32.0,7.76
+2024-07-08,Lima Norte-Sur,Mezcla Casa,48,39,9,34,14,26.0,5.67
+2024-07-08,Provincias,Origen Selva,31,31,0,21,10,32.0,7.76
+2024-07-08,Provincias,Mezcla Casa,30,25,5,20,10,26.0,5.67
+2024-07-15,Lima Centro,Origen Selva,108,89,19,74,34,32.0,7.76
+2024-07-15,Lima Centro,Mezcla Casa,89,76,13,69,20,26.0,5.67
+2024-07-15,Lima Norte-Sur,Origen Selva,88,73,15,68,20,32.0,7.76
+2024-07-15,Lima Norte-Sur,Mezcla Casa,59,51,8,43,16,26.0,5.67
+2024-07-15,Provincias,Origen Selva,59,51,8,47,12,32.0,7.76
+2024-07-15,Provincias,Mezcla Casa,17,16,1,14,3,26.0,5.67
+2024-07-22,Lima Centro,Origen Selva,123,123,0,94,29,32.0,7.76
+2024-07-22,Lima Centro,Mezcla Casa,68,68,0,54,14,26.0,5.67
+2024-07-22,Lima Norte-Sur,Origen Selva,91,91,0,69,22,32.0,7.76
+2024-07-22,Lima Norte-Sur,Mezcla Casa,50,50,0,40,10,26.0,5.67
+2024-07-22,Provincias,Origen Selva,39,39,0,35,4,32.0,7.76
+2024-07-22,Provincias,Mezcla Casa,21,21,0,20,1,26.0,5.67
+2024-07-29,Lima Centro,Origen Selva,115,115,0,87,28,32.0,7.76
+2024-07-29,Lima Centro,Mezcla Casa,78,70,8,57,21,26.0,5.67
+2024-07-29,Lima Norte-Sur,Origen Selva,95,95,0,71,24,32.0,7.76
+2024-07-29,Lima Norte-Sur,Mezcla Casa,58,53,5,47,11,26.0,5.67
+2024-07-29,Provincias,Origen Selva,27,27,0,24,3,32.0,7.76
+2024-07-29,Provincias,Mezcla Casa,18,14,4,11,7,26.0,5.67
+2024-08-05,Lima Centro,Origen Selva,106,106,0,87,19,32.0,7.76
+2024-08-05,Lima Centro,Mezcla Casa,76,76,0,57,19,26.0,5.67
+2024-08-05,Lima Norte-Sur,Origen Selva,89,89,0,70,19,32.0,7.76
+2024-08-05,Lima Norte-Sur,Mezcla Casa,74,74,0,51,23,26.0,5.67
+2024-08-05,Provincias,Origen Selva,22,22,0,18,4,32.0,7.76
+2024-08-05,Provincias,Mezcla Casa,23,23,0,22,1,26.0,5.67
+2024-08-12,Lima Centro,Origen Selva,145,145,0,106,39,32.0,7.76
+2024-08-12,Lima Centro,Mezcla Casa,81,81,0,59,22,26.0,5.67
+2024-08-12,Lima Norte-Sur,Origen Selva,112,112,0,82,30,32.0,7.76
+2024-08-12,Lima Norte-Sur,Mezcla Casa,38,38,0,26,12,26.0,5.67
+2024-08-12,Provincias,Origen Selva,26,26,0,18,8,32.0,7.76
+2024-08-12,Provincias,Mezcla Casa,36,36,0,31,5,26.0,5.67
+2024-08-19,Lima Centro,Origen Selva,122,122,0,88,34,32.0,7.76
+2024-08-19,Lima Centro,Mezcla Casa,38,38,0,26,12,26.0,5.67
+2024-08-19,Lima Norte-Sur,Origen Selva,77,77,0,61,16,32.0,7.76
+2024-08-19,Lima Norte-Sur,Mezcla Casa,71,71,0,50,21,26.0,5.67
+2024-08-19,Provincias,Origen Selva,36,36,0,32,4,32.0,7.76
+2024-08-19,Provincias,Mezcla Casa,26,26,0,18,8,26.0,5.67
+2024-08-26,Lima Centro,Origen Selva,113,113,0,87,26,32.0,7.76
+2024-08-26,Lima Centro,Mezcla Casa,95,95,0,75,20,26.0,5.67
+2024-08-26,Lima Norte-Sur,Origen Selva,68,68,0,48,20,32.0,7.76
+2024-08-26,Lima Norte-Sur,Mezcla Casa,104,104,0,74,30,26.0,5.67
+2024-08-26,Provincias,Origen Selva,28,28,0,20,8,32.0,7.76
+2024-08-26,Provincias,Mezcla Casa,23,23,0,17,6,26.0,5.67
+2024-09-02,Lima Centro,Origen Selva,107,107,0,85,22,32.0,7.76
+2024-09-02,Lima Centro,Mezcla Casa,67,67,0,49,18,26.0,5.67
+2024-09-02,Lima Norte-Sur,Origen Selva,106,106,0,79,27,32.0,7.76
+2024-09-02,Lima Norte-Sur,Mezcla Casa,66,66,0,51,15,26.0,5.67
+2024-09-02,Provincias,Origen Selva,23,23,0,19,4,32.0,7.76
+2024-09-02,Provincias,Mezcla Casa,16,16,0,12,4,26.0,5.67
+2024-09-09,Lima Centro,Origen Selva,139,139,0,110,29,32.0,7.76
+2024-09-09,Lima Centro,Mezcla Casa,85,85,0,74,11,26.0,5.67
+2024-09-09,Lima Norte-Sur,Origen Selva,113,113,0,90,23,32.0,7.76
+2024-09-09,Lima Norte-Sur,Mezcla Casa,57,57,0,44,13,26.0,5.67
+2024-09-09,Provincias,Origen Selva,42,42,0,37,5,32.0,7.76
+2024-09-09,Provincias,Mezcla Casa,15,15,0,12,3,26.0,5.67
+2024-09-16,Lima Centro,Origen Selva,98,98,0,82,16,32.0,7.76
+2024-09-16,Lima Centro,Mezcla Casa,78,78,0,64,14,26.0,5.67
+2024-09-16,Lima Norte-Sur,Origen Selva,94,94,0,65,29,32.0,7.76
+2024-09-16,Lima Norte-Sur,Mezcla Casa,64,64,0,45,19,26.0,5.67
+2024-09-16,Provincias,Origen Selva,45,45,0,33,12,32.0,7.76
+2024-09-16,Provincias,Mezcla Casa,28,28,0,22,6,26.0,5.67
+2024-09-23,Lima Centro,Origen Selva,114,114,0,91,23,32.0,7.76
+2024-09-23,Lima Centro,Mezcla Casa,59,59,0,47,12,26.0,5.67
+2024-09-23,Lima Norte-Sur,Origen Selva,109,109,0,89,20,32.0,7.76
+2024-09-23,Lima Norte-Sur,Mezcla Casa,58,58,0,50,8,26.0,5.67
+2024-09-23,Provincias,Origen Selva,29,29,0,17,12,32.0,7.76
+2024-09-23,Provincias,Mezcla Casa,28,28,0,23,5,26.0,5.67
+2024-09-30,Lima Centro,Origen Selva,110,110,0,72,38,32.0,7.76
+2024-09-30,Lima Centro,Mezcla Casa,84,84,0,66,18,26.0,5.67
+2024-09-30,Lima Norte-Sur,Origen Selva,99,99,0,78,21,32.0,7.76
+2024-09-30,Lima Norte-Sur,Mezcla Casa,58,58,0,42,16,26.0,5.67
+2024-09-30,Provincias,Origen Selva,27,27,0,21,6,32.0,7.76
+2024-09-30,Provincias,Mezcla Casa,18,18,0,14,4,26.0,5.67
+2024-10-07,Lima Centro,Origen Selva,120,120,0,87,33,32.0,7.76
+2024-10-07,Lima Centro,Mezcla Casa,116,116,0,102,14,26.0,5.67
+2024-10-07,Lima Norte-Sur,Origen Selva,98,98,0,74,24,32.0,7.76
+2024-10-07,Lima Norte-Sur,Mezcla Casa,68,68,0,54,14,26.0,5.67
+2024-10-07,Provincias,Origen Selva,45,45,0,34,11,32.0,7.76
+2024-10-07,Provincias,Mezcla Casa,19,19,0,15,4,26.0,5.67
+2024-10-14,Lima Centro,Origen Selva,144,144,0,110,34,32.0,7.76
+2024-10-14,Lima Centro,Mezcla Casa,71,71,0,63,8,26.0,5.67
+2024-10-14,Lima Norte-Sur,Origen Selva,102,102,0,67,35,32.0,7.76
+2024-10-14,Lima Norte-Sur,Mezcla Casa,59,59,0,49,10,26.0,5.67
+2024-10-14,Provincias,Origen Selva,44,44,0,35,9,32.0,7.76
+2024-10-14,Provincias,Mezcla Casa,25,25,0,21,4,26.0,5.67
+2024-10-21,Lima Centro,Origen Selva,115,115,0,79,36,32.0,7.76
+2024-10-21,Lima Centro,Mezcla Casa,75,75,0,53,22,26.0,5.67
+2024-10-21,Lima Norte-Sur,Origen Selva,110,110,0,89,21,32.0,7.76
+2024-10-21,Lima Norte-Sur,Mezcla Casa,72,72,0,56,16,26.0,5.67
+2024-10-21,Provincias,Origen Selva,36,36,0,33,3,32.0,7.76
+2024-10-21,Provincias,Mezcla Casa,28,28,0,22,6,26.0,5.67
+2024-10-28,Lima Centro,Origen Selva,136,136,0,99,37,32.0,7.76
+2024-10-28,Lima Centro,Mezcla Casa,75,75,0,56,19,26.0,5.67
+2024-10-28,Lima Norte-Sur,Origen Selva,103,103,0,82,21,32.0,7.76
+2024-10-28,Lima Norte-Sur,Mezcla Casa,70,70,0,51,19,26.0,5.67
+2024-10-28,Provincias,Origen Selva,25,25,0,20,5,32.0,7.76
+2024-10-28,Provincias,Mezcla Casa,16,16,0,10,6,26.0,5.67
+2024-11-04,Lima Centro,Origen Selva,111,111,0,90,21,32.0,7.76
+2024-11-04,Lima Centro,Mezcla Casa,109,109,0,85,24,26.0,5.67
+2024-11-04,Lima Norte-Sur,Origen Selva,98,98,0,74,24,32.0,7.76
+2024-11-04,Lima Norte-Sur,Mezcla Casa,62,62,0,45,17,26.0,5.67
+2024-11-04,Provincias,Origen Selva,30,30,0,18,12,32.0,7.76
+2024-11-04,Provincias,Mezcla Casa,27,27,0,23,4,26.0,5.67
+2024-11-11,Lima Centro,Origen Selva,135,135,0,100,35,32.0,7.76
+2024-11-11,Lima Centro,Mezcla Casa,110,110,0,90,20,26.0,5.67
+2024-11-11,Lima Norte-Sur,Origen Selva,106,106,0,81,25,32.0,7.76
+2024-11-11,Lima Norte-Sur,Mezcla Casa,59,59,0,45,14,26.0,5.67
+2024-11-11,Provincias,Origen Selva,30,30,0,22,8,32.0,7.76
+2024-11-11,Provincias,Mezcla Casa,32,32,0,22,10,26.0,5.67
+2024-11-18,Lima Centro,Origen Selva,102,102,0,66,36,32.0,7.76
+2024-11-18,Lima Centro,Mezcla Casa,76,76,0,54,22,26.0,5.67
+2024-11-18,Lima Norte-Sur,Origen Selva,121,121,0,90,31,32.0,7.76
+2024-11-18,Lima Norte-Sur,Mezcla Casa,76,76,0,53,23,26.0,5.67
+2024-11-18,Provincias,Origen Selva,33,33,0,23,10,32.0,7.76
+2024-11-18,Provincias,Mezcla Casa,29,29,0,24,5,26.0,5.67
+2024-11-25,Lima Centro,Origen Selva,164,164,0,125,39,32.0,7.76
+2024-11-25,Lima Centro,Mezcla Casa,86,86,0,66,20,26.0,5.67
+2024-11-25,Lima Norte-Sur,Origen Selva,109,109,0,90,19,32.0,7.76
+2024-11-25,Lima Norte-Sur,Mezcla Casa,58,58,0,45,13,26.0,5.67
+2024-11-25,Provincias,Origen Selva,42,42,0,29,13,32.0,7.76
+2024-11-25,Provincias,Mezcla Casa,24,24,0,17,7,26.0,5.67
+2024-12-02,Lima Centro,Origen Selva,109,109,0,80,29,32.0,7.76
+2024-12-02,Lima Centro,Mezcla Casa,107,107,0,86,21,26.0,5.67
+2024-12-02,Lima Norte-Sur,Origen Selva,101,101,0,78,23,32.0,7.76
+2024-12-02,Lima Norte-Sur,Mezcla Casa,67,67,0,52,15,26.0,5.67
+2024-12-02,Provincias,Origen Selva,27,27,0,23,4,32.0,7.76
+2024-12-02,Provincias,Mezcla Casa,20,20,0,16,4,26.0,5.67
+2024-12-09,Lima Centro,Origen Selva,153,153,0,120,33,32.0,7.76
+2024-12-09,Lima Centro,Mezcla Casa,82,82,0,60,22,26.0,5.67
+2024-12-09,Lima Norte-Sur,Origen Selva,123,123,0,94,29,32.0,7.76
+2024-12-09,Lima Norte-Sur,Mezcla Casa,50,50,0,33,17,26.0,5.67
+2024-12-09,Provincias,Origen Selva,23,23,0,12,11,32.0,7.76
+2024-12-09,Provincias,Mezcla Casa,41,41,0,31,10,26.0,5.67
+2024-12-16,Lima Centro,Origen Selva,120,120,0,86,34,32.0,7.76
+2024-12-16,Lima Centro,Mezcla Casa,78,78,0,50,28,26.0,5.67
+2024-12-16,Lima Norte-Sur,Origen Selva,104,104,0,75,29,32.0,7.76
+2024-12-16,Lima Norte-Sur,Mezcla Casa,71,71,0,51,20,26.0,5.67
+2024-12-16,Provincias,Origen Selva,34,34,0,28,6,32.0,7.76
+2024-12-16,Provincias,Mezcla Casa,31,31,0,25,6,26.0,5.67
+2024-12-23,Lima Centro,Origen Selva,133,133,0,104,29,32.0,7.76
+2024-12-23,Lima Centro,Mezcla Casa,92,92,0,71,21,26.0,5.67
+2024-12-23,Lima Norte-Sur,Origen Selva,117,117,0,98,19,32.0,7.76
+2024-12-23,Lima Norte-Sur,Mezcla Casa,76,76,0,57,19,26.0,5.67
+2024-12-23,Provincias,Origen Selva,36,36,0,29,7,32.0,7.76
+2024-12-23,Provincias,Mezcla Casa,30,30,0,23,7,26.0,5.67
+2024-12-30,Lima Centro,Origen Selva,124,124,0,97,27,32.0,7.76
+2024-12-30,Lima Centro,Mezcla Casa,82,82,0,52,30,26.0,5.67
+2024-12-30,Lima Norte-Sur,Origen Selva,114,114,0,84,30,32.0,7.76
+2024-12-30,Lima Norte-Sur,Mezcla Casa,68,68,0,52,16,26.0,5.67
+2024-12-30,Provincias,Origen Selva,38,38,0,24,14,32.0,7.76
+2024-12-30,Provincias,Mezcla Casa,25,25,0,20,5,26.0,5.67
+2025-01-06,Lima Centro,Origen Selva,159,159,0,127,32,32.0,7.76
+2025-01-06,Lima Centro,Mezcla Casa,81,81,0,69,12,26.0,5.67
+2025-01-06,Lima Norte-Sur,Origen Selva,114,114,0,86,28,32.0,7.76
+2025-01-06,Lima Norte-Sur,Mezcla Casa,55,55,0,39,16,26.0,5.67
+2025-01-06,Provincias,Origen Selva,32,32,0,21,11,32.0,7.76
+2025-01-06,Provincias,Mezcla Casa,25,25,0,21,4,26.0,5.67
+2025-01-13,Lima Centro,Origen Selva,109,109,0,87,22,32.0,7.76
+2025-01-13,Lima Centro,Mezcla Casa,109,109,0,82,27,26.0,5.67
+2025-01-13,Lima Norte-Sur,Origen Selva,107,107,0,78,29,32.0,7.76
+2025-01-13,Lima Norte-Sur,Mezcla Casa,75,75,0,57,18,26.0,5.67
+2025-01-13,Provincias,Origen Selva,26,26,0,19,7,32.0,7.76
+2025-01-13,Provincias,Mezcla Casa,21,21,0,14,7,26.0,5.67
+2025-01-20,Lima Centro,Origen Selva,129,129,0,84,45,32.0,7.76
+2025-01-20,Lima Centro,Mezcla Casa,105,105,0,81,24,26.0,5.67
+2025-01-20,Lima Norte-Sur,Origen Selva,116,116,0,90,26,32.0,7.76
+2025-01-20,Lima Norte-Sur,Mezcla Casa,88,88,0,69,19,26.0,5.67
+2025-01-20,Provincias,Origen Selva,37,37,0,32,5,32.0,7.76
+2025-01-20,Provincias,Mezcla Casa,19,19,0,15,4,26.0,5.67
+2025-01-27,Lima Centro,Origen Selva,128,128,0,103,25,32.0,7.76
+2025-01-27,Lima Centro,Mezcla Casa,81,81,0,57,24,26.0,5.67
+2025-01-27,Lima Norte-Sur,Origen Selva,99,99,0,67,32,32.0,7.76
+2025-01-27,Lima Norte-Sur,Mezcla Casa,80,80,0,56,24,26.0,5.67
+2025-01-27,Provincias,Origen Selva,31,31,0,28,3,32.0,7.76
+2025-01-27,Provincias,Mezcla Casa,21,21,0,15,6,26.0,5.67
+2025-02-03,Lima Centro,Origen Selva,149,149,0,120,29,32.0,7.76
+2025-02-03,Lima Centro,Mezcla Casa,102,102,0,81,21,26.0,5.67
+2025-02-03,Lima Norte-Sur,Origen Selva,123,123,0,92,31,32.0,7.76
+2025-02-03,Lima Norte-Sur,Mezcla Casa,71,71,0,41,30,26.0,5.67
+2025-02-03,Provincias,Origen Selva,35,35,0,27,8,32.0,7.76
+2025-02-03,Provincias,Mezcla Casa,26,26,0,20,6,26.0,5.67
+2025-02-10,Lima Centro,Origen Selva,139,139,0,97,42,32.0,7.76
+2025-02-10,Lima Centro,Mezcla Casa,78,78,0,61,17,26.0,5.67
+2025-02-10,Lima Norte-Sur,Origen Selva,109,109,0,74,35,32.0,7.76
+2025-02-10,Lima Norte-Sur,Mezcla Casa,64,64,0,50,14,26.0,5.67
+2025-02-10,Provincias,Origen Selva,19,19,0,13,6,32.0,7.76
+2025-02-10,Provincias,Mezcla Casa,28,28,0,17,11,26.0,5.67
+2025-02-17,Lima Centro,Origen Selva,124,124,0,93,31,32.0,7.76
+2025-02-17,Lima Centro,Mezcla Casa,90,90,0,68,22,26.0,5.67
+2025-02-17,Lima Norte-Sur,Origen Selva,120,120,0,83,37,32.0,7.76
+2025-02-17,Lima Norte-Sur,Mezcla Casa,84,84,0,66,18,26.0,5.67
+2025-02-17,Provincias,Origen Selva,42,42,0,30,12,32.0,7.76
+2025-02-17,Provincias,Mezcla Casa,32,32,0,20,12,26.0,5.67
+2025-02-24,Lima Centro,Origen Selva,129,129,0,104,25,32.0,7.76
+2025-02-24,Lima Centro,Mezcla Casa,87,87,0,60,27,26.0,5.67
+2025-02-24,Lima Norte-Sur,Origen Selva,125,125,0,93,32,32.0,7.76
+2025-02-24,Lima Norte-Sur,Mezcla Casa,74,74,0,54,20,26.0,5.67
+2025-02-24,Provincias,Origen Selva,43,43,0,31,12,32.0,7.76
+2025-02-24,Provincias,Mezcla Casa,14,14,0,11,3,26.0,5.67
+2025-03-03,Lima Centro,Origen Selva,142,142,0,117,25,32.0,7.76
+2025-03-03,Lima Centro,Mezcla Casa,102,102,0,76,26,26.0,5.67
+2025-03-03,Lima Norte-Sur,Origen Selva,106,106,0,86,20,32.0,7.76
+2025-03-03,Lima Norte-Sur,Mezcla Casa,71,71,0,56,15,26.0,5.67
+2025-03-03,Provincias,Origen Selva,39,39,0,31,8,32.0,7.76
+2025-03-03,Provincias,Mezcla Casa,30,30,0,24,6,26.0,5.67
+2025-03-10,Lima Centro,Origen Selva,131,119,12,111,20,32.0,7.76
+2025-03-10,Lima Centro,Mezcla Casa,91,91,0,77,14,26.0,5.67
+2025-03-10,Lima Norte-Sur,Origen Selva,89,83,6,75,14,32.0,7.76
+2025-03-10,Lima Norte-Sur,Mezcla Casa,66,66,0,49,17,26.0,5.67
+2025-03-10,Provincias,Origen Selva,32,25,7,22,10,32.0,7.76
+2025-03-10,Provincias,Mezcla Casa,23,23,0,20,3,26.0,5.67
+2025-03-17,Lima Centro,Origen Selva,104,104,0,74,30,32.0,7.76
+2025-03-17,Lima Centro,Mezcla Casa,76,76,0,55,21,26.0,5.67
+2025-03-17,Lima Norte-Sur,Origen Selva,113,113,0,89,24,32.0,7.76
+2025-03-17,Lima Norte-Sur,Mezcla Casa,74,74,0,60,14,26.0,5.67
+2025-03-17,Provincias,Origen Selva,36,36,0,25,11,32.0,7.76
+2025-03-17,Provincias,Mezcla Casa,27,27,0,21,6,26.0,5.67
+2025-03-24,Lima Centro,Origen Selva,164,164,0,128,36,32.0,7.76
+2025-03-24,Lima Centro,Mezcla Casa,76,76,0,60,16,26.0,5.67
+2025-03-24,Lima Norte-Sur,Origen Selva,119,119,0,90,29,32.0,7.76
+2025-03-24,Lima Norte-Sur,Mezcla Casa,78,78,0,66,12,26.0,5.67
+2025-03-24,Provincias,Origen Selva,47,47,0,36,11,32.0,7.76
+2025-03-24,Provincias,Mezcla Casa,33,33,0,25,8,26.0,5.67
+2025-03-31,Lima Centro,Origen Selva,146,146,0,106,40,32.0,7.76
+2025-03-31,Lima Centro,Mezcla Casa,76,76,0,57,19,26.0,5.67
+2025-03-31,Lima Norte-Sur,Origen Selva,112,112,0,78,34,32.0,7.76
+2025-03-31,Lima Norte-Sur,Mezcla Casa,76,76,0,66,10,26.0,5.67
+2025-03-31,Provincias,Origen Selva,26,26,0,18,8,32.0,7.76
+2025-03-31,Provincias,Mezcla Casa,36,36,0,31,5,26.0,5.67
+2025-04-07,Lima Centro,Origen Selva,141,141,0,110,31,32.0,7.76
+2025-04-07,Lima Centro,Mezcla Casa,96,96,0,74,22,26.0,5.67
+2025-04-07,Lima Norte-Sur,Origen Selva,132,132,0,101,31,32.0,7.76
+2025-04-07,Lima Norte-Sur,Mezcla Casa,75,75,0,53,22,26.0,5.67
+2025-04-07,Provincias,Origen Selva,29,29,0,21,8,32.0,7.76
+2025-04-07,Provincias,Mezcla Casa,25,25,0,21,4,26.0,5.67
+2025-04-14,Lima Centro,Origen Selva,152,152,0,118,34,32.0,7.76
+2025-04-14,Lima Centro,Mezcla Casa,71,71,0,53,18,26.0,5.67
+2025-04-14,Lima Norte-Sur,Origen Selva,108,108,0,74,34,32.0,7.76
+2025-04-14,Lima Norte-Sur,Mezcla Casa,75,75,0,53,22,26.0,5.67
+2025-04-14,Provincias,Origen Selva,35,35,0,29,6,32.0,7.76
+2025-04-14,Provincias,Mezcla Casa,36,36,0,25,11,26.0,5.67
+2025-04-21,Lima Centro,Origen Selva,135,119,16,106,29,32.0,7.76
+2025-04-21,Lima Centro,Mezcla Casa,84,84,0,63,21,26.0,5.67
+2025-04-21,Lima Norte-Sur,Origen Selva,131,115,16,104,27,32.0,7.76
+2025-04-21,Lima Norte-Sur,Mezcla Casa,76,76,0,62,14,26.0,5.67
+2025-04-21,Provincias,Origen Selva,44,37,7,36,8,32.0,7.76
+2025-04-21,Provincias,Mezcla Casa,21,21,0,19,2,26.0,5.67
+2025-04-28,Lima Centro,Origen Selva,133,133,0,105,28,32.0,7.76
+2025-04-28,Lima Centro,Mezcla Casa,93,93,0,64,29,26.0,5.67
+2025-04-28,Lima Norte-Sur,Origen Selva,121,121,0,77,44,32.0,7.76
+2025-04-28,Lima Norte-Sur,Mezcla Casa,94,94,0,68,26,26.0,5.67
+2025-04-28,Provincias,Origen Selva,34,34,0,31,3,32.0,7.76
+2025-04-28,Provincias,Mezcla Casa,28,28,0,18,10,26.0,5.67
+2025-05-05,Lima Centro,Origen Selva,166,166,0,138,28,32.0,7.76
+2025-05-05,Lima Centro,Mezcla Casa,82,82,0,64,18,26.0,5.67
+2025-05-05,Lima Norte-Sur,Origen Selva,127,127,0,95,32,32.0,7.76
+2025-05-05,Lima Norte-Sur,Mezcla Casa,73,73,0,54,19,26.0,5.67
+2025-05-05,Provincias,Origen Selva,28,28,0,25,3,32.0,7.76
+2025-05-05,Provincias,Mezcla Casa,41,41,0,25,16,26.0,5.67
+2025-05-12,Lima Centro,Origen Selva,138,138,0,93,45,32.0,7.76
+2025-05-12,Lima Centro,Mezcla Casa,104,104,0,81,23,26.0,5.67
+2025-05-12,Lima Norte-Sur,Origen Selva,115,115,0,80,35,32.0,7.76
+2025-05-12,Lima Norte-Sur,Mezcla Casa,69,69,0,55,14,26.0,5.67
+2025-05-12,Provincias,Origen Selva,40,40,0,33,7,32.0,7.76
+2025-05-12,Provincias,Mezcla Casa,33,33,0,28,5,26.0,5.67
+2025-05-19,Lima Centro,Origen Selva,121,121,0,92,29,32.0,7.76
+2025-05-19,Lima Centro,Mezcla Casa,108,108,0,74,34,26.0,5.67
+2025-05-19,Lima Norte-Sur,Origen Selva,142,142,0,111,31,32.0,7.76
+2025-05-19,Lima Norte-Sur,Mezcla Casa,88,88,0,65,23,26.0,5.67
+2025-05-19,Provincias,Origen Selva,47,47,0,42,5,32.0,7.76
+2025-05-19,Provincias,Mezcla Casa,29,29,0,22,7,26.0,5.67
+2025-05-26,Lima Centro,Origen Selva,128,128,0,104,24,32.0,7.76
+2025-05-26,Lima Centro,Mezcla Casa,98,98,0,77,21,26.0,5.67
+2025-05-26,Lima Norte-Sur,Origen Selva,108,108,0,80,28,32.0,7.76
+2025-05-26,Lima Norte-Sur,Mezcla Casa,75,75,0,61,14,26.0,5.67
+2025-05-26,Provincias,Origen Selva,45,45,0,27,18,32.0,7.76
+2025-05-26,Provincias,Mezcla Casa,34,34,0,27,7,26.0,5.67
+2025-06-02,Lima Centro,Origen Selva,166,147,19,133,33,32.0,7.76
+2025-06-02,Lima Centro,Mezcla Casa,91,91,0,70,21,26.0,5.67
+2025-06-02,Lima Norte-Sur,Origen Selva,116,107,9,88,28,32.0,7.76
+2025-06-02,Lima Norte-Sur,Mezcla Casa,69,69,0,60,9,26.0,5.67
+2025-06-02,Provincias,Origen Selva,36,36,0,33,3,32.0,7.76
+2025-06-02,Provincias,Mezcla Casa,22,22,0,13,9,26.0,5.67
+2025-06-09,Lima Centro,Origen Selva,155,155,0,125,30,32.0,7.76
+2025-06-09,Lima Centro,Mezcla Casa,94,94,0,73,21,26.0,5.67
+2025-06-09,Lima Norte-Sur,Origen Selva,130,130,0,106,24,32.0,7.76
+2025-06-09,Lima Norte-Sur,Mezcla Casa,78,78,0,51,27,26.0,5.67
+2025-06-09,Provincias,Origen Selva,66,66,0,49,17,32.0,7.76
+2025-06-09,Provincias,Mezcla Casa,20,20,0,19,1,26.0,5.67
+2025-06-16,Lima Centro,Origen Selva,121,121,0,82,39,32.0,7.76
+2025-06-16,Lima Centro,Mezcla Casa,71,71,0,54,17,26.0,5.67
+2025-06-16,Lima Norte-Sur,Origen Selva,116,116,0,83,33,32.0,7.76
+2025-06-16,Lima Norte-Sur,Mezcla Casa,98,98,0,75,23,26.0,5.67
+2025-06-16,Provincias,Origen Selva,39,39,0,31,8,32.0,7.76
+2025-06-16,Provincias,Mezcla Casa,21,21,0,15,6,26.0,5.67
+2025-06-23,Lima Centro,Origen Selva,181,181,0,129,52,32.0,7.76
+2025-06-23,Lima Centro,Mezcla Casa,101,101,0,82,19,26.0,5.67
+2025-06-23,Lima Norte-Sur,Origen Selva,116,116,0,91,25,32.0,7.76
+2025-06-23,Lima Norte-Sur,Mezcla Casa,74,74,0,59,15,26.0,5.67
+2025-06-23,Provincias,Origen Selva,44,44,0,34,10,32.0,7.76
+2025-06-23,Provincias,Mezcla Casa,39,39,0,30,9,26.0,5.67
+2025-06-30,Lima Centro,Origen Selva,161,161,0,120,41,32.0,7.76
+2025-06-30,Lima Centro,Mezcla Casa,119,119,0,82,37,26.0,5.67
+2025-06-30,Lima Norte-Sur,Origen Selva,104,104,0,71,33,32.0,7.76
+2025-06-30,Lima Norte-Sur,Mezcla Casa,87,87,0,66,21,26.0,5.67
+2025-06-30,Provincias,Origen Selva,36,36,0,28,8,32.0,7.76
+2025-06-30,Provincias,Mezcla Casa,28,28,0,17,11,26.0,5.67
+2025-07-07,Lima Centro,Origen Selva,161,161,0,126,35,32.0,7.76
+2025-07-07,Lima Centro,Mezcla Casa,104,104,0,90,14,26.0,5.67
+2025-07-07,Lima Norte-Sur,Origen Selva,112,112,0,87,25,32.0,7.76
+2025-07-07,Lima Norte-Sur,Mezcla Casa,80,80,0,65,15,26.0,5.67
+2025-07-07,Provincias,Origen Selva,50,50,0,34,16,32.0,7.76
+2025-07-07,Provincias,Mezcla Casa,28,28,0,23,5,26.0,5.67
+2025-07-14,Lima Centro,Origen Selva,139,139,0,102,37,32.0,7.76
+2025-07-14,Lima Centro,Mezcla Casa,99,99,0,72,27,26.0,5.67
+2025-07-14,Lima Norte-Sur,Origen Selva,103,103,0,76,27,32.0,7.76
+2025-07-14,Lima Norte-Sur,Mezcla Casa,82,82,0,60,22,26.0,5.67
+2025-07-14,Provincias,Origen Selva,42,42,0,33,9,32.0,7.76
+2025-07-14,Provincias,Mezcla Casa,37,37,0,27,10,26.0,5.67
+2025-07-21,Lima Centro,Origen Selva,175,175,0,134,41,32.0,7.76
+2025-07-21,Lima Centro,Mezcla Casa,94,94,0,62,32,26.0,5.67
+2025-07-21,Lima Norte-Sur,Origen Selva,134,134,0,108,26,32.0,7.76
+2025-07-21,Lima Norte-Sur,Mezcla Casa,78,78,0,57,21,26.0,5.67
+2025-07-21,Provincias,Origen Selva,50,50,0,43,7,32.0,7.76
+2025-07-21,Provincias,Mezcla Casa,38,38,0,27,11,26.0,5.67
+2025-07-28,Lima Centro,Origen Selva,135,135,0,112,23,32.0,7.76
+2025-07-28,Lima Centro,Mezcla Casa,89,89,0,68,21,26.0,5.67
+2025-07-28,Lima Norte-Sur,Origen Selva,136,136,0,95,41,32.0,7.76
+2025-07-28,Lima Norte-Sur,Mezcla Casa,75,75,0,60,15,26.0,5.67
+2025-07-28,Provincias,Origen Selva,31,31,0,25,6,32.0,7.76
+2025-07-28,Provincias,Mezcla Casa,27,27,0,18,9,26.0,5.67
+2025-08-04,Lima Centro,Origen Selva,169,169,0,128,41,32.0,7.76
+2025-08-04,Lima Centro,Mezcla Casa,105,105,0,79,26,26.0,5.67
+2025-08-04,Lima Norte-Sur,Origen Selva,139,139,0,109,30,32.0,7.76
+2025-08-04,Lima Norte-Sur,Mezcla Casa,61,61,0,33,28,26.0,5.67
+2025-08-04,Provincias,Origen Selva,27,27,0,22,5,32.0,7.76
+2025-08-04,Provincias,Mezcla Casa,41,41,0,31,10,26.0,5.67
+2025-08-11,Lima Centro,Origen Selva,161,161,0,113,48,32.0,7.76
+2025-08-11,Lima Centro,Mezcla Casa,107,107,0,76,31,26.0,5.67
+2025-08-11,Lima Norte-Sur,Origen Selva,118,118,0,88,30,32.0,7.76
+2025-08-11,Lima Norte-Sur,Mezcla Casa,77,77,0,53,24,26.0,5.67
+2025-08-11,Provincias,Origen Selva,44,44,0,29,15,32.0,7.76
+2025-08-11,Provincias,Mezcla Casa,35,35,0,31,4,26.0,5.67
+2025-08-18,Lima Centro,Origen Selva,139,139,0,102,37,32.0,7.76
+2025-08-18,Lima Centro,Mezcla Casa,87,87,0,65,22,26.0,5.67
+2025-08-18,Lima Norte-Sur,Origen Selva,149,149,0,114,35,32.0,7.76
+2025-08-18,Lima Norte-Sur,Mezcla Casa,99,99,0,76,23,26.0,5.67
+2025-08-18,Provincias,Origen Selva,63,63,0,44,19,32.0,7.76
+2025-08-18,Provincias,Mezcla Casa,30,30,0,19,11,26.0,5.67
+2025-08-25,Lima Centro,Origen Selva,173,173,0,118,55,32.0,7.76
+2025-08-25,Lima Centro,Mezcla Casa,111,111,0,79,32,26.0,5.67
+2025-08-25,Lima Norte-Sur,Origen Selva,110,110,0,77,33,32.0,7.76
+2025-08-25,Lima Norte-Sur,Mezcla Casa,95,95,0,75,20,26.0,5.67
+2025-08-25,Provincias,Origen Selva,36,36,0,25,11,32.0,7.76
+2025-08-25,Provincias,Mezcla Casa,25,25,0,12,13,26.0,5.67
+2025-09-01,Lima Centro,Origen Selva,164,164,0,138,26,32.0,7.76
+2025-09-01,Lima Centro,Mezcla Casa,106,106,0,79,27,26.0,5.67
+2025-09-01,Lima Norte-Sur,Origen Selva,118,118,0,89,29,32.0,7.76
+2025-09-01,Lima Norte-Sur,Mezcla Casa,79,79,0,64,15,26.0,5.67
+2025-09-01,Provincias,Origen Selva,47,47,0,34,13,32.0,7.76
+2025-09-01,Provincias,Mezcla Casa,29,29,0,22,7,26.0,5.67
+2025-09-08,Lima Centro,Origen Selva,152,152,0,117,35,32.0,7.76
+2025-09-08,Lima Centro,Mezcla Casa,78,78,0,61,17,26.0,5.67
+2025-09-08,Lima Norte-Sur,Origen Selva,124,124,0,95,29,32.0,7.76
+2025-09-08,Lima Norte-Sur,Mezcla Casa,77,77,0,55,22,26.0,5.67
+2025-09-08,Provincias,Origen Selva,38,38,0,30,8,32.0,7.76
+2025-09-08,Provincias,Mezcla Casa,37,37,0,26,11,26.0,5.67
+2025-09-15,Lima Centro,Origen Selva,143,143,0,105,38,32.0,7.76
+2025-09-15,Lima Centro,Mezcla Casa,102,102,0,71,31,26.0,5.67
+2025-09-15,Lima Norte-Sur,Origen Selva,150,150,0,123,27,32.0,7.76
+2025-09-15,Lima Norte-Sur,Mezcla Casa,89,89,0,63,26,26.0,5.67
+2025-09-15,Provincias,Origen Selva,49,49,0,36,13,32.0,7.76
+2025-09-15,Provincias,Mezcla Casa,32,32,0,22,10,26.0,5.67
+2025-09-22,Lima Centro,Origen Selva,168,168,0,135,33,32.0,7.76
+2025-09-22,Lima Centro,Mezcla Casa,100,85,15,75,25,26.0,5.67
+2025-09-22,Lima Norte-Sur,Origen Selva,136,136,0,97,39,32.0,7.76
+2025-09-22,Lima Norte-Sur,Mezcla Casa,94,81,13,73,21,26.0,5.67
+2025-09-22,Provincias,Origen Selva,47,47,0,32,15,32.0,7.76
+2025-09-22,Provincias,Mezcla Casa,28,22,6,17,11,26.0,5.67
+2025-09-29,Lima Centro,Origen Selva,168,168,0,138,30,32.0,7.76
+2025-09-29,Lima Centro,Mezcla Casa,90,90,0,67,23,26.0,5.67
+2025-09-29,Lima Norte-Sur,Origen Selva,136,136,0,103,33,32.0,7.76
+2025-09-29,Lima Norte-Sur,Mezcla Casa,94,94,0,73,21,26.0,5.67
+2025-09-29,Provincias,Origen Selva,31,31,0,26,5,32.0,7.76
+2025-09-29,Provincias,Mezcla Casa,23,23,0,14,9,26.0,5.67
+2025-10-06,Lima Centro,Origen Selva,160,160,0,134,26,32.0,7.76
+2025-10-06,Lima Centro,Mezcla Casa,92,92,0,75,17,26.0,5.67
+2025-10-06,Lima Norte-Sur,Origen Selva,118,118,0,89,29,32.0,7.76
+2025-10-06,Lima Norte-Sur,Mezcla Casa,82,82,0,59,23,26.0,5.67
+2025-10-06,Provincias,Origen Selva,46,46,0,33,13,32.0,7.76
+2025-10-06,Provincias,Mezcla Casa,36,36,0,33,3,26.0,5.67
+2025-10-13,Lima Centro,Origen Selva,138,119,19,108,30,32.0,7.76
+2025-10-13,Lima Centro,Mezcla Casa,84,84,0,60,24,26.0,5.67
+2025-10-13,Lima Norte-Sur,Origen Selva,134,122,12,104,30,32.0,7.76
+2025-10-13,Lima Norte-Sur,Mezcla Casa,86,86,0,68,18,26.0,5.67
+2025-10-13,Provincias,Origen Selva,33,30,3,26,7,32.0,7.76
+2025-10-13,Provincias,Mezcla Casa,29,29,0,21,8,26.0,5.67
+2025-10-20,Lima Centro,Origen Selva,171,171,0,128,43,32.0,7.76
+2025-10-20,Lima Centro,Mezcla Casa,113,113,0,95,18,26.0,5.67
+2025-10-20,Lima Norte-Sur,Origen Selva,136,136,0,103,33,32.0,7.76
+2025-10-20,Lima Norte-Sur,Mezcla Casa,79,79,0,60,19,26.0,5.67
+2025-10-20,Provincias,Origen Selva,51,51,0,40,11,32.0,7.76
+2025-10-20,Provincias,Mezcla Casa,29,29,0,24,5,26.0,5.67
+2025-10-27,Lima Centro,Origen Selva,161,161,0,114,47,32.0,7.76
+2025-10-27,Lima Centro,Mezcla Casa,117,117,0,93,24,26.0,5.67
+2025-10-27,Lima Norte-Sur,Origen Selva,142,142,0,109,33,32.0,7.76
+2025-10-27,Lima Norte-Sur,Mezcla Casa,86,86,0,66,20,26.0,5.67
+2025-10-27,Provincias,Origen Selva,30,30,0,22,8,32.0,7.76
+2025-10-27,Provincias,Mezcla Casa,21,21,0,16,5,26.0,5.67
+2025-11-03,Lima Centro,Origen Selva,160,160,0,126,34,32.0,7.76
+2025-11-03,Lima Centro,Mezcla Casa,103,103,0,85,18,26.0,5.67
+2025-11-03,Lima Norte-Sur,Origen Selva,155,155,0,117,38,32.0,7.76
+2025-11-03,Lima Norte-Sur,Mezcla Casa,74,74,0,48,26,26.0,5.67
+2025-11-03,Provincias,Origen Selva,45,45,0,35,10,32.0,7.76
+2025-11-03,Provincias,Mezcla Casa,27,27,0,20,7,26.0,5.67
+2025-11-10,Lima Centro,Origen Selva,181,181,0,141,40,32.0,7.76
+2025-11-10,Lima Centro,Mezcla Casa,98,98,0,78,20,26.0,5.67
+2025-11-10,Lima Norte-Sur,Origen Selva,155,155,0,114,41,32.0,7.76
+2025-11-10,Lima Norte-Sur,Mezcla Casa,62,62,0,47,15,26.0,5.67
+2025-11-10,Provincias,Origen Selva,46,46,0,36,10,32.0,7.76
+2025-11-10,Provincias,Mezcla Casa,39,39,0,32,7,26.0,5.67
+2025-11-17,Lima Centro,Origen Selva,166,166,0,121,45,32.0,7.76
+2025-11-17,Lima Centro,Mezcla Casa,81,81,0,62,19,26.0,5.67
+2025-11-17,Lima Norte-Sur,Origen Selva,151,151,0,108,43,32.0,7.76
+2025-11-17,Lima Norte-Sur,Mezcla Casa,83,83,0,64,19,26.0,5.67
+2025-11-17,Provincias,Origen Selva,48,48,0,30,18,32.0,7.76
+2025-11-17,Provincias,Mezcla Casa,46,46,0,37,9,26.0,5.67
+2025-11-24,Lima Centro,Origen Selva,176,176,0,137,39,32.0,7.76
+2025-11-24,Lima Centro,Mezcla Casa,90,90,0,64,26,26.0,5.67
+2025-11-24,Lima Norte-Sur,Origen Selva,137,137,0,108,29,32.0,7.76
+2025-11-24,Lima Norte-Sur,Mezcla Casa,88,88,0,70,18,26.0,5.67
+2025-11-24,Provincias,Origen Selva,40,40,0,30,10,32.0,7.76
+2025-11-24,Provincias,Mezcla Casa,21,21,0,17,4,26.0,5.67
+2025-12-01,Lima Centro,Origen Selva,211,211,0,163,48,32.0,7.76
+2025-12-01,Lima Centro,Mezcla Casa,104,104,0,86,18,26.0,5.67
+2025-12-01,Lima Norte-Sur,Origen Selva,157,157,0,118,39,32.0,7.76
+2025-12-01,Lima Norte-Sur,Mezcla Casa,99,99,0,59,40,26.0,5.67
+2025-12-01,Provincias,Origen Selva,51,51,0,31,20,32.0,7.76
+2025-12-01,Provincias,Mezcla Casa,24,24,0,20,4,26.0,5.67
+2025-12-08,Lima Centro,Origen Selva,200,200,0,152,48,32.0,7.76
+2025-12-08,Lima Centro,Mezcla Casa,109,109,0,84,25,26.0,5.67
+2025-12-08,Lima Norte-Sur,Origen Selva,147,147,0,107,40,32.0,7.76
+2025-12-08,Lima Norte-Sur,Mezcla Casa,75,75,0,57,18,26.0,5.67
+2025-12-08,Provincias,Origen Selva,36,36,0,26,10,32.0,7.76
+2025-12-08,Provincias,Mezcla Casa,36,36,0,29,7,26.0,5.67
+2025-12-15,Lima Centro,Origen Selva,162,162,0,123,39,32.0,7.76
+2025-12-15,Lima Centro,Mezcla Casa,93,93,0,67,26,26.0,5.67
+2025-12-15,Lima Norte-Sur,Origen Selva,172,172,0,124,48,32.0,7.76
+2025-12-15,Lima Norte-Sur,Mezcla Casa,80,80,0,66,14,26.0,5.67
+2025-12-15,Provincias,Origen Selva,49,49,0,33,16,32.0,7.76
+2025-12-15,Provincias,Mezcla Casa,31,31,0,28,3,26.0,5.67
+2025-12-22,Lima Centro,Origen Selva,198,175,23,141,57,32.0,7.76
+2025-12-22,Lima Centro,Mezcla Casa,117,117,0,80,37,26.0,5.67
+2025-12-22,Lima Norte-Sur,Origen Selva,120,109,11,101,19,32.0,7.76
+2025-12-22,Lima Norte-Sur,Mezcla Casa,87,87,0,66,21,26.0,5.67
+2025-12-22,Provincias,Origen Selva,49,41,8,39,10,32.0,7.76
+2025-12-22,Provincias,Mezcla Casa,30,30,0,24,6,26.0,5.67
+2025-12-29,Lima Centro,Origen Selva,187,187,0,138,49,32.0,7.76
+2025-12-29,Lima Centro,Mezcla Casa,118,118,0,95,23,26.0,5.67
+2025-12-29,Lima Norte-Sur,Origen Selva,151,151,0,119,32,32.0,7.76
+2025-12-29,Lima Norte-Sur,Mezcla Casa,96,96,0,77,19,26.0,5.67
+2025-12-29,Provincias,Origen Selva,32,32,0,25,7,32.0,7.76
+2025-12-29,Provincias,Mezcla Casa,45,45,0,32,13,26.0,5.67
+2026-01-05,Lima Centro,Origen Selva,210,210,0,157,53,32.0,7.76
+2026-01-05,Lima Centro,Mezcla Casa,118,118,0,82,36,26.0,5.67
+2026-01-05,Lima Norte-Sur,Origen Selva,131,131,0,91,40,32.0,7.76
+2026-01-05,Lima Norte-Sur,Mezcla Casa,95,95,0,75,20,26.0,5.67
+2026-01-05,Provincias,Origen Selva,41,41,0,33,8,32.0,7.76
+2026-01-05,Provincias,Mezcla Casa,33,33,0,30,3,26.0,5.67
+2026-01-12,Lima Centro,Origen Selva,180,180,0,126,54,32.0,7.76
+2026-01-12,Lima Centro,Mezcla Casa,105,105,0,70,35,26.0,5.67
+2026-01-12,Lima Norte-Sur,Origen Selva,114,114,0,79,35,32.0,7.76
+2026-01-12,Lima Norte-Sur,Mezcla Casa,116,116,0,94,22,26.0,5.67
+2026-01-12,Provincias,Origen Selva,44,44,0,35,9,32.0,7.76
+2026-01-12,Provincias,Mezcla Casa,32,32,0,20,12,26.0,5.67
+2026-01-19,Lima Centro,Origen Selva,182,182,0,148,34,32.0,7.76
+2026-01-19,Lima Centro,Mezcla Casa,116,116,0,82,34,26.0,5.67
+2026-01-19,Lima Norte-Sur,Origen Selva,142,142,0,113,29,32.0,7.76
+2026-01-19,Lima Norte-Sur,Mezcla Casa,90,90,0,70,20,26.0,5.67
+2026-01-19,Provincias,Origen Selva,49,49,0,37,12,32.0,7.76
+2026-01-19,Provincias,Mezcla Casa,33,33,0,22,11,26.0,5.67
+2026-01-26,Lima Centro,Origen Selva,176,176,0,133,43,32.0,7.76
+2026-01-26,Lima Centro,Mezcla Casa,135,135,0,94,41,26.0,5.67
+2026-01-26,Lima Norte-Sur,Origen Selva,172,172,0,126,46,32.0,7.76
+2026-01-26,Lima Norte-Sur,Mezcla Casa,104,104,0,84,20,26.0,5.67
+2026-01-26,Provincias,Origen Selva,44,44,0,40,4,32.0,7.76
+2026-01-26,Provincias,Mezcla Casa,29,29,0,21,8,26.0,5.67
+2026-02-02,Lima Centro,Origen Selva,181,181,0,139,42,32.0,7.76
+2026-02-02,Lima Centro,Mezcla Casa,137,137,0,111,26,26.0,5.67
+2026-02-02,Lima Norte-Sur,Origen Selva,155,155,0,117,38,32.0,7.76
+2026-02-02,Lima Norte-Sur,Mezcla Casa,78,78,0,58,20,26.0,5.67
+2026-02-02,Provincias,Origen Selva,56,56,0,42,14,32.0,7.76
+2026-02-02,Provincias,Mezcla Casa,20,20,0,17,3,26.0,5.67
+2026-02-09,Lima Centro,Origen Selva,180,180,0,137,43,32.0,7.76
+2026-02-09,Lima Centro,Mezcla Casa,103,103,0,87,16,26.0,5.67
+2026-02-09,Lima Norte-Sur,Origen Selva,123,123,0,93,30,32.0,7.76
+2026-02-09,Lima Norte-Sur,Mezcla Casa,89,89,0,72,17,26.0,5.67
+2026-02-09,Provincias,Origen Selva,65,65,0,46,19,32.0,7.76
+2026-02-09,Provincias,Mezcla Casa,33,33,0,20,13,26.0,5.67
+2026-02-16,Lima Centro,Origen Selva,200,200,0,145,55,32.0,7.76
+2026-02-16,Lima Centro,Mezcla Casa,89,89,0,68,21,26.0,5.67
+2026-02-16,Lima Norte-Sur,Origen Selva,152,152,0,109,43,32.0,7.76
+2026-02-16,Lima Norte-Sur,Mezcla Casa,101,101,0,74,27,26.0,5.67
+2026-02-16,Provincias,Origen Selva,54,54,0,42,12,32.0,7.76
+2026-02-16,Provincias,Mezcla Casa,36,36,0,21,15,26.0,5.67
+2026-02-23,Lima Centro,Origen Selva,178,178,0,135,43,32.0,7.76
+2026-02-23,Lima Centro,Mezcla Casa,111,111,0,89,22,26.0,5.67
+2026-02-23,Lima Norte-Sur,Origen Selva,158,158,0,113,45,32.0,7.76
+2026-02-23,Lima Norte-Sur,Mezcla Casa,105,105,0,83,22,26.0,5.67
+2026-02-23,Provincias,Origen Selva,37,37,0,29,8,32.0,7.76
+2026-02-23,Provincias,Mezcla Casa,33,33,0,25,8,26.0,5.67
+2026-03-02,Lima Centro,Origen Selva,191,191,0,135,56,32.0,7.76
+2026-03-02,Lima Centro,Mezcla Casa,154,133,21,112,42,26.0,5.67
+2026-03-02,Lima Norte-Sur,Origen Selva,133,133,0,105,28,32.0,7.76
+2026-03-02,Lima Norte-Sur,Mezcla Casa,102,84,18,77,25,26.0,5.67
+2026-03-02,Provincias,Origen Selva,35,35,0,24,11,32.0,7.76
+2026-03-02,Provincias,Mezcla Casa,35,31,4,28,7,26.0,5.67
+2026-03-09,Lima Centro,Origen Selva,172,172,0,135,37,32.0,7.76
+2026-03-09,Lima Centro,Mezcla Casa,112,112,0,85,27,26.0,5.67
+2026-03-09,Lima Norte-Sur,Origen Selva,135,135,0,95,40,32.0,7.76
+2026-03-09,Lima Norte-Sur,Mezcla Casa,85,85,0,66,19,26.0,5.67
+2026-03-09,Provincias,Origen Selva,60,60,0,51,9,32.0,7.76
+2026-03-09,Provincias,Mezcla Casa,37,37,0,25,12,26.0,5.67
+2026-03-16,Lima Centro,Origen Selva,162,162,0,114,48,32.0,7.76
+2026-03-16,Lima Centro,Mezcla Casa,104,104,0,76,28,26.0,5.67
+2026-03-16,Lima Norte-Sur,Origen Selva,154,154,0,123,31,32.0,7.76
+2026-03-16,Lima Norte-Sur,Mezcla Casa,86,86,0,68,18,26.0,5.67
+2026-03-16,Provincias,Origen Selva,64,64,0,49,15,32.0,7.76
+2026-03-16,Provincias,Mezcla Casa,24,24,0,17,7,26.0,5.67
+2026-03-23,Lima Centro,Origen Selva,181,166,15,133,48,32.0,7.76
+2026-03-23,Lima Centro,Mezcla Casa,114,97,17,80,34,26.0,5.67
+2026-03-23,Lima Norte-Sur,Origen Selva,147,128,19,108,39,32.0,7.76
+2026-03-23,Lima Norte-Sur,Mezcla Casa,109,95,14,79,30,26.0,5.67
+2026-03-23,Provincias,Origen Selva,40,34,6,33,7,32.0,7.76
+2026-03-23,Provincias,Mezcla Casa,32,30,2,27,5,26.0,5.67
+2026-03-30,Lima Centro,Origen Selva,196,196,0,153,43,32.0,7.76
+2026-03-30,Lima Centro,Mezcla Casa,132,132,0,105,27,26.0,5.67
+2026-03-30,Lima Norte-Sur,Origen Selva,151,151,0,116,35,32.0,7.76
+2026-03-30,Lima Norte-Sur,Mezcla Casa,74,74,0,58,16,26.0,5.67
+2026-03-30,Provincias,Origen Selva,46,46,0,34,12,32.0,7.76
+2026-03-30,Provincias,Mezcla Casa,25,25,0,19,6,26.0,5.67
+2026-04-06,Lima Centro,Origen Selva,211,211,0,154,57,32.0,7.76
+2026-04-06,Lima Centro,Mezcla Casa,84,84,0,62,22,26.0,5.67
+2026-04-06,Lima Norte-Sur,Origen Selva,164,164,0,126,38,32.0,7.76
+2026-04-06,Lima Norte-Sur,Mezcla Casa,70,70,0,53,17,26.0,5.67
+2026-04-06,Provincias,Origen Selva,62,62,0,51,11,32.0,7.76
+2026-04-06,Provincias,Mezcla Casa,33,33,0,22,11,26.0,5.67
+2026-04-13,Lima Centro,Origen Selva,187,187,0,127,60,32.0,7.76
+2026-04-13,Lima Centro,Mezcla Casa,122,122,0,92,30,26.0,5.67
+2026-04-13,Lima Norte-Sur,Origen Selva,141,141,0,106,35,32.0,7.76
+2026-04-13,Lima Norte-Sur,Mezcla Casa,100,100,0,80,20,26.0,5.67
+2026-04-13,Provincias,Origen Selva,65,65,0,48,17,32.0,7.76
+2026-04-13,Provincias,Mezcla Casa,36,36,0,23,13,26.0,5.67
+2026-04-20,Lima Centro,Origen Selva,187,187,0,157,30,32.0,7.76
+2026-04-20,Lima Centro,Mezcla Casa,99,99,0,66,33,26.0,5.67
+2026-04-20,Lima Norte-Sur,Origen Selva,155,155,0,119,36,32.0,7.76
+2026-04-20,Lima Norte-Sur,Mezcla Casa,78,78,0,57,21,26.0,5.67
+2026-04-20,Provincias,Origen Selva,52,52,0,44,8,32.0,7.76
+2026-04-20,Provincias,Mezcla Casa,25,25,0,21,4,26.0,5.67
+2026-04-27,Lima Centro,Origen Selva,164,164,0,124,40,32.0,7.76
+2026-04-27,Lima Centro,Mezcla Casa,142,142,0,112,30,26.0,5.67
+2026-04-27,Lima Norte-Sur,Origen Selva,135,135,0,107,28,32.0,7.76
+2026-04-27,Lima Norte-Sur,Mezcla Casa,92,92,0,70,22,26.0,5.67
+2026-04-27,Provincias,Origen Selva,38,38,0,28,10,32.0,7.76
+2026-04-27,Provincias,Mezcla Casa,39,39,0,31,8,26.0,5.67
+2026-05-04,Lima Centro,Origen Selva,225,225,0,174,51,32.0,7.76
+2026-05-04,Lima Centro,Mezcla Casa,131,131,0,102,29,26.0,5.67
+2026-05-04,Lima Norte-Sur,Origen Selva,165,165,0,122,43,32.0,7.76
+2026-05-04,Lima Norte-Sur,Mezcla Casa,71,71,0,51,20,26.0,5.67
+2026-05-04,Provincias,Origen Selva,45,45,0,35,10,32.0,7.76
+2026-05-04,Provincias,Mezcla Casa,45,45,0,34,11,26.0,5.67
+2026-05-11,Lima Centro,Origen Selva,185,185,0,130,55,32.0,7.76
+2026-05-11,Lima Centro,Mezcla Casa,113,113,0,83,30,26.0,5.67
+2026-05-11,Lima Norte-Sur,Origen Selva,136,136,0,96,40,32.0,7.76
+2026-05-11,Lima Norte-Sur,Mezcla Casa,89,89,0,67,22,26.0,5.67
+2026-05-11,Provincias,Origen Selva,53,53,0,45,8,32.0,7.76
+2026-05-11,Provincias,Mezcla Casa,41,41,0,26,15,26.0,5.67
+2026-05-18,Lima Centro,Origen Selva,183,183,0,130,53,32.0,7.76
+2026-05-18,Lima Centro,Mezcla Casa,118,118,0,88,30,26.0,5.67
+2026-05-18,Lima Norte-Sur,Origen Selva,138,138,0,98,40,32.0,7.76
+2026-05-18,Lima Norte-Sur,Mezcla Casa,91,91,0,71,20,26.0,5.67
+2026-05-18,Provincias,Origen Selva,48,48,0,40,8,32.0,7.76
+2026-05-18,Provincias,Mezcla Casa,27,27,0,23,4,26.0,5.67
+2026-05-25,Lima Centro,Origen Selva,213,213,0,167,46,32.0,7.76
+2026-05-25,Lima Centro,Mezcla Casa,115,115,0,84,31,26.0,5.67
+2026-05-25,Lima Norte-Sur,Origen Selva,149,149,0,121,28,32.0,7.76
+2026-05-25,Lima Norte-Sur,Mezcla Casa,121,121,0,100,21,26.0,5.67
+2026-05-25,Provincias,Origen Selva,45,45,0,37,8,32.0,7.76
+2026-05-25,Provincias,Mezcla Casa,41,41,0,31,10,26.0,5.67
+2026-06-01,Lima Centro,Origen Selva,160,160,0,122,38,32.0,7.76
+2026-06-01,Lima Centro,Mezcla Casa,134,134,0,106,28,26.0,5.67
+2026-06-01,Lima Norte-Sur,Origen Selva,155,155,0,128,27,32.0,7.76
+2026-06-01,Lima Norte-Sur,Mezcla Casa,79,79,0,53,26,26.0,5.67
+2026-06-01,Provincias,Origen Selva,51,51,0,39,12,32.0,7.76
+2026-06-01,Provincias,Mezcla Casa,30,30,0,21,9,26.0,5.67
+2026-06-08,Lima Centro,Origen Selva,191,191,0,146,45,32.0,7.76
+2026-06-08,Lima Centro,Mezcla Casa,118,118,0,84,34,26.0,5.67
+2026-06-08,Lima Norte-Sur,Origen Selva,154,154,0,111,43,32.0,7.76
+2026-06-08,Lima Norte-Sur,Mezcla Casa,93,93,0,58,35,26.0,5.67
+2026-06-08,Provincias,Origen Selva,55,55,0,42,13,32.0,7.76
+2026-06-08,Provincias,Mezcla Casa,49,49,0,41,8,26.0,5.67
+2026-06-15,Lima Centro,Origen Selva,167,142,25,124,43,32.0,7.76
+2026-06-15,Lima Centro,Mezcla Casa,106,106,0,77,29,26.0,5.67
+2026-06-15,Lima Norte-Sur,Origen Selva,143,117,26,98,45,32.0,7.76
+2026-06-15,Lima Norte-Sur,Mezcla Casa,89,89,0,71,18,26.0,5.67
+2026-06-15,Provincias,Origen Selva,74,62,12,59,15,32.0,7.76
+2026-06-15,Provincias,Mezcla Casa,25,25,0,20,5,26.0,5.67
+2026-06-22,Lima Centro,Origen Selva,208,208,0,169,39,32.0,7.76
+2026-06-22,Lima Centro,Mezcla Casa,109,109,0,72,37,26.0,5.67
+2026-06-22,Lima Norte-Sur,Origen Selva,161,161,0,132,29,32.0,7.76
+2026-06-22,Lima Norte-Sur,Mezcla Casa,100,100,0,77,23,26.0,5.67
+2026-06-22,Provincias,Origen Selva,48,48,0,36,12,32.0,7.76
+2026-06-22,Provincias,Mezcla Casa,51,51,0,37,14,26.0,5.67
+2026-06-29,Lima Centro,Origen Selva,192,192,0,139,53,32.0,7.76
+2026-06-29,Lima Centro,Mezcla Casa,130,130,0,98,32,26.0,5.67
+2026-06-29,Lima Norte-Sur,Origen Selva,165,165,0,128,37,32.0,7.76
+2026-06-29,Lima Norte-Sur,Mezcla Casa,94,94,0,71,23,26.0,5.67
+2026-06-29,Provincias,Origen Selva,45,45,0,38,7,32.0,7.76
+2026-06-29,Provincias,Mezcla Casa,35,35,0,25,10,26.0,5.67
+2026-07-06,Lima Centro,Origen Selva,205,205,0,158,47,32.0,7.76
+2026-07-06,Lima Centro,Mezcla Casa,113,113,0,82,31,26.0,5.67
+2026-07-06,Lima Norte-Sur,Origen Selva,162,162,0,115,47,32.0,7.76
+2026-07-06,Lima Norte-Sur,Mezcla Casa,82,82,0,56,26,26.0,5.67
+2026-07-06,Provincias,Origen Selva,60,60,0,39,21,32.0,7.76
+2026-07-06,Provincias,Mezcla Casa,37,37,0,28,9,26.0,5.67
+2026-07-13,Lima Centro,Origen Selva,169,169,0,123,46,32.0,7.76
+2026-07-13,Lima Centro,Mezcla Casa,99,99,0,79,20,26.0,5.67
+2026-07-13,Lima Norte-Sur,Origen Selva,108,108,0,90,18,32.0,7.76
+2026-07-13,Lima Norte-Sur,Mezcla Casa,101,101,0,80,21,26.0,5.67
+2026-07-13,Provincias,Origen Selva,59,59,0,34,25,32.0,7.76
+2026-07-13,Provincias,Mezcla Casa,53,53,0,42,11,26.0,5.67
+2026-07-20,Lima Centro,Origen Selva,188,188,0,150,38,32.0,7.76
+2026-07-20,Lima Centro,Mezcla Casa,108,108,0,87,21,26.0,5.67
+2026-07-20,Lima Norte-Sur,Origen Selva,163,163,0,129,34,32.0,7.76
+2026-07-20,Lima Norte-Sur,Mezcla Casa,105,105,0,82,23,26.0,5.67
+2026-07-20,Provincias,Origen Selva,56,56,0,44,12,32.0,7.76
+2026-07-20,Provincias,Mezcla Casa,47,47,0,39,8,26.0,5.67
+2026-07-27,Lima Centro,Origen Selva,188,162,26,143,45,32.0,7.76
+2026-07-27,Lima Centro,Mezcla Casa,125,125,0,93,32,26.0,5.67
+2026-07-27,Lima Norte-Sur,Origen Selva,195,163,32,139,56,32.0,7.76
+2026-07-27,Lima Norte-Sur,Mezcla Casa,72,72,0,54,18,26.0,5.67
+2026-07-27,Provincias,Origen Selva,37,31,6,22,15,32.0,7.76
+2026-07-27,Provincias,Mezcla Casa,42,42,0,31,11,26.0,5.67
+2026-08-03,Lima Centro,Origen Selva,217,217,0,168,49,32.0,7.76
+2026-08-03,Lima Centro,Mezcla Casa,110,110,0,82,28,26.0,5.67
+2026-08-03,Lima Norte-Sur,Origen Selva,164,164,0,126,38,32.0,7.76
+2026-08-03,Lima Norte-Sur,Mezcla Casa,85,85,0,59,26,26.0,5.67
+2026-08-03,Provincias,Origen Selva,76,76,0,62,14,32.0,7.76
+2026-08-03,Provincias,Mezcla Casa,26,26,0,21,5,26.0,5.67
+2026-08-10,Lima Centro,Origen Selva,208,208,0,146,62,32.0,7.76
+2026-08-10,Lima Centro,Mezcla Casa,82,82,0,71,11,26.0,5.67
+2026-08-10,Lima Norte-Sur,Origen Selva,157,157,0,125,32,32.0,7.76
+2026-08-10,Lima Norte-Sur,Mezcla Casa,71,71,0,52,19,26.0,5.67
+2026-08-10,Provincias,Origen Selva,56,56,0,47,9,32.0,7.76
+2026-08-10,Provincias,Mezcla Casa,37,37,0,26,11,26.0,5.67
+2026-08-17,Lima Centro,Origen Selva,219,219,0,167,52,32.0,7.76
+2026-08-17,Lima Centro,Mezcla Casa,88,88,0,68,20,26.0,5.67
+2026-08-17,Lima Norte-Sur,Origen Selva,173,173,0,127,46,32.0,7.76
+2026-08-17,Lima Norte-Sur,Mezcla Casa,111,111,0,83,28,26.0,5.67
+2026-08-17,Provincias,Origen Selva,67,67,0,50,17,32.0,7.76
+2026-08-17,Provincias,Mezcla Casa,38,38,0,28,10,26.0,5.67
+2026-08-24,Lima Centro,Origen Selva,176,176,0,136,40,32.0,7.76
+2026-08-24,Lima Centro,Mezcla Casa,120,120,0,93,27,26.0,5.67
+2026-08-24,Lima Norte-Sur,Origen Selva,177,177,0,133,44,32.0,7.76
+2026-08-24,Lima Norte-Sur,Mezcla Casa,108,108,0,84,24,26.0,5.67
+2026-08-24,Provincias,Origen Selva,56,56,0,39,17,32.0,7.76
+2026-08-24,Provincias,Mezcla Casa,43,43,0,33,10,26.0,5.67
+2026-08-31,Lima Centro,Origen Selva,187,187,0,144,43,32.0,7.76
+2026-08-31,Lima Centro,Mezcla Casa,118,118,0,98,20,26.0,5.67
+2026-08-31,Lima Norte-Sur,Origen Selva,153,153,0,110,43,32.0,7.76
+2026-08-31,Lima Norte-Sur,Mezcla Casa,81,81,0,65,16,26.0,5.67
+2026-08-31,Provincias,Origen Selva,43,43,0,28,15,32.0,7.76
+2026-08-31,Provincias,Mezcla Casa,50,50,0,40,10,26.0,5.67
+2026-09-07,Lima Centro,Origen Selva,203,203,0,138,65,32.0,7.76
+2026-09-07,Lima Centro,Mezcla Casa,113,113,0,91,22,26.0,5.67
+2026-09-07,Lima Norte-Sur,Origen Selva,134,134,0,90,44,32.0,7.76
+2026-09-07,Lima Norte-Sur,Mezcla Casa,94,94,0,76,18,26.0,5.67
+2026-09-07,Provincias,Origen Selva,60,60,0,47,13,32.0,7.76
+2026-09-07,Provincias,Mezcla Casa,25,25,0,20,5,26.0,5.67
+2026-09-14,Lima Centro,Origen Selva,185,154,31,143,42,32.0,7.76
+2026-09-14,Lima Centro,Mezcla Casa,110,110,0,83,27,26.0,5.67
+2026-09-14,Lima Norte-Sur,Origen Selva,185,154,31,132,53,32.0,7.76
+2026-09-14,Lima Norte-Sur,Mezcla Casa,78,78,0,57,21,26.0,5.67
+2026-09-14,Provincias,Origen Selva,67,57,10,52,15,32.0,7.76
+2026-09-14,Provincias,Mezcla Casa,34,34,0,29,5,26.0,5.67
+2026-09-21,Lima Centro,Origen Selva,179,179,0,139,40,32.0,7.76
+2026-09-21,Lima Centro,Mezcla Casa,128,128,0,98,30,26.0,5.67
+2026-09-21,Lima Norte-Sur,Origen Selva,176,176,0,133,43,32.0,7.76
+2026-09-21,Lima Norte-Sur,Mezcla Casa,141,141,0,104,37,26.0,5.67
+2026-09-21,Provincias,Origen Selva,52,52,0,43,9,32.0,7.76
+2026-09-21,Provincias,Mezcla Casa,32,32,0,26,6,26.0,5.67
+2026-09-28,Lima Centro,Origen Selva,200,200,0,154,46,32.0,7.76
+2026-09-28,Lima Centro,Mezcla Casa,122,122,0,87,35,26.0,5.67
+2026-09-28,Lima Norte-Sur,Origen Selva,185,185,0,141,44,32.0,7.76
+2026-09-28,Lima Norte-Sur,Mezcla Casa,97,97,0,65,32,26.0,5.67
+2026-09-28,Provincias,Origen Selva,47,47,0,36,11,32.0,7.76
+2026-09-28,Provincias,Mezcla Casa,42,42,0,28,14,26.0,5.67
+2026-10-05,Lima Centro,Origen Selva,201,201,0,143,58,32.0,7.76
+2026-10-05,Lima Centro,Mezcla Casa,121,121,0,83,38,26.0,5.67
+2026-10-05,Lima Norte-Sur,Origen Selva,106,106,0,79,27,32.0,7.76
+2026-10-05,Lima Norte-Sur,Mezcla Casa,76,76,0,55,21,26.0,5.67
+2026-10-05,Provincias,Origen Selva,65,65,0,46,19,32.0,7.76
+2026-10-05,Provincias,Mezcla Casa,41,41,0,34,7,26.0,5.67
+2026-10-12,Lima Centro,Origen Selva,202,202,0,160,42,32.0,7.76
+2026-10-12,Lima Centro,Mezcla Casa,108,95,13,75,33,26.0,5.67
+2026-10-12,Lima Norte-Sur,Origen Selva,151,151,0,116,35,32.0,7.76
+2026-10-12,Lima Norte-Sur,Mezcla Casa,106,96,10,87,19,26.0,5.67
+2026-10-12,Provincias,Origen Selva,65,65,0,50,15,32.0,7.76
+2026-10-12,Provincias,Mezcla Casa,45,34,11,29,16,26.0,5.67
+2026-10-19,Lima Centro,Origen Selva,199,199,0,142,57,32.0,7.76
+2026-10-19,Lima Centro,Mezcla Casa,157,157,0,104,53,26.0,5.67
+2026-10-19,Lima Norte-Sur,Origen Selva,169,169,0,123,46,32.0,7.76
+2026-10-19,Lima Norte-Sur,Mezcla Casa,108,108,0,90,18,26.0,5.67
+2026-10-19,Provincias,Origen Selva,43,43,0,39,4,32.0,7.76
+2026-10-19,Provincias,Mezcla Casa,46,46,0,35,11,26.0,5.67
+2026-10-26,Lima Centro,Origen Selva,208,208,0,166,42,32.0,7.76
+2026-10-26,Lima Centro,Mezcla Casa,132,132,0,94,38,26.0,5.67
+2026-10-26,Lima Norte-Sur,Origen Selva,181,181,0,136,45,32.0,7.76
+2026-10-26,Lima Norte-Sur,Mezcla Casa,110,110,0,71,39,26.0,5.67
+2026-10-26,Provincias,Origen Selva,51,51,0,36,15,32.0,7.76
+2026-10-26,Provincias,Mezcla Casa,40,40,0,26,14,26.0,5.67

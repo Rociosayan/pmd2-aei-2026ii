@@ -1,0 +1,3 @@
+regla_id,alcance,prioridad,cantidades,coste,fecha_vigencia,descripcion
+CO-R1,contactos,1,300.0,7.0,2026-10-01,Contactar a los 300 suscriptores elegibles de mayor antigüedad.
+CO-R2,produccion,2,,,2026-10-01,"Producir por línea el volumen de las últimas 4 semanas, ajustándolo a capacidad y materiales."

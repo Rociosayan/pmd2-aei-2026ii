@@ -1,0 +1,14 @@
+regla_id,alcance,prioridad,cantidades,coste,fecha_vigencia,descripcion
+VF-R1,contactos,1,300,6.0,2026-10-01,Contactar a los 300 socios elegibles con menor asistencia reciente.
+VF-H01,horario|Sede Centro|Mañana,2,16,38.0,2026-10-01,"Sesiones del mes anterior en Sede Centro, franja Mañana, para cuatro semanas."
+VF-H02,horario|Sede Centro|Mediodía,3,8,38.0,2026-10-01,"Sesiones del mes anterior en Sede Centro, franja Mediodía, para cuatro semanas."
+VF-H03,horario|Sede Centro|Tarde,4,20,38.0,2026-10-01,"Sesiones del mes anterior en Sede Centro, franja Tarde, para cuatro semanas."
+VF-H04,horario|Sede Centro|Noche,5,20,38.0,2026-10-01,"Sesiones del mes anterior en Sede Centro, franja Noche, para cuatro semanas."
+VF-H05,horario|Sede Sur|Mañana,6,16,38.0,2026-10-01,"Sesiones del mes anterior en Sede Sur, franja Mañana, para cuatro semanas."
+VF-H06,horario|Sede Sur|Mediodía,7,8,38.0,2026-10-01,"Sesiones del mes anterior en Sede Sur, franja Mediodía, para cuatro semanas."
+VF-H07,horario|Sede Sur|Tarde,8,16,38.0,2026-10-01,"Sesiones del mes anterior en Sede Sur, franja Tarde, para cuatro semanas."
+VF-H08,horario|Sede Sur|Noche,9,20,38.0,2026-10-01,"Sesiones del mes anterior en Sede Sur, franja Noche, para cuatro semanas."
+VF-H09,horario|Sede Norte|Mañana,10,12,38.0,2026-10-01,"Sesiones del mes anterior en Sede Norte, franja Mañana, para cuatro semanas."
+VF-H10,horario|Sede Norte|Mediodía,11,8,38.0,2026-10-01,"Sesiones del mes anterior en Sede Norte, franja Mediodía, para cuatro semanas."
+VF-H11,horario|Sede Norte|Tarde,12,16,38.0,2026-10-01,"Sesiones del mes anterior en Sede Norte, franja Tarde, para cuatro semanas."
+VF-H12,horario|Sede Norte|Noche,13,16,38.0,2026-10-01,"Sesiones del mes anterior en Sede Norte, franja Noche, para cuatro semanas."

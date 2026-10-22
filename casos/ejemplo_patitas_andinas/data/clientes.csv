@@ -1,0 +1,2166 @@
+id_cliente,fecha_alta,sede,canal,segmento,plan_recompra,consentimiento_contacto
+PA-00001,2021-07-11,Piura,app,Perro,sin plan,1
+PA-00002,2021-07-12,Lima,web,Perro,sin plan,1
+PA-00003,2021-07-13,Lima,web,Gato,sin plan,1
+PA-00004,2021-07-14,Trujillo,web,Gato,sin plan,1
+PA-00005,2021-07-15,Lima,app,Perro y gato,recordatorio mensual,1
+PA-00006,2021-07-17,Lima,web,Perro,ahorra y recibe,1
+PA-00007,2021-07-17,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00008,2021-07-18,Piura,web,Perro,sin plan,1
+PA-00009,2021-07-18,Lima,web,Gato,sin plan,1
+PA-00010,2021-07-20,Lima,web,Perro,sin plan,1
+PA-00011,2021-07-21,Trujillo,web,Perro y gato,recordatorio mensual,1
+PA-00012,2021-07-22,Lima,app,Perro,sin plan,1
+PA-00013,2021-07-23,Trujillo,app,Perro,recordatorio mensual,1
+PA-00014,2021-07-23,Lima,WhatsApp,Perro,sin plan,0
+PA-00015,2021-07-26,Lima,app,Perro,sin plan,1
+PA-00016,2021-07-30,Lima,app,Perro,recordatorio mensual,1
+PA-00017,2021-08-04,Lima,web,Gato,ahorra y recibe,1
+PA-00018,2021-08-05,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00019,2021-08-06,Piura,web,Perro y gato,sin plan,1
+PA-00020,2021-08-07,Lima,app,Perro y gato,sin plan,1
+PA-00021,2021-08-08,Lima,web,Perro,recordatorio mensual,1
+PA-00022,2021-08-09,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00023,2021-08-09,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00024,2021-08-10,Lima,web,Gato,sin plan,1
+PA-00025,2021-08-12,Piura,WhatsApp,Perro,recordatorio mensual,1
+PA-00026,2021-08-15,Lima,web,Perro,recordatorio mensual,0
+PA-00027,2021-08-16,Lima,app,Perro,recordatorio mensual,1
+PA-00028,2021-08-16,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00029,2021-08-18,Piura,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-00030,2021-08-25,Trujillo,WhatsApp,Perro y gato,ahorra y recibe,0
+PA-00031,2021-08-26,Lima,app,Perro,recordatorio mensual,1
+PA-00032,2021-08-28,Lima,app,Perro y gato,sin plan,0
+PA-00033,2021-08-29,Piura,app,Perro,sin plan,1
+PA-00034,2021-08-29,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00035,2021-08-30,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00036,2021-08-30,Lima,web,Perro y gato,sin plan,0
+PA-00037,2021-09-03,Piura,WhatsApp,Perro,sin plan,1
+PA-00038,2021-09-03,Lima,app,Gato,sin plan,0
+PA-00039,2021-09-03,Lima,web,Perro,sin plan,1
+PA-00040,2021-09-04,Lima,WhatsApp,Perro,sin plan,1
+PA-00041,2021-09-06,Trujillo,app,Perro,sin plan,1
+PA-00042,2021-09-07,Lima,app,Gato,ahorra y recibe,1
+PA-00043,2021-09-10,Lima,web,Perro y gato,sin plan,1
+PA-00044,2021-09-11,Piura,WhatsApp,Perro,sin plan,1
+PA-00045,2021-09-11,Lima,web,Perro,sin plan,1
+PA-00046,2021-09-12,Lima,web,Perro,recordatorio mensual,1
+PA-00047,2021-09-13,Lima,web,Gato,sin plan,1
+PA-00048,2021-09-14,Piura,app,Gato,sin plan,1
+PA-00049,2021-09-16,Trujillo,web,Perro,sin plan,1
+PA-00050,2021-09-19,Lima,web,Perro,sin plan,1
+PA-00051,2021-09-21,Piura,WhatsApp,Perro,recordatorio mensual,1
+PA-00052,2021-09-23,Lima,app,Perro,recordatorio mensual,1
+PA-00053,2021-09-25,Lima,app,Perro,sin plan,1
+PA-00054,2021-09-28,Lima,web,Perro y gato,sin plan,1
+PA-00055,2021-10-01,Lima,web,Perro,ahorra y recibe,1
+PA-00056,2021-10-02,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00057,2021-10-04,Lima,app,Perro y gato,recordatorio mensual,1
+PA-00058,2021-10-05,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-00059,2021-10-06,Piura,web,Gato,ahorra y recibe,1
+PA-00060,2021-10-07,Trujillo,app,Perro,recordatorio mensual,1
+PA-00061,2021-10-07,Lima,web,Perro,ahorra y recibe,1
+PA-00062,2021-10-08,Piura,web,Perro,recordatorio mensual,1
+PA-00063,2021-10-09,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00064,2021-10-09,Lima,app,Perro,sin plan,1
+PA-00065,2021-10-09,Lima,app,Perro,recordatorio mensual,1
+PA-00066,2021-10-10,Lima,app,Gato,recordatorio mensual,1
+PA-00067,2021-10-11,Lima,app,Gato,recordatorio mensual,1
+PA-00068,2021-10-12,Piura,web,Perro,recordatorio mensual,1
+PA-00069,2021-10-12,Lima,web,Perro,sin plan,1
+PA-00070,2021-10-13,Lima,web,Gato,sin plan,1
+PA-00071,2021-10-13,Lima,app,Perro,sin plan,1
+PA-00072,2021-10-13,Lima,web,Gato,sin plan,1
+PA-00073,2021-10-13,Trujillo,web,Perro y gato,recordatorio mensual,1
+PA-00074,2021-10-15,Lima,web,Perro,sin plan,1
+PA-00075,2021-10-17,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00076,2021-10-20,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00077,2021-10-21,Lima,web,Perro y gato,sin plan,1
+PA-00078,2021-10-21,Trujillo,WhatsApp,Perro,recordatorio mensual,0
+PA-00079,2021-10-22,Lima,app,Perro,sin plan,1
+PA-00080,2021-10-22,Lima,web,Perro y gato,sin plan,1
+PA-00081,2021-10-25,Trujillo,WhatsApp,Perro y gato,sin plan,1
+PA-00082,2021-10-25,Piura,app,Gato,sin plan,1
+PA-00083,2021-10-25,Trujillo,web,Perro,ahorra y recibe,0
+PA-00084,2021-10-27,Trujillo,web,Gato,recordatorio mensual,1
+PA-00085,2021-10-30,Lima,web,Gato,recordatorio mensual,1
+PA-00086,2021-10-30,Lima,WhatsApp,Perro,recordatorio mensual,0
+PA-00087,2021-11-05,Lima,app,Perro,sin plan,1
+PA-00088,2021-11-06,Lima,app,Perro,sin plan,1
+PA-00089,2021-11-07,Trujillo,web,Perro,ahorra y recibe,1
+PA-00090,2021-11-08,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00091,2021-11-10,Lima,web,Gato,sin plan,1
+PA-00092,2021-11-13,Lima,app,Gato,recordatorio mensual,1
+PA-00093,2021-11-17,Lima,web,Perro,sin plan,1
+PA-00094,2021-11-19,Lima,web,Perro,sin plan,1
+PA-00095,2021-11-22,Trujillo,app,Perro y gato,recordatorio mensual,1
+PA-00096,2021-11-22,Lima,WhatsApp,Perro,sin plan,1
+PA-00097,2021-11-25,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00098,2021-11-29,Piura,app,Perro,sin plan,1
+PA-00099,2021-12-01,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-00100,2021-12-02,Lima,app,Gato,recordatorio mensual,1
+PA-00101,2021-12-03,Lima,web,Perro,sin plan,1
+PA-00102,2021-12-03,Piura,web,Gato,recordatorio mensual,1
+PA-00103,2021-12-04,Lima,web,Perro,sin plan,1
+PA-00104,2021-12-06,Piura,app,Gato,recordatorio mensual,0
+PA-00105,2021-12-12,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00106,2021-12-12,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00107,2021-12-13,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00108,2021-12-14,Trujillo,WhatsApp,Gato,ahorra y recibe,1
+PA-00109,2021-12-16,Lima,web,Perro,ahorra y recibe,1
+PA-00110,2021-12-17,Piura,app,Perro,ahorra y recibe,1
+PA-00111,2021-12-17,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00112,2021-12-18,Lima,web,Perro y gato,sin plan,1
+PA-00113,2021-12-21,Piura,app,Gato,ahorra y recibe,1
+PA-00114,2021-12-24,Lima,WhatsApp,Perro y gato,sin plan,0
+PA-00115,2021-12-25,Trujillo,web,Gato,recordatorio mensual,1
+PA-00116,2021-12-25,Trujillo,app,Perro,recordatorio mensual,1
+PA-00117,2021-12-27,Lima,app,Perro y gato,recordatorio mensual,1
+PA-00118,2021-12-27,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-00119,2021-12-27,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00120,2022-01-03,Lima,app,Perro,sin plan,1
+PA-00121,2022-01-03,Piura,app,Perro y gato,sin plan,1
+PA-00122,2022-01-05,Lima,app,Perro,sin plan,1
+PA-00123,2022-01-05,Trujillo,web,Perro y gato,sin plan,1
+PA-00124,2022-01-06,Lima,app,Perro,recordatorio mensual,1
+PA-00125,2022-01-11,Lima,app,Perro,sin plan,1
+PA-00126,2022-01-11,Lima,app,Perro,sin plan,1
+PA-00127,2022-01-12,Trujillo,web,Perro y gato,recordatorio mensual,1
+PA-00128,2022-01-15,Trujillo,app,Perro,sin plan,0
+PA-00129,2022-01-15,Lima,WhatsApp,Gato,sin plan,1
+PA-00130,2022-01-17,Lima,web,Perro y gato,sin plan,1
+PA-00131,2022-01-17,Lima,app,Perro y gato,sin plan,1
+PA-00132,2022-01-18,Lima,web,Perro,sin plan,1
+PA-00133,2022-01-20,Piura,app,Perro,recordatorio mensual,0
+PA-00134,2022-01-23,Trujillo,WhatsApp,Perro,recordatorio mensual,0
+PA-00135,2022-01-23,Trujillo,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-00136,2022-01-24,Lima,web,Perro,recordatorio mensual,0
+PA-00137,2022-01-27,Piura,app,Gato,sin plan,1
+PA-00138,2022-01-27,Lima,app,Gato,sin plan,1
+PA-00139,2022-01-28,Lima,web,Perro,sin plan,1
+PA-00140,2022-01-28,Lima,WhatsApp,Perro,sin plan,1
+PA-00141,2022-01-28,Piura,WhatsApp,Perro y gato,ahorra y recibe,0
+PA-00142,2022-02-04,Piura,WhatsApp,Perro,sin plan,1
+PA-00143,2022-02-05,Lima,web,Perro,ahorra y recibe,1
+PA-00144,2022-02-07,Lima,app,Gato,recordatorio mensual,1
+PA-00145,2022-02-08,Piura,web,Perro,sin plan,1
+PA-00146,2022-02-09,Piura,web,Gato,sin plan,1
+PA-00147,2022-02-10,Lima,app,Gato,recordatorio mensual,1
+PA-00148,2022-02-10,Trujillo,web,Perro y gato,sin plan,1
+PA-00149,2022-02-11,Lima,app,Gato,sin plan,1
+PA-00150,2022-02-12,Trujillo,WhatsApp,Perro,sin plan,0
+PA-00151,2022-02-16,Lima,web,Perro,sin plan,1
+PA-00152,2022-02-17,Lima,web,Gato,sin plan,1
+PA-00153,2022-02-19,Lima,web,Perro,sin plan,1
+PA-00154,2022-02-20,Lima,app,Perro,recordatorio mensual,1
+PA-00155,2022-02-20,Trujillo,WhatsApp,Gato,sin plan,0
+PA-00156,2022-02-21,Lima,web,Perro,sin plan,1
+PA-00157,2022-02-22,Trujillo,WhatsApp,Perro,ahorra y recibe,1
+PA-00158,2022-02-23,Lima,WhatsApp,Perro,sin plan,0
+PA-00159,2022-02-25,Piura,web,Perro,recordatorio mensual,1
+PA-00160,2022-02-25,Lima,WhatsApp,Perro,sin plan,1
+PA-00161,2022-03-06,Piura,app,Perro y gato,sin plan,1
+PA-00162,2022-03-07,Lima,web,Perro y gato,sin plan,1
+PA-00163,2022-03-10,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00164,2022-03-12,Lima,web,Gato,sin plan,1
+PA-00165,2022-03-13,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00166,2022-03-19,Lima,web,Gato,sin plan,1
+PA-00167,2022-03-19,Piura,web,Perro,sin plan,0
+PA-00168,2022-03-20,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00169,2022-03-23,Lima,WhatsApp,Gato,sin plan,1
+PA-00170,2022-04-01,Lima,web,Gato,sin plan,1
+PA-00171,2022-04-02,Trujillo,web,Perro y gato,sin plan,0
+PA-00172,2022-04-05,Lima,app,Gato,sin plan,1
+PA-00173,2022-04-08,Lima,web,Gato,ahorra y recibe,1
+PA-00174,2022-04-14,Lima,app,Perro,ahorra y recibe,1
+PA-00175,2022-04-17,Lima,web,Perro,recordatorio mensual,1
+PA-00176,2022-04-18,Lima,WhatsApp,Perro,sin plan,1
+PA-00177,2022-04-19,Trujillo,app,Gato,recordatorio mensual,1
+PA-00178,2022-04-20,Lima,web,Perro y gato,sin plan,1
+PA-00179,2022-04-21,Trujillo,web,Perro,sin plan,1
+PA-00180,2022-04-22,Piura,web,Gato,ahorra y recibe,1
+PA-00181,2022-04-23,Lima,WhatsApp,Perro,sin plan,1
+PA-00182,2022-04-23,Lima,web,Gato,ahorra y recibe,1
+PA-00183,2022-04-25,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00184,2022-04-27,Trujillo,app,Gato,sin plan,1
+PA-00185,2022-04-28,Piura,WhatsApp,Perro,sin plan,1
+PA-00186,2022-04-29,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00187,2022-04-30,Lima,app,Gato,sin plan,1
+PA-00188,2022-04-30,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00189,2022-05-01,Lima,web,Perro,sin plan,1
+PA-00190,2022-05-02,Lima,WhatsApp,Gato,sin plan,1
+PA-00191,2022-05-03,Trujillo,web,Perro y gato,sin plan,1
+PA-00192,2022-05-03,Trujillo,app,Perro,ahorra y recibe,1
+PA-00193,2022-05-06,Trujillo,web,Gato,sin plan,1
+PA-00194,2022-05-09,Trujillo,app,Perro,sin plan,1
+PA-00195,2022-05-09,Lima,app,Gato,sin plan,1
+PA-00196,2022-05-09,Piura,web,Gato,sin plan,1
+PA-00197,2022-05-10,Trujillo,web,Perro,ahorra y recibe,1
+PA-00198,2022-05-12,Trujillo,web,Perro,recordatorio mensual,0
+PA-00199,2022-05-13,Trujillo,app,Gato,ahorra y recibe,1
+PA-00200,2022-05-14,Trujillo,app,Perro,recordatorio mensual,1
+PA-00201,2022-05-15,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00202,2022-05-15,Lima,app,Perro,sin plan,1
+PA-00203,2022-05-16,Piura,web,Perro y gato,sin plan,1
+PA-00204,2022-05-16,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00205,2022-05-17,Lima,web,Perro,sin plan,1
+PA-00206,2022-05-19,Trujillo,web,Perro,recordatorio mensual,1
+PA-00207,2022-05-20,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00208,2022-05-20,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00209,2022-05-21,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00210,2022-05-24,Lima,app,Perro,ahorra y recibe,1
+PA-00211,2022-05-24,Lima,web,Perro,sin plan,1
+PA-00212,2022-05-25,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00213,2022-05-26,Lima,app,Gato,sin plan,1
+PA-00214,2022-05-30,Trujillo,app,Perro,sin plan,1
+PA-00215,2022-05-31,Piura,app,Perro,recordatorio mensual,1
+PA-00216,2022-06-01,Lima,app,Perro,recordatorio mensual,1
+PA-00217,2022-06-01,Trujillo,app,Gato,sin plan,1
+PA-00218,2022-06-05,Lima,app,Perro,sin plan,1
+PA-00219,2022-06-06,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-00220,2022-06-08,Lima,web,Perro y gato,sin plan,1
+PA-00221,2022-06-09,Lima,web,Perro y gato,sin plan,1
+PA-00222,2022-06-16,Lima,app,Perro,sin plan,1
+PA-00223,2022-06-16,Lima,app,Gato,recordatorio mensual,1
+PA-00224,2022-06-17,Trujillo,app,Gato,sin plan,0
+PA-00225,2022-06-20,Lima,web,Perro,recordatorio mensual,1
+PA-00226,2022-06-21,Piura,app,Perro,ahorra y recibe,1
+PA-00227,2022-06-22,Lima,web,Gato,sin plan,1
+PA-00228,2022-06-22,Lima,app,Gato,sin plan,1
+PA-00229,2022-06-23,Trujillo,app,Perro,sin plan,0
+PA-00230,2022-06-24,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00231,2022-06-24,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00232,2022-06-24,Trujillo,app,Perro y gato,ahorra y recibe,1
+PA-00233,2022-06-25,Trujillo,web,Perro,ahorra y recibe,1
+PA-00234,2022-06-26,Trujillo,app,Perro,ahorra y recibe,1
+PA-00235,2022-06-26,Lima,app,Gato,recordatorio mensual,1
+PA-00236,2022-06-27,Piura,app,Perro,sin plan,1
+PA-00237,2022-06-27,Lima,web,Gato,sin plan,1
+PA-00238,2022-06-29,Trujillo,web,Perro,recordatorio mensual,0
+PA-00239,2022-07-01,Lima,app,Perro,sin plan,1
+PA-00240,2022-07-01,Trujillo,web,Perro,recordatorio mensual,1
+PA-00241,2022-07-03,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00242,2022-07-05,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00243,2022-07-05,Piura,web,Perro y gato,sin plan,1
+PA-00244,2022-07-09,Lima,app,Gato,ahorra y recibe,1
+PA-00245,2022-07-10,Piura,web,Perro y gato,sin plan,1
+PA-00246,2022-07-10,Lima,web,Gato,sin plan,1
+PA-00247,2022-07-14,Trujillo,web,Perro,recordatorio mensual,1
+PA-00248,2022-07-17,Lima,web,Perro,sin plan,1
+PA-00249,2022-07-17,Lima,web,Gato,sin plan,1
+PA-00250,2022-07-21,Lima,app,Gato,sin plan,1
+PA-00251,2022-07-21,Trujillo,app,Gato,recordatorio mensual,1
+PA-00252,2022-07-22,Lima,web,Perro,sin plan,1
+PA-00253,2022-07-23,Lima,WhatsApp,Gato,recordatorio mensual,0
+PA-00254,2022-07-24,Lima,web,Gato,ahorra y recibe,1
+PA-00255,2022-07-25,Lima,app,Gato,recordatorio mensual,1
+PA-00256,2022-07-25,Piura,WhatsApp,Gato,sin plan,1
+PA-00257,2022-07-25,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-00258,2022-07-26,Lima,web,Perro,ahorra y recibe,1
+PA-00259,2022-07-28,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00260,2022-07-29,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00261,2022-07-30,Lima,app,Perro y gato,recordatorio mensual,1
+PA-00262,2022-07-31,Lima,web,Perro,recordatorio mensual,1
+PA-00263,2022-07-31,Piura,web,Perro y gato,recordatorio mensual,1
+PA-00264,2022-07-31,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00265,2022-08-01,Lima,app,Perro,sin plan,1
+PA-00266,2022-08-02,Lima,app,Gato,recordatorio mensual,1
+PA-00267,2022-08-02,Lima,app,Gato,recordatorio mensual,0
+PA-00268,2022-08-04,Piura,WhatsApp,Perro,ahorra y recibe,1
+PA-00269,2022-08-04,Lima,web,Gato,recordatorio mensual,1
+PA-00270,2022-08-05,Lima,app,Perro,sin plan,0
+PA-00271,2022-08-07,Lima,web,Perro,sin plan,1
+PA-00272,2022-08-13,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00273,2022-08-14,Piura,app,Gato,recordatorio mensual,1
+PA-00274,2022-08-16,Piura,web,Perro y gato,recordatorio mensual,1
+PA-00275,2022-08-18,Lima,WhatsApp,Perro,sin plan,1
+PA-00276,2022-08-20,Trujillo,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-00277,2022-08-22,Lima,web,Gato,sin plan,1
+PA-00278,2022-08-22,Lima,WhatsApp,Gato,sin plan,1
+PA-00279,2022-08-26,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00280,2022-08-28,Lima,app,Perro,sin plan,1
+PA-00281,2022-08-29,Lima,web,Perro,recordatorio mensual,1
+PA-00282,2022-08-31,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00283,2022-09-01,Lima,app,Perro,sin plan,1
+PA-00284,2022-09-02,Trujillo,app,Perro,sin plan,1
+PA-00285,2022-09-05,Lima,app,Perro,recordatorio mensual,1
+PA-00286,2022-09-05,Lima,WhatsApp,Gato,sin plan,1
+PA-00287,2022-09-05,Lima,app,Perro,sin plan,1
+PA-00288,2022-09-06,Lima,app,Gato,sin plan,1
+PA-00289,2022-09-06,Lima,web,Perro,recordatorio mensual,1
+PA-00290,2022-09-06,Lima,app,Gato,recordatorio mensual,1
+PA-00291,2022-09-07,Lima,web,Gato,recordatorio mensual,1
+PA-00292,2022-09-08,Lima,WhatsApp,Perro,sin plan,1
+PA-00293,2022-09-09,Lima,web,Perro,sin plan,1
+PA-00294,2022-09-10,Trujillo,app,Gato,sin plan,0
+PA-00295,2022-09-11,Lima,app,Perro,ahorra y recibe,1
+PA-00296,2022-09-11,Piura,WhatsApp,Gato,recordatorio mensual,0
+PA-00297,2022-09-12,Trujillo,app,Perro,sin plan,1
+PA-00298,2022-09-13,Trujillo,web,Gato,ahorra y recibe,1
+PA-00299,2022-09-14,Lima,WhatsApp,Perro,sin plan,1
+PA-00300,2022-09-15,Trujillo,web,Gato,sin plan,1
+PA-00301,2022-09-17,Trujillo,WhatsApp,Perro y gato,sin plan,1
+PA-00302,2022-09-18,Trujillo,app,Perro,sin plan,1
+PA-00303,2022-09-20,Trujillo,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00304,2022-09-21,Lima,app,Perro,ahorra y recibe,1
+PA-00305,2022-09-21,Lima,app,Perro y gato,recordatorio mensual,1
+PA-00306,2022-09-22,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00307,2022-09-25,Piura,web,Perro,sin plan,1
+PA-00308,2022-09-27,Piura,web,Perro,sin plan,1
+PA-00309,2022-09-27,Lima,app,Perro,ahorra y recibe,1
+PA-00310,2022-09-28,Lima,app,Perro y gato,ahorra y recibe,1
+PA-00311,2022-09-28,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-00312,2022-09-29,Trujillo,app,Gato,recordatorio mensual,1
+PA-00313,2022-09-29,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00314,2022-10-01,Lima,web,Perro y gato,sin plan,1
+PA-00315,2022-10-03,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00316,2022-10-06,Lima,web,Perro,ahorra y recibe,1
+PA-00317,2022-10-06,Trujillo,web,Perro,recordatorio mensual,1
+PA-00318,2022-10-08,Lima,app,Perro,recordatorio mensual,1
+PA-00319,2022-10-09,Trujillo,web,Perro,sin plan,1
+PA-00320,2022-10-09,Lima,app,Perro,recordatorio mensual,1
+PA-00321,2022-10-10,Trujillo,app,Perro,sin plan,1
+PA-00322,2022-10-12,Trujillo,app,Perro,sin plan,1
+PA-00323,2022-10-12,Lima,web,Perro,sin plan,1
+PA-00324,2022-10-18,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00325,2022-10-19,Lima,WhatsApp,Perro,sin plan,1
+PA-00326,2022-10-19,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-00327,2022-10-20,Lima,WhatsApp,Perro,sin plan,1
+PA-00328,2022-10-21,Lima,WhatsApp,Perro,sin plan,1
+PA-00329,2022-10-21,Trujillo,web,Perro,sin plan,1
+PA-00330,2022-10-22,Lima,app,Perro,sin plan,1
+PA-00331,2022-10-24,Lima,web,Perro,sin plan,1
+PA-00332,2022-10-25,Piura,web,Perro y gato,sin plan,1
+PA-00333,2022-10-28,Lima,WhatsApp,Perro,sin plan,1
+PA-00334,2022-10-30,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00335,2022-10-31,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00336,2022-11-02,Lima,app,Perro y gato,sin plan,1
+PA-00337,2022-11-03,Trujillo,web,Perro,sin plan,1
+PA-00338,2022-11-06,Piura,WhatsApp,Perro y gato,sin plan,1
+PA-00339,2022-11-10,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00340,2022-11-11,Lima,WhatsApp,Gato,sin plan,1
+PA-00341,2022-11-11,Lima,web,Perro y gato,sin plan,1
+PA-00342,2022-11-11,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-00343,2022-11-12,Trujillo,web,Perro,sin plan,1
+PA-00344,2022-11-13,Trujillo,web,Perro y gato,sin plan,1
+PA-00345,2022-11-13,Trujillo,web,Gato,recordatorio mensual,1
+PA-00346,2022-11-13,Lima,app,Gato,sin plan,1
+PA-00347,2022-11-15,Lima,app,Gato,recordatorio mensual,1
+PA-00348,2022-11-15,Lima,app,Gato,sin plan,1
+PA-00349,2022-11-17,Lima,web,Perro,ahorra y recibe,1
+PA-00350,2022-11-21,Trujillo,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00351,2022-11-23,Lima,web,Perro,recordatorio mensual,1
+PA-00352,2022-11-23,Lima,app,Perro,recordatorio mensual,1
+PA-00353,2022-11-25,Piura,web,Gato,sin plan,1
+PA-00354,2022-11-26,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00355,2022-11-28,Piura,app,Perro,sin plan,1
+PA-00356,2022-12-03,Trujillo,web,Perro,sin plan,1
+PA-00357,2022-12-05,Lima,web,Perro,sin plan,1
+PA-00358,2022-12-06,Lima,app,Perro,sin plan,1
+PA-00359,2022-12-09,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00360,2022-12-10,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00361,2022-12-14,Lima,web,Perro,sin plan,1
+PA-00362,2022-12-15,Trujillo,app,Perro,sin plan,1
+PA-00363,2022-12-16,Lima,app,Gato,sin plan,1
+PA-00364,2022-12-16,Lima,WhatsApp,Gato,sin plan,1
+PA-00365,2022-12-18,Lima,web,Gato,sin plan,1
+PA-00366,2022-12-18,Lima,web,Gato,recordatorio mensual,1
+PA-00367,2022-12-19,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-00368,2022-12-20,Lima,web,Gato,sin plan,1
+PA-00369,2022-12-22,Trujillo,WhatsApp,Perro y gato,sin plan,1
+PA-00370,2022-12-22,Lima,web,Perro y gato,sin plan,1
+PA-00371,2022-12-24,Piura,web,Gato,sin plan,1
+PA-00372,2022-12-25,Trujillo,app,Perro,recordatorio mensual,1
+PA-00373,2022-12-27,Piura,WhatsApp,Perro,ahorra y recibe,1
+PA-00374,2022-12-27,Lima,web,Perro,ahorra y recibe,1
+PA-00375,2022-12-27,Lima,app,Perro,ahorra y recibe,1
+PA-00376,2022-12-28,Lima,app,Perro,sin plan,1
+PA-00377,2022-12-29,Lima,app,Gato,sin plan,1
+PA-00378,2022-12-31,Trujillo,WhatsApp,Perro y gato,sin plan,1
+PA-00379,2023-01-01,Lima,app,Perro,sin plan,1
+PA-00380,2023-01-01,Lima,app,Perro y gato,sin plan,1
+PA-00381,2023-01-02,Piura,web,Perro y gato,sin plan,1
+PA-00382,2023-01-02,Piura,web,Perro,sin plan,1
+PA-00383,2023-01-03,Lima,web,Gato,sin plan,0
+PA-00384,2023-01-06,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00385,2023-01-07,Piura,web,Perro,sin plan,0
+PA-00386,2023-01-07,Lima,app,Perro,sin plan,1
+PA-00387,2023-01-11,Lima,app,Gato,recordatorio mensual,1
+PA-00388,2023-01-13,Lima,web,Perro,sin plan,0
+PA-00389,2023-01-15,Lima,WhatsApp,Perro,sin plan,1
+PA-00390,2023-01-19,Lima,app,Perro,ahorra y recibe,1
+PA-00391,2023-01-19,Piura,app,Perro,sin plan,1
+PA-00392,2023-01-21,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-00393,2023-01-22,Lima,web,Perro,recordatorio mensual,1
+PA-00394,2023-01-23,Piura,app,Perro,sin plan,1
+PA-00395,2023-01-25,Lima,web,Perro,sin plan,1
+PA-00396,2023-01-26,Trujillo,web,Perro,ahorra y recibe,1
+PA-00397,2023-01-27,Trujillo,WhatsApp,Gato,ahorra y recibe,1
+PA-00398,2023-01-27,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00399,2023-01-27,Lima,web,Gato,sin plan,1
+PA-00400,2023-01-30,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00401,2023-01-31,Lima,app,Gato,ahorra y recibe,1
+PA-00402,2023-02-01,Lima,app,Perro,recordatorio mensual,1
+PA-00403,2023-02-01,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00404,2023-02-02,Lima,app,Perro,recordatorio mensual,1
+PA-00405,2023-02-02,Piura,web,Gato,recordatorio mensual,0
+PA-00406,2023-02-03,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-00407,2023-02-04,Trujillo,WhatsApp,Perro,recordatorio mensual,0
+PA-00408,2023-02-04,Lima,web,Gato,recordatorio mensual,1
+PA-00409,2023-02-06,Lima,app,Perro,ahorra y recibe,1
+PA-00410,2023-02-09,Lima,app,Perro,sin plan,1
+PA-00411,2023-02-10,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00412,2023-02-12,Lima,app,Gato,recordatorio mensual,1
+PA-00413,2023-02-15,Lima,app,Gato,sin plan,1
+PA-00414,2023-02-16,Lima,web,Gato,ahorra y recibe,1
+PA-00415,2023-02-16,Lima,web,Gato,recordatorio mensual,1
+PA-00416,2023-02-18,Trujillo,app,Perro,recordatorio mensual,1
+PA-00417,2023-02-20,Piura,web,Perro,sin plan,1
+PA-00418,2023-02-20,Lima,WhatsApp,Gato,sin plan,1
+PA-00419,2023-02-20,Piura,web,Perro,ahorra y recibe,1
+PA-00420,2023-02-20,Lima,web,Perro,sin plan,1
+PA-00421,2023-02-22,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00422,2023-02-22,Trujillo,web,Gato,sin plan,1
+PA-00423,2023-02-24,Lima,app,Perro y gato,recordatorio mensual,1
+PA-00424,2023-02-25,Lima,app,Perro,sin plan,1
+PA-00425,2023-02-26,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00426,2023-02-26,Lima,WhatsApp,Perro,sin plan,1
+PA-00427,2023-02-28,Lima,web,Gato,recordatorio mensual,1
+PA-00428,2023-03-01,Piura,web,Perro y gato,sin plan,1
+PA-00429,2023-03-02,Lima,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-00430,2023-03-06,Piura,web,Perro,sin plan,1
+PA-00431,2023-03-08,Lima,app,Perro y gato,recordatorio mensual,1
+PA-00432,2023-03-08,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-00433,2023-03-10,Lima,web,Gato,sin plan,1
+PA-00434,2023-03-13,Piura,web,Perro,sin plan,1
+PA-00435,2023-03-13,Lima,app,Gato,recordatorio mensual,1
+PA-00436,2023-03-14,Lima,web,Gato,sin plan,1
+PA-00437,2023-03-14,Trujillo,web,Gato,ahorra y recibe,1
+PA-00438,2023-03-15,Piura,web,Perro,sin plan,1
+PA-00439,2023-03-16,Trujillo,WhatsApp,Perro y gato,sin plan,1
+PA-00440,2023-03-16,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00441,2023-03-21,Trujillo,app,Perro y gato,sin plan,1
+PA-00442,2023-03-21,Lima,WhatsApp,Gato,sin plan,1
+PA-00443,2023-03-22,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00444,2023-03-23,Piura,WhatsApp,Perro,sin plan,1
+PA-00445,2023-03-23,Trujillo,web,Perro y gato,sin plan,1
+PA-00446,2023-03-25,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-00447,2023-03-25,Lima,app,Perro,recordatorio mensual,1
+PA-00448,2023-03-26,Trujillo,web,Perro,recordatorio mensual,1
+PA-00449,2023-03-26,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00450,2023-03-27,Trujillo,WhatsApp,Perro y gato,sin plan,1
+PA-00451,2023-03-27,Lima,WhatsApp,Gato,sin plan,1
+PA-00452,2023-03-28,Lima,app,Gato,ahorra y recibe,1
+PA-00453,2023-03-28,Lima,app,Perro,recordatorio mensual,1
+PA-00454,2023-03-28,Lima,web,Perro,sin plan,1
+PA-00455,2023-03-29,Trujillo,app,Perro y gato,recordatorio mensual,0
+PA-00456,2023-03-30,Lima,app,Perro,ahorra y recibe,1
+PA-00457,2023-04-02,Piura,WhatsApp,Perro,sin plan,1
+PA-00458,2023-04-04,Piura,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00459,2023-04-06,Lima,app,Gato,sin plan,1
+PA-00460,2023-04-08,Lima,WhatsApp,Perro,sin plan,1
+PA-00461,2023-04-09,Piura,web,Perro,recordatorio mensual,1
+PA-00462,2023-04-09,Lima,app,Gato,sin plan,1
+PA-00463,2023-04-09,Lima,web,Perro,recordatorio mensual,1
+PA-00464,2023-04-10,Lima,app,Perro,sin plan,1
+PA-00465,2023-04-10,Piura,web,Perro y gato,recordatorio mensual,1
+PA-00466,2023-04-11,Trujillo,web,Gato,sin plan,1
+PA-00467,2023-04-12,Lima,web,Perro,sin plan,1
+PA-00468,2023-04-12,Lima,app,Gato,sin plan,1
+PA-00469,2023-04-15,Piura,app,Perro,ahorra y recibe,1
+PA-00470,2023-04-17,Lima,WhatsApp,Perro,sin plan,1
+PA-00471,2023-04-17,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-00472,2023-04-18,Trujillo,app,Gato,sin plan,1
+PA-00473,2023-04-20,Lima,WhatsApp,Perro,sin plan,1
+PA-00474,2023-04-20,Lima,web,Gato,sin plan,1
+PA-00475,2023-04-20,Lima,app,Gato,sin plan,1
+PA-00476,2023-04-22,Piura,web,Gato,recordatorio mensual,1
+PA-00477,2023-04-24,Lima,web,Gato,sin plan,0
+PA-00478,2023-04-24,Lima,app,Gato,sin plan,1
+PA-00479,2023-04-25,Lima,app,Perro y gato,sin plan,1
+PA-00480,2023-04-26,Lima,web,Perro,ahorra y recibe,1
+PA-00481,2023-04-28,Lima,WhatsApp,Perro,sin plan,1
+PA-00482,2023-04-28,Trujillo,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00483,2023-04-29,Lima,web,Perro,sin plan,0
+PA-00484,2023-05-01,Lima,WhatsApp,Gato,sin plan,1
+PA-00485,2023-05-02,Piura,web,Perro,recordatorio mensual,1
+PA-00486,2023-05-03,Lima,web,Gato,sin plan,1
+PA-00487,2023-05-04,Lima,web,Perro,sin plan,1
+PA-00488,2023-05-04,Piura,app,Perro,recordatorio mensual,1
+PA-00489,2023-05-05,Lima,WhatsApp,Perro,sin plan,1
+PA-00490,2023-05-05,Lima,web,Gato,sin plan,1
+PA-00491,2023-05-05,Lima,WhatsApp,Perro,sin plan,1
+PA-00492,2023-05-06,Lima,WhatsApp,Gato,sin plan,1
+PA-00493,2023-05-07,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00494,2023-05-08,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00495,2023-05-08,Trujillo,app,Gato,sin plan,1
+PA-00496,2023-05-09,Lima,app,Perro,recordatorio mensual,1
+PA-00497,2023-05-10,Piura,app,Gato,ahorra y recibe,1
+PA-00498,2023-05-11,Piura,WhatsApp,Gato,sin plan,1
+PA-00499,2023-05-12,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00500,2023-05-12,Lima,app,Perro,ahorra y recibe,0
+PA-00501,2023-05-13,Lima,app,Perro,ahorra y recibe,1
+PA-00502,2023-05-13,Piura,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00503,2023-05-15,Lima,web,Perro,sin plan,1
+PA-00504,2023-05-15,Lima,web,Gato,sin plan,1
+PA-00505,2023-05-18,Lima,app,Perro,sin plan,1
+PA-00506,2023-05-20,Piura,web,Perro,ahorra y recibe,1
+PA-00507,2023-05-20,Lima,web,Perro,ahorra y recibe,1
+PA-00508,2023-05-22,Lima,app,Perro,ahorra y recibe,1
+PA-00509,2023-05-22,Lima,app,Perro,sin plan,1
+PA-00510,2023-05-22,Piura,WhatsApp,Perro,ahorra y recibe,0
+PA-00511,2023-05-24,Lima,web,Perro,ahorra y recibe,1
+PA-00512,2023-05-29,Lima,WhatsApp,Perro,sin plan,1
+PA-00513,2023-05-30,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-00514,2023-06-02,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-00515,2023-06-03,Trujillo,web,Gato,sin plan,1
+PA-00516,2023-06-03,Lima,app,Gato,recordatorio mensual,1
+PA-00517,2023-06-04,Lima,web,Perro,recordatorio mensual,1
+PA-00518,2023-06-05,Trujillo,web,Gato,sin plan,1
+PA-00519,2023-06-08,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00520,2023-06-10,Lima,app,Perro,sin plan,1
+PA-00521,2023-06-11,Lima,WhatsApp,Perro,sin plan,1
+PA-00522,2023-06-12,Trujillo,web,Perro,sin plan,0
+PA-00523,2023-06-13,Lima,app,Gato,recordatorio mensual,1
+PA-00524,2023-06-13,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00525,2023-06-14,Lima,web,Perro,sin plan,1
+PA-00526,2023-06-14,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00527,2023-06-15,Trujillo,web,Perro y gato,ahorra y recibe,1
+PA-00528,2023-06-16,Lima,web,Gato,sin plan,1
+PA-00529,2023-06-21,Piura,WhatsApp,Perro,sin plan,1
+PA-00530,2023-06-21,Lima,WhatsApp,Perro,sin plan,1
+PA-00531,2023-06-25,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-00532,2023-06-26,Piura,web,Perro,sin plan,1
+PA-00533,2023-06-26,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-00534,2023-06-26,Lima,app,Perro,sin plan,1
+PA-00535,2023-06-26,Lima,app,Gato,recordatorio mensual,1
+PA-00536,2023-06-27,Trujillo,web,Perro,sin plan,1
+PA-00537,2023-06-27,Lima,web,Perro,recordatorio mensual,1
+PA-00538,2023-06-29,Trujillo,app,Gato,recordatorio mensual,1
+PA-00539,2023-06-30,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00540,2023-07-03,Piura,web,Gato,sin plan,1
+PA-00541,2023-07-03,Piura,web,Perro,recordatorio mensual,1
+PA-00542,2023-07-04,Trujillo,web,Perro,sin plan,1
+PA-00543,2023-07-06,Trujillo,WhatsApp,Perro y gato,recordatorio mensual,0
+PA-00544,2023-07-06,Lima,WhatsApp,Gato,recordatorio mensual,0
+PA-00545,2023-07-08,Lima,app,Gato,recordatorio mensual,1
+PA-00546,2023-07-08,Trujillo,WhatsApp,Perro,ahorra y recibe,1
+PA-00547,2023-07-09,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00548,2023-07-10,Lima,app,Perro,ahorra y recibe,1
+PA-00549,2023-07-12,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00550,2023-07-13,Lima,WhatsApp,Gato,sin plan,1
+PA-00551,2023-07-14,Lima,web,Perro,sin plan,0
+PA-00552,2023-07-15,Lima,app,Perro,sin plan,1
+PA-00553,2023-07-16,Lima,web,Perro,sin plan,1
+PA-00554,2023-07-16,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-00555,2023-07-18,Lima,web,Perro,sin plan,1
+PA-00556,2023-07-21,Lima,app,Gato,ahorra y recibe,1
+PA-00557,2023-07-21,Lima,app,Gato,recordatorio mensual,1
+PA-00558,2023-07-22,Piura,app,Gato,recordatorio mensual,1
+PA-00559,2023-07-24,Trujillo,app,Perro y gato,ahorra y recibe,1
+PA-00560,2023-07-25,Trujillo,app,Perro,ahorra y recibe,1
+PA-00561,2023-07-25,Lima,web,Gato,sin plan,1
+PA-00562,2023-07-27,Piura,WhatsApp,Perro,sin plan,1
+PA-00563,2023-07-29,Piura,web,Perro,recordatorio mensual,1
+PA-00564,2023-07-29,Piura,web,Gato,ahorra y recibe,1
+PA-00565,2023-07-30,Piura,WhatsApp,Perro,sin plan,1
+PA-00566,2023-07-31,Lima,WhatsApp,Perro,sin plan,1
+PA-00567,2023-08-01,Lima,web,Gato,recordatorio mensual,1
+PA-00568,2023-08-05,Lima,web,Perro y gato,sin plan,0
+PA-00569,2023-08-06,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00570,2023-08-07,Lima,web,Perro,sin plan,1
+PA-00571,2023-08-08,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-00572,2023-08-09,Piura,app,Perro y gato,recordatorio mensual,1
+PA-00573,2023-08-09,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00574,2023-08-09,Lima,web,Perro,sin plan,1
+PA-00575,2023-08-10,Trujillo,web,Perro y gato,sin plan,1
+PA-00576,2023-08-11,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00577,2023-08-11,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00578,2023-08-13,Piura,app,Perro,sin plan,1
+PA-00579,2023-08-13,Piura,app,Gato,sin plan,0
+PA-00580,2023-08-14,Lima,web,Gato,sin plan,1
+PA-00581,2023-08-14,Lima,WhatsApp,Gato,sin plan,1
+PA-00582,2023-08-14,Lima,WhatsApp,Gato,sin plan,1
+PA-00583,2023-08-15,Lima,WhatsApp,Gato,sin plan,1
+PA-00584,2023-08-15,Piura,app,Perro,ahorra y recibe,1
+PA-00585,2023-08-16,Trujillo,web,Perro,sin plan,1
+PA-00586,2023-08-17,Piura,app,Perro,recordatorio mensual,1
+PA-00587,2023-08-18,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00588,2023-08-20,Lima,app,Perro,sin plan,0
+PA-00589,2023-08-22,Lima,WhatsApp,Perro,sin plan,1
+PA-00590,2023-08-23,Trujillo,app,Perro,sin plan,1
+PA-00591,2023-08-25,Lima,app,Perro y gato,ahorra y recibe,1
+PA-00592,2023-08-25,Piura,WhatsApp,Perro,sin plan,0
+PA-00593,2023-08-26,Lima,app,Perro,recordatorio mensual,0
+PA-00594,2023-08-27,Lima,web,Perro y gato,sin plan,1
+PA-00595,2023-08-27,Trujillo,app,Perro y gato,recordatorio mensual,1
+PA-00596,2023-08-27,Lima,web,Perro y gato,sin plan,1
+PA-00597,2023-08-30,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00598,2023-09-01,Lima,web,Perro,recordatorio mensual,1
+PA-00599,2023-09-04,Lima,app,Perro,sin plan,1
+PA-00600,2023-09-06,Lima,app,Gato,sin plan,0
+PA-00601,2023-09-07,Lima,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-00602,2023-09-09,Lima,app,Gato,sin plan,0
+PA-00603,2023-09-09,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00604,2023-09-10,Lima,web,Gato,sin plan,1
+PA-00605,2023-09-12,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-00606,2023-09-14,Lima,WhatsApp,Perro y gato,recordatorio mensual,0
+PA-00607,2023-09-15,Piura,WhatsApp,Perro y gato,sin plan,0
+PA-00608,2023-09-16,Trujillo,app,Perro,recordatorio mensual,1
+PA-00609,2023-09-16,Trujillo,app,Perro,ahorra y recibe,1
+PA-00610,2023-09-20,Piura,app,Perro,recordatorio mensual,1
+PA-00611,2023-09-21,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00612,2023-09-22,Lima,web,Perro y gato,ahorra y recibe,1
+PA-00613,2023-09-23,Piura,app,Gato,sin plan,1
+PA-00614,2023-09-24,Piura,app,Perro,sin plan,1
+PA-00615,2023-09-27,Piura,WhatsApp,Perro,recordatorio mensual,1
+PA-00616,2023-09-30,Trujillo,web,Perro,sin plan,1
+PA-00617,2023-09-30,Lima,app,Gato,sin plan,1
+PA-00618,2023-10-02,Lima,WhatsApp,Perro,sin plan,0
+PA-00619,2023-10-02,Lima,web,Perro y gato,sin plan,1
+PA-00620,2023-10-02,Lima,app,Gato,sin plan,1
+PA-00621,2023-10-02,Lima,WhatsApp,Gato,sin plan,1
+PA-00622,2023-10-02,Lima,app,Perro,sin plan,1
+PA-00623,2023-10-05,Lima,web,Perro,sin plan,1
+PA-00624,2023-10-05,Trujillo,app,Gato,sin plan,1
+PA-00625,2023-10-07,Trujillo,web,Perro,recordatorio mensual,1
+PA-00626,2023-10-07,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00627,2023-10-08,Lima,WhatsApp,Perro,sin plan,0
+PA-00628,2023-10-09,Lima,web,Gato,sin plan,1
+PA-00629,2023-10-09,Lima,app,Perro y gato,sin plan,1
+PA-00630,2023-10-09,Trujillo,WhatsApp,Perro y gato,sin plan,1
+PA-00631,2023-10-12,Lima,WhatsApp,Perro,sin plan,1
+PA-00632,2023-10-12,Lima,WhatsApp,Perro,sin plan,1
+PA-00633,2023-10-12,Lima,app,Perro y gato,sin plan,1
+PA-00634,2023-10-12,Lima,web,Perro y gato,sin plan,1
+PA-00635,2023-10-12,Lima,app,Perro,sin plan,1
+PA-00636,2023-10-12,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-00637,2023-10-13,Lima,web,Perro,recordatorio mensual,1
+PA-00638,2023-10-13,Lima,WhatsApp,Perro,sin plan,1
+PA-00639,2023-10-13,Lima,web,Perro,ahorra y recibe,1
+PA-00640,2023-10-14,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00641,2023-10-15,Piura,app,Perro y gato,sin plan,1
+PA-00642,2023-10-16,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00643,2023-10-18,Lima,web,Perro,ahorra y recibe,1
+PA-00644,2023-10-18,Piura,web,Perro,sin plan,1
+PA-00645,2023-10-19,Lima,app,Gato,recordatorio mensual,1
+PA-00646,2023-10-20,Lima,app,Perro,ahorra y recibe,1
+PA-00647,2023-10-20,Trujillo,web,Gato,sin plan,1
+PA-00648,2023-10-21,Trujillo,app,Gato,sin plan,1
+PA-00649,2023-10-22,Lima,app,Perro y gato,sin plan,1
+PA-00650,2023-10-22,Trujillo,app,Perro,sin plan,1
+PA-00651,2023-10-23,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-00652,2023-10-23,Trujillo,web,Gato,recordatorio mensual,1
+PA-00653,2023-10-24,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00654,2023-10-27,Lima,web,Perro,sin plan,1
+PA-00655,2023-10-27,Lima,WhatsApp,Perro,sin plan,1
+PA-00656,2023-10-27,Lima,WhatsApp,Perro,sin plan,1
+PA-00657,2023-10-27,Piura,WhatsApp,Perro,recordatorio mensual,1
+PA-00658,2023-10-28,Trujillo,web,Gato,sin plan,1
+PA-00659,2023-10-28,Trujillo,app,Perro y gato,sin plan,1
+PA-00660,2023-10-29,Piura,app,Perro,recordatorio mensual,1
+PA-00661,2023-10-29,Lima,WhatsApp,Gato,sin plan,1
+PA-00662,2023-10-30,Piura,app,Perro,sin plan,1
+PA-00663,2023-10-30,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00664,2023-10-31,Lima,app,Perro,sin plan,1
+PA-00665,2023-10-31,Piura,web,Perro,recordatorio mensual,1
+PA-00666,2023-11-01,Piura,web,Gato,ahorra y recibe,1
+PA-00667,2023-11-03,Lima,web,Perro,recordatorio mensual,1
+PA-00668,2023-11-03,Piura,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00669,2023-11-03,Lima,app,Perro,recordatorio mensual,1
+PA-00670,2023-11-04,Lima,web,Perro,sin plan,1
+PA-00671,2023-11-04,Lima,app,Perro,sin plan,1
+PA-00672,2023-11-05,Piura,app,Gato,sin plan,1
+PA-00673,2023-11-06,Lima,app,Perro,sin plan,1
+PA-00674,2023-11-06,Lima,WhatsApp,Perro,sin plan,1
+PA-00675,2023-11-06,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00676,2023-11-07,Lima,web,Perro,recordatorio mensual,1
+PA-00677,2023-11-07,Lima,web,Gato,ahorra y recibe,1
+PA-00678,2023-11-09,Lima,app,Gato,sin plan,1
+PA-00679,2023-11-10,Lima,web,Perro,sin plan,1
+PA-00680,2023-11-10,Lima,app,Gato,recordatorio mensual,1
+PA-00681,2023-11-10,Lima,app,Gato,sin plan,1
+PA-00682,2023-11-10,Trujillo,app,Perro y gato,recordatorio mensual,1
+PA-00683,2023-11-11,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00684,2023-11-12,Trujillo,web,Gato,sin plan,1
+PA-00685,2023-11-13,Lima,WhatsApp,Gato,sin plan,1
+PA-00686,2023-11-13,Piura,web,Perro y gato,recordatorio mensual,0
+PA-00687,2023-11-14,Lima,web,Perro,sin plan,1
+PA-00688,2023-11-15,Trujillo,WhatsApp,Perro,ahorra y recibe,1
+PA-00689,2023-11-15,Lima,app,Gato,sin plan,1
+PA-00690,2023-11-17,Lima,app,Perro,recordatorio mensual,1
+PA-00691,2023-11-17,Trujillo,WhatsApp,Perro,ahorra y recibe,1
+PA-00692,2023-11-17,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00693,2023-11-19,Trujillo,web,Perro y gato,sin plan,0
+PA-00694,2023-11-20,Lima,app,Gato,sin plan,1
+PA-00695,2023-11-20,Trujillo,app,Gato,sin plan,1
+PA-00696,2023-11-21,Lima,app,Perro y gato,recordatorio mensual,1
+PA-00697,2023-11-22,Trujillo,web,Perro,sin plan,1
+PA-00698,2023-11-22,Lima,web,Perro y gato,sin plan,0
+PA-00699,2023-11-22,Trujillo,app,Gato,recordatorio mensual,1
+PA-00700,2023-11-24,Lima,app,Perro y gato,ahorra y recibe,1
+PA-00701,2023-11-24,Lima,web,Perro,sin plan,1
+PA-00702,2023-11-25,Trujillo,app,Perro,recordatorio mensual,1
+PA-00703,2023-11-27,Lima,app,Gato,sin plan,1
+PA-00704,2023-11-30,Trujillo,web,Perro,sin plan,1
+PA-00705,2023-12-01,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00706,2023-12-01,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-00707,2023-12-01,Lima,web,Gato,sin plan,1
+PA-00708,2023-12-01,Lima,web,Perro,recordatorio mensual,1
+PA-00709,2023-12-04,Trujillo,app,Gato,sin plan,1
+PA-00710,2023-12-04,Piura,web,Gato,ahorra y recibe,1
+PA-00711,2023-12-04,Trujillo,app,Perro,recordatorio mensual,1
+PA-00712,2023-12-05,Piura,app,Gato,sin plan,1
+PA-00713,2023-12-05,Piura,web,Perro,sin plan,0
+PA-00714,2023-12-05,Piura,WhatsApp,Perro,recordatorio mensual,1
+PA-00715,2023-12-06,Trujillo,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-00716,2023-12-08,Lima,app,Perro,ahorra y recibe,1
+PA-00717,2023-12-08,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00718,2023-12-08,Trujillo,web,Perro,recordatorio mensual,1
+PA-00719,2023-12-10,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00720,2023-12-10,Lima,app,Perro,sin plan,1
+PA-00721,2023-12-10,Lima,WhatsApp,Gato,sin plan,1
+PA-00722,2023-12-11,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-00723,2023-12-13,Trujillo,web,Perro y gato,ahorra y recibe,1
+PA-00724,2023-12-13,Trujillo,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00725,2023-12-14,Piura,web,Perro,sin plan,1
+PA-00726,2023-12-14,Lima,WhatsApp,Gato,sin plan,1
+PA-00727,2023-12-16,Piura,app,Perro,sin plan,0
+PA-00728,2023-12-19,Lima,WhatsApp,Gato,sin plan,1
+PA-00729,2023-12-19,Piura,app,Perro,sin plan,1
+PA-00730,2023-12-20,Lima,web,Perro y gato,sin plan,1
+PA-00731,2023-12-21,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00732,2023-12-21,Lima,app,Perro,ahorra y recibe,1
+PA-00733,2023-12-21,Piura,WhatsApp,Perro,recordatorio mensual,1
+PA-00734,2023-12-23,Trujillo,WhatsApp,Perro,ahorra y recibe,1
+PA-00735,2023-12-24,Lima,app,Gato,recordatorio mensual,1
+PA-00736,2023-12-25,Lima,app,Gato,ahorra y recibe,0
+PA-00737,2023-12-26,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00738,2023-12-30,Trujillo,app,Perro y gato,sin plan,1
+PA-00739,2024-01-02,Piura,web,Perro,sin plan,1
+PA-00740,2024-01-02,Lima,web,Perro,recordatorio mensual,0
+PA-00741,2024-01-02,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00742,2024-01-02,Lima,app,Perro,sin plan,1
+PA-00743,2024-01-04,Lima,WhatsApp,Perro,sin plan,1
+PA-00744,2024-01-05,Trujillo,WhatsApp,Gato,ahorra y recibe,1
+PA-00745,2024-01-06,Piura,web,Gato,sin plan,1
+PA-00746,2024-01-06,Trujillo,app,Perro,recordatorio mensual,1
+PA-00747,2024-01-06,Lima,web,Perro,ahorra y recibe,1
+PA-00748,2024-01-06,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00749,2024-01-07,Trujillo,app,Perro y gato,ahorra y recibe,1
+PA-00750,2024-01-08,Lima,web,Perro,sin plan,1
+PA-00751,2024-01-11,Trujillo,app,Perro y gato,ahorra y recibe,1
+PA-00752,2024-01-13,Trujillo,web,Perro,sin plan,1
+PA-00753,2024-01-14,Lima,web,Gato,recordatorio mensual,1
+PA-00754,2024-01-14,Piura,app,Perro,ahorra y recibe,1
+PA-00755,2024-01-14,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-00756,2024-01-16,Piura,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00757,2024-01-16,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00758,2024-01-16,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-00759,2024-01-17,Piura,web,Perro,sin plan,1
+PA-00760,2024-01-18,Lima,app,Gato,sin plan,1
+PA-00761,2024-01-18,Lima,web,Perro y gato,sin plan,1
+PA-00762,2024-01-18,Lima,app,Perro,recordatorio mensual,1
+PA-00763,2024-01-19,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00764,2024-01-20,Lima,web,Perro y gato,ahorra y recibe,1
+PA-00765,2024-01-21,Lima,web,Perro,recordatorio mensual,1
+PA-00766,2024-01-22,Trujillo,app,Perro y gato,sin plan,1
+PA-00767,2024-01-22,Piura,app,Perro,recordatorio mensual,1
+PA-00768,2024-01-23,Trujillo,web,Perro,sin plan,1
+PA-00769,2024-01-24,Trujillo,app,Gato,sin plan,1
+PA-00770,2024-01-27,Trujillo,web,Perro y gato,sin plan,0
+PA-00771,2024-01-27,Lima,app,Perro,recordatorio mensual,0
+PA-00772,2024-01-28,Trujillo,web,Gato,sin plan,1
+PA-00773,2024-01-28,Trujillo,web,Perro,recordatorio mensual,1
+PA-00774,2024-01-29,Lima,WhatsApp,Perro,sin plan,1
+PA-00775,2024-01-29,Lima,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-00776,2024-01-31,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00777,2024-02-01,Piura,app,Perro y gato,sin plan,1
+PA-00778,2024-02-01,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00779,2024-02-05,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00780,2024-02-06,Piura,web,Perro y gato,recordatorio mensual,1
+PA-00781,2024-02-08,Lima,app,Perro,sin plan,1
+PA-00782,2024-02-08,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00783,2024-02-08,Piura,web,Perro,sin plan,1
+PA-00784,2024-02-08,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00785,2024-02-09,Lima,app,Gato,sin plan,1
+PA-00786,2024-02-10,Piura,web,Perro,sin plan,1
+PA-00787,2024-02-12,Lima,app,Gato,sin plan,1
+PA-00788,2024-02-18,Piura,WhatsApp,Gato,recordatorio mensual,1
+PA-00789,2024-02-18,Lima,WhatsApp,Gato,ahorra y recibe,0
+PA-00790,2024-02-20,Piura,app,Perro,ahorra y recibe,1
+PA-00791,2024-02-21,Trujillo,web,Gato,recordatorio mensual,1
+PA-00792,2024-02-22,Lima,web,Perro,sin plan,1
+PA-00793,2024-02-23,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-00794,2024-02-23,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-00795,2024-02-24,Trujillo,web,Gato,sin plan,1
+PA-00796,2024-02-25,Lima,app,Perro,sin plan,1
+PA-00797,2024-02-27,Lima,app,Perro,sin plan,1
+PA-00798,2024-02-29,Lima,web,Perro,ahorra y recibe,1
+PA-00799,2024-03-01,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00800,2024-03-02,Trujillo,web,Perro,sin plan,1
+PA-00801,2024-03-02,Lima,app,Gato,recordatorio mensual,1
+PA-00802,2024-03-02,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00803,2024-03-03,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00804,2024-03-03,Lima,app,Perro,sin plan,1
+PA-00805,2024-03-04,Piura,app,Gato,recordatorio mensual,1
+PA-00806,2024-03-04,Lima,app,Gato,sin plan,1
+PA-00807,2024-03-05,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00808,2024-03-05,Lima,app,Gato,recordatorio mensual,1
+PA-00809,2024-03-07,Lima,web,Gato,sin plan,1
+PA-00810,2024-03-07,Piura,web,Perro,sin plan,1
+PA-00811,2024-03-07,Lima,web,Perro,sin plan,1
+PA-00812,2024-03-07,Lima,web,Gato,sin plan,1
+PA-00813,2024-03-08,Trujillo,app,Gato,sin plan,1
+PA-00814,2024-03-09,Lima,web,Perro,ahorra y recibe,1
+PA-00815,2024-03-09,Piura,WhatsApp,Perro,sin plan,1
+PA-00816,2024-03-10,Lima,web,Perro,recordatorio mensual,1
+PA-00817,2024-03-11,Lima,app,Perro,ahorra y recibe,1
+PA-00818,2024-03-13,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00819,2024-03-14,Piura,WhatsApp,Gato,sin plan,1
+PA-00820,2024-03-15,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00821,2024-03-17,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00822,2024-03-18,Lima,web,Perro y gato,sin plan,1
+PA-00823,2024-03-20,Trujillo,WhatsApp,Perro y gato,sin plan,1
+PA-00824,2024-03-20,Lima,app,Perro,ahorra y recibe,1
+PA-00825,2024-03-20,Lima,app,Perro,sin plan,1
+PA-00826,2024-03-20,Trujillo,app,Gato,sin plan,1
+PA-00827,2024-03-21,Lima,app,Perro y gato,sin plan,1
+PA-00828,2024-03-22,Lima,app,Gato,sin plan,1
+PA-00829,2024-03-23,Lima,web,Perro y gato,sin plan,1
+PA-00830,2024-03-23,Trujillo,app,Gato,sin plan,1
+PA-00831,2024-03-23,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-00832,2024-03-23,Lima,app,Gato,ahorra y recibe,1
+PA-00833,2024-03-24,Trujillo,web,Perro,sin plan,1
+PA-00834,2024-03-24,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00835,2024-03-25,Piura,web,Gato,sin plan,1
+PA-00836,2024-03-28,Trujillo,web,Perro,sin plan,1
+PA-00837,2024-03-28,Piura,web,Gato,sin plan,1
+PA-00838,2024-03-28,Piura,WhatsApp,Perro,sin plan,1
+PA-00839,2024-03-30,Trujillo,web,Gato,recordatorio mensual,1
+PA-00840,2024-03-30,Lima,app,Perro,recordatorio mensual,1
+PA-00841,2024-03-31,Lima,web,Perro,ahorra y recibe,1
+PA-00842,2024-04-01,Lima,WhatsApp,Gato,sin plan,1
+PA-00843,2024-04-01,Lima,app,Perro,sin plan,1
+PA-00844,2024-04-01,Lima,web,Perro y gato,sin plan,1
+PA-00845,2024-04-01,Lima,web,Perro,sin plan,1
+PA-00846,2024-04-01,Lima,app,Perro y gato,recordatorio mensual,1
+PA-00847,2024-04-02,Lima,app,Gato,sin plan,1
+PA-00848,2024-04-03,Lima,WhatsApp,Gato,sin plan,1
+PA-00849,2024-04-04,Piura,app,Gato,sin plan,1
+PA-00850,2024-04-05,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-00851,2024-04-09,Lima,web,Gato,recordatorio mensual,1
+PA-00852,2024-04-09,Lima,app,Perro,recordatorio mensual,1
+PA-00853,2024-04-10,Piura,web,Perro,sin plan,1
+PA-00854,2024-04-11,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-00855,2024-04-11,Piura,web,Perro,sin plan,1
+PA-00856,2024-04-12,Lima,app,Perro,sin plan,1
+PA-00857,2024-04-13,Lima,app,Perro y gato,ahorra y recibe,1
+PA-00858,2024-04-13,Trujillo,web,Perro y gato,sin plan,1
+PA-00859,2024-04-14,Lima,app,Perro,recordatorio mensual,1
+PA-00860,2024-04-14,Lima,app,Perro,sin plan,1
+PA-00861,2024-04-14,Lima,web,Gato,sin plan,1
+PA-00862,2024-04-14,Trujillo,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00863,2024-04-15,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00864,2024-04-15,Piura,web,Perro,sin plan,1
+PA-00865,2024-04-15,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00866,2024-04-19,Lima,app,Gato,recordatorio mensual,1
+PA-00867,2024-04-21,Piura,WhatsApp,Gato,sin plan,1
+PA-00868,2024-04-21,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00869,2024-04-23,Lima,web,Perro,sin plan,1
+PA-00870,2024-04-23,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00871,2024-04-24,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00872,2024-04-25,Lima,web,Perro,sin plan,1
+PA-00873,2024-04-26,Trujillo,web,Perro,recordatorio mensual,1
+PA-00874,2024-04-26,Piura,app,Gato,ahorra y recibe,1
+PA-00875,2024-04-27,Lima,app,Perro,sin plan,1
+PA-00876,2024-04-27,Lima,app,Gato,sin plan,1
+PA-00877,2024-04-29,Trujillo,web,Perro,recordatorio mensual,0
+PA-00878,2024-05-03,Piura,web,Perro y gato,recordatorio mensual,1
+PA-00879,2024-05-06,Trujillo,web,Perro,sin plan,1
+PA-00880,2024-05-07,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00881,2024-05-07,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00882,2024-05-08,Lima,web,Gato,ahorra y recibe,0
+PA-00883,2024-05-08,Lima,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-00884,2024-05-08,Lima,web,Perro y gato,sin plan,1
+PA-00885,2024-05-10,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00886,2024-05-11,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-00887,2024-05-11,Trujillo,web,Perro,sin plan,1
+PA-00888,2024-05-15,Lima,app,Perro,recordatorio mensual,1
+PA-00889,2024-05-15,Lima,web,Gato,sin plan,1
+PA-00890,2024-05-17,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00891,2024-05-17,Lima,app,Perro y gato,ahorra y recibe,1
+PA-00892,2024-05-17,Lima,WhatsApp,Perro,sin plan,1
+PA-00893,2024-05-18,Lima,WhatsApp,Perro,sin plan,1
+PA-00894,2024-05-18,Lima,app,Perro,recordatorio mensual,1
+PA-00895,2024-05-18,Lima,web,Gato,sin plan,1
+PA-00896,2024-05-19,Lima,WhatsApp,Perro,sin plan,1
+PA-00897,2024-05-20,Trujillo,web,Perro,sin plan,1
+PA-00898,2024-05-22,Lima,WhatsApp,Perro,sin plan,1
+PA-00899,2024-05-23,Lima,web,Gato,recordatorio mensual,1
+PA-00900,2024-05-24,Trujillo,WhatsApp,Perro,sin plan,1
+PA-00901,2024-05-26,Lima,web,Gato,sin plan,1
+PA-00902,2024-05-26,Piura,WhatsApp,Gato,recordatorio mensual,1
+PA-00903,2024-05-27,Lima,web,Perro,recordatorio mensual,1
+PA-00904,2024-05-29,Lima,app,Perro,ahorra y recibe,1
+PA-00905,2024-06-01,Trujillo,app,Perro,sin plan,1
+PA-00906,2024-06-02,Lima,WhatsApp,Gato,sin plan,1
+PA-00907,2024-06-02,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00908,2024-06-03,Trujillo,app,Perro,sin plan,1
+PA-00909,2024-06-03,Lima,web,Gato,ahorra y recibe,1
+PA-00910,2024-06-03,Lima,app,Perro,sin plan,1
+PA-00911,2024-06-04,Lima,app,Perro,sin plan,1
+PA-00912,2024-06-05,Lima,app,Gato,sin plan,0
+PA-00913,2024-06-06,Trujillo,web,Gato,sin plan,1
+PA-00914,2024-06-06,Lima,app,Perro y gato,sin plan,1
+PA-00915,2024-06-07,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00916,2024-06-08,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-00917,2024-06-09,Piura,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00918,2024-06-10,Trujillo,app,Gato,sin plan,1
+PA-00919,2024-06-11,Lima,web,Gato,ahorra y recibe,1
+PA-00920,2024-06-11,Lima,web,Gato,sin plan,1
+PA-00921,2024-06-12,Lima,web,Perro,sin plan,1
+PA-00922,2024-06-13,Trujillo,app,Gato,recordatorio mensual,1
+PA-00923,2024-06-13,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00924,2024-06-13,Trujillo,web,Gato,ahorra y recibe,1
+PA-00925,2024-06-14,Lima,WhatsApp,Perro,sin plan,1
+PA-00926,2024-06-14,Trujillo,app,Perro,ahorra y recibe,1
+PA-00927,2024-06-17,Trujillo,web,Perro,sin plan,1
+PA-00928,2024-06-18,Lima,web,Gato,ahorra y recibe,1
+PA-00929,2024-06-18,Trujillo,web,Gato,recordatorio mensual,1
+PA-00930,2024-06-20,Trujillo,app,Perro y gato,sin plan,1
+PA-00931,2024-06-20,Lima,web,Gato,sin plan,1
+PA-00932,2024-06-21,Piura,WhatsApp,Perro,recordatorio mensual,1
+PA-00933,2024-06-23,Lima,app,Perro y gato,recordatorio mensual,1
+PA-00934,2024-06-27,Lima,web,Perro,recordatorio mensual,1
+PA-00935,2024-06-27,Lima,web,Perro y gato,ahorra y recibe,1
+PA-00936,2024-06-29,Piura,app,Perro,sin plan,1
+PA-00937,2024-06-29,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-00938,2024-06-30,Lima,WhatsApp,Perro,sin plan,1
+PA-00939,2024-06-30,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00940,2024-07-01,Lima,web,Gato,sin plan,1
+PA-00941,2024-07-01,Piura,WhatsApp,Perro,sin plan,1
+PA-00942,2024-07-01,Lima,web,Perro,sin plan,1
+PA-00943,2024-07-03,Piura,app,Gato,recordatorio mensual,1
+PA-00944,2024-07-03,Lima,app,Perro y gato,sin plan,0
+PA-00945,2024-07-03,Trujillo,app,Perro,recordatorio mensual,1
+PA-00946,2024-07-05,Trujillo,WhatsApp,Perro,recordatorio mensual,0
+PA-00947,2024-07-06,Trujillo,WhatsApp,Perro,ahorra y recibe,1
+PA-00948,2024-07-06,Lima,web,Gato,sin plan,1
+PA-00949,2024-07-07,Trujillo,WhatsApp,Gato,ahorra y recibe,1
+PA-00950,2024-07-09,Trujillo,app,Gato,sin plan,1
+PA-00951,2024-07-10,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-00952,2024-07-10,Lima,web,Gato,sin plan,1
+PA-00953,2024-07-11,Trujillo,web,Perro,sin plan,1
+PA-00954,2024-07-12,Lima,app,Gato,sin plan,1
+PA-00955,2024-07-13,Piura,WhatsApp,Gato,sin plan,1
+PA-00956,2024-07-14,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-00957,2024-07-14,Lima,WhatsApp,Perro,sin plan,1
+PA-00958,2024-07-16,Lima,web,Perro,sin plan,1
+PA-00959,2024-07-18,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-00960,2024-07-19,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00961,2024-07-20,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00962,2024-07-21,Lima,WhatsApp,Perro,recordatorio mensual,0
+PA-00963,2024-07-21,Trujillo,web,Gato,sin plan,1
+PA-00964,2024-07-22,Lima,app,Perro,ahorra y recibe,1
+PA-00965,2024-07-23,Piura,WhatsApp,Perro,ahorra y recibe,1
+PA-00966,2024-07-23,Lima,WhatsApp,Gato,sin plan,1
+PA-00967,2024-07-24,Lima,web,Perro,ahorra y recibe,1
+PA-00968,2024-07-25,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00969,2024-07-26,Lima,WhatsApp,Perro,sin plan,1
+PA-00970,2024-07-27,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00971,2024-07-27,Piura,app,Perro,recordatorio mensual,1
+PA-00972,2024-07-30,Lima,web,Perro,recordatorio mensual,1
+PA-00973,2024-07-30,Lima,web,Perro y gato,recordatorio mensual,1
+PA-00974,2024-07-31,Piura,web,Perro,sin plan,1
+PA-00975,2024-07-31,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-00976,2024-08-01,Trujillo,app,Gato,sin plan,1
+PA-00977,2024-08-01,Trujillo,web,Perro,recordatorio mensual,1
+PA-00978,2024-08-01,Trujillo,web,Perro,sin plan,1
+PA-00979,2024-08-01,Trujillo,web,Perro,sin plan,1
+PA-00980,2024-08-05,Lima,web,Perro,ahorra y recibe,0
+PA-00981,2024-08-07,Lima,app,Perro y gato,sin plan,1
+PA-00982,2024-08-07,Trujillo,WhatsApp,Gato,sin plan,1
+PA-00983,2024-08-08,Lima,WhatsApp,Perro,sin plan,1
+PA-00984,2024-08-10,Lima,web,Perro,recordatorio mensual,1
+PA-00985,2024-08-11,Trujillo,WhatsApp,Perro,sin plan,0
+PA-00986,2024-08-11,Trujillo,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00987,2024-08-12,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00988,2024-08-13,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-00989,2024-08-15,Lima,app,Gato,sin plan,1
+PA-00990,2024-08-16,Lima,app,Gato,sin plan,1
+PA-00991,2024-08-17,Lima,app,Perro y gato,sin plan,1
+PA-00992,2024-08-18,Lima,web,Perro,recordatorio mensual,1
+PA-00993,2024-08-18,Trujillo,web,Gato,recordatorio mensual,1
+PA-00994,2024-08-18,Lima,WhatsApp,Gato,sin plan,1
+PA-00995,2024-08-18,Lima,WhatsApp,Gato,sin plan,1
+PA-00996,2024-08-19,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-00997,2024-08-20,Trujillo,web,Gato,recordatorio mensual,1
+PA-00998,2024-08-20,Piura,app,Gato,ahorra y recibe,1
+PA-00999,2024-08-23,Lima,WhatsApp,Perro,sin plan,0
+PA-01000,2024-08-26,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01001,2024-08-26,Lima,web,Gato,recordatorio mensual,1
+PA-01002,2024-08-26,Piura,web,Perro y gato,recordatorio mensual,0
+PA-01003,2024-08-26,Lima,app,Perro y gato,sin plan,1
+PA-01004,2024-08-26,Trujillo,web,Gato,sin plan,1
+PA-01005,2024-08-26,Lima,web,Gato,recordatorio mensual,1
+PA-01006,2024-08-27,Lima,app,Gato,sin plan,1
+PA-01007,2024-08-28,Lima,web,Gato,sin plan,1
+PA-01008,2024-08-28,Lima,web,Gato,recordatorio mensual,1
+PA-01009,2024-08-29,Piura,app,Perro,sin plan,0
+PA-01010,2024-08-29,Lima,web,Gato,sin plan,1
+PA-01011,2024-08-30,Lima,web,Perro y gato,ahorra y recibe,1
+PA-01012,2024-09-01,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01013,2024-09-02,Trujillo,web,Perro y gato,sin plan,1
+PA-01014,2024-09-04,Lima,app,Perro y gato,sin plan,1
+PA-01015,2024-09-04,Lima,web,Perro,recordatorio mensual,1
+PA-01016,2024-09-04,Piura,WhatsApp,Perro,recordatorio mensual,1
+PA-01017,2024-09-05,Lima,web,Perro,sin plan,1
+PA-01018,2024-09-05,Lima,app,Gato,recordatorio mensual,1
+PA-01019,2024-09-06,Lima,web,Perro,sin plan,1
+PA-01020,2024-09-06,Lima,app,Perro,recordatorio mensual,1
+PA-01021,2024-09-07,Lima,WhatsApp,Perro,sin plan,1
+PA-01022,2024-09-08,Lima,app,Perro,recordatorio mensual,1
+PA-01023,2024-09-08,Lima,web,Perro,sin plan,1
+PA-01024,2024-09-10,Trujillo,app,Perro,sin plan,1
+PA-01025,2024-09-11,Trujillo,web,Perro y gato,sin plan,1
+PA-01026,2024-09-11,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-01027,2024-09-11,Trujillo,web,Gato,recordatorio mensual,1
+PA-01028,2024-09-11,Piura,app,Perro,ahorra y recibe,1
+PA-01029,2024-09-13,Piura,web,Gato,recordatorio mensual,1
+PA-01030,2024-09-13,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-01031,2024-09-14,Lima,web,Perro,sin plan,1
+PA-01032,2024-09-17,Piura,WhatsApp,Perro,sin plan,1
+PA-01033,2024-09-18,Lima,app,Gato,ahorra y recibe,1
+PA-01034,2024-09-19,Lima,WhatsApp,Perro,sin plan,1
+PA-01035,2024-09-19,Trujillo,app,Gato,recordatorio mensual,1
+PA-01036,2024-09-20,Lima,app,Gato,sin plan,1
+PA-01037,2024-09-21,Lima,app,Perro,sin plan,1
+PA-01038,2024-09-22,Lima,web,Perro y gato,recordatorio mensual,1
+PA-01039,2024-09-22,Trujillo,app,Perro y gato,recordatorio mensual,1
+PA-01040,2024-09-23,Trujillo,app,Gato,recordatorio mensual,1
+PA-01041,2024-09-25,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01042,2024-09-25,Trujillo,web,Perro,sin plan,1
+PA-01043,2024-09-26,Lima,app,Perro,ahorra y recibe,1
+PA-01044,2024-09-27,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01045,2024-09-28,Lima,WhatsApp,Perro,sin plan,1
+PA-01046,2024-09-29,Piura,web,Perro,sin plan,1
+PA-01047,2024-09-29,Lima,web,Gato,sin plan,1
+PA-01048,2024-09-30,Lima,app,Gato,recordatorio mensual,1
+PA-01049,2024-09-30,Lima,web,Perro,sin plan,1
+PA-01050,2024-09-30,Lima,web,Perro,sin plan,0
+PA-01051,2024-09-30,Lima,WhatsApp,Gato,sin plan,1
+PA-01052,2024-10-01,Piura,app,Perro,sin plan,1
+PA-01053,2024-10-03,Lima,WhatsApp,Perro,sin plan,1
+PA-01054,2024-10-04,Lima,web,Gato,sin plan,0
+PA-01055,2024-10-06,Lima,app,Perro,sin plan,1
+PA-01056,2024-10-06,Lima,web,Perro,ahorra y recibe,1
+PA-01057,2024-10-08,Lima,WhatsApp,Perro,sin plan,1
+PA-01058,2024-10-08,Lima,web,Perro,ahorra y recibe,1
+PA-01059,2024-10-08,Lima,web,Perro y gato,sin plan,1
+PA-01060,2024-10-08,Lima,web,Gato,ahorra y recibe,1
+PA-01061,2024-10-10,Lima,app,Perro,sin plan,1
+PA-01062,2024-10-11,Trujillo,web,Perro,sin plan,1
+PA-01063,2024-10-12,Trujillo,app,Perro,sin plan,1
+PA-01064,2024-10-12,Lima,web,Perro y gato,recordatorio mensual,1
+PA-01065,2024-10-12,Lima,app,Perro y gato,recordatorio mensual,1
+PA-01066,2024-10-13,Lima,app,Perro,sin plan,1
+PA-01067,2024-10-14,Piura,WhatsApp,Gato,ahorra y recibe,1
+PA-01068,2024-10-14,Lima,web,Perro,ahorra y recibe,1
+PA-01069,2024-10-16,Lima,WhatsApp,Perro,sin plan,1
+PA-01070,2024-10-16,Lima,app,Perro,sin plan,1
+PA-01071,2024-10-17,Lima,app,Perro,sin plan,1
+PA-01072,2024-10-17,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-01073,2024-10-17,Trujillo,app,Gato,sin plan,1
+PA-01074,2024-10-18,Piura,web,Gato,sin plan,1
+PA-01075,2024-10-18,Lima,web,Perro y gato,recordatorio mensual,1
+PA-01076,2024-10-19,Trujillo,web,Gato,sin plan,1
+PA-01077,2024-10-19,Trujillo,app,Gato,sin plan,1
+PA-01078,2024-10-19,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-01079,2024-10-19,Lima,app,Perro,ahorra y recibe,1
+PA-01080,2024-10-19,Trujillo,app,Perro,sin plan,1
+PA-01081,2024-10-20,Lima,app,Gato,sin plan,1
+PA-01082,2024-10-20,Lima,web,Perro,sin plan,0
+PA-01083,2024-10-21,Lima,web,Gato,sin plan,1
+PA-01084,2024-10-23,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01085,2024-10-24,Piura,app,Gato,sin plan,0
+PA-01086,2024-10-24,Trujillo,web,Perro,sin plan,1
+PA-01087,2024-10-25,Trujillo,app,Perro,recordatorio mensual,1
+PA-01088,2024-10-27,Piura,web,Perro,sin plan,1
+PA-01089,2024-10-28,Lima,web,Perro,sin plan,1
+PA-01090,2024-10-30,Piura,WhatsApp,Perro,recordatorio mensual,1
+PA-01091,2024-10-30,Trujillo,web,Gato,sin plan,1
+PA-01092,2024-10-30,Lima,WhatsApp,Gato,sin plan,1
+PA-01093,2024-11-02,Lima,web,Gato,ahorra y recibe,1
+PA-01094,2024-11-04,Lima,WhatsApp,Perro,sin plan,1
+PA-01095,2024-11-04,Piura,app,Gato,sin plan,1
+PA-01096,2024-11-05,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01097,2024-11-05,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01098,2024-11-06,Trujillo,web,Perro,sin plan,1
+PA-01099,2024-11-07,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-01100,2024-11-07,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-01101,2024-11-09,Lima,web,Perro,sin plan,1
+PA-01102,2024-11-09,Piura,web,Perro,ahorra y recibe,1
+PA-01103,2024-11-09,Lima,app,Perro y gato,sin plan,1
+PA-01104,2024-11-10,Trujillo,app,Gato,recordatorio mensual,1
+PA-01105,2024-11-10,Lima,app,Gato,recordatorio mensual,1
+PA-01106,2024-11-11,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01107,2024-11-11,Lima,web,Perro y gato,ahorra y recibe,1
+PA-01108,2024-11-11,Lima,web,Gato,sin plan,1
+PA-01109,2024-11-12,Lima,app,Perro,sin plan,1
+PA-01110,2024-11-13,Trujillo,web,Gato,sin plan,0
+PA-01111,2024-11-15,Lima,app,Gato,recordatorio mensual,1
+PA-01112,2024-11-17,Lima,app,Perro,sin plan,1
+PA-01113,2024-11-18,Lima,WhatsApp,Gato,sin plan,1
+PA-01114,2024-11-18,Piura,WhatsApp,Perro,ahorra y recibe,1
+PA-01115,2024-11-19,Piura,web,Perro,recordatorio mensual,1
+PA-01116,2024-11-20,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01117,2024-11-21,Piura,app,Perro y gato,recordatorio mensual,0
+PA-01118,2024-11-22,Lima,WhatsApp,Perro,sin plan,1
+PA-01119,2024-11-22,Lima,app,Perro,recordatorio mensual,1
+PA-01120,2024-11-22,Lima,app,Perro,sin plan,1
+PA-01121,2024-11-23,Piura,WhatsApp,Perro y gato,sin plan,1
+PA-01122,2024-11-25,Lima,web,Perro,sin plan,1
+PA-01123,2024-11-25,Lima,app,Perro,ahorra y recibe,1
+PA-01124,2024-11-25,Trujillo,web,Perro,recordatorio mensual,1
+PA-01125,2024-11-26,Lima,app,Gato,sin plan,1
+PA-01126,2024-11-27,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01127,2024-11-29,Lima,app,Gato,recordatorio mensual,1
+PA-01128,2024-11-30,Lima,app,Perro,recordatorio mensual,1
+PA-01129,2024-12-03,Piura,app,Perro,sin plan,1
+PA-01130,2024-12-03,Trujillo,app,Perro,recordatorio mensual,1
+PA-01131,2024-12-04,Lima,web,Perro y gato,ahorra y recibe,1
+PA-01132,2024-12-05,Lima,web,Gato,ahorra y recibe,1
+PA-01133,2024-12-05,Piura,web,Perro y gato,ahorra y recibe,1
+PA-01134,2024-12-05,Trujillo,web,Perro,sin plan,0
+PA-01135,2024-12-06,Trujillo,app,Perro,recordatorio mensual,1
+PA-01136,2024-12-07,Lima,app,Perro y gato,ahorra y recibe,1
+PA-01137,2024-12-07,Piura,app,Perro y gato,sin plan,0
+PA-01138,2024-12-07,Lima,web,Gato,ahorra y recibe,1
+PA-01139,2024-12-07,Lima,app,Gato,ahorra y recibe,1
+PA-01140,2024-12-08,Lima,web,Perro,ahorra y recibe,1
+PA-01141,2024-12-10,Piura,web,Gato,sin plan,1
+PA-01142,2024-12-10,Lima,app,Perro,sin plan,1
+PA-01143,2024-12-10,Lima,app,Perro,ahorra y recibe,1
+PA-01144,2024-12-11,Trujillo,web,Gato,sin plan,1
+PA-01145,2024-12-11,Lima,WhatsApp,Gato,sin plan,1
+PA-01146,2024-12-13,Trujillo,app,Perro y gato,sin plan,1
+PA-01147,2024-12-13,Lima,web,Perro y gato,sin plan,1
+PA-01148,2024-12-13,Trujillo,web,Gato,recordatorio mensual,1
+PA-01149,2024-12-14,Trujillo,web,Gato,sin plan,1
+PA-01150,2024-12-14,Lima,app,Perro,sin plan,1
+PA-01151,2024-12-14,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01152,2024-12-14,Lima,web,Perro,sin plan,1
+PA-01153,2024-12-15,Lima,web,Gato,sin plan,1
+PA-01154,2024-12-15,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-01155,2024-12-15,Lima,WhatsApp,Gato,sin plan,0
+PA-01156,2024-12-17,Lima,web,Gato,sin plan,1
+PA-01157,2024-12-17,Trujillo,app,Perro,sin plan,1
+PA-01158,2024-12-18,Lima,web,Perro,ahorra y recibe,1
+PA-01159,2024-12-19,Trujillo,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-01160,2024-12-19,Lima,web,Perro y gato,sin plan,0
+PA-01161,2024-12-21,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01162,2024-12-23,Trujillo,web,Perro,sin plan,1
+PA-01163,2024-12-23,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01164,2024-12-24,Trujillo,WhatsApp,Perro y gato,sin plan,1
+PA-01165,2024-12-24,Lima,web,Perro,sin plan,1
+PA-01166,2024-12-24,Lima,app,Perro y gato,sin plan,1
+PA-01167,2024-12-25,Piura,app,Perro,sin plan,1
+PA-01168,2024-12-26,Piura,web,Gato,recordatorio mensual,0
+PA-01169,2024-12-26,Lima,web,Perro,sin plan,1
+PA-01170,2024-12-27,Trujillo,web,Perro,recordatorio mensual,1
+PA-01171,2024-12-27,Trujillo,web,Perro,sin plan,1
+PA-01172,2024-12-27,Trujillo,app,Gato,recordatorio mensual,1
+PA-01173,2024-12-28,Lima,web,Perro,sin plan,1
+PA-01174,2024-12-28,Lima,app,Perro,ahorra y recibe,1
+PA-01175,2024-12-28,Piura,web,Gato,sin plan,0
+PA-01176,2024-12-28,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01177,2024-12-29,Trujillo,web,Gato,sin plan,1
+PA-01178,2024-12-29,Lima,web,Gato,sin plan,1
+PA-01179,2024-12-29,Piura,app,Perro,ahorra y recibe,1
+PA-01180,2024-12-29,Lima,app,Gato,sin plan,0
+PA-01181,2024-12-30,Trujillo,web,Gato,sin plan,1
+PA-01182,2024-12-30,Piura,app,Gato,sin plan,1
+PA-01183,2024-12-30,Lima,web,Perro,sin plan,1
+PA-01184,2024-12-30,Lima,WhatsApp,Perro y gato,sin plan,0
+PA-01185,2024-12-30,Lima,WhatsApp,Perro,sin plan,1
+PA-01186,2024-12-31,Trujillo,web,Perro,recordatorio mensual,1
+PA-01187,2025-01-01,Lima,web,Gato,sin plan,1
+PA-01188,2025-01-02,Trujillo,app,Perro,ahorra y recibe,1
+PA-01189,2025-01-03,Trujillo,web,Gato,ahorra y recibe,1
+PA-01190,2025-01-06,Piura,WhatsApp,Perro,sin plan,1
+PA-01191,2025-01-06,Lima,app,Gato,sin plan,1
+PA-01192,2025-01-07,Piura,app,Gato,ahorra y recibe,1
+PA-01193,2025-01-07,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01194,2025-01-07,Lima,web,Perro,recordatorio mensual,1
+PA-01195,2025-01-08,Trujillo,web,Perro y gato,sin plan,1
+PA-01196,2025-01-08,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01197,2025-01-11,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01198,2025-01-11,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-01199,2025-01-11,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-01200,2025-01-12,Piura,WhatsApp,Gato,ahorra y recibe,1
+PA-01201,2025-01-12,Trujillo,WhatsApp,Perro y gato,sin plan,1
+PA-01202,2025-01-14,Lima,web,Perro y gato,sin plan,1
+PA-01203,2025-01-16,Lima,app,Perro,recordatorio mensual,1
+PA-01204,2025-01-16,Lima,web,Gato,recordatorio mensual,1
+PA-01205,2025-01-18,Piura,app,Perro y gato,sin plan,1
+PA-01206,2025-01-21,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01207,2025-01-22,Trujillo,WhatsApp,Perro,sin plan,0
+PA-01208,2025-01-22,Lima,web,Perro y gato,recordatorio mensual,0
+PA-01209,2025-01-23,Lima,web,Perro,sin plan,1
+PA-01210,2025-01-23,Trujillo,app,Perro,sin plan,1
+PA-01211,2025-01-23,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-01212,2025-01-24,Piura,web,Perro,recordatorio mensual,1
+PA-01213,2025-01-24,Lima,app,Gato,sin plan,1
+PA-01214,2025-01-24,Trujillo,app,Gato,sin plan,1
+PA-01215,2025-01-25,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01216,2025-01-26,Trujillo,web,Perro,ahorra y recibe,1
+PA-01217,2025-01-27,Lima,app,Perro,sin plan,1
+PA-01218,2025-01-28,Lima,app,Perro,ahorra y recibe,1
+PA-01219,2025-01-28,Trujillo,web,Perro,sin plan,0
+PA-01220,2025-01-30,Lima,app,Perro,sin plan,1
+PA-01221,2025-01-31,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-01222,2025-01-31,Lima,web,Perro,sin plan,1
+PA-01223,2025-02-02,Lima,WhatsApp,Perro,sin plan,1
+PA-01224,2025-02-02,Lima,web,Gato,sin plan,1
+PA-01225,2025-02-03,Lima,WhatsApp,Perro y gato,recordatorio mensual,0
+PA-01226,2025-02-03,Lima,web,Perro,recordatorio mensual,1
+PA-01227,2025-02-03,Lima,WhatsApp,Gato,sin plan,1
+PA-01228,2025-02-03,Lima,app,Perro y gato,recordatorio mensual,1
+PA-01229,2025-02-03,Lima,web,Gato,sin plan,1
+PA-01230,2025-02-05,Trujillo,app,Perro,sin plan,1
+PA-01231,2025-02-05,Lima,web,Perro y gato,ahorra y recibe,1
+PA-01232,2025-02-07,Lima,app,Perro,sin plan,1
+PA-01233,2025-02-07,Lima,web,Gato,recordatorio mensual,1
+PA-01234,2025-02-10,Piura,app,Perro y gato,recordatorio mensual,0
+PA-01235,2025-02-10,Lima,app,Perro,sin plan,1
+PA-01236,2025-02-10,Piura,web,Perro y gato,sin plan,1
+PA-01237,2025-02-11,Piura,web,Perro,sin plan,1
+PA-01238,2025-02-11,Lima,app,Gato,ahorra y recibe,1
+PA-01239,2025-02-13,Trujillo,web,Perro y gato,recordatorio mensual,1
+PA-01240,2025-02-16,Lima,web,Gato,recordatorio mensual,1
+PA-01241,2025-02-16,Trujillo,app,Perro,sin plan,1
+PA-01242,2025-02-16,Lima,app,Gato,ahorra y recibe,1
+PA-01243,2025-02-18,Lima,WhatsApp,Perro,sin plan,1
+PA-01244,2025-02-21,Piura,web,Perro,sin plan,1
+PA-01245,2025-02-21,Piura,WhatsApp,Perro,sin plan,1
+PA-01246,2025-02-21,Piura,app,Gato,ahorra y recibe,1
+PA-01247,2025-02-21,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-01248,2025-02-21,Lima,WhatsApp,Perro,sin plan,1
+PA-01249,2025-02-24,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01250,2025-02-26,Piura,WhatsApp,Perro,sin plan,1
+PA-01251,2025-02-26,Lima,web,Perro,sin plan,1
+PA-01252,2025-02-26,Lima,app,Perro y gato,recordatorio mensual,1
+PA-01253,2025-02-26,Trujillo,app,Perro y gato,ahorra y recibe,1
+PA-01254,2025-02-27,Lima,app,Perro,recordatorio mensual,1
+PA-01255,2025-03-01,Trujillo,WhatsApp,Perro y gato,sin plan,0
+PA-01256,2025-03-02,Lima,app,Perro y gato,sin plan,1
+PA-01257,2025-03-02,Lima,app,Perro,sin plan,1
+PA-01258,2025-03-02,Lima,web,Perro,recordatorio mensual,1
+PA-01259,2025-03-02,Lima,web,Perro,recordatorio mensual,1
+PA-01260,2025-03-02,Piura,app,Perro y gato,sin plan,1
+PA-01261,2025-03-03,Trujillo,app,Perro,ahorra y recibe,1
+PA-01262,2025-03-03,Piura,app,Perro,sin plan,1
+PA-01263,2025-03-03,Trujillo,app,Gato,sin plan,1
+PA-01264,2025-03-05,Lima,web,Perro y gato,sin plan,1
+PA-01265,2025-03-05,Lima,app,Gato,recordatorio mensual,1
+PA-01266,2025-03-06,Lima,app,Perro y gato,recordatorio mensual,1
+PA-01267,2025-03-06,Trujillo,WhatsApp,Gato,ahorra y recibe,1
+PA-01268,2025-03-07,Piura,web,Gato,sin plan,1
+PA-01269,2025-03-07,Lima,web,Gato,sin plan,0
+PA-01270,2025-03-11,Lima,web,Gato,sin plan,1
+PA-01271,2025-03-11,Lima,app,Perro,sin plan,1
+PA-01272,2025-03-12,Lima,app,Perro y gato,ahorra y recibe,1
+PA-01273,2025-03-12,Lima,web,Perro,sin plan,1
+PA-01274,2025-03-13,Lima,WhatsApp,Gato,sin plan,1
+PA-01275,2025-03-13,Lima,web,Perro y gato,sin plan,1
+PA-01276,2025-03-13,Trujillo,web,Gato,recordatorio mensual,1
+PA-01277,2025-03-14,Lima,WhatsApp,Gato,sin plan,1
+PA-01278,2025-03-14,Trujillo,app,Gato,ahorra y recibe,1
+PA-01279,2025-03-15,Lima,web,Gato,sin plan,1
+PA-01280,2025-03-15,Lima,web,Perro,ahorra y recibe,1
+PA-01281,2025-03-16,Lima,web,Perro,ahorra y recibe,1
+PA-01282,2025-03-16,Piura,app,Perro y gato,sin plan,1
+PA-01283,2025-03-16,Trujillo,app,Perro,sin plan,1
+PA-01284,2025-03-16,Trujillo,app,Perro,ahorra y recibe,1
+PA-01285,2025-03-17,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01286,2025-03-17,Trujillo,web,Perro y gato,sin plan,1
+PA-01287,2025-03-17,Lima,WhatsApp,Gato,sin plan,1
+PA-01288,2025-03-18,Trujillo,web,Perro y gato,ahorra y recibe,1
+PA-01289,2025-03-19,Lima,WhatsApp,Perro,sin plan,1
+PA-01290,2025-03-21,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01291,2025-03-21,Lima,app,Perro,sin plan,1
+PA-01292,2025-03-22,Piura,app,Perro,sin plan,1
+PA-01293,2025-03-22,Trujillo,web,Perro,sin plan,1
+PA-01294,2025-03-22,Lima,web,Perro,ahorra y recibe,1
+PA-01295,2025-03-23,Lima,web,Gato,sin plan,1
+PA-01296,2025-03-23,Piura,app,Perro,ahorra y recibe,1
+PA-01297,2025-03-24,Lima,web,Gato,sin plan,1
+PA-01298,2025-03-26,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01299,2025-03-26,Lima,WhatsApp,Perro,sin plan,1
+PA-01300,2025-03-29,Lima,web,Perro,sin plan,1
+PA-01301,2025-03-29,Lima,app,Perro y gato,recordatorio mensual,1
+PA-01302,2025-03-30,Trujillo,app,Perro,sin plan,1
+PA-01303,2025-03-30,Lima,app,Gato,sin plan,1
+PA-01304,2025-03-30,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01305,2025-03-30,Lima,web,Perro,sin plan,1
+PA-01306,2025-04-02,Lima,web,Perro,recordatorio mensual,1
+PA-01307,2025-04-03,Lima,web,Gato,ahorra y recibe,0
+PA-01308,2025-04-04,Piura,web,Perro,sin plan,1
+PA-01309,2025-04-07,Piura,web,Perro y gato,recordatorio mensual,0
+PA-01310,2025-04-08,Lima,web,Perro,sin plan,1
+PA-01311,2025-04-08,Trujillo,app,Gato,ahorra y recibe,1
+PA-01312,2025-04-10,Piura,app,Perro y gato,sin plan,1
+PA-01313,2025-04-10,Lima,app,Perro,sin plan,1
+PA-01314,2025-04-11,Trujillo,app,Perro,ahorra y recibe,1
+PA-01315,2025-04-11,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01316,2025-04-12,Lima,web,Perro,sin plan,1
+PA-01317,2025-04-14,Lima,web,Perro y gato,sin plan,1
+PA-01318,2025-04-15,Trujillo,web,Perro y gato,sin plan,1
+PA-01319,2025-04-16,Piura,WhatsApp,Gato,sin plan,1
+PA-01320,2025-04-18,Lima,web,Perro,recordatorio mensual,1
+PA-01321,2025-04-21,Lima,web,Perro,sin plan,1
+PA-01322,2025-04-21,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01323,2025-04-23,Trujillo,web,Gato,sin plan,1
+PA-01324,2025-04-23,Trujillo,web,Perro y gato,ahorra y recibe,1
+PA-01325,2025-04-25,Piura,app,Perro,sin plan,1
+PA-01326,2025-04-28,Lima,app,Perro,sin plan,1
+PA-01327,2025-04-28,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01328,2025-04-28,Piura,web,Gato,recordatorio mensual,1
+PA-01329,2025-04-29,Lima,WhatsApp,Gato,sin plan,1
+PA-01330,2025-04-29,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01331,2025-04-30,Trujillo,WhatsApp,Perro y gato,sin plan,0
+PA-01332,2025-04-30,Trujillo,web,Perro,sin plan,1
+PA-01333,2025-04-30,Lima,web,Perro,ahorra y recibe,1
+PA-01334,2025-04-30,Lima,web,Gato,sin plan,0
+PA-01335,2025-05-01,Piura,WhatsApp,Perro,sin plan,0
+PA-01336,2025-05-01,Lima,app,Perro,sin plan,1
+PA-01337,2025-05-01,Lima,app,Perro,recordatorio mensual,1
+PA-01338,2025-05-01,Lima,web,Gato,sin plan,1
+PA-01339,2025-05-02,Lima,app,Gato,ahorra y recibe,1
+PA-01340,2025-05-02,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01341,2025-05-03,Lima,web,Perro,sin plan,1
+PA-01342,2025-05-03,Piura,web,Gato,ahorra y recibe,1
+PA-01343,2025-05-05,Lima,web,Gato,recordatorio mensual,1
+PA-01344,2025-05-05,Trujillo,web,Gato,sin plan,1
+PA-01345,2025-05-05,Lima,WhatsApp,Gato,sin plan,1
+PA-01346,2025-05-06,Lima,app,Gato,sin plan,1
+PA-01347,2025-05-07,Lima,WhatsApp,Gato,sin plan,1
+PA-01348,2025-05-07,Trujillo,web,Perro,sin plan,1
+PA-01349,2025-05-07,Lima,WhatsApp,Perro,sin plan,1
+PA-01350,2025-05-08,Piura,app,Perro,sin plan,1
+PA-01351,2025-05-08,Piura,WhatsApp,Perro,sin plan,1
+PA-01352,2025-05-09,Lima,web,Gato,recordatorio mensual,1
+PA-01353,2025-05-09,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01354,2025-05-09,Piura,WhatsApp,Perro,sin plan,1
+PA-01355,2025-05-10,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01356,2025-05-13,Piura,WhatsApp,Perro,ahorra y recibe,1
+PA-01357,2025-05-14,Piura,WhatsApp,Perro,sin plan,1
+PA-01358,2025-05-15,Lima,web,Gato,sin plan,1
+PA-01359,2025-05-16,Lima,WhatsApp,Perro,sin plan,1
+PA-01360,2025-05-16,Trujillo,web,Perro y gato,sin plan,0
+PA-01361,2025-05-17,Piura,web,Perro,sin plan,1
+PA-01362,2025-05-18,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-01363,2025-05-18,Lima,app,Gato,sin plan,1
+PA-01364,2025-05-19,Lima,WhatsApp,Perro,sin plan,1
+PA-01365,2025-05-19,Trujillo,WhatsApp,Perro y gato,sin plan,1
+PA-01366,2025-05-20,Piura,app,Perro,sin plan,1
+PA-01367,2025-05-21,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01368,2025-05-21,Lima,WhatsApp,Perro,sin plan,1
+PA-01369,2025-05-22,Lima,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-01370,2025-05-24,Lima,web,Perro,sin plan,1
+PA-01371,2025-05-26,Lima,WhatsApp,Perro,sin plan,1
+PA-01372,2025-05-26,Piura,web,Gato,sin plan,1
+PA-01373,2025-05-26,Piura,app,Perro,sin plan,1
+PA-01374,2025-05-27,Piura,web,Perro,sin plan,1
+PA-01375,2025-05-27,Trujillo,web,Perro,sin plan,1
+PA-01376,2025-05-29,Lima,WhatsApp,Perro,sin plan,1
+PA-01377,2025-05-29,Lima,web,Perro,recordatorio mensual,1
+PA-01378,2025-05-31,Lima,web,Perro,sin plan,1
+PA-01379,2025-05-31,Lima,web,Perro,ahorra y recibe,1
+PA-01380,2025-06-01,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01381,2025-06-01,Lima,app,Perro,sin plan,1
+PA-01382,2025-06-01,Lima,WhatsApp,Gato,sin plan,1
+PA-01383,2025-06-02,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-01384,2025-06-02,Lima,app,Gato,sin plan,0
+PA-01385,2025-06-03,Lima,web,Perro,sin plan,1
+PA-01386,2025-06-04,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01387,2025-06-05,Lima,WhatsApp,Perro,sin plan,1
+PA-01388,2025-06-05,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01389,2025-06-06,Lima,web,Perro y gato,ahorra y recibe,1
+PA-01390,2025-06-06,Trujillo,web,Perro y gato,recordatorio mensual,1
+PA-01391,2025-06-06,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01392,2025-06-06,Lima,app,Gato,recordatorio mensual,1
+PA-01393,2025-06-08,Lima,web,Perro y gato,recordatorio mensual,0
+PA-01394,2025-06-08,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-01395,2025-06-09,Lima,app,Perro,sin plan,1
+PA-01396,2025-06-09,Piura,app,Gato,sin plan,1
+PA-01397,2025-06-09,Trujillo,web,Perro y gato,sin plan,1
+PA-01398,2025-06-11,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-01399,2025-06-11,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01400,2025-06-11,Lima,web,Perro,recordatorio mensual,1
+PA-01401,2025-06-12,Lima,app,Perro,recordatorio mensual,1
+PA-01402,2025-06-13,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01403,2025-06-13,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-01404,2025-06-13,Lima,app,Gato,recordatorio mensual,1
+PA-01405,2025-06-14,Lima,app,Perro y gato,sin plan,1
+PA-01406,2025-06-15,Trujillo,web,Perro,sin plan,1
+PA-01407,2025-06-16,Lima,web,Perro,sin plan,1
+PA-01408,2025-06-16,Lima,WhatsApp,Perro,recordatorio mensual,0
+PA-01409,2025-06-16,Lima,web,Perro y gato,sin plan,1
+PA-01410,2025-06-17,Lima,web,Perro y gato,sin plan,1
+PA-01411,2025-06-17,Lima,web,Perro,ahorra y recibe,1
+PA-01412,2025-06-17,Piura,web,Gato,recordatorio mensual,1
+PA-01413,2025-06-18,Lima,WhatsApp,Gato,sin plan,1
+PA-01414,2025-06-18,Lima,web,Perro,sin plan,1
+PA-01415,2025-06-18,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01416,2025-06-19,Piura,WhatsApp,Perro,recordatorio mensual,1
+PA-01417,2025-06-20,Lima,WhatsApp,Gato,sin plan,1
+PA-01418,2025-06-20,Lima,app,Perro,sin plan,1
+PA-01419,2025-06-20,Lima,app,Gato,sin plan,1
+PA-01420,2025-06-21,Trujillo,web,Gato,sin plan,1
+PA-01421,2025-06-21,Lima,app,Perro y gato,sin plan,1
+PA-01422,2025-06-22,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01423,2025-06-22,Trujillo,web,Gato,recordatorio mensual,1
+PA-01424,2025-06-23,Lima,app,Perro,sin plan,1
+PA-01425,2025-06-23,Piura,web,Perro y gato,ahorra y recibe,1
+PA-01426,2025-06-23,Trujillo,web,Perro,sin plan,1
+PA-01427,2025-06-24,Piura,web,Perro,sin plan,1
+PA-01428,2025-06-24,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01429,2025-06-24,Lima,WhatsApp,Perro,sin plan,1
+PA-01430,2025-06-25,Lima,WhatsApp,Perro y gato,sin plan,0
+PA-01431,2025-06-25,Lima,web,Perro,sin plan,1
+PA-01432,2025-06-25,Lima,web,Gato,sin plan,0
+PA-01433,2025-06-26,Lima,web,Perro y gato,sin plan,0
+PA-01434,2025-06-26,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01435,2025-06-27,Lima,WhatsApp,Perro,sin plan,1
+PA-01436,2025-06-28,Lima,web,Gato,recordatorio mensual,0
+PA-01437,2025-06-30,Trujillo,web,Perro,recordatorio mensual,1
+PA-01438,2025-07-01,Piura,WhatsApp,Perro y gato,sin plan,1
+PA-01439,2025-07-01,Lima,app,Perro,recordatorio mensual,1
+PA-01440,2025-07-02,Lima,app,Perro,sin plan,1
+PA-01441,2025-07-02,Trujillo,web,Perro y gato,ahorra y recibe,1
+PA-01442,2025-07-03,Lima,WhatsApp,Gato,sin plan,1
+PA-01443,2025-07-03,Trujillo,web,Perro,sin plan,1
+PA-01444,2025-07-03,Trujillo,app,Perro,sin plan,1
+PA-01445,2025-07-03,Lima,app,Gato,sin plan,0
+PA-01446,2025-07-04,Lima,web,Gato,sin plan,1
+PA-01447,2025-07-05,Lima,WhatsApp,Perro,sin plan,0
+PA-01448,2025-07-05,Trujillo,app,Gato,sin plan,1
+PA-01449,2025-07-06,Piura,web,Perro,recordatorio mensual,1
+PA-01450,2025-07-07,Lima,app,Perro,sin plan,1
+PA-01451,2025-07-07,Lima,WhatsApp,Perro,sin plan,1
+PA-01452,2025-07-07,Piura,web,Gato,recordatorio mensual,1
+PA-01453,2025-07-08,Lima,WhatsApp,Perro,sin plan,1
+PA-01454,2025-07-08,Lima,WhatsApp,Perro,sin plan,1
+PA-01455,2025-07-09,Lima,app,Perro y gato,sin plan,1
+PA-01456,2025-07-09,Lima,web,Perro,sin plan,1
+PA-01457,2025-07-09,Lima,WhatsApp,Gato,sin plan,1
+PA-01458,2025-07-11,Piura,web,Gato,ahorra y recibe,1
+PA-01459,2025-07-11,Piura,web,Perro,ahorra y recibe,1
+PA-01460,2025-07-11,Trujillo,app,Perro,sin plan,1
+PA-01461,2025-07-13,Trujillo,app,Perro y gato,sin plan,1
+PA-01462,2025-07-15,Trujillo,web,Perro,recordatorio mensual,1
+PA-01463,2025-07-16,Lima,app,Perro y gato,sin plan,1
+PA-01464,2025-07-17,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01465,2025-07-17,Piura,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-01466,2025-07-18,Lima,web,Perro,recordatorio mensual,1
+PA-01467,2025-07-19,Trujillo,web,Perro y gato,sin plan,1
+PA-01468,2025-07-20,Piura,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-01469,2025-07-20,Lima,app,Gato,sin plan,1
+PA-01470,2025-07-21,Lima,web,Perro y gato,sin plan,1
+PA-01471,2025-07-22,Lima,web,Gato,sin plan,1
+PA-01472,2025-07-22,Lima,web,Gato,ahorra y recibe,1
+PA-01473,2025-07-23,Lima,app,Gato,ahorra y recibe,1
+PA-01474,2025-07-23,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-01475,2025-07-23,Piura,WhatsApp,Gato,sin plan,0
+PA-01476,2025-07-23,Lima,app,Gato,recordatorio mensual,0
+PA-01477,2025-07-23,Lima,app,Perro,sin plan,1
+PA-01478,2025-07-24,Trujillo,app,Perro y gato,recordatorio mensual,1
+PA-01479,2025-07-25,Lima,app,Gato,sin plan,1
+PA-01480,2025-07-26,Piura,web,Perro,recordatorio mensual,1
+PA-01481,2025-07-26,Trujillo,web,Perro,sin plan,1
+PA-01482,2025-07-26,Lima,app,Perro,recordatorio mensual,1
+PA-01483,2025-07-27,Lima,app,Perro,recordatorio mensual,0
+PA-01484,2025-07-27,Lima,app,Perro,sin plan,1
+PA-01485,2025-07-27,Lima,app,Perro,recordatorio mensual,1
+PA-01486,2025-07-28,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01487,2025-07-28,Lima,web,Perro y gato,sin plan,1
+PA-01488,2025-07-29,Lima,web,Perro y gato,ahorra y recibe,1
+PA-01489,2025-07-29,Lima,app,Gato,sin plan,1
+PA-01490,2025-07-30,Piura,WhatsApp,Gato,sin plan,1
+PA-01491,2025-07-30,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01492,2025-07-30,Lima,app,Perro,recordatorio mensual,1
+PA-01493,2025-07-30,Trujillo,web,Perro,ahorra y recibe,1
+PA-01494,2025-08-02,Lima,app,Perro y gato,sin plan,0
+PA-01495,2025-08-02,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-01496,2025-08-02,Lima,web,Perro,recordatorio mensual,1
+PA-01497,2025-08-02,Lima,web,Perro y gato,recordatorio mensual,1
+PA-01498,2025-08-03,Piura,web,Perro y gato,sin plan,1
+PA-01499,2025-08-03,Lima,WhatsApp,Perro,sin plan,1
+PA-01500,2025-08-04,Lima,app,Perro,ahorra y recibe,1
+PA-01501,2025-08-04,Trujillo,web,Gato,recordatorio mensual,1
+PA-01502,2025-08-04,Lima,web,Perro,sin plan,1
+PA-01503,2025-08-05,Lima,web,Perro,recordatorio mensual,1
+PA-01504,2025-08-05,Lima,WhatsApp,Gato,sin plan,1
+PA-01505,2025-08-07,Lima,web,Perro y gato,ahorra y recibe,1
+PA-01506,2025-08-07,Lima,app,Perro,ahorra y recibe,1
+PA-01507,2025-08-07,Lima,WhatsApp,Gato,sin plan,0
+PA-01508,2025-08-10,Lima,web,Gato,sin plan,1
+PA-01509,2025-08-10,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-01510,2025-08-11,Trujillo,web,Perro,sin plan,1
+PA-01511,2025-08-12,Lima,app,Gato,ahorra y recibe,1
+PA-01512,2025-08-12,Piura,app,Perro,sin plan,1
+PA-01513,2025-08-12,Lima,web,Perro,sin plan,1
+PA-01514,2025-08-13,Lima,WhatsApp,Perro,sin plan,1
+PA-01515,2025-08-14,Trujillo,app,Perro,sin plan,1
+PA-01516,2025-08-14,Lima,WhatsApp,Perro,sin plan,1
+PA-01517,2025-08-14,Lima,web,Gato,recordatorio mensual,1
+PA-01518,2025-08-15,Lima,web,Perro y gato,sin plan,1
+PA-01519,2025-08-15,Lima,app,Perro,sin plan,1
+PA-01520,2025-08-15,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01521,2025-08-16,Lima,WhatsApp,Perro,sin plan,1
+PA-01522,2025-08-16,Lima,app,Perro y gato,sin plan,1
+PA-01523,2025-08-17,Piura,WhatsApp,Gato,recordatorio mensual,1
+PA-01524,2025-08-18,Lima,WhatsApp,Gato,sin plan,1
+PA-01525,2025-08-19,Piura,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-01526,2025-08-19,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01527,2025-08-20,Trujillo,app,Perro,sin plan,1
+PA-01528,2025-08-22,Piura,web,Gato,sin plan,1
+PA-01529,2025-08-23,Lima,app,Perro,recordatorio mensual,1
+PA-01530,2025-08-24,Lima,app,Gato,recordatorio mensual,1
+PA-01531,2025-08-24,Lima,app,Perro,recordatorio mensual,1
+PA-01532,2025-08-24,Lima,app,Perro,sin plan,1
+PA-01533,2025-08-25,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01534,2025-08-26,Lima,web,Perro,sin plan,1
+PA-01535,2025-08-28,Lima,web,Perro,sin plan,1
+PA-01536,2025-08-28,Lima,web,Perro,sin plan,1
+PA-01537,2025-09-02,Lima,web,Perro,ahorra y recibe,1
+PA-01538,2025-09-02,Lima,app,Gato,recordatorio mensual,1
+PA-01539,2025-09-03,Lima,app,Perro,ahorra y recibe,1
+PA-01540,2025-09-03,Piura,web,Perro,recordatorio mensual,1
+PA-01541,2025-09-03,Piura,web,Perro y gato,ahorra y recibe,1
+PA-01542,2025-09-04,Trujillo,web,Perro,recordatorio mensual,1
+PA-01543,2025-09-06,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-01544,2025-09-09,Piura,app,Perro,sin plan,1
+PA-01545,2025-09-10,Lima,app,Perro,ahorra y recibe,1
+PA-01546,2025-09-10,Piura,app,Gato,ahorra y recibe,1
+PA-01547,2025-09-10,Lima,app,Gato,sin plan,1
+PA-01548,2025-09-12,Lima,WhatsApp,Perro,sin plan,1
+PA-01549,2025-09-13,Lima,app,Perro,recordatorio mensual,1
+PA-01550,2025-09-14,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01551,2025-09-15,Lima,web,Perro,sin plan,0
+PA-01552,2025-09-17,Piura,app,Perro,sin plan,1
+PA-01553,2025-09-17,Lima,app,Gato,sin plan,1
+PA-01554,2025-09-17,Lima,app,Perro,recordatorio mensual,0
+PA-01555,2025-09-17,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-01556,2025-09-18,Lima,app,Gato,sin plan,1
+PA-01557,2025-09-18,Lima,WhatsApp,Perro,sin plan,0
+PA-01558,2025-09-19,Lima,web,Perro y gato,ahorra y recibe,1
+PA-01559,2025-09-19,Piura,app,Gato,sin plan,1
+PA-01560,2025-09-19,Lima,app,Perro,sin plan,1
+PA-01561,2025-09-20,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-01562,2025-09-21,Piura,app,Perro,recordatorio mensual,1
+PA-01563,2025-09-22,Lima,app,Gato,sin plan,1
+PA-01564,2025-09-22,Lima,web,Perro y gato,sin plan,1
+PA-01565,2025-09-24,Lima,app,Perro y gato,sin plan,1
+PA-01566,2025-09-24,Lima,web,Perro,ahorra y recibe,1
+PA-01567,2025-09-25,Trujillo,app,Perro y gato,recordatorio mensual,1
+PA-01568,2025-09-26,Piura,web,Gato,sin plan,1
+PA-01569,2025-09-26,Trujillo,WhatsApp,Perro,ahorra y recibe,1
+PA-01570,2025-09-26,Piura,WhatsApp,Perro,sin plan,1
+PA-01571,2025-09-27,Lima,app,Perro,sin plan,1
+PA-01572,2025-09-28,Piura,WhatsApp,Perro,recordatorio mensual,1
+PA-01573,2025-09-29,Trujillo,web,Perro,sin plan,1
+PA-01574,2025-09-30,Lima,app,Perro y gato,sin plan,1
+PA-01575,2025-10-02,Piura,web,Perro,sin plan,1
+PA-01576,2025-10-02,Piura,app,Gato,sin plan,1
+PA-01577,2025-10-03,Lima,app,Gato,sin plan,1
+PA-01578,2025-10-05,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01579,2025-10-05,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01580,2025-10-05,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-01581,2025-10-05,Trujillo,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-01582,2025-10-06,Trujillo,web,Gato,sin plan,1
+PA-01583,2025-10-06,Lima,app,Perro,ahorra y recibe,1
+PA-01584,2025-10-07,Lima,web,Gato,recordatorio mensual,1
+PA-01585,2025-10-07,Lima,app,Perro,sin plan,1
+PA-01586,2025-10-08,Lima,web,Perro,ahorra y recibe,1
+PA-01587,2025-10-09,Lima,web,Perro,sin plan,1
+PA-01588,2025-10-10,Lima,WhatsApp,Perro,sin plan,1
+PA-01589,2025-10-10,Trujillo,web,Gato,sin plan,1
+PA-01590,2025-10-11,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01591,2025-10-11,Lima,web,Perro,sin plan,1
+PA-01592,2025-10-11,Lima,web,Gato,sin plan,1
+PA-01593,2025-10-12,Lima,web,Perro,recordatorio mensual,1
+PA-01594,2025-10-15,Lima,app,Gato,sin plan,1
+PA-01595,2025-10-16,Piura,web,Perro,ahorra y recibe,1
+PA-01596,2025-10-16,Lima,app,Perro,sin plan,1
+PA-01597,2025-10-17,Lima,WhatsApp,Gato,sin plan,1
+PA-01598,2025-10-18,Trujillo,app,Perro y gato,sin plan,1
+PA-01599,2025-10-19,Piura,WhatsApp,Perro y gato,sin plan,1
+PA-01600,2025-10-19,Lima,web,Perro,sin plan,1
+PA-01601,2025-10-19,Lima,app,Perro,recordatorio mensual,1
+PA-01602,2025-10-20,Piura,web,Perro,recordatorio mensual,1
+PA-01603,2025-10-21,Lima,app,Perro,sin plan,1
+PA-01604,2025-10-21,Lima,app,Perro y gato,sin plan,1
+PA-01605,2025-10-21,Lima,web,Gato,recordatorio mensual,1
+PA-01606,2025-10-22,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01607,2025-10-24,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01608,2025-10-24,Lima,web,Perro,sin plan,1
+PA-01609,2025-10-24,Lima,web,Gato,recordatorio mensual,0
+PA-01610,2025-10-25,Lima,app,Perro y gato,recordatorio mensual,1
+PA-01611,2025-10-25,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01612,2025-10-26,Piura,app,Perro,sin plan,1
+PA-01613,2025-10-26,Lima,web,Perro,sin plan,1
+PA-01614,2025-10-26,Lima,web,Perro,sin plan,1
+PA-01615,2025-10-27,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01616,2025-10-28,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01617,2025-10-28,Piura,web,Perro,sin plan,0
+PA-01618,2025-10-29,Lima,app,Gato,sin plan,1
+PA-01619,2025-10-29,Lima,web,Gato,recordatorio mensual,1
+PA-01620,2025-10-29,Lima,WhatsApp,Perro,sin plan,1
+PA-01621,2025-10-29,Lima,app,Perro y gato,ahorra y recibe,1
+PA-01622,2025-10-31,Lima,web,Perro y gato,sin plan,0
+PA-01623,2025-10-31,Lima,web,Perro,recordatorio mensual,1
+PA-01624,2025-11-01,Lima,WhatsApp,Gato,sin plan,1
+PA-01625,2025-11-01,Lima,WhatsApp,Gato,sin plan,1
+PA-01626,2025-11-01,Trujillo,web,Perro,recordatorio mensual,1
+PA-01627,2025-11-01,Lima,web,Perro,sin plan,1
+PA-01628,2025-11-01,Trujillo,app,Gato,recordatorio mensual,1
+PA-01629,2025-11-02,Trujillo,WhatsApp,Perro,ahorra y recibe,1
+PA-01630,2025-11-02,Piura,web,Gato,recordatorio mensual,1
+PA-01631,2025-11-02,Lima,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-01632,2025-11-02,Piura,app,Perro y gato,ahorra y recibe,1
+PA-01633,2025-11-03,Piura,WhatsApp,Perro y gato,sin plan,1
+PA-01634,2025-11-05,Lima,web,Perro,sin plan,1
+PA-01635,2025-11-05,Lima,app,Perro,sin plan,1
+PA-01636,2025-11-05,Lima,web,Perro y gato,recordatorio mensual,1
+PA-01637,2025-11-05,Lima,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-01638,2025-11-06,Lima,web,Perro,sin plan,1
+PA-01639,2025-11-07,Lima,web,Gato,ahorra y recibe,1
+PA-01640,2025-11-07,Lima,web,Gato,sin plan,1
+PA-01641,2025-11-08,Trujillo,web,Gato,sin plan,1
+PA-01642,2025-11-09,Lima,app,Perro y gato,recordatorio mensual,1
+PA-01643,2025-11-09,Trujillo,app,Perro,sin plan,1
+PA-01644,2025-11-10,Trujillo,web,Perro y gato,recordatorio mensual,1
+PA-01645,2025-11-10,Lima,WhatsApp,Gato,sin plan,1
+PA-01646,2025-11-10,Trujillo,web,Gato,sin plan,1
+PA-01647,2025-11-10,Lima,app,Perro y gato,sin plan,1
+PA-01648,2025-11-10,Piura,app,Perro,recordatorio mensual,1
+PA-01649,2025-11-11,Piura,web,Perro,recordatorio mensual,1
+PA-01650,2025-11-12,Lima,web,Perro,sin plan,1
+PA-01651,2025-11-12,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-01652,2025-11-14,Lima,app,Perro y gato,sin plan,1
+PA-01653,2025-11-14,Lima,app,Perro y gato,sin plan,1
+PA-01654,2025-11-15,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01655,2025-11-16,Lima,web,Perro y gato,sin plan,1
+PA-01656,2025-11-16,Lima,WhatsApp,Gato,sin plan,1
+PA-01657,2025-11-17,Lima,web,Perro y gato,recordatorio mensual,1
+PA-01658,2025-11-19,Trujillo,WhatsApp,Perro,ahorra y recibe,0
+PA-01659,2025-11-19,Piura,web,Gato,ahorra y recibe,0
+PA-01660,2025-11-20,Piura,app,Perro,recordatorio mensual,1
+PA-01661,2025-11-21,Lima,app,Perro,recordatorio mensual,1
+PA-01662,2025-11-22,Lima,app,Perro,ahorra y recibe,1
+PA-01663,2025-11-22,Trujillo,app,Perro,ahorra y recibe,1
+PA-01664,2025-11-23,Lima,web,Perro,recordatorio mensual,1
+PA-01665,2025-11-24,Lima,WhatsApp,Perro,sin plan,1
+PA-01666,2025-11-25,Piura,web,Perro,recordatorio mensual,1
+PA-01667,2025-11-28,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-01668,2025-11-29,Piura,web,Gato,recordatorio mensual,1
+PA-01669,2025-11-29,Piura,app,Perro y gato,sin plan,1
+PA-01670,2025-11-29,Lima,app,Perro y gato,ahorra y recibe,1
+PA-01671,2025-11-30,Trujillo,web,Perro y gato,sin plan,1
+PA-01672,2025-12-01,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01673,2025-12-01,Piura,web,Perro,sin plan,0
+PA-01674,2025-12-01,Lima,app,Perro,recordatorio mensual,1
+PA-01675,2025-12-01,Lima,app,Perro,sin plan,1
+PA-01676,2025-12-02,Lima,web,Gato,sin plan,1
+PA-01677,2025-12-02,Piura,WhatsApp,Gato,sin plan,1
+PA-01678,2025-12-02,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01679,2025-12-02,Trujillo,app,Gato,sin plan,1
+PA-01680,2025-12-03,Lima,web,Perro,sin plan,1
+PA-01681,2025-12-04,Trujillo,web,Gato,recordatorio mensual,1
+PA-01682,2025-12-04,Lima,WhatsApp,Perro,sin plan,1
+PA-01683,2025-12-05,Trujillo,app,Perro,sin plan,1
+PA-01684,2025-12-07,Piura,app,Gato,sin plan,1
+PA-01685,2025-12-07,Lima,web,Perro,sin plan,1
+PA-01686,2025-12-07,Trujillo,web,Gato,sin plan,1
+PA-01687,2025-12-07,Trujillo,web,Gato,ahorra y recibe,1
+PA-01688,2025-12-07,Lima,WhatsApp,Perro,sin plan,1
+PA-01689,2025-12-08,Lima,web,Perro,recordatorio mensual,1
+PA-01690,2025-12-08,Trujillo,web,Gato,recordatorio mensual,1
+PA-01691,2025-12-08,Piura,app,Perro,sin plan,1
+PA-01692,2025-12-08,Trujillo,web,Perro,sin plan,1
+PA-01693,2025-12-09,Piura,web,Perro y gato,recordatorio mensual,0
+PA-01694,2025-12-09,Lima,app,Perro,sin plan,1
+PA-01695,2025-12-10,Trujillo,WhatsApp,Perro,ahorra y recibe,1
+PA-01696,2025-12-11,Lima,app,Gato,sin plan,1
+PA-01697,2025-12-11,Lima,WhatsApp,Perro,sin plan,1
+PA-01698,2025-12-12,Lima,web,Perro,sin plan,1
+PA-01699,2025-12-12,Piura,web,Gato,sin plan,1
+PA-01700,2025-12-14,Trujillo,app,Gato,sin plan,1
+PA-01701,2025-12-14,Lima,app,Perro,sin plan,1
+PA-01702,2025-12-15,Lima,web,Perro,ahorra y recibe,1
+PA-01703,2025-12-15,Lima,app,Gato,sin plan,1
+PA-01704,2025-12-15,Lima,WhatsApp,Gato,sin plan,1
+PA-01705,2025-12-16,Trujillo,app,Gato,recordatorio mensual,1
+PA-01706,2025-12-16,Lima,web,Perro,recordatorio mensual,1
+PA-01707,2025-12-18,Lima,web,Perro y gato,ahorra y recibe,1
+PA-01708,2025-12-18,Lima,web,Perro y gato,sin plan,1
+PA-01709,2025-12-19,Lima,web,Perro y gato,sin plan,1
+PA-01710,2025-12-20,Lima,web,Perro,recordatorio mensual,1
+PA-01711,2025-12-21,Lima,app,Perro,sin plan,1
+PA-01712,2025-12-21,Lima,app,Gato,sin plan,1
+PA-01713,2025-12-21,Lima,web,Perro,sin plan,1
+PA-01714,2025-12-21,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-01715,2025-12-21,Lima,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-01716,2025-12-21,Lima,web,Perro,sin plan,1
+PA-01717,2025-12-22,Piura,app,Perro,recordatorio mensual,1
+PA-01718,2025-12-22,Trujillo,web,Gato,recordatorio mensual,1
+PA-01719,2025-12-23,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01720,2025-12-25,Piura,web,Perro,sin plan,1
+PA-01721,2025-12-25,Piura,WhatsApp,Gato,sin plan,1
+PA-01722,2025-12-26,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01723,2025-12-27,Trujillo,app,Perro,sin plan,1
+PA-01724,2025-12-29,Piura,WhatsApp,Perro,sin plan,1
+PA-01725,2025-12-29,Lima,WhatsApp,Gato,sin plan,1
+PA-01726,2025-12-29,Lima,app,Perro,recordatorio mensual,1
+PA-01727,2025-12-30,Lima,WhatsApp,Gato,sin plan,1
+PA-01728,2025-12-30,Lima,web,Gato,recordatorio mensual,1
+PA-01729,2025-12-30,Lima,WhatsApp,Perro,sin plan,1
+PA-01730,2025-12-31,Trujillo,app,Perro,recordatorio mensual,1
+PA-01731,2026-01-01,Lima,web,Perro,sin plan,1
+PA-01732,2026-01-01,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01733,2026-01-02,Lima,app,Perro,recordatorio mensual,1
+PA-01734,2026-01-02,Lima,web,Gato,sin plan,1
+PA-01735,2026-01-04,Piura,app,Perro,sin plan,1
+PA-01736,2026-01-04,Piura,WhatsApp,Perro y gato,sin plan,1
+PA-01737,2026-01-06,Lima,WhatsApp,Gato,sin plan,1
+PA-01738,2026-01-06,Trujillo,web,Gato,sin plan,1
+PA-01739,2026-01-06,Lima,WhatsApp,Perro,sin plan,1
+PA-01740,2026-01-07,Lima,app,Perro,sin plan,1
+PA-01741,2026-01-07,Lima,web,Gato,sin plan,1
+PA-01742,2026-01-08,Lima,WhatsApp,Gato,sin plan,1
+PA-01743,2026-01-10,Lima,web,Perro y gato,sin plan,1
+PA-01744,2026-01-10,Lima,WhatsApp,Gato,sin plan,1
+PA-01745,2026-01-10,Lima,web,Perro,sin plan,1
+PA-01746,2026-01-12,Trujillo,app,Perro,recordatorio mensual,1
+PA-01747,2026-01-12,Piura,web,Perro,recordatorio mensual,1
+PA-01748,2026-01-13,Trujillo,web,Perro,sin plan,0
+PA-01749,2026-01-14,Lima,app,Perro y gato,sin plan,1
+PA-01750,2026-01-15,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-01751,2026-01-15,Lima,app,Gato,ahorra y recibe,1
+PA-01752,2026-01-15,Lima,app,Perro y gato,ahorra y recibe,1
+PA-01753,2026-01-15,Trujillo,web,Perro y gato,sin plan,1
+PA-01754,2026-01-16,Lima,web,Gato,sin plan,1
+PA-01755,2026-01-17,Lima,web,Gato,sin plan,1
+PA-01756,2026-01-17,Piura,web,Perro,sin plan,1
+PA-01757,2026-01-18,Trujillo,web,Perro,sin plan,1
+PA-01758,2026-01-18,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01759,2026-01-18,Trujillo,app,Gato,sin plan,1
+PA-01760,2026-01-21,Lima,app,Perro,sin plan,0
+PA-01761,2026-01-21,Trujillo,web,Perro y gato,sin plan,1
+PA-01762,2026-01-22,Lima,app,Gato,recordatorio mensual,1
+PA-01763,2026-01-22,Lima,WhatsApp,Perro,sin plan,1
+PA-01764,2026-01-23,Lima,app,Perro,sin plan,1
+PA-01765,2026-01-23,Trujillo,app,Gato,ahorra y recibe,1
+PA-01766,2026-01-23,Lima,web,Perro,sin plan,1
+PA-01767,2026-01-23,Lima,web,Perro,sin plan,0
+PA-01768,2026-01-24,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-01769,2026-01-26,Lima,WhatsApp,Gato,sin plan,1
+PA-01770,2026-01-27,Lima,web,Perro y gato,recordatorio mensual,1
+PA-01771,2026-01-29,Piura,WhatsApp,Gato,sin plan,1
+PA-01772,2026-01-30,Trujillo,app,Gato,recordatorio mensual,1
+PA-01773,2026-01-31,Lima,app,Perro,sin plan,1
+PA-01774,2026-01-31,Lima,web,Perro,sin plan,1
+PA-01775,2026-02-05,Piura,WhatsApp,Gato,recordatorio mensual,1
+PA-01776,2026-02-05,Lima,app,Perro,ahorra y recibe,1
+PA-01777,2026-02-05,Piura,web,Perro,recordatorio mensual,1
+PA-01778,2026-02-06,Lima,web,Perro,sin plan,1
+PA-01779,2026-02-10,Trujillo,WhatsApp,Perro y gato,sin plan,1
+PA-01780,2026-02-10,Piura,app,Perro y gato,ahorra y recibe,1
+PA-01781,2026-02-11,Piura,WhatsApp,Perro,sin plan,0
+PA-01782,2026-02-12,Lima,app,Perro,sin plan,1
+PA-01783,2026-02-13,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01784,2026-02-13,Piura,app,Gato,ahorra y recibe,1
+PA-01785,2026-02-14,Trujillo,web,Perro y gato,ahorra y recibe,1
+PA-01786,2026-02-14,Trujillo,app,Perro,recordatorio mensual,1
+PA-01787,2026-02-14,Trujillo,app,Perro y gato,ahorra y recibe,1
+PA-01788,2026-02-15,Trujillo,web,Gato,recordatorio mensual,1
+PA-01789,2026-02-16,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01790,2026-02-16,Lima,app,Gato,ahorra y recibe,1
+PA-01791,2026-02-17,Piura,app,Gato,sin plan,1
+PA-01792,2026-02-17,Piura,web,Perro,sin plan,0
+PA-01793,2026-02-17,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01794,2026-02-18,Piura,WhatsApp,Perro,recordatorio mensual,1
+PA-01795,2026-02-18,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-01796,2026-02-18,Piura,app,Perro,recordatorio mensual,1
+PA-01797,2026-02-20,Piura,app,Gato,sin plan,1
+PA-01798,2026-02-20,Lima,app,Gato,sin plan,1
+PA-01799,2026-02-20,Trujillo,web,Perro,ahorra y recibe,1
+PA-01800,2026-02-21,Piura,web,Perro y gato,sin plan,0
+PA-01801,2026-02-21,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-01802,2026-02-22,Lima,web,Gato,sin plan,1
+PA-01803,2026-02-22,Trujillo,web,Perro,ahorra y recibe,1
+PA-01804,2026-02-24,Trujillo,app,Gato,recordatorio mensual,1
+PA-01805,2026-02-24,Lima,app,Perro,recordatorio mensual,1
+PA-01806,2026-02-24,Lima,web,Perro y gato,sin plan,0
+PA-01807,2026-02-26,Lima,app,Perro y gato,ahorra y recibe,1
+PA-01808,2026-02-26,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01809,2026-02-27,Lima,app,Perro y gato,sin plan,1
+PA-01810,2026-02-27,Lima,web,Perro,sin plan,1
+PA-01811,2026-02-27,Lima,web,Perro y gato,ahorra y recibe,1
+PA-01812,2026-03-02,Lima,app,Gato,sin plan,0
+PA-01813,2026-03-04,Lima,app,Gato,recordatorio mensual,1
+PA-01814,2026-03-04,Lima,web,Perro y gato,recordatorio mensual,1
+PA-01815,2026-03-05,Trujillo,app,Gato,sin plan,1
+PA-01816,2026-03-06,Lima,app,Gato,sin plan,1
+PA-01817,2026-03-06,Piura,web,Gato,sin plan,1
+PA-01818,2026-03-06,Lima,WhatsApp,Gato,sin plan,1
+PA-01819,2026-03-07,Lima,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-01820,2026-03-08,Lima,web,Perro,ahorra y recibe,1
+PA-01821,2026-03-08,Lima,web,Perro,sin plan,1
+PA-01822,2026-03-10,Piura,app,Perro y gato,sin plan,1
+PA-01823,2026-03-11,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01824,2026-03-11,Lima,web,Perro,sin plan,1
+PA-01825,2026-03-13,Piura,WhatsApp,Perro,sin plan,1
+PA-01826,2026-03-14,Trujillo,app,Gato,sin plan,1
+PA-01827,2026-03-14,Lima,app,Perro y gato,recordatorio mensual,1
+PA-01828,2026-03-17,Lima,WhatsApp,Perro,sin plan,1
+PA-01829,2026-03-17,Lima,web,Perro,recordatorio mensual,1
+PA-01830,2026-03-18,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01831,2026-03-19,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01832,2026-03-19,Lima,web,Perro,sin plan,1
+PA-01833,2026-03-20,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01834,2026-03-21,Piura,web,Perro y gato,ahorra y recibe,1
+PA-01835,2026-03-21,Lima,web,Gato,sin plan,1
+PA-01836,2026-03-21,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-01837,2026-03-23,Trujillo,app,Perro,ahorra y recibe,1
+PA-01838,2026-03-24,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-01839,2026-03-26,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-01840,2026-03-27,Lima,web,Perro,recordatorio mensual,1
+PA-01841,2026-03-27,Lima,web,Perro,recordatorio mensual,1
+PA-01842,2026-03-27,Lima,web,Perro,sin plan,1
+PA-01843,2026-03-27,Trujillo,web,Gato,sin plan,1
+PA-01844,2026-03-28,Lima,app,Perro y gato,sin plan,1
+PA-01845,2026-03-28,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-01846,2026-03-28,Lima,app,Gato,sin plan,1
+PA-01847,2026-03-29,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01848,2026-03-29,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-01849,2026-03-29,Piura,web,Gato,recordatorio mensual,1
+PA-01850,2026-03-31,Lima,web,Perro,ahorra y recibe,0
+PA-01851,2026-03-31,Lima,WhatsApp,Perro,sin plan,1
+PA-01852,2026-03-31,Lima,app,Gato,sin plan,1
+PA-01853,2026-04-02,Lima,app,Gato,sin plan,1
+PA-01854,2026-04-03,Lima,web,Gato,recordatorio mensual,1
+PA-01855,2026-04-04,Lima,app,Perro,recordatorio mensual,0
+PA-01856,2026-04-06,Piura,web,Perro,recordatorio mensual,1
+PA-01857,2026-04-06,Trujillo,web,Perro,sin plan,0
+PA-01858,2026-04-06,Lima,WhatsApp,Perro,sin plan,1
+PA-01859,2026-04-08,Lima,web,Gato,recordatorio mensual,1
+PA-01860,2026-04-09,Lima,web,Gato,recordatorio mensual,1
+PA-01861,2026-04-10,Lima,app,Perro,sin plan,1
+PA-01862,2026-04-10,Lima,app,Perro,sin plan,1
+PA-01863,2026-04-10,Lima,web,Perro,sin plan,1
+PA-01864,2026-04-11,Lima,web,Perro,sin plan,1
+PA-01865,2026-04-11,Trujillo,web,Gato,sin plan,1
+PA-01866,2026-04-12,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01867,2026-04-13,Lima,web,Perro,sin plan,1
+PA-01868,2026-04-14,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01869,2026-04-14,Lima,web,Gato,sin plan,0
+PA-01870,2026-04-14,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01871,2026-04-15,Lima,app,Perro,sin plan,1
+PA-01872,2026-04-15,Lima,web,Perro,sin plan,1
+PA-01873,2026-04-16,Lima,web,Gato,recordatorio mensual,1
+PA-01874,2026-04-17,Piura,WhatsApp,Perro,sin plan,1
+PA-01875,2026-04-17,Lima,WhatsApp,Perro,sin plan,1
+PA-01876,2026-04-17,Lima,web,Gato,recordatorio mensual,1
+PA-01877,2026-04-18,Lima,app,Gato,sin plan,1
+PA-01878,2026-04-19,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01879,2026-04-19,Lima,app,Perro,sin plan,1
+PA-01880,2026-04-20,Lima,web,Gato,ahorra y recibe,1
+PA-01881,2026-04-20,Lima,app,Perro,ahorra y recibe,1
+PA-01882,2026-04-21,Lima,WhatsApp,Perro,sin plan,1
+PA-01883,2026-04-21,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01884,2026-04-22,Lima,web,Perro,recordatorio mensual,1
+PA-01885,2026-04-22,Piura,WhatsApp,Perro,sin plan,1
+PA-01886,2026-04-22,Lima,app,Gato,recordatorio mensual,1
+PA-01887,2026-04-23,Trujillo,web,Gato,sin plan,1
+PA-01888,2026-04-23,Lima,WhatsApp,Perro,sin plan,1
+PA-01889,2026-04-23,Lima,WhatsApp,Gato,sin plan,1
+PA-01890,2026-04-24,Trujillo,web,Perro y gato,sin plan,1
+PA-01891,2026-04-25,Piura,app,Gato,sin plan,1
+PA-01892,2026-04-25,Trujillo,web,Perro,recordatorio mensual,1
+PA-01893,2026-04-27,Lima,web,Perro,recordatorio mensual,1
+PA-01894,2026-04-27,Lima,app,Perro,sin plan,1
+PA-01895,2026-04-29,Trujillo,app,Perro,sin plan,1
+PA-01896,2026-05-01,Lima,web,Gato,sin plan,1
+PA-01897,2026-05-01,Piura,WhatsApp,Gato,recordatorio mensual,1
+PA-01898,2026-05-02,Lima,app,Perro,sin plan,1
+PA-01899,2026-05-02,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01900,2026-05-02,Piura,web,Gato,sin plan,1
+PA-01901,2026-05-03,Trujillo,web,Gato,recordatorio mensual,1
+PA-01902,2026-05-04,Lima,web,Perro,ahorra y recibe,1
+PA-01903,2026-05-05,Lima,app,Gato,sin plan,1
+PA-01904,2026-05-07,Trujillo,app,Perro,sin plan,1
+PA-01905,2026-05-10,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-01906,2026-05-11,Lima,WhatsApp,Perro,sin plan,1
+PA-01907,2026-05-11,Lima,web,Gato,ahorra y recibe,1
+PA-01908,2026-05-11,Lima,app,Gato,recordatorio mensual,1
+PA-01909,2026-05-11,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-01910,2026-05-12,Piura,web,Gato,sin plan,1
+PA-01911,2026-05-13,Lima,web,Perro y gato,sin plan,1
+PA-01912,2026-05-14,Lima,web,Gato,sin plan,1
+PA-01913,2026-05-14,Piura,WhatsApp,Gato,sin plan,1
+PA-01914,2026-05-14,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01915,2026-05-15,Lima,app,Perro,sin plan,1
+PA-01916,2026-05-15,Piura,app,Perro,sin plan,1
+PA-01917,2026-05-16,Lima,web,Perro,sin plan,1
+PA-01918,2026-05-16,Lima,WhatsApp,Perro,sin plan,1
+PA-01919,2026-05-16,Lima,web,Perro y gato,sin plan,0
+PA-01920,2026-05-17,Lima,app,Perro,sin plan,1
+PA-01921,2026-05-19,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01922,2026-05-20,Trujillo,web,Perro,sin plan,1
+PA-01923,2026-05-20,Lima,web,Perro,sin plan,1
+PA-01924,2026-05-21,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01925,2026-05-21,Lima,web,Perro,sin plan,1
+PA-01926,2026-05-22,Trujillo,app,Perro y gato,ahorra y recibe,1
+PA-01927,2026-05-25,Lima,web,Perro y gato,sin plan,1
+PA-01928,2026-05-26,Lima,WhatsApp,Perro y gato,sin plan,0
+PA-01929,2026-05-26,Lima,web,Gato,recordatorio mensual,1
+PA-01930,2026-05-26,Trujillo,app,Perro y gato,ahorra y recibe,1
+PA-01931,2026-05-27,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01932,2026-05-28,Piura,app,Perro,sin plan,1
+PA-01933,2026-05-28,Lima,app,Perro,sin plan,1
+PA-01934,2026-05-29,Lima,WhatsApp,Gato,sin plan,1
+PA-01935,2026-05-30,Lima,web,Perro,sin plan,1
+PA-01936,2026-05-30,Lima,web,Perro,ahorra y recibe,1
+PA-01937,2026-05-30,Piura,web,Perro,recordatorio mensual,1
+PA-01938,2026-05-31,Trujillo,WhatsApp,Gato,sin plan,1
+PA-01939,2026-05-31,Lima,web,Perro,recordatorio mensual,1
+PA-01940,2026-05-31,Trujillo,web,Perro,sin plan,1
+PA-01941,2026-06-04,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01942,2026-06-04,Piura,web,Perro y gato,ahorra y recibe,1
+PA-01943,2026-06-04,Lima,web,Gato,ahorra y recibe,1
+PA-01944,2026-06-04,Lima,web,Perro,recordatorio mensual,1
+PA-01945,2026-06-04,Lima,web,Gato,recordatorio mensual,1
+PA-01946,2026-06-05,Lima,app,Perro,recordatorio mensual,1
+PA-01947,2026-06-05,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-01948,2026-06-06,Piura,web,Perro,sin plan,1
+PA-01949,2026-06-06,Lima,web,Gato,ahorra y recibe,1
+PA-01950,2026-06-06,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-01951,2026-06-07,Lima,WhatsApp,Perro,sin plan,1
+PA-01952,2026-06-07,Trujillo,WhatsApp,Perro y gato,sin plan,1
+PA-01953,2026-06-09,Lima,WhatsApp,Gato,sin plan,1
+PA-01954,2026-06-11,Trujillo,app,Gato,sin plan,1
+PA-01955,2026-06-12,Lima,WhatsApp,Gato,sin plan,1
+PA-01956,2026-06-12,Piura,WhatsApp,Perro,sin plan,1
+PA-01957,2026-06-13,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-01958,2026-06-13,Lima,web,Perro,sin plan,1
+PA-01959,2026-06-14,Lima,app,Perro,sin plan,1
+PA-01960,2026-06-14,Piura,WhatsApp,Gato,ahorra y recibe,1
+PA-01961,2026-06-14,Piura,web,Perro,ahorra y recibe,1
+PA-01962,2026-06-14,Lima,web,Perro,recordatorio mensual,1
+PA-01963,2026-06-15,Trujillo,web,Perro,sin plan,1
+PA-01964,2026-06-16,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-01965,2026-06-17,Trujillo,app,Gato,ahorra y recibe,1
+PA-01966,2026-06-17,Lima,WhatsApp,Gato,sin plan,1
+PA-01967,2026-06-17,Piura,web,Gato,recordatorio mensual,1
+PA-01968,2026-06-19,Lima,web,Perro,sin plan,1
+PA-01969,2026-06-19,Piura,app,Perro,sin plan,1
+PA-01970,2026-06-19,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01971,2026-06-19,Trujillo,web,Perro,sin plan,1
+PA-01972,2026-06-20,Lima,web,Gato,sin plan,1
+PA-01973,2026-06-20,Lima,web,Gato,ahorra y recibe,1
+PA-01974,2026-06-20,Lima,app,Perro y gato,sin plan,0
+PA-01975,2026-06-21,Lima,web,Gato,ahorra y recibe,1
+PA-01976,2026-06-21,Lima,WhatsApp,Perro,sin plan,1
+PA-01977,2026-06-21,Lima,web,Perro,ahorra y recibe,1
+PA-01978,2026-06-22,Lima,web,Perro,ahorra y recibe,1
+PA-01979,2026-06-22,Trujillo,web,Gato,recordatorio mensual,1
+PA-01980,2026-06-23,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-01981,2026-06-23,Piura,web,Perro,ahorra y recibe,1
+PA-01982,2026-06-23,Piura,app,Perro,recordatorio mensual,1
+PA-01983,2026-06-24,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01984,2026-06-25,Lima,web,Perro,sin plan,1
+PA-01985,2026-06-25,Lima,WhatsApp,Gato,sin plan,1
+PA-01986,2026-06-25,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-01987,2026-06-26,Trujillo,WhatsApp,Perro,sin plan,0
+PA-01988,2026-06-26,Trujillo,app,Perro,recordatorio mensual,0
+PA-01989,2026-06-29,Lima,web,Perro,sin plan,1
+PA-01990,2026-06-29,Lima,web,Perro y gato,recordatorio mensual,1
+PA-01991,2026-07-01,Piura,WhatsApp,Perro,ahorra y recibe,1
+PA-01992,2026-07-02,Lima,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-01993,2026-07-04,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01994,2026-07-04,Piura,WhatsApp,Perro,recordatorio mensual,1
+PA-01995,2026-07-05,Trujillo,WhatsApp,Perro,sin plan,1
+PA-01996,2026-07-06,Lima,app,Perro y gato,recordatorio mensual,0
+PA-01997,2026-07-07,Lima,web,Gato,sin plan,1
+PA-01998,2026-07-07,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-01999,2026-07-08,Trujillo,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-02000,2026-07-09,Lima,web,Perro,sin plan,1
+PA-02001,2026-07-09,Lima,web,Perro,recordatorio mensual,1
+PA-02002,2026-07-09,Lima,web,Gato,sin plan,1
+PA-02003,2026-07-11,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-02004,2026-07-12,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-02005,2026-07-12,Trujillo,app,Gato,sin plan,1
+PA-02006,2026-07-12,Lima,app,Gato,ahorra y recibe,1
+PA-02007,2026-07-12,Lima,web,Perro,recordatorio mensual,1
+PA-02008,2026-07-13,Lima,WhatsApp,Perro,sin plan,1
+PA-02009,2026-07-14,Trujillo,web,Gato,sin plan,1
+PA-02010,2026-07-14,Lima,app,Perro,ahorra y recibe,1
+PA-02011,2026-07-15,Lima,app,Perro,recordatorio mensual,1
+PA-02012,2026-07-15,Trujillo,app,Gato,sin plan,0
+PA-02013,2026-07-15,Trujillo,app,Gato,recordatorio mensual,0
+PA-02014,2026-07-16,Lima,web,Perro y gato,sin plan,0
+PA-02015,2026-07-16,Trujillo,app,Gato,sin plan,1
+PA-02016,2026-07-16,Lima,web,Perro y gato,recordatorio mensual,1
+PA-02017,2026-07-17,Trujillo,WhatsApp,Perro,sin plan,1
+PA-02018,2026-07-18,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-02019,2026-07-19,Lima,app,Gato,recordatorio mensual,1
+PA-02020,2026-07-20,Lima,web,Perro,sin plan,1
+PA-02021,2026-07-21,Trujillo,app,Perro,sin plan,1
+PA-02022,2026-07-21,Piura,web,Gato,recordatorio mensual,1
+PA-02023,2026-07-23,Lima,app,Perro y gato,recordatorio mensual,1
+PA-02024,2026-07-23,Piura,web,Perro,sin plan,1
+PA-02025,2026-07-23,Lima,app,Perro y gato,recordatorio mensual,1
+PA-02026,2026-07-27,Lima,WhatsApp,Perro y gato,sin plan,1
+PA-02027,2026-07-29,Lima,web,Gato,ahorra y recibe,0
+PA-02028,2026-07-31,Trujillo,app,Perro,sin plan,1
+PA-02029,2026-07-31,Lima,WhatsApp,Gato,sin plan,1
+PA-02030,2026-07-31,Lima,app,Perro y gato,recordatorio mensual,1
+PA-02031,2026-08-02,Lima,app,Perro,sin plan,1
+PA-02032,2026-08-02,Trujillo,web,Perro,sin plan,1
+PA-02033,2026-08-02,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-02034,2026-08-03,Trujillo,WhatsApp,Gato,sin plan,1
+PA-02035,2026-08-04,Piura,web,Gato,recordatorio mensual,1
+PA-02036,2026-08-04,Lima,WhatsApp,Gato,sin plan,1
+PA-02037,2026-08-04,Lima,app,Perro,sin plan,1
+PA-02038,2026-08-05,Piura,app,Gato,recordatorio mensual,1
+PA-02039,2026-08-06,Trujillo,WhatsApp,Perro,ahorra y recibe,1
+PA-02040,2026-08-06,Piura,app,Perro,ahorra y recibe,1
+PA-02041,2026-08-06,Trujillo,app,Gato,recordatorio mensual,1
+PA-02042,2026-08-06,Lima,web,Gato,sin plan,1
+PA-02043,2026-08-07,Trujillo,WhatsApp,Gato,sin plan,1
+PA-02044,2026-08-07,Lima,WhatsApp,Gato,sin plan,1
+PA-02045,2026-08-07,Lima,web,Perro,recordatorio mensual,1
+PA-02046,2026-08-08,Lima,app,Perro,sin plan,0
+PA-02047,2026-08-08,Trujillo,WhatsApp,Perro,sin plan,1
+PA-02048,2026-08-09,Trujillo,web,Gato,ahorra y recibe,1
+PA-02049,2026-08-09,Piura,web,Gato,sin plan,1
+PA-02050,2026-08-09,Trujillo,app,Gato,sin plan,1
+PA-02051,2026-08-09,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-02052,2026-08-10,Lima,web,Perro,recordatorio mensual,1
+PA-02053,2026-08-10,Piura,app,Perro,ahorra y recibe,1
+PA-02054,2026-08-11,Lima,web,Perro,ahorra y recibe,0
+PA-02055,2026-08-12,Lima,web,Gato,sin plan,1
+PA-02056,2026-08-12,Trujillo,WhatsApp,Perro,recordatorio mensual,1
+PA-02057,2026-08-13,Lima,app,Perro,sin plan,1
+PA-02058,2026-08-13,Lima,web,Perro y gato,recordatorio mensual,1
+PA-02059,2026-08-13,Trujillo,app,Perro,recordatorio mensual,1
+PA-02060,2026-08-15,Lima,web,Gato,recordatorio mensual,1
+PA-02061,2026-08-15,Lima,app,Perro y gato,ahorra y recibe,1
+PA-02062,2026-08-17,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-02063,2026-08-17,Lima,WhatsApp,Gato,sin plan,1
+PA-02064,2026-08-18,Lima,web,Perro,sin plan,1
+PA-02065,2026-08-18,Lima,app,Perro,sin plan,1
+PA-02066,2026-08-18,Lima,web,Gato,recordatorio mensual,1
+PA-02067,2026-08-18,Lima,web,Perro,sin plan,1
+PA-02068,2026-08-19,Lima,web,Perro,sin plan,1
+PA-02069,2026-08-20,Trujillo,app,Perro,sin plan,1
+PA-02070,2026-08-22,Lima,app,Perro y gato,recordatorio mensual,1
+PA-02071,2026-08-22,Trujillo,app,Perro y gato,ahorra y recibe,0
+PA-02072,2026-08-23,Lima,app,Gato,ahorra y recibe,1
+PA-02073,2026-08-23,Lima,app,Perro,sin plan,1
+PA-02074,2026-08-25,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-02075,2026-08-27,Lima,web,Perro,sin plan,1
+PA-02076,2026-08-28,Piura,WhatsApp,Perro,ahorra y recibe,1
+PA-02077,2026-08-28,Lima,WhatsApp,Gato,recordatorio mensual,1
+PA-02078,2026-08-29,Trujillo,web,Perro,sin plan,1
+PA-02079,2026-08-30,Lima,app,Perro y gato,sin plan,1
+PA-02080,2026-08-31,Lima,web,Gato,sin plan,1
+PA-02081,2026-09-01,Trujillo,WhatsApp,Perro,ahorra y recibe,1
+PA-02082,2026-09-01,Piura,web,Perro,sin plan,1
+PA-02083,2026-09-02,Lima,app,Gato,sin plan,1
+PA-02084,2026-09-03,Lima,web,Perro,recordatorio mensual,0
+PA-02085,2026-09-03,Trujillo,WhatsApp,Gato,ahorra y recibe,1
+PA-02086,2026-09-05,Lima,web,Gato,recordatorio mensual,1
+PA-02087,2026-09-05,Lima,web,Gato,ahorra y recibe,1
+PA-02088,2026-09-06,Lima,app,Perro,sin plan,1
+PA-02089,2026-09-07,Lima,app,Perro,sin plan,1
+PA-02090,2026-09-07,Lima,app,Gato,sin plan,1
+PA-02091,2026-09-08,Lima,WhatsApp,Perro,sin plan,1
+PA-02092,2026-09-08,Lima,app,Gato,ahorra y recibe,1
+PA-02093,2026-09-09,Lima,WhatsApp,Gato,sin plan,1
+PA-02094,2026-09-09,Piura,web,Perro,recordatorio mensual,1
+PA-02095,2026-09-10,Trujillo,app,Perro,recordatorio mensual,1
+PA-02096,2026-09-10,Lima,app,Perro y gato,sin plan,1
+PA-02097,2026-09-11,Trujillo,app,Gato,recordatorio mensual,1
+PA-02098,2026-09-12,Trujillo,app,Gato,sin plan,1
+PA-02099,2026-09-12,Lima,web,Perro,recordatorio mensual,1
+PA-02100,2026-09-12,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-02101,2026-09-13,Lima,web,Gato,sin plan,1
+PA-02102,2026-09-13,Lima,app,Perro y gato,sin plan,1
+PA-02103,2026-09-14,Piura,app,Gato,sin plan,1
+PA-02104,2026-09-14,Lima,app,Perro,recordatorio mensual,1
+PA-02105,2026-09-14,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-02106,2026-09-15,Lima,web,Perro y gato,recordatorio mensual,1
+PA-02107,2026-09-18,Lima,app,Perro,recordatorio mensual,1
+PA-02108,2026-09-19,Lima,app,Perro,ahorra y recibe,1
+PA-02109,2026-09-21,Lima,app,Gato,sin plan,1
+PA-02110,2026-09-21,Lima,app,Perro,recordatorio mensual,1
+PA-02111,2026-09-23,Lima,web,Perro y gato,recordatorio mensual,1
+PA-02112,2026-09-25,Lima,app,Perro,recordatorio mensual,1
+PA-02113,2026-09-25,Lima,web,Perro,recordatorio mensual,1
+PA-02114,2026-09-26,Trujillo,app,Perro y gato,sin plan,1
+PA-02115,2026-09-27,Trujillo,web,Perro,sin plan,1
+PA-02116,2026-09-28,Lima,web,Perro,recordatorio mensual,1
+PA-02117,2026-09-28,Lima,web,Perro,ahorra y recibe,1
+PA-02118,2026-09-29,Lima,app,Perro,recordatorio mensual,1
+PA-02119,2026-09-29,Lima,WhatsApp,Perro y gato,ahorra y recibe,1
+PA-02120,2026-09-30,Lima,app,Perro y gato,sin plan,1
+PA-02121,2026-10-01,Trujillo,WhatsApp,Perro,sin plan,1
+PA-02122,2026-10-02,Lima,app,Perro y gato,sin plan,1
+PA-02123,2026-10-02,Piura,app,Perro,sin plan,1
+PA-02124,2026-10-02,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-02125,2026-10-03,Lima,web,Gato,recordatorio mensual,1
+PA-02126,2026-10-03,Trujillo,WhatsApp,Perro,sin plan,1
+PA-02127,2026-10-04,Lima,WhatsApp,Perro,sin plan,0
+PA-02128,2026-10-04,Trujillo,web,Gato,sin plan,1
+PA-02129,2026-10-04,Lima,web,Gato,recordatorio mensual,1
+PA-02130,2026-10-05,Lima,web,Perro,sin plan,1
+PA-02131,2026-10-05,Piura,app,Gato,sin plan,1
+PA-02132,2026-10-05,Lima,app,Perro y gato,sin plan,1
+PA-02133,2026-10-07,Lima,app,Gato,sin plan,0
+PA-02134,2026-10-08,Trujillo,WhatsApp,Perro,sin plan,1
+PA-02135,2026-10-08,Piura,web,Perro,sin plan,1
+PA-02136,2026-10-09,Piura,web,Gato,sin plan,0
+PA-02137,2026-10-09,Trujillo,web,Gato,sin plan,1
+PA-02138,2026-10-11,Lima,web,Perro,recordatorio mensual,1
+PA-02139,2026-10-11,Trujillo,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-02140,2026-10-12,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-02141,2026-10-12,Lima,web,Gato,sin plan,1
+PA-02142,2026-10-14,Piura,app,Gato,ahorra y recibe,1
+PA-02143,2026-10-14,Trujillo,app,Gato,sin plan,1
+PA-02144,2026-10-15,Trujillo,WhatsApp,Gato,sin plan,0
+PA-02145,2026-10-17,Lima,web,Perro,ahorra y recibe,1
+PA-02146,2026-10-17,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-02147,2026-10-18,Lima,web,Perro,sin plan,0
+PA-02148,2026-10-18,Piura,app,Perro,ahorra y recibe,1
+PA-02149,2026-10-20,Lima,WhatsApp,Perro,recordatorio mensual,1
+PA-02150,2026-10-21,Trujillo,WhatsApp,Gato,sin plan,1
+PA-02151,2026-10-21,Piura,web,Perro y gato,sin plan,1
+PA-02152,2026-10-22,Lima,WhatsApp,Gato,ahorra y recibe,1
+PA-02153,2026-10-22,Piura,WhatsApp,Gato,sin plan,1
+PA-02154,2026-10-23,Lima,web,Perro y gato,recordatorio mensual,1
+PA-02155,2026-10-24,Lima,app,Perro,ahorra y recibe,1
+PA-02156,2026-10-27,Piura,WhatsApp,Perro y gato,recordatorio mensual,1
+PA-02157,2026-10-28,Lima,app,Perro,sin plan,1
+PA-02158,2026-10-29,Piura,web,Perro,sin plan,1
+PA-02159,2026-10-29,Trujillo,WhatsApp,Gato,recordatorio mensual,1
+PA-02160,2026-10-29,Lima,WhatsApp,Perro,ahorra y recibe,1
+PA-02161,2026-10-29,Trujillo,WhatsApp,Gato,sin plan,1
+PA-02162,2026-10-30,Lima,app,Perro,sin plan,1
+PA-02163,2026-10-31,Lima,web,Perro y gato,ahorra y recibe,0
+PA-02164,2026-11-01,Lima,app,Gato,ahorra y recibe,1
+PA-02165,2026-11-01,Piura,web,Perro y gato,sin plan,1

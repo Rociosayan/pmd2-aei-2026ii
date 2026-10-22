@@ -1,0 +1,3 @@
+regla_id,alcance,prioridad,cantidades,coste,fecha_vigencia,descripcion
+AA-R1,contactos,1,700.0,1.0,2026-10-01,Enviar mensajes a los primeros 700 suscriptores elegibles ordenados por id_cliente.
+AA-R2,tutorias,2,,,2026-10-01,"Distribuir las horas de tutoría como en el mes anterior: 45 % Datos y Analítica, 33 % Gestión y Liderazgo, 22 % Idiomas y Comunicación."

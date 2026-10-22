@@ -1,0 +1,18 @@
+periodo,recurso,linea,disponibilidad,consumo_unitario,coste,margen,limite,unidad,elegibilidad,nota
+2026-11,tutoria,Datos y Analítica,110.0,0.5,29.0,16.0,,sesiones de 30 min,,disponibilidad = horas disponibles del área; consumo_unitario = horas por sesión; coste = coste por sesión; margen = precio del paquete (S/ 45) − coste
+2026-11,reserva_minima_area,Datos y Analítica,,0.15,,,,fraccion,,mínimo de las horas totales para el área
+2026-11,tutoria,Gestión y Liderazgo,90.0,0.5,24.0,21.0,,sesiones de 30 min,,disponibilidad = horas disponibles del área; consumo_unitario = horas por sesión; coste = coste por sesión; margen = precio del paquete (S/ 45) − coste
+2026-11,reserva_minima_area,Gestión y Liderazgo,,0.15,,,,fraccion,,mínimo de las horas totales para el área
+2026-11,tutoria,Idiomas y Comunicación,80.0,0.5,21.0,24.0,,sesiones de 30 min,,disponibilidad = horas disponibles del área; consumo_unitario = horas por sesión; coste = coste por sesión; margen = precio del paquete (S/ 45) − coste
+2026-11,reserva_minima_area,Idiomas y Comunicación,,0.15,,,,fraccion,,mínimo de las horas totales para el área
+2026-11,horas_tutoria,todas,,,,,240.0,horas,,
+2026-11,presupuesto_tutoria,todas,,,,,12000.0,S/,,
+2026-11,sesiones_maximas,todas,,,,,480.0,sesiones,,
+2026-11,presupuesto_acompanamiento,todas,,,,,3600.0,S/,,
+2026-11,mensaje,todas,,,1.0,,900.0,mensajes,,
+2026-11,llamada,todas,,,5.0,,150.0,llamadas,,
+2026-11,horizonte_retencion,todas,,6.0,,,,meses,,
+2026-11,aumento_demanda_tutoria,todas,,0.2,,,,fraccion,,escenario de sensibilidad
+2026-11,incremento_renovacion,bajo,0.0,,,,,fraccion,,
+2026-11,incremento_renovacion,medio,0.02,,,,,fraccion,,
+2026-11,incremento_renovacion,alto,0.06,,,,,fraccion,,

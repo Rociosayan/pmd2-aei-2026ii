@@ -1,0 +1,72 @@
+tabla,campo,tipo,descripcion,valores_posibles,filas
+clientes,id_cliente,texto,Identificador seudonimizado del cliente. Clave única.,,4342
+clientes,fecha_alta,texto,"Fecha de alta del cliente (puede ser anterior al inicio del historial, 2023-01-02).",,4342
+clientes,zona_despacho,texto,Zona de despacho del suscriptor.,Lima Centro | Lima Norte-Sur | Provincias,4342
+clientes,canal,texto,Canal de registro o de adquisición.,evento | redes sociales | referido | web,4342
+clientes,segmento,texto,Segmento comercial del cliente.,Clásico | Descubrimiento | Premium,4342
+clientes,molienda_preferida,texto,Preferencia de molienda del suscriptor.,grano | molido espresso | molido filtro,4342
+clientes,consentimiento_contacto,entero,1 si el cliente autoriza ser contactado; 0 si no. Un cliente sin consentimiento no puede ser contactado.,,4342
+actividad,id_evento,texto,Identificador único del evento (una fila por evento).,,95804
+actividad,id_cliente,texto,Cliente que origina el evento. Relaciona con clientes.id_cliente.,,95804
+actividad,fecha_evento,texto,Fecha del evento.,,95804
+actividad,tipo_evento,texto,Tipo de evento. envio_suscripcion: bolsas del ciclo; compra_adicional: bolsas extra; pausa; cancelacion; valoracion; incidencia.,cancelacion | compra_adicional | envio_suscripcion | incidencia | pausa | valoracion,95804
+actividad,sede,texto,Zona de despacho.,Lima Centro | Lima Norte-Sur | Provincias,95804
+actividad,linea,texto,Línea de café.,Mezcla Casa | Origen Selva,95804
+actividad,unidades_solicitadas,decimal,Bolsas de 250 g solicitadas.,,95804
+actividad,unidades,decimal,Bolsas efectivamente entregadas (0 si no hubo stock).,,95804
+actividad,ingreso,decimal,Ingreso del evento en soles (negativo en devoluciones y notas de crédito).,,95804
+actividad,coste_variable,decimal,Coste variable asociado al evento en soles.,,95804
+actividad,estado,texto,Estado final del evento.,abierta | efectiva | entregado | registrada | resuelta | sin_stock,95804
+actividad,valor,decimal,"En valoracion, calificación de 1 a 5 que da el suscriptor.",,95804
+cohortes,id_cliente,texto,Cliente. Relaciona con clientes.id_cliente.,,40317
+cohortes,fecha_corte,texto,Fecha de corte de la cohorte (primer domingo de cada mes). Los predictores deben calcularse solo con eventos hasta esa fecha inclusive.,,40317
+cohortes,elegible,entero,1 si el cliente cumple la regla de elegibilidad del caso en esa fecha de corte; 0 si no.,,40317
+cohortes,seguimiento_fin,texto,Fecha en que termina el seguimiento de la etiqueta. Si es posterior a 2026-11-01 la etiqueta aún no está madura.,,40317
+cohortes,churn,decimal,1 si ocurrió el abandono definido por el caso; 0 si no; vacío si el cliente no es elegible o el seguimiento no ha terminado.,,40317
+cohortes,definicion_etiqueta,texto,Código de la definición de abandono aplicada (ver README del caso).,cancelacion_efectiva_30d,40317
+cohortes,en_pausa,entero,1 si el suscriptor tiene el ciclo en curso en pausa.,,40317
+demanda,semana,texto,Lunes de la semana (semana de lunes a domingo).,,1200
+demanda,sede,texto,Zona de despacho.,Lima Centro | Lima Norte-Sur | Provincias,1200
+demanda,linea,texto,Línea de café. (clave junto con semana).,Mezcla Casa | Origen Selva,1200
+demanda,solicitado,entero,"Unidades solicitadas en la semana, sin contar las canceladas por el propio cliente.",,1200
+demanda,atendido,entero,Unidades efectivamente atendidas o entregadas.,,1200
+demanda,faltante,entero,solicitado − atendido: demanda no atendida (demanda censurada).,,1200
+demanda,solicitado_suscripcion,entero,Bolsas solicitadas por suscripciones confirmadas.,,1200
+demanda,solicitado_adicional,entero,Bolsas solicitadas como compras adicionales.,,1200
+demanda,precio,decimal,"Precio de lista unitario de la semana, en soles.",,1200
+demanda,coste_unitario,decimal,"Coste variable por bolsa, en soles.",,1200
+recursos,periodo,texto,Periodo del plan operativo (2026-11).,2026-11,20
+recursos,recurso,texto,"Recurso, regla o parámetro.",aumento_coste_materia_prima | bolsas_empaque | cafe_verde | coste_variable_total | efecto_incremental | horas_tostado | horizonte_retencion | llamada | mejora_plan | precio_cafe_verde | presupuesto_retencion | produccion | vida_util_dias,20
+recursos,linea,texto,Línea de café.,Mezcla Casa | Origen Selva | alto | bajo | medio | todas,20
+recursos,disponibilidad,decimal,"Cantidad disponible al inicio del periodo (stock, horas, etc.).",,20
+recursos,consumo_unitario,decimal,"Consumo del recurso por unidad producida, vendida o atendida (ver nota).",,20
+recursos,coste,decimal,Coste unitario en soles (ver nota).,,20
+recursos,margen,decimal,Margen o contribución unitaria en soles (ver nota).,,20
+recursos,limite,decimal,"Límite máximo (o mínimo, si se indica) del plan para ese recurso.",,20
+recursos,unidad,texto,Unidad de medida.,S/ | S/ por kg | S/ por suscriptor que la utiliza | bolsas | bolsas de 250 g | días | fraccion | horas | horas/bolsa | kg | llamadas | meses,20
+recursos,elegibilidad,texto,Compatibilidad o alcance del recurso.,tostadora_1 | tostadora_1 y tostadora_2,20
+recursos,nota,texto,Aclaración sobre cómo interpretar la fila.,,20
+operaciones,id_operacion,texto,Identificador único de la operación.,,55469
+operaciones,fecha_hora,texto,Fecha y hora de la operación.,,55469
+operaciones,sede,texto,"Sede, zona o área donde ocurre.",Lima Centro | Lima Norte-Sur | Planta | Provincias,55469
+operaciones,tipo,texto,Tipo de medición u operación.,cobro | peso_media_g | peso_rango_g,55469
+operaciones,valor,decimal,"En valoracion, calificación de 1 a 5 que da el suscriptor.",,55469
+operaciones,unidad,texto,Unidad de medida del valor.,S/ | g,55469
+operaciones,tamano_muestra,entero,Número de unidades que resume la fila.,,55469
+operaciones,denominador,decimal,Denominador cuando el valor forma parte de una proporción.,,55469
+operaciones,id_cliente,texto,"Cliente asociado, si corresponde.",,55469
+operaciones,ref_evento,texto,"Identificador del evento, pedido o lote de actividad al que se refiere.",,55469
+politica_actual,regla_id,texto,Identificador de la regla de la política vigente.,CO-R1 | CO-R2,2
+politica_actual,alcance,texto,Decisión a la que aplica la regla.,contactos | produccion,2
+politica_actual,prioridad,entero,Orden de aplicación.,,2
+politica_actual,cantidades,decimal,Cantidad que define la regla.,,2
+politica_actual,coste,decimal,"Coste unitario asociado, en soles.",,2
+politica_actual,fecha_vigencia,texto,Fecha desde la que rige la regla.,2026-10-01,2
+politica_actual,descripcion,texto,Descripción de la regla; permite reconstruir el escenario actual.,,2
+documentos,doc_id,texto,Identificador del documento. Un mismo doc_id puede tener varias versiones.,CO-DOC-01 | CO-DOC-02 | CO-DOC-03 | CO-DOC-04,5
+documentos,titulo,texto,Título del documento.,Atención de incidencias de entrega | Condiciones de suscripción | Especificaciones internas de empaque | Política de pausas y cancelaciones,5
+documentos,version,decimal,Versión del documento.,,5
+documentos,fecha_vigencia,texto,Fecha desde la que rige esta versión.,2025-03-01 | 2026-01-05 | 2026-01-10 | 2026-02-01 | 2026-02-15,5
+documentos,estado,texto,vigente o reemplazada. Las respuestas del asistente deben usar la versión vigente.,reemplazada | vigente,5
+documentos,texto,texto,Texto completo de la versión.,,5
+documentos,fuente_o_responsable,texto,Área responsable del documento.,Gerencia Comercial | Jefatura de Produccion | Servicio al Cliente,5

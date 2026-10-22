@@ -1,0 +1,4 @@
+regla_id,alcance,prioridad,cantidades,coste,fecha_vigencia,descripcion
+AH-R1,contactos,1,600.0,1.5,2026-10-01,Contactar por WhatsApp a los primeros 600 compradores elegibles ordenados por id_cliente.
+AH-R2,reposicion,2,,,2026-10-01,"Por familia, reponer la demanda de las últimas 4 semanas menos el stock disponible, acotando a cero y ajustando a presupuesto y almacenamiento."
+AH-R3,descuento,3,0.08,,2026-10-01,Descuento de 8 % en el primer pedido de los clientes contactados.

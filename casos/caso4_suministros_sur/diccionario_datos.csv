@@ -1,0 +1,74 @@
+tabla,campo,tipo,descripcion,valores_posibles,filas
+clientes,id_cliente,texto,Identificador seudonimizado del cliente. Clave única.,,1928
+clientes,fecha_alta,texto,"Fecha de alta del cliente (puede ser anterior al inicio del historial, 2023-01-02).",,1928
+clientes,zona,texto,Zona de la cuenta.,Cusco ciudad | Valle Sagrado,1928
+clientes,canal,texto,Canal de registro o de adquisición.,ejecutivo comercial | teléfono | web,1928
+clientes,segmento,texto,Segmento comercial del cliente.,Hotel pequeño | Restaurante,1928
+clientes,tamano_negocio,texto,Tamaño del negocio.,mediano | micro | pequeño,1928
+clientes,consentimiento_contacto,entero,1 si el cliente autoriza ser contactado; 0 si no. Un cliente sin consentimiento no puede ser contactado.,,1928
+actividad,id_evento,texto,Identificador único del evento (una fila por evento).,,31717
+actividad,id_pedido,texto,Identificador del pedido; un pedido puede tener varias líneas.,,31717
+actividad,id_cliente,texto,Cliente que origina el evento. Relaciona con clientes.id_cliente.,,31717
+actividad,fecha_evento,texto,Fecha del evento.,,31717
+actividad,tipo_evento,texto,Tipo de evento. pedido: una fila por línea de pedido; nota_credito: ajuste posterior a una entrega (ingreso negativo).,nota_credito | pedido,31717
+actividad,sede,texto,Zona de entrega del pedido.,Cusco ciudad | Valle Sagrado,31717
+actividad,linea,texto,Familia de insumo.,Bolsas y film | Desinfección | Detergentes y limpiadores | Empaque descartable | Menaje descartable | Papel e higiene,31717
+actividad,unidades_solicitadas,entero,Unidades pedidas en la línea de pedido.,,31717
+actividad,unidades,entero,Unidades efectivamente entregadas (0 si la línea se canceló).,,31717
+actividad,precio_unitario,decimal,"Precio de lista unitario al momento del pedido, en soles.",,31717
+actividad,descuento_pct,entero,"Descuento aplicado, en porcentaje.",,31717
+actividad,ingreso,decimal,Ingreso del evento en soles (negativo en devoluciones y notas de crédito).,,31717
+actividad,coste_variable,decimal,Coste variable asociado al evento en soles.,,31717
+actividad,estado,texto,Estado final del evento.,cancelado_cliente | cancelado_sin_stock | en_ruta | entregado | procesada,31717
+actividad,fecha_entrega,texto,Fecha de entrega; vacía si el pedido no se ha entregado.,,31717
+actividad,dias_entrega,decimal,Días entre el pedido y la entrega.,,31717
+actividad,plazo_prometido_dias,decimal,"Plazo de entrega prometido al cliente, en días.",,31717
+cohortes,id_cliente,texto,Cliente. Relaciona con clientes.id_cliente.,,32240
+cohortes,fecha_corte,texto,Fecha de corte de la cohorte (primer domingo de cada mes). Los predictores deben calcularse solo con eventos hasta esa fecha inclusive.,,32240
+cohortes,elegible,entero,1 si el cliente cumple la regla de elegibilidad del caso en esa fecha de corte; 0 si no.,,32240
+cohortes,seguimiento_fin,texto,Fecha en que termina el seguimiento de la etiqueta. Si es posterior a 2026-11-01 la etiqueta aún no está madura.,,32240
+cohortes,churn,decimal,1 si ocurrió el abandono definido por el caso; 0 si no; vacío si el cliente no es elegible o el seguimiento no ha terminado.,,32240
+cohortes,definicion_etiqueta,texto,Código de la definición de abandono aplicada (ver README del caso).,sin_pedido_entregado_60d,32240
+demanda,semana,texto,Lunes de la semana (semana de lunes a domingo).,,2400
+demanda,sede,texto,Zona de entrega del pedido.,Cusco ciudad | Valle Sagrado,2400
+demanda,linea,texto,Familia de insumo. (clave junto con semana).,Bolsas y film | Desinfección | Detergentes y limpiadores | Empaque descartable | Menaje descartable | Papel e higiene,2400
+demanda,solicitado,entero,"Unidades solicitadas en la semana, sin contar las canceladas por el propio cliente.",,2400
+demanda,atendido,entero,Unidades efectivamente atendidas o entregadas.,,2400
+demanda,faltante,entero,solicitado − atendido: demanda no atendida (demanda censurada).,,2400
+demanda,precio,decimal,"Precio de lista unitario de la semana, en soles.",,2400
+demanda,coste_unitario,decimal,"Coste unitario de la semana, en soles.",,2400
+recursos,periodo,texto,Periodo del plan operativo (2026-11).,2026-11,22
+recursos,recurso,texto,"Recurso, regla o parámetro.",carga | contacto_comercial | efecto_incremental | horas_por_kg | horas_por_pedido | horas_reparto | horizonte_retencion | incentivo | inventario | presupuesto_compra | presupuesto_retencion | reduccion_capacidad_logistica | reserva_capacidad_zona | unidades_por_pedido,22
+recursos,linea,texto,Familia de insumo.,Bolsas y film | Cusco ciudad | Desinfección | Detergentes y limpiadores | Empaque descartable | Menaje descartable | Papel e higiene | Valle Sagrado | alto | bajo | medio | todas,22
+recursos,disponibilidad,decimal,"Cantidad disponible al inicio del periodo (stock, horas, etc.).",,22
+recursos,consumo_unitario,decimal,"Consumo del recurso por unidad producida, vendida o atendida (ver nota).",,22
+recursos,coste,decimal,Coste unitario en soles (ver nota).,,22
+recursos,margen,decimal,Margen o contribución unitaria en soles (ver nota).,,22
+recursos,limite,decimal,"Límite máximo (o mínimo, si se indica) del plan para ese recurso.",,22
+recursos,unidad,texto,Unidad de medida.,S/ | S/ por cuenta que lo utiliza | cuentas | fraccion | horas | horas/kg | horas/pedido | kg | meses | unidades | unidades/pedido,22
+recursos,elegibilidad,texto,Compatibilidad o alcance del recurso.,ambas zonas,22
+recursos,nota,texto,Aclaración sobre cómo interpretar la fila.,,22
+operaciones,id_operacion,texto,Identificador único de la operación.,,18030
+operaciones,fecha_hora,texto,Fecha y hora de la operación.,,18030
+operaciones,sede,texto,"Sede, zona o área donde ocurre.",Cusco ciudad | Valle Sagrado,18030
+operaciones,tipo,texto,Tipo de medición u operación.,nota_credito | tiempo_entrega_h,18030
+operaciones,valor,decimal,Valor medido (ver unidad).,,18030
+operaciones,unidad,texto,Unidad de medida del valor.,S/ | h,18030
+operaciones,tamano_muestra,entero,Número de unidades que resume la fila.,,18030
+operaciones,denominador,decimal,Denominador cuando el valor forma parte de una proporción.,,18030
+operaciones,id_cliente,texto,"Cliente asociado, si corresponde.",,18030
+operaciones,ref_evento,texto,"Identificador del evento, pedido o lote de actividad al que se refiere.",,18030
+politica_actual,regla_id,texto,Identificador de la regla de la política vigente.,SS-R1 | SS-R2,2
+politica_actual,alcance,texto,Decisión a la que aplica la regla.,compras | contactos,2
+politica_actual,prioridad,entero,Orden de aplicación.,,2
+politica_actual,cantidades,decimal,Cantidad que define la regla.,,2
+politica_actual,coste,decimal,"Coste unitario asociado, en soles.",,2
+politica_actual,fecha_vigencia,texto,Fecha desde la que rige la regla.,2026-10-01,2
+politica_actual,descripcion,texto,Descripción de la regla; permite reconstruir el escenario actual.,,2
+documentos,doc_id,texto,Identificador del documento. Un mismo doc_id puede tener varias versiones.,SS-DOC-01 | SS-DOC-02 | SS-DOC-03 | SS-DOC-04,5
+documentos,titulo,texto,Título del documento.,Política de crédito | Política de devoluciones y notas de crédito | Política de entregas | Prioridades de servicio por zona,5
+documentos,version,decimal,Versión del documento.,,5
+documentos,fecha_vigencia,texto,Fecha desde la que rige esta versión.,2025-01-15 | 2026-01-10 | 2026-01-20 | 2026-02-01 | 2026-03-01,5
+documentos,estado,texto,vigente o reemplazada. Las respuestas del asistente deben usar la versión vigente.,reemplazada | vigente,5
+documentos,texto,texto,Texto completo de la versión.,,5
+documentos,fuente_o_responsable,texto,Área responsable del documento.,Gerencia de Logística | Jefatura de Finanzas | Servicio Comercial,5

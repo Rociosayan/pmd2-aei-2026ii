@@ -1,0 +1,13 @@
+.env
+*.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# redundantes o regenerables
+casos/*.zip
+casos/ejemplo_patitas_andinas/salidas/patitas.db
+*.parcial.ipynb
+node_modules/

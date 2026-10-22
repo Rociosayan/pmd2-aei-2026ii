@@ -1,0 +1,1811 @@
+id_cliente,fecha_alta,sede,canal,segmento,tipo_pago_preferido,consentimiento_contacto
+AH-00001,2021-07-14,Lima,marketplace,Hogar individual,billetera digital,1
+AH-00002,2021-07-17,Lima,marketplace,Familia,tarjeta,1
+AH-00003,2021-07-17,Lima,web,Familia,tarjeta,1
+AH-00004,2021-07-17,Lima,web,Hogar individual,tarjeta,1
+AH-00005,2021-07-17,Cusco,marketplace,Emprendedor,contra entrega,1
+AH-00006,2021-07-18,Lima,marketplace,Familia,billetera digital,0
+AH-00007,2021-07-21,Lima,app,Familia,tarjeta,1
+AH-00008,2021-07-21,Lima,web,Familia,tarjeta,1
+AH-00009,2021-07-24,Lima,app,Familia,tarjeta,1
+AH-00010,2021-08-03,Cusco,web,Hogar individual,contra entrega,1
+AH-00011,2021-08-03,Lima,marketplace,Familia,billetera digital,1
+AH-00012,2021-08-05,Lima,web,Familia,contra entrega,1
+AH-00013,2021-08-06,Lima,app,Emprendedor,tarjeta,1
+AH-00014,2021-08-09,Arequipa,web,Emprendedor,tarjeta,1
+AH-00015,2021-08-09,Arequipa,web,Emprendedor,billetera digital,1
+AH-00016,2021-08-10,Lima,marketplace,Hogar individual,billetera digital,1
+AH-00017,2021-08-12,Arequipa,marketplace,Hogar individual,contra entrega,1
+AH-00018,2021-08-12,Lima,web,Hogar individual,billetera digital,1
+AH-00019,2021-08-15,Arequipa,app,Familia,tarjeta,1
+AH-00020,2021-08-16,Lima,web,Hogar individual,billetera digital,1
+AH-00021,2021-08-17,Cusco,app,Emprendedor,billetera digital,1
+AH-00022,2021-08-19,Lima,marketplace,Emprendedor,contra entrega,1
+AH-00023,2021-08-20,Cusco,web,Familia,tarjeta,1
+AH-00024,2021-08-21,Arequipa,marketplace,Familia,tarjeta,1
+AH-00025,2021-08-22,Arequipa,web,Familia,contra entrega,1
+AH-00026,2021-09-01,Lima,marketplace,Emprendedor,tarjeta,1
+AH-00027,2021-09-01,Lima,web,Familia,tarjeta,1
+AH-00028,2021-09-02,Lima,marketplace,Hogar individual,billetera digital,1
+AH-00029,2021-09-04,Lima,web,Hogar individual,tarjeta,1
+AH-00030,2021-09-07,Lima,web,Familia,tarjeta,1
+AH-00031,2021-09-07,Lima,web,Hogar individual,contra entrega,1
+AH-00032,2021-09-09,Lima,web,Familia,tarjeta,1
+AH-00033,2021-09-10,Lima,app,Hogar individual,tarjeta,1
+AH-00034,2021-09-13,Arequipa,marketplace,Emprendedor,tarjeta,1
+AH-00035,2021-09-16,Lima,web,Familia,contra entrega,0
+AH-00036,2021-09-18,Cusco,web,Hogar individual,contra entrega,1
+AH-00037,2021-09-25,Cusco,app,Hogar individual,tarjeta,1
+AH-00038,2021-10-02,Lima,web,Familia,billetera digital,1
+AH-00039,2021-10-03,Cusco,web,Familia,billetera digital,1
+AH-00040,2021-10-05,Lima,web,Familia,contra entrega,1
+AH-00041,2021-10-05,Cusco,web,Hogar individual,billetera digital,1
+AH-00042,2021-10-09,Arequipa,app,Familia,billetera digital,1
+AH-00043,2021-10-17,Lima,marketplace,Emprendedor,billetera digital,1
+AH-00044,2021-10-20,Arequipa,web,Emprendedor,contra entrega,1
+AH-00045,2021-10-21,Lima,app,Familia,contra entrega,1
+AH-00046,2021-10-22,Lima,web,Hogar individual,billetera digital,1
+AH-00047,2021-10-22,Lima,app,Hogar individual,contra entrega,0
+AH-00048,2021-10-22,Lima,app,Familia,tarjeta,1
+AH-00049,2021-10-24,Cusco,app,Familia,billetera digital,1
+AH-00050,2021-10-29,Lima,marketplace,Emprendedor,billetera digital,1
+AH-00051,2021-11-01,Lima,web,Familia,tarjeta,1
+AH-00052,2021-11-02,Arequipa,web,Familia,tarjeta,1
+AH-00053,2021-11-02,Lima,marketplace,Emprendedor,contra entrega,1
+AH-00054,2021-11-04,Lima,app,Emprendedor,tarjeta,1
+AH-00055,2021-11-05,Lima,web,Emprendedor,tarjeta,1
+AH-00056,2021-11-08,Lima,app,Familia,billetera digital,0
+AH-00057,2021-11-08,Lima,web,Hogar individual,tarjeta,1
+AH-00058,2021-11-08,Lima,web,Hogar individual,tarjeta,1
+AH-00059,2021-11-10,Lima,marketplace,Familia,tarjeta,1
+AH-00060,2021-11-10,Arequipa,marketplace,Familia,tarjeta,1
+AH-00061,2021-11-12,Cusco,marketplace,Emprendedor,tarjeta,1
+AH-00062,2021-11-13,Arequipa,marketplace,Familia,tarjeta,1
+AH-00063,2021-11-15,Arequipa,web,Familia,contra entrega,1
+AH-00064,2021-11-16,Arequipa,app,Emprendedor,contra entrega,1
+AH-00065,2021-11-17,Lima,app,Hogar individual,tarjeta,0
+AH-00066,2021-11-18,Lima,web,Emprendedor,contra entrega,1
+AH-00067,2021-11-20,Cusco,web,Emprendedor,contra entrega,1
+AH-00068,2021-11-20,Arequipa,web,Familia,tarjeta,1
+AH-00069,2021-11-20,Lima,marketplace,Familia,billetera digital,1
+AH-00070,2021-11-21,Lima,app,Hogar individual,tarjeta,1
+AH-00071,2021-11-23,Lima,app,Hogar individual,contra entrega,1
+AH-00072,2021-11-25,Arequipa,marketplace,Hogar individual,contra entrega,1
+AH-00073,2021-11-25,Lima,web,Hogar individual,tarjeta,1
+AH-00074,2021-11-27,Lima,web,Familia,contra entrega,1
+AH-00075,2021-12-06,Lima,web,Familia,billetera digital,1
+AH-00076,2021-12-07,Lima,app,Hogar individual,contra entrega,1
+AH-00077,2021-12-10,Cusco,app,Familia,billetera digital,1
+AH-00078,2021-12-10,Cusco,app,Familia,billetera digital,1
+AH-00079,2021-12-12,Lima,marketplace,Familia,billetera digital,1
+AH-00080,2021-12-13,Lima,web,Familia,billetera digital,1
+AH-00081,2021-12-14,Arequipa,web,Familia,tarjeta,1
+AH-00082,2021-12-15,Arequipa,web,Hogar individual,billetera digital,1
+AH-00083,2021-12-21,Lima,app,Familia,tarjeta,1
+AH-00084,2021-12-21,Lima,app,Emprendedor,tarjeta,1
+AH-00085,2021-12-28,Cusco,marketplace,Hogar individual,billetera digital,0
+AH-00086,2021-12-31,Lima,web,Familia,billetera digital,1
+AH-00087,2021-12-31,Cusco,app,Familia,tarjeta,1
+AH-00088,2022-01-02,Arequipa,app,Emprendedor,contra entrega,1
+AH-00089,2022-01-03,Lima,marketplace,Familia,tarjeta,0
+AH-00090,2022-01-04,Cusco,web,Hogar individual,contra entrega,1
+AH-00091,2022-01-12,Lima,web,Familia,billetera digital,1
+AH-00092,2022-01-15,Lima,app,Hogar individual,tarjeta,1
+AH-00093,2022-01-15,Lima,marketplace,Familia,tarjeta,1
+AH-00094,2022-01-15,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00095,2022-01-19,Arequipa,web,Hogar individual,tarjeta,1
+AH-00096,2022-01-23,Lima,app,Hogar individual,tarjeta,0
+AH-00097,2022-01-23,Lima,web,Familia,tarjeta,1
+AH-00098,2022-01-23,Lima,app,Familia,contra entrega,1
+AH-00099,2022-01-25,Cusco,app,Hogar individual,tarjeta,1
+AH-00100,2022-01-26,Arequipa,app,Familia,tarjeta,0
+AH-00101,2022-01-27,Lima,marketplace,Familia,tarjeta,1
+AH-00102,2022-01-27,Lima,app,Familia,tarjeta,1
+AH-00103,2022-01-27,Lima,web,Familia,tarjeta,1
+AH-00104,2022-01-29,Lima,web,Hogar individual,billetera digital,1
+AH-00105,2022-01-29,Lima,app,Familia,contra entrega,0
+AH-00106,2022-01-30,Lima,app,Hogar individual,tarjeta,1
+AH-00107,2022-02-01,Lima,app,Emprendedor,contra entrega,1
+AH-00108,2022-02-01,Lima,app,Familia,tarjeta,1
+AH-00109,2022-02-03,Cusco,app,Familia,contra entrega,1
+AH-00110,2022-02-03,Lima,app,Familia,tarjeta,0
+AH-00111,2022-02-07,Lima,web,Familia,tarjeta,1
+AH-00112,2022-02-07,Lima,web,Familia,tarjeta,1
+AH-00113,2022-02-09,Arequipa,app,Hogar individual,contra entrega,1
+AH-00114,2022-02-09,Lima,app,Familia,tarjeta,1
+AH-00115,2022-02-13,Lima,app,Hogar individual,billetera digital,1
+AH-00116,2022-02-13,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00117,2022-02-15,Lima,app,Hogar individual,tarjeta,1
+AH-00118,2022-02-16,Arequipa,app,Familia,billetera digital,1
+AH-00119,2022-02-17,Lima,marketplace,Familia,billetera digital,0
+AH-00120,2022-02-18,Lima,app,Familia,tarjeta,1
+AH-00121,2022-02-19,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00122,2022-02-22,Arequipa,app,Familia,tarjeta,1
+AH-00123,2022-03-01,Lima,web,Familia,tarjeta,1
+AH-00124,2022-03-03,Arequipa,app,Emprendedor,billetera digital,1
+AH-00125,2022-03-05,Arequipa,web,Emprendedor,tarjeta,1
+AH-00126,2022-03-05,Lima,web,Familia,contra entrega,1
+AH-00127,2022-03-06,Lima,web,Hogar individual,tarjeta,1
+AH-00128,2022-03-08,Lima,marketplace,Familia,tarjeta,1
+AH-00129,2022-03-09,Lima,web,Familia,billetera digital,1
+AH-00130,2022-03-12,Arequipa,web,Emprendedor,tarjeta,0
+AH-00131,2022-03-12,Lima,marketplace,Familia,tarjeta,1
+AH-00132,2022-03-15,Lima,app,Hogar individual,billetera digital,1
+AH-00133,2022-03-18,Lima,marketplace,Familia,tarjeta,1
+AH-00134,2022-03-18,Lima,web,Emprendedor,contra entrega,1
+AH-00135,2022-03-20,Cusco,web,Emprendedor,tarjeta,1
+AH-00136,2022-03-24,Cusco,app,Hogar individual,tarjeta,1
+AH-00137,2022-03-28,Arequipa,app,Familia,tarjeta,1
+AH-00138,2022-03-29,Lima,app,Emprendedor,contra entrega,1
+AH-00139,2022-03-29,Arequipa,web,Familia,billetera digital,1
+AH-00140,2022-03-31,Lima,app,Familia,billetera digital,1
+AH-00141,2022-04-01,Lima,app,Familia,contra entrega,1
+AH-00142,2022-04-02,Lima,app,Familia,billetera digital,1
+AH-00143,2022-04-02,Lima,marketplace,Familia,tarjeta,1
+AH-00144,2022-04-03,Lima,marketplace,Familia,tarjeta,1
+AH-00145,2022-04-06,Arequipa,app,Emprendedor,tarjeta,1
+AH-00146,2022-04-08,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00147,2022-04-09,Lima,web,Hogar individual,tarjeta,1
+AH-00148,2022-04-13,Lima,app,Familia,billetera digital,1
+AH-00149,2022-04-15,Cusco,web,Familia,tarjeta,1
+AH-00150,2022-04-16,Arequipa,app,Familia,tarjeta,1
+AH-00151,2022-04-16,Lima,web,Familia,tarjeta,1
+AH-00152,2022-04-17,Arequipa,marketplace,Emprendedor,tarjeta,1
+AH-00153,2022-04-19,Arequipa,app,Familia,tarjeta,1
+AH-00154,2022-04-20,Arequipa,web,Familia,billetera digital,1
+AH-00155,2022-04-26,Lima,marketplace,Emprendedor,contra entrega,1
+AH-00156,2022-04-28,Lima,web,Familia,tarjeta,1
+AH-00157,2022-04-28,Lima,app,Hogar individual,tarjeta,0
+AH-00158,2022-04-29,Arequipa,marketplace,Familia,tarjeta,1
+AH-00159,2022-04-29,Lima,app,Hogar individual,billetera digital,1
+AH-00160,2022-05-07,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00161,2022-05-09,Arequipa,app,Hogar individual,tarjeta,1
+AH-00162,2022-05-11,Arequipa,web,Hogar individual,contra entrega,1
+AH-00163,2022-05-12,Arequipa,marketplace,Hogar individual,tarjeta,0
+AH-00164,2022-05-14,Lima,app,Hogar individual,tarjeta,1
+AH-00165,2022-05-14,Arequipa,web,Familia,contra entrega,1
+AH-00166,2022-05-14,Arequipa,web,Familia,billetera digital,1
+AH-00167,2022-05-17,Lima,web,Familia,contra entrega,1
+AH-00168,2022-05-17,Lima,web,Familia,billetera digital,0
+AH-00169,2022-05-19,Cusco,web,Familia,billetera digital,1
+AH-00170,2022-05-21,Lima,marketplace,Emprendedor,billetera digital,0
+AH-00171,2022-05-24,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00172,2022-05-24,Arequipa,app,Familia,contra entrega,1
+AH-00173,2022-05-25,Arequipa,web,Familia,contra entrega,1
+AH-00174,2022-05-27,Cusco,app,Familia,contra entrega,1
+AH-00175,2022-05-27,Lima,web,Hogar individual,contra entrega,1
+AH-00176,2022-05-27,Arequipa,web,Emprendedor,contra entrega,1
+AH-00177,2022-05-28,Lima,web,Familia,tarjeta,1
+AH-00178,2022-05-30,Lima,web,Hogar individual,tarjeta,1
+AH-00179,2022-06-03,Cusco,app,Familia,tarjeta,1
+AH-00180,2022-06-05,Arequipa,marketplace,Hogar individual,billetera digital,1
+AH-00181,2022-06-06,Arequipa,web,Emprendedor,billetera digital,1
+AH-00182,2022-06-09,Lima,web,Familia,billetera digital,1
+AH-00183,2022-06-12,Lima,web,Hogar individual,tarjeta,0
+AH-00184,2022-06-13,Lima,app,Familia,contra entrega,1
+AH-00185,2022-06-13,Arequipa,web,Familia,billetera digital,1
+AH-00186,2022-06-14,Arequipa,web,Familia,tarjeta,1
+AH-00187,2022-06-14,Lima,web,Hogar individual,tarjeta,0
+AH-00188,2022-06-14,Arequipa,app,Familia,contra entrega,1
+AH-00189,2022-06-19,Lima,marketplace,Familia,tarjeta,1
+AH-00190,2022-06-20,Arequipa,app,Familia,tarjeta,0
+AH-00191,2022-06-21,Lima,app,Hogar individual,tarjeta,1
+AH-00192,2022-06-26,Lima,marketplace,Familia,tarjeta,1
+AH-00193,2022-06-28,Lima,app,Hogar individual,billetera digital,1
+AH-00194,2022-06-29,Lima,web,Hogar individual,billetera digital,1
+AH-00195,2022-07-03,Lima,web,Familia,billetera digital,1
+AH-00196,2022-07-04,Cusco,marketplace,Hogar individual,contra entrega,1
+AH-00197,2022-07-07,Arequipa,app,Familia,tarjeta,1
+AH-00198,2022-07-10,Lima,web,Familia,billetera digital,1
+AH-00199,2022-07-12,Lima,marketplace,Familia,billetera digital,1
+AH-00200,2022-07-14,Lima,web,Familia,tarjeta,1
+AH-00201,2022-07-17,Arequipa,marketplace,Familia,tarjeta,1
+AH-00202,2022-07-20,Lima,app,Familia,contra entrega,1
+AH-00203,2022-07-20,Lima,web,Emprendedor,billetera digital,1
+AH-00204,2022-07-20,Lima,marketplace,Emprendedor,tarjeta,0
+AH-00205,2022-07-21,Arequipa,marketplace,Familia,tarjeta,1
+AH-00206,2022-07-23,Lima,marketplace,Familia,tarjeta,1
+AH-00207,2022-07-29,Lima,web,Familia,contra entrega,1
+AH-00208,2022-07-29,Cusco,web,Familia,billetera digital,1
+AH-00209,2022-07-29,Arequipa,app,Hogar individual,billetera digital,1
+AH-00210,2022-07-30,Lima,app,Familia,billetera digital,0
+AH-00211,2022-07-30,Cusco,app,Familia,tarjeta,1
+AH-00212,2022-08-01,Lima,web,Emprendedor,tarjeta,1
+AH-00213,2022-08-02,Lima,web,Familia,tarjeta,1
+AH-00214,2022-08-03,Cusco,web,Familia,contra entrega,1
+AH-00215,2022-08-07,Lima,marketplace,Familia,billetera digital,1
+AH-00216,2022-08-08,Lima,web,Familia,tarjeta,1
+AH-00217,2022-08-08,Lima,web,Familia,tarjeta,1
+AH-00218,2022-08-09,Arequipa,app,Familia,tarjeta,1
+AH-00219,2022-08-10,Lima,app,Familia,contra entrega,1
+AH-00220,2022-08-10,Arequipa,app,Emprendedor,tarjeta,1
+AH-00221,2022-08-12,Lima,app,Familia,billetera digital,1
+AH-00222,2022-08-15,Cusco,web,Hogar individual,tarjeta,1
+AH-00223,2022-08-17,Cusco,web,Familia,billetera digital,1
+AH-00224,2022-08-17,Lima,web,Hogar individual,contra entrega,1
+AH-00225,2022-08-18,Lima,app,Familia,tarjeta,0
+AH-00226,2022-08-22,Lima,marketplace,Hogar individual,billetera digital,1
+AH-00227,2022-08-26,Lima,web,Hogar individual,billetera digital,1
+AH-00228,2022-08-27,Lima,web,Hogar individual,tarjeta,1
+AH-00229,2022-08-28,Cusco,web,Familia,contra entrega,1
+AH-00230,2022-08-29,Lima,web,Familia,tarjeta,1
+AH-00231,2022-09-01,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00232,2022-09-01,Lima,marketplace,Familia,tarjeta,1
+AH-00233,2022-09-01,Arequipa,web,Familia,tarjeta,1
+AH-00234,2022-09-02,Arequipa,app,Emprendedor,billetera digital,1
+AH-00235,2022-09-03,Cusco,marketplace,Familia,billetera digital,1
+AH-00236,2022-09-04,Lima,marketplace,Emprendedor,billetera digital,1
+AH-00237,2022-09-05,Lima,web,Familia,tarjeta,1
+AH-00238,2022-09-06,Arequipa,app,Hogar individual,tarjeta,1
+AH-00239,2022-09-07,Lima,app,Hogar individual,tarjeta,1
+AH-00240,2022-09-07,Lima,web,Familia,tarjeta,1
+AH-00241,2022-09-09,Arequipa,web,Familia,billetera digital,1
+AH-00242,2022-09-10,Lima,app,Familia,tarjeta,1
+AH-00243,2022-09-11,Arequipa,web,Familia,tarjeta,1
+AH-00244,2022-09-13,Lima,web,Familia,tarjeta,1
+AH-00245,2022-09-15,Lima,web,Familia,tarjeta,1
+AH-00246,2022-09-19,Lima,web,Emprendedor,billetera digital,1
+AH-00247,2022-09-20,Arequipa,app,Hogar individual,tarjeta,1
+AH-00248,2022-09-20,Cusco,app,Emprendedor,tarjeta,1
+AH-00249,2022-09-20,Arequipa,app,Familia,contra entrega,1
+AH-00250,2022-09-23,Lima,web,Familia,tarjeta,1
+AH-00251,2022-09-24,Cusco,web,Emprendedor,billetera digital,1
+AH-00252,2022-09-25,Arequipa,marketplace,Familia,billetera digital,1
+AH-00253,2022-09-27,Lima,web,Familia,tarjeta,1
+AH-00254,2022-09-28,Lima,marketplace,Hogar individual,contra entrega,1
+AH-00255,2022-09-30,Lima,web,Familia,billetera digital,1
+AH-00256,2022-09-30,Lima,web,Familia,tarjeta,1
+AH-00257,2022-10-02,Cusco,marketplace,Familia,tarjeta,0
+AH-00258,2022-10-02,Lima,web,Hogar individual,tarjeta,1
+AH-00259,2022-10-03,Arequipa,app,Familia,tarjeta,1
+AH-00260,2022-10-05,Cusco,web,Familia,contra entrega,1
+AH-00261,2022-10-07,Arequipa,app,Familia,tarjeta,1
+AH-00262,2022-10-08,Lima,marketplace,Familia,tarjeta,1
+AH-00263,2022-10-08,Lima,app,Familia,billetera digital,1
+AH-00264,2022-10-09,Lima,app,Hogar individual,tarjeta,1
+AH-00265,2022-10-13,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00266,2022-10-14,Lima,web,Hogar individual,tarjeta,1
+AH-00267,2022-10-14,Arequipa,web,Emprendedor,billetera digital,0
+AH-00268,2022-10-14,Arequipa,web,Familia,tarjeta,1
+AH-00269,2022-10-19,Arequipa,app,Hogar individual,contra entrega,1
+AH-00270,2022-10-19,Lima,app,Hogar individual,contra entrega,1
+AH-00271,2022-10-22,Lima,web,Familia,tarjeta,0
+AH-00272,2022-10-23,Lima,app,Familia,contra entrega,1
+AH-00273,2022-10-26,Lima,app,Familia,contra entrega,1
+AH-00274,2022-10-30,Lima,web,Hogar individual,tarjeta,1
+AH-00275,2022-11-02,Lima,web,Familia,billetera digital,1
+AH-00276,2022-11-05,Lima,web,Familia,billetera digital,0
+AH-00277,2022-11-08,Lima,web,Familia,billetera digital,1
+AH-00278,2022-11-10,Lima,web,Familia,tarjeta,1
+AH-00279,2022-11-11,Lima,marketplace,Emprendedor,contra entrega,1
+AH-00280,2022-11-11,Lima,web,Emprendedor,contra entrega,1
+AH-00281,2022-11-15,Arequipa,web,Familia,billetera digital,1
+AH-00282,2022-11-20,Cusco,app,Familia,tarjeta,1
+AH-00283,2022-11-28,Lima,web,Familia,tarjeta,1
+AH-00284,2022-12-01,Arequipa,web,Hogar individual,tarjeta,1
+AH-00285,2022-12-04,Lima,marketplace,Emprendedor,tarjeta,1
+AH-00286,2022-12-04,Arequipa,app,Emprendedor,tarjeta,1
+AH-00287,2022-12-05,Lima,app,Hogar individual,tarjeta,0
+AH-00288,2022-12-06,Arequipa,web,Familia,contra entrega,1
+AH-00289,2022-12-07,Lima,web,Familia,tarjeta,1
+AH-00290,2022-12-09,Arequipa,marketplace,Emprendedor,billetera digital,1
+AH-00291,2022-12-13,Lima,web,Hogar individual,tarjeta,1
+AH-00292,2022-12-20,Lima,web,Emprendedor,tarjeta,1
+AH-00293,2022-12-20,Cusco,web,Familia,contra entrega,1
+AH-00294,2022-12-21,Lima,marketplace,Familia,tarjeta,0
+AH-00295,2022-12-22,Lima,app,Familia,tarjeta,0
+AH-00296,2022-12-26,Cusco,web,Familia,tarjeta,1
+AH-00297,2022-12-26,Lima,app,Emprendedor,tarjeta,1
+AH-00298,2022-12-29,Lima,app,Familia,tarjeta,1
+AH-00299,2022-12-29,Lima,app,Familia,tarjeta,1
+AH-00300,2023-01-01,Arequipa,web,Emprendedor,tarjeta,1
+AH-00301,2023-01-02,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00302,2023-01-05,Lima,marketplace,Familia,tarjeta,1
+AH-00303,2023-01-05,Lima,app,Emprendedor,billetera digital,1
+AH-00304,2023-01-05,Arequipa,app,Familia,billetera digital,1
+AH-00305,2023-01-06,Lima,web,Hogar individual,tarjeta,1
+AH-00306,2023-01-06,Lima,app,Familia,contra entrega,1
+AH-00307,2023-01-08,Lima,web,Familia,billetera digital,1
+AH-00308,2023-01-09,Arequipa,marketplace,Familia,contra entrega,1
+AH-00309,2023-01-10,Lima,web,Familia,tarjeta,1
+AH-00310,2023-01-11,Lima,marketplace,Emprendedor,billetera digital,1
+AH-00311,2023-01-12,Lima,web,Hogar individual,billetera digital,1
+AH-00312,2023-01-12,Lima,web,Familia,billetera digital,1
+AH-00313,2023-01-12,Lima,marketplace,Familia,tarjeta,1
+AH-00314,2023-01-15,Lima,marketplace,Familia,billetera digital,1
+AH-00315,2023-01-17,Cusco,marketplace,Emprendedor,billetera digital,1
+AH-00316,2023-01-18,Arequipa,web,Familia,billetera digital,1
+AH-00317,2023-01-19,Cusco,web,Familia,tarjeta,1
+AH-00318,2023-01-23,Lima,web,Familia,tarjeta,1
+AH-00319,2023-01-23,Lima,web,Hogar individual,tarjeta,1
+AH-00320,2023-01-24,Lima,marketplace,Familia,tarjeta,1
+AH-00321,2023-01-24,Arequipa,web,Familia,contra entrega,1
+AH-00322,2023-01-24,Lima,marketplace,Emprendedor,tarjeta,1
+AH-00323,2023-01-26,Arequipa,web,Familia,billetera digital,1
+AH-00324,2023-01-27,Lima,app,Familia,billetera digital,1
+AH-00325,2023-01-27,Cusco,app,Emprendedor,billetera digital,1
+AH-00326,2023-01-27,Lima,web,Familia,billetera digital,1
+AH-00327,2023-01-28,Lima,web,Familia,tarjeta,1
+AH-00328,2023-01-30,Arequipa,marketplace,Familia,billetera digital,1
+AH-00329,2023-01-30,Cusco,web,Familia,tarjeta,1
+AH-00330,2023-01-30,Arequipa,web,Familia,tarjeta,1
+AH-00331,2023-01-31,Lima,app,Emprendedor,billetera digital,0
+AH-00332,2023-02-05,Lima,web,Emprendedor,tarjeta,1
+AH-00333,2023-02-06,Lima,app,Hogar individual,billetera digital,0
+AH-00334,2023-02-06,Lima,app,Hogar individual,billetera digital,1
+AH-00335,2023-02-11,Arequipa,marketplace,Familia,tarjeta,1
+AH-00336,2023-02-11,Lima,web,Emprendedor,billetera digital,1
+AH-00337,2023-02-12,Cusco,marketplace,Familia,tarjeta,1
+AH-00338,2023-02-17,Arequipa,web,Emprendedor,contra entrega,1
+AH-00339,2023-02-18,Lima,marketplace,Hogar individual,billetera digital,1
+AH-00340,2023-02-18,Arequipa,web,Familia,contra entrega,1
+AH-00341,2023-02-19,Lima,marketplace,Familia,billetera digital,1
+AH-00342,2023-02-20,Lima,web,Familia,contra entrega,0
+AH-00343,2023-02-21,Lima,marketplace,Hogar individual,contra entrega,1
+AH-00344,2023-02-23,Arequipa,app,Familia,billetera digital,1
+AH-00345,2023-02-24,Arequipa,web,Hogar individual,tarjeta,1
+AH-00346,2023-02-24,Lima,web,Hogar individual,contra entrega,1
+AH-00347,2023-02-25,Lima,web,Familia,tarjeta,1
+AH-00348,2023-02-26,Cusco,web,Hogar individual,contra entrega,1
+AH-00349,2023-02-27,Cusco,web,Emprendedor,tarjeta,1
+AH-00350,2023-02-27,Arequipa,web,Familia,contra entrega,1
+AH-00351,2023-02-27,Arequipa,web,Familia,billetera digital,1
+AH-00352,2023-03-03,Cusco,app,Familia,billetera digital,0
+AH-00353,2023-03-03,Arequipa,web,Familia,tarjeta,1
+AH-00354,2023-03-03,Lima,web,Familia,tarjeta,1
+AH-00355,2023-03-04,Lima,web,Familia,contra entrega,0
+AH-00356,2023-03-04,Arequipa,web,Familia,billetera digital,1
+AH-00357,2023-03-05,Lima,web,Familia,tarjeta,0
+AH-00358,2023-03-05,Lima,web,Emprendedor,contra entrega,1
+AH-00359,2023-03-09,Lima,web,Familia,billetera digital,1
+AH-00360,2023-03-09,Arequipa,web,Hogar individual,tarjeta,1
+AH-00361,2023-03-10,Lima,web,Hogar individual,contra entrega,1
+AH-00362,2023-03-10,Arequipa,web,Emprendedor,contra entrega,1
+AH-00363,2023-03-11,Lima,web,Familia,tarjeta,1
+AH-00364,2023-03-13,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00365,2023-03-16,Arequipa,app,Familia,billetera digital,1
+AH-00366,2023-03-18,Lima,marketplace,Familia,billetera digital,0
+AH-00367,2023-03-18,Cusco,app,Familia,billetera digital,1
+AH-00368,2023-03-22,Lima,app,Hogar individual,tarjeta,1
+AH-00369,2023-03-23,Arequipa,web,Hogar individual,billetera digital,0
+AH-00370,2023-03-23,Arequipa,web,Familia,tarjeta,1
+AH-00371,2023-03-25,Lima,web,Familia,billetera digital,1
+AH-00372,2023-03-29,Arequipa,web,Familia,billetera digital,1
+AH-00373,2023-03-30,Lima,web,Familia,contra entrega,1
+AH-00374,2023-03-30,Lima,web,Familia,tarjeta,1
+AH-00375,2023-03-31,Lima,web,Familia,tarjeta,1
+AH-00376,2023-04-01,Arequipa,app,Familia,contra entrega,1
+AH-00377,2023-04-05,Cusco,web,Familia,tarjeta,1
+AH-00378,2023-04-06,Lima,app,Familia,tarjeta,1
+AH-00379,2023-04-07,Lima,marketplace,Familia,tarjeta,1
+AH-00380,2023-04-07,Lima,web,Hogar individual,tarjeta,0
+AH-00381,2023-04-08,Lima,app,Emprendedor,tarjeta,1
+AH-00382,2023-04-10,Lima,web,Familia,tarjeta,1
+AH-00383,2023-04-11,Lima,marketplace,Familia,billetera digital,1
+AH-00384,2023-04-11,Arequipa,web,Familia,billetera digital,1
+AH-00385,2023-04-13,Arequipa,web,Familia,tarjeta,1
+AH-00386,2023-04-13,Cusco,app,Hogar individual,tarjeta,1
+AH-00387,2023-04-13,Lima,web,Familia,billetera digital,1
+AH-00388,2023-04-13,Lima,app,Familia,tarjeta,1
+AH-00389,2023-04-17,Cusco,web,Familia,tarjeta,1
+AH-00390,2023-04-17,Lima,app,Familia,tarjeta,1
+AH-00391,2023-04-18,Arequipa,marketplace,Familia,tarjeta,1
+AH-00392,2023-04-19,Arequipa,marketplace,Familia,tarjeta,0
+AH-00393,2023-04-20,Lima,app,Familia,tarjeta,1
+AH-00394,2023-04-25,Cusco,web,Familia,billetera digital,1
+AH-00395,2023-04-27,Cusco,web,Familia,contra entrega,1
+AH-00396,2023-04-27,Lima,web,Emprendedor,billetera digital,1
+AH-00397,2023-04-28,Lima,web,Hogar individual,contra entrega,1
+AH-00398,2023-04-30,Cusco,app,Hogar individual,contra entrega,1
+AH-00399,2023-05-01,Arequipa,app,Familia,tarjeta,1
+AH-00400,2023-05-01,Arequipa,app,Hogar individual,contra entrega,1
+AH-00401,2023-05-01,Lima,marketplace,Familia,tarjeta,1
+AH-00402,2023-05-04,Arequipa,web,Familia,tarjeta,1
+AH-00403,2023-05-04,Lima,app,Hogar individual,tarjeta,1
+AH-00404,2023-05-07,Lima,web,Familia,tarjeta,1
+AH-00405,2023-05-09,Lima,web,Familia,tarjeta,1
+AH-00406,2023-05-10,Lima,app,Familia,billetera digital,1
+AH-00407,2023-05-10,Arequipa,web,Familia,tarjeta,1
+AH-00408,2023-05-11,Arequipa,web,Familia,tarjeta,1
+AH-00409,2023-05-11,Lima,web,Emprendedor,billetera digital,1
+AH-00410,2023-05-11,Cusco,web,Familia,tarjeta,0
+AH-00411,2023-05-12,Cusco,marketplace,Familia,tarjeta,1
+AH-00412,2023-05-12,Lima,web,Familia,billetera digital,1
+AH-00413,2023-05-14,Lima,marketplace,Familia,tarjeta,1
+AH-00414,2023-05-15,Cusco,web,Familia,tarjeta,1
+AH-00415,2023-05-17,Lima,app,Familia,tarjeta,1
+AH-00416,2023-05-18,Lima,marketplace,Familia,tarjeta,1
+AH-00417,2023-05-18,Arequipa,marketplace,Hogar individual,billetera digital,1
+AH-00418,2023-05-20,Lima,web,Hogar individual,tarjeta,1
+AH-00419,2023-05-20,Lima,app,Hogar individual,tarjeta,1
+AH-00420,2023-05-20,Cusco,web,Hogar individual,contra entrega,0
+AH-00421,2023-05-21,Arequipa,web,Emprendedor,tarjeta,1
+AH-00422,2023-05-22,Lima,app,Emprendedor,billetera digital,1
+AH-00423,2023-05-24,Cusco,app,Familia,tarjeta,1
+AH-00424,2023-05-24,Lima,web,Emprendedor,billetera digital,1
+AH-00425,2023-05-25,Arequipa,web,Familia,billetera digital,1
+AH-00426,2023-05-26,Lima,web,Hogar individual,tarjeta,1
+AH-00427,2023-05-28,Cusco,marketplace,Hogar individual,billetera digital,1
+AH-00428,2023-05-29,Cusco,web,Emprendedor,billetera digital,1
+AH-00429,2023-05-31,Lima,marketplace,Familia,billetera digital,1
+AH-00430,2023-06-02,Lima,web,Hogar individual,billetera digital,1
+AH-00431,2023-06-02,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00432,2023-06-02,Lima,app,Emprendedor,tarjeta,1
+AH-00433,2023-06-04,Lima,web,Emprendedor,tarjeta,0
+AH-00434,2023-06-11,Lima,web,Familia,billetera digital,1
+AH-00435,2023-06-12,Arequipa,app,Familia,tarjeta,1
+AH-00436,2023-06-14,Lima,marketplace,Familia,tarjeta,1
+AH-00437,2023-06-18,Lima,web,Familia,tarjeta,1
+AH-00438,2023-06-20,Lima,marketplace,Familia,billetera digital,1
+AH-00439,2023-06-21,Arequipa,web,Hogar individual,billetera digital,1
+AH-00440,2023-06-21,Lima,web,Familia,contra entrega,1
+AH-00441,2023-06-24,Arequipa,web,Familia,tarjeta,1
+AH-00442,2023-06-24,Arequipa,web,Familia,tarjeta,1
+AH-00443,2023-06-29,Lima,app,Hogar individual,tarjeta,1
+AH-00444,2023-06-30,Arequipa,web,Emprendedor,contra entrega,1
+AH-00445,2023-07-02,Arequipa,web,Familia,billetera digital,1
+AH-00446,2023-07-04,Lima,marketplace,Familia,contra entrega,0
+AH-00447,2023-07-05,Cusco,app,Familia,tarjeta,1
+AH-00448,2023-07-06,Lima,web,Hogar individual,tarjeta,1
+AH-00449,2023-07-07,Cusco,web,Emprendedor,contra entrega,1
+AH-00450,2023-07-08,Arequipa,web,Familia,tarjeta,0
+AH-00451,2023-07-09,Lima,app,Familia,tarjeta,1
+AH-00452,2023-07-10,Cusco,marketplace,Familia,contra entrega,1
+AH-00453,2023-07-10,Arequipa,app,Emprendedor,tarjeta,1
+AH-00454,2023-07-12,Arequipa,marketplace,Hogar individual,billetera digital,1
+AH-00455,2023-07-12,Lima,marketplace,Familia,contra entrega,1
+AH-00456,2023-07-14,Lima,app,Hogar individual,billetera digital,1
+AH-00457,2023-07-15,Arequipa,app,Hogar individual,billetera digital,0
+AH-00458,2023-07-15,Cusco,app,Hogar individual,billetera digital,1
+AH-00459,2023-07-16,Lima,web,Familia,contra entrega,1
+AH-00460,2023-07-16,Lima,web,Hogar individual,tarjeta,1
+AH-00461,2023-07-16,Lima,marketplace,Familia,tarjeta,1
+AH-00462,2023-07-17,Arequipa,marketplace,Hogar individual,billetera digital,1
+AH-00463,2023-07-18,Lima,marketplace,Familia,billetera digital,1
+AH-00464,2023-07-19,Cusco,web,Familia,billetera digital,1
+AH-00465,2023-07-19,Arequipa,app,Emprendedor,tarjeta,1
+AH-00466,2023-07-21,Lima,app,Familia,tarjeta,1
+AH-00467,2023-07-22,Lima,app,Emprendedor,contra entrega,1
+AH-00468,2023-07-24,Cusco,app,Emprendedor,billetera digital,1
+AH-00469,2023-07-25,Lima,app,Emprendedor,tarjeta,1
+AH-00470,2023-07-26,Lima,marketplace,Familia,tarjeta,1
+AH-00471,2023-07-27,Lima,marketplace,Familia,tarjeta,1
+AH-00472,2023-07-28,Lima,app,Hogar individual,tarjeta,1
+AH-00473,2023-07-30,Cusco,marketplace,Familia,tarjeta,1
+AH-00474,2023-07-30,Arequipa,app,Familia,billetera digital,1
+AH-00475,2023-07-31,Lima,app,Familia,contra entrega,1
+AH-00476,2023-08-02,Arequipa,web,Hogar individual,tarjeta,0
+AH-00477,2023-08-04,Arequipa,web,Emprendedor,contra entrega,1
+AH-00478,2023-08-04,Lima,app,Hogar individual,tarjeta,1
+AH-00479,2023-08-05,Lima,web,Familia,tarjeta,1
+AH-00480,2023-08-05,Lima,web,Emprendedor,billetera digital,1
+AH-00481,2023-08-07,Lima,marketplace,Familia,contra entrega,1
+AH-00482,2023-08-07,Lima,web,Emprendedor,contra entrega,1
+AH-00483,2023-08-08,Arequipa,marketplace,Familia,contra entrega,1
+AH-00484,2023-08-12,Lima,app,Hogar individual,billetera digital,1
+AH-00485,2023-08-12,Lima,marketplace,Familia,tarjeta,1
+AH-00486,2023-08-14,Arequipa,web,Familia,billetera digital,1
+AH-00487,2023-08-15,Lima,web,Hogar individual,billetera digital,1
+AH-00488,2023-08-16,Arequipa,marketplace,Emprendedor,contra entrega,0
+AH-00489,2023-08-17,Lima,web,Hogar individual,tarjeta,1
+AH-00490,2023-08-18,Cusco,web,Familia,tarjeta,1
+AH-00491,2023-08-20,Arequipa,app,Emprendedor,billetera digital,1
+AH-00492,2023-08-20,Lima,web,Familia,tarjeta,1
+AH-00493,2023-08-21,Lima,app,Familia,billetera digital,1
+AH-00494,2023-08-22,Lima,web,Hogar individual,contra entrega,1
+AH-00495,2023-08-24,Arequipa,web,Hogar individual,tarjeta,1
+AH-00496,2023-08-24,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00497,2023-08-24,Lima,app,Hogar individual,tarjeta,1
+AH-00498,2023-08-25,Lima,marketplace,Familia,contra entrega,0
+AH-00499,2023-08-27,Lima,app,Emprendedor,tarjeta,1
+AH-00500,2023-08-27,Arequipa,app,Familia,tarjeta,1
+AH-00501,2023-08-30,Arequipa,app,Familia,contra entrega,0
+AH-00502,2023-08-31,Cusco,web,Hogar individual,billetera digital,1
+AH-00503,2023-08-31,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00504,2023-09-02,Arequipa,marketplace,Familia,billetera digital,1
+AH-00505,2023-09-05,Lima,web,Familia,tarjeta,0
+AH-00506,2023-09-10,Lima,marketplace,Familia,tarjeta,1
+AH-00507,2023-09-10,Lima,marketplace,Familia,contra entrega,1
+AH-00508,2023-09-12,Lima,app,Hogar individual,contra entrega,1
+AH-00509,2023-09-14,Arequipa,app,Familia,contra entrega,1
+AH-00510,2023-09-14,Arequipa,app,Familia,billetera digital,1
+AH-00511,2023-09-16,Lima,app,Familia,tarjeta,1
+AH-00512,2023-09-17,Arequipa,web,Familia,contra entrega,0
+AH-00513,2023-09-18,Lima,marketplace,Familia,contra entrega,1
+AH-00514,2023-09-19,Lima,web,Hogar individual,tarjeta,1
+AH-00515,2023-09-19,Cusco,marketplace,Familia,tarjeta,1
+AH-00516,2023-09-20,Arequipa,web,Hogar individual,tarjeta,1
+AH-00517,2023-09-26,Lima,app,Emprendedor,billetera digital,1
+AH-00518,2023-09-26,Lima,web,Familia,tarjeta,0
+AH-00519,2023-09-26,Lima,web,Familia,tarjeta,1
+AH-00520,2023-09-28,Arequipa,app,Hogar individual,tarjeta,1
+AH-00521,2023-09-29,Arequipa,app,Familia,billetera digital,0
+AH-00522,2023-09-29,Cusco,web,Familia,tarjeta,1
+AH-00523,2023-09-30,Cusco,web,Hogar individual,tarjeta,1
+AH-00524,2023-09-30,Cusco,web,Familia,tarjeta,1
+AH-00525,2023-09-30,Arequipa,web,Hogar individual,contra entrega,1
+AH-00526,2023-10-02,Arequipa,web,Familia,contra entrega,1
+AH-00527,2023-10-04,Cusco,web,Familia,tarjeta,1
+AH-00528,2023-10-07,Arequipa,app,Familia,billetera digital,1
+AH-00529,2023-10-08,Lima,marketplace,Hogar individual,billetera digital,1
+AH-00530,2023-10-11,Lima,web,Familia,tarjeta,1
+AH-00531,2023-10-12,Lima,web,Familia,billetera digital,1
+AH-00532,2023-10-13,Lima,marketplace,Familia,tarjeta,1
+AH-00533,2023-10-14,Arequipa,web,Emprendedor,tarjeta,1
+AH-00534,2023-10-16,Lima,app,Familia,tarjeta,1
+AH-00535,2023-10-17,Lima,web,Familia,tarjeta,1
+AH-00536,2023-10-18,Arequipa,web,Emprendedor,tarjeta,1
+AH-00537,2023-10-19,Lima,marketplace,Emprendedor,billetera digital,1
+AH-00538,2023-10-20,Lima,marketplace,Familia,contra entrega,1
+AH-00539,2023-10-21,Arequipa,app,Emprendedor,billetera digital,1
+AH-00540,2023-10-21,Lima,app,Familia,tarjeta,1
+AH-00541,2023-10-21,Lima,web,Hogar individual,contra entrega,1
+AH-00542,2023-10-21,Lima,marketplace,Familia,tarjeta,1
+AH-00543,2023-10-23,Lima,web,Familia,tarjeta,1
+AH-00544,2023-10-24,Arequipa,marketplace,Familia,tarjeta,1
+AH-00545,2023-10-25,Arequipa,web,Familia,tarjeta,1
+AH-00546,2023-10-25,Arequipa,marketplace,Hogar individual,tarjeta,1
+AH-00547,2023-10-25,Lima,app,Familia,tarjeta,1
+AH-00548,2023-10-26,Lima,web,Hogar individual,tarjeta,1
+AH-00549,2023-10-28,Lima,web,Hogar individual,tarjeta,1
+AH-00550,2023-10-31,Lima,marketplace,Familia,tarjeta,1
+AH-00551,2023-10-31,Lima,web,Familia,tarjeta,1
+AH-00552,2023-11-02,Cusco,web,Hogar individual,contra entrega,1
+AH-00553,2023-11-03,Lima,marketplace,Familia,tarjeta,1
+AH-00554,2023-11-06,Lima,web,Emprendedor,tarjeta,1
+AH-00555,2023-11-06,Lima,web,Hogar individual,contra entrega,1
+AH-00556,2023-11-08,Lima,web,Emprendedor,tarjeta,1
+AH-00557,2023-11-09,Lima,app,Hogar individual,billetera digital,1
+AH-00558,2023-11-09,Cusco,web,Emprendedor,tarjeta,1
+AH-00559,2023-11-09,Lima,web,Familia,tarjeta,1
+AH-00560,2023-11-10,Lima,app,Familia,tarjeta,1
+AH-00561,2023-11-10,Lima,app,Emprendedor,contra entrega,0
+AH-00562,2023-11-10,Cusco,web,Familia,tarjeta,1
+AH-00563,2023-11-11,Lima,app,Emprendedor,billetera digital,1
+AH-00564,2023-11-12,Lima,marketplace,Familia,tarjeta,1
+AH-00565,2023-11-12,Lima,app,Familia,contra entrega,1
+AH-00566,2023-11-12,Arequipa,web,Familia,billetera digital,1
+AH-00567,2023-11-15,Lima,web,Familia,tarjeta,1
+AH-00568,2023-11-17,Lima,app,Familia,tarjeta,1
+AH-00569,2023-11-18,Lima,marketplace,Familia,tarjeta,1
+AH-00570,2023-11-20,Arequipa,app,Familia,tarjeta,1
+AH-00571,2023-11-20,Lima,web,Emprendedor,billetera digital,1
+AH-00572,2023-11-23,Lima,app,Familia,tarjeta,1
+AH-00573,2023-11-24,Lima,web,Familia,tarjeta,1
+AH-00574,2023-11-24,Lima,web,Familia,tarjeta,1
+AH-00575,2023-11-25,Arequipa,web,Emprendedor,tarjeta,1
+AH-00576,2023-11-25,Lima,web,Familia,tarjeta,1
+AH-00577,2023-11-26,Cusco,web,Hogar individual,tarjeta,1
+AH-00578,2023-11-28,Arequipa,app,Familia,billetera digital,1
+AH-00579,2023-11-29,Arequipa,web,Familia,billetera digital,1
+AH-00580,2023-12-01,Lima,web,Hogar individual,billetera digital,1
+AH-00581,2023-12-03,Lima,app,Familia,billetera digital,1
+AH-00582,2023-12-05,Lima,web,Hogar individual,contra entrega,1
+AH-00583,2023-12-06,Lima,marketplace,Familia,billetera digital,0
+AH-00584,2023-12-08,Lima,web,Familia,billetera digital,1
+AH-00585,2023-12-08,Arequipa,app,Familia,billetera digital,1
+AH-00586,2023-12-08,Lima,app,Emprendedor,billetera digital,1
+AH-00587,2023-12-09,Arequipa,app,Emprendedor,contra entrega,1
+AH-00588,2023-12-10,Cusco,web,Emprendedor,tarjeta,1
+AH-00589,2023-12-10,Lima,web,Emprendedor,billetera digital,1
+AH-00590,2023-12-11,Arequipa,app,Hogar individual,tarjeta,1
+AH-00591,2023-12-12,Lima,app,Emprendedor,billetera digital,1
+AH-00592,2023-12-13,Lima,app,Hogar individual,tarjeta,0
+AH-00593,2023-12-13,Lima,app,Hogar individual,billetera digital,0
+AH-00594,2023-12-14,Lima,app,Familia,contra entrega,1
+AH-00595,2023-12-16,Lima,web,Emprendedor,contra entrega,1
+AH-00596,2023-12-17,Lima,app,Familia,contra entrega,1
+AH-00597,2023-12-18,Arequipa,app,Hogar individual,billetera digital,1
+AH-00598,2023-12-18,Lima,app,Familia,billetera digital,1
+AH-00599,2023-12-20,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00600,2023-12-22,Lima,marketplace,Familia,tarjeta,1
+AH-00601,2023-12-22,Lima,web,Familia,billetera digital,1
+AH-00602,2023-12-22,Arequipa,app,Familia,tarjeta,1
+AH-00603,2023-12-23,Arequipa,web,Familia,contra entrega,1
+AH-00604,2023-12-24,Arequipa,marketplace,Familia,tarjeta,1
+AH-00605,2023-12-25,Lima,web,Hogar individual,tarjeta,1
+AH-00606,2023-12-26,Arequipa,web,Emprendedor,tarjeta,1
+AH-00607,2023-12-27,Arequipa,app,Familia,billetera digital,1
+AH-00608,2023-12-27,Lima,web,Emprendedor,billetera digital,1
+AH-00609,2023-12-28,Cusco,marketplace,Hogar individual,contra entrega,1
+AH-00610,2023-12-29,Arequipa,app,Familia,billetera digital,1
+AH-00611,2023-12-29,Lima,web,Familia,tarjeta,1
+AH-00612,2023-12-29,Lima,app,Familia,tarjeta,1
+AH-00613,2023-12-31,Arequipa,web,Familia,billetera digital,1
+AH-00614,2023-12-31,Arequipa,marketplace,Emprendedor,tarjeta,1
+AH-00615,2024-01-02,Lima,web,Familia,billetera digital,1
+AH-00616,2024-01-02,Lima,web,Emprendedor,billetera digital,1
+AH-00617,2024-01-03,Cusco,marketplace,Emprendedor,billetera digital,1
+AH-00618,2024-01-03,Lima,web,Familia,tarjeta,0
+AH-00619,2024-01-04,Lima,marketplace,Familia,tarjeta,1
+AH-00620,2024-01-05,Lima,web,Familia,tarjeta,1
+AH-00621,2024-01-06,Lima,web,Familia,tarjeta,1
+AH-00622,2024-01-07,Arequipa,marketplace,Emprendedor,tarjeta,0
+AH-00623,2024-01-09,Lima,marketplace,Familia,billetera digital,1
+AH-00624,2024-01-09,Lima,app,Hogar individual,tarjeta,1
+AH-00625,2024-01-09,Lima,web,Familia,tarjeta,1
+AH-00626,2024-01-10,Arequipa,marketplace,Familia,tarjeta,1
+AH-00627,2024-01-11,Cusco,web,Emprendedor,billetera digital,1
+AH-00628,2024-01-12,Lima,marketplace,Familia,tarjeta,1
+AH-00629,2024-01-12,Lima,web,Familia,billetera digital,1
+AH-00630,2024-01-12,Lima,web,Familia,billetera digital,1
+AH-00631,2024-01-12,Arequipa,web,Emprendedor,billetera digital,1
+AH-00632,2024-01-13,Arequipa,web,Emprendedor,tarjeta,1
+AH-00633,2024-01-18,Lima,web,Familia,tarjeta,1
+AH-00634,2024-01-19,Lima,web,Emprendedor,tarjeta,1
+AH-00635,2024-01-25,Cusco,web,Familia,tarjeta,1
+AH-00636,2024-01-26,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00637,2024-01-27,Lima,web,Emprendedor,tarjeta,1
+AH-00638,2024-01-27,Lima,marketplace,Familia,contra entrega,0
+AH-00639,2024-01-28,Cusco,app,Familia,contra entrega,1
+AH-00640,2024-01-30,Arequipa,marketplace,Familia,billetera digital,1
+AH-00641,2024-01-31,Cusco,app,Familia,billetera digital,1
+AH-00642,2024-02-01,Cusco,web,Emprendedor,billetera digital,1
+AH-00643,2024-02-02,Lima,app,Familia,tarjeta,1
+AH-00644,2024-02-05,Lima,app,Emprendedor,billetera digital,1
+AH-00645,2024-02-07,Arequipa,marketplace,Familia,tarjeta,1
+AH-00646,2024-02-08,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00647,2024-02-08,Lima,app,Emprendedor,contra entrega,1
+AH-00648,2024-02-08,Lima,marketplace,Emprendedor,billetera digital,1
+AH-00649,2024-02-09,Arequipa,web,Hogar individual,billetera digital,1
+AH-00650,2024-02-10,Cusco,web,Hogar individual,tarjeta,1
+AH-00651,2024-02-10,Lima,web,Familia,tarjeta,1
+AH-00652,2024-02-10,Lima,app,Hogar individual,tarjeta,1
+AH-00653,2024-02-11,Lima,web,Familia,tarjeta,1
+AH-00654,2024-02-11,Lima,web,Familia,contra entrega,1
+AH-00655,2024-02-12,Arequipa,web,Hogar individual,tarjeta,1
+AH-00656,2024-02-14,Lima,marketplace,Familia,billetera digital,1
+AH-00657,2024-02-15,Lima,web,Familia,tarjeta,1
+AH-00658,2024-02-16,Arequipa,marketplace,Hogar individual,tarjeta,1
+AH-00659,2024-02-17,Lima,web,Familia,billetera digital,0
+AH-00660,2024-02-17,Lima,app,Hogar individual,contra entrega,1
+AH-00661,2024-02-17,Lima,app,Familia,tarjeta,1
+AH-00662,2024-02-17,Lima,marketplace,Familia,tarjeta,1
+AH-00663,2024-02-19,Arequipa,app,Familia,tarjeta,1
+AH-00664,2024-02-22,Lima,marketplace,Familia,tarjeta,1
+AH-00665,2024-02-23,Arequipa,marketplace,Emprendedor,tarjeta,1
+AH-00666,2024-02-24,Arequipa,web,Familia,tarjeta,1
+AH-00667,2024-02-27,Lima,web,Emprendedor,billetera digital,1
+AH-00668,2024-03-02,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00669,2024-03-02,Lima,app,Hogar individual,tarjeta,1
+AH-00670,2024-03-03,Lima,app,Hogar individual,contra entrega,1
+AH-00671,2024-03-04,Lima,app,Familia,tarjeta,1
+AH-00672,2024-03-05,Lima,web,Hogar individual,tarjeta,1
+AH-00673,2024-03-05,Arequipa,web,Familia,billetera digital,1
+AH-00674,2024-03-06,Lima,web,Familia,tarjeta,0
+AH-00675,2024-03-07,Cusco,web,Emprendedor,contra entrega,1
+AH-00676,2024-03-08,Lima,web,Familia,tarjeta,1
+AH-00677,2024-03-08,Arequipa,web,Hogar individual,tarjeta,1
+AH-00678,2024-03-09,Lima,marketplace,Emprendedor,tarjeta,1
+AH-00679,2024-03-10,Lima,web,Emprendedor,tarjeta,1
+AH-00680,2024-03-10,Lima,marketplace,Familia,contra entrega,1
+AH-00681,2024-03-11,Lima,web,Familia,tarjeta,1
+AH-00682,2024-03-12,Lima,web,Familia,tarjeta,1
+AH-00683,2024-03-13,Lima,web,Emprendedor,billetera digital,0
+AH-00684,2024-03-13,Lima,app,Familia,contra entrega,1
+AH-00685,2024-03-14,Lima,web,Emprendedor,billetera digital,1
+AH-00686,2024-03-15,Arequipa,web,Hogar individual,contra entrega,1
+AH-00687,2024-03-15,Cusco,web,Emprendedor,billetera digital,1
+AH-00688,2024-03-17,Cusco,marketplace,Hogar individual,tarjeta,1
+AH-00689,2024-03-18,Arequipa,marketplace,Familia,tarjeta,1
+AH-00690,2024-03-18,Cusco,marketplace,Familia,tarjeta,1
+AH-00691,2024-03-18,Lima,web,Familia,tarjeta,1
+AH-00692,2024-03-21,Lima,web,Familia,tarjeta,1
+AH-00693,2024-03-21,Lima,app,Familia,contra entrega,1
+AH-00694,2024-03-22,Arequipa,web,Emprendedor,contra entrega,1
+AH-00695,2024-03-22,Arequipa,marketplace,Emprendedor,tarjeta,1
+AH-00696,2024-03-22,Cusco,marketplace,Familia,tarjeta,1
+AH-00697,2024-03-25,Lima,marketplace,Familia,tarjeta,1
+AH-00698,2024-03-26,Lima,web,Familia,tarjeta,1
+AH-00699,2024-03-26,Lima,web,Hogar individual,billetera digital,1
+AH-00700,2024-03-26,Lima,web,Familia,tarjeta,1
+AH-00701,2024-03-28,Cusco,app,Familia,tarjeta,1
+AH-00702,2024-03-28,Lima,marketplace,Familia,billetera digital,1
+AH-00703,2024-03-28,Lima,web,Emprendedor,tarjeta,1
+AH-00704,2024-03-29,Arequipa,app,Familia,tarjeta,1
+AH-00705,2024-03-29,Lima,web,Hogar individual,tarjeta,1
+AH-00706,2024-03-30,Lima,app,Familia,billetera digital,1
+AH-00707,2024-04-01,Arequipa,web,Familia,billetera digital,1
+AH-00708,2024-04-03,Arequipa,web,Familia,tarjeta,1
+AH-00709,2024-04-07,Arequipa,web,Familia,tarjeta,1
+AH-00710,2024-04-07,Lima,web,Familia,contra entrega,1
+AH-00711,2024-04-08,Arequipa,marketplace,Familia,billetera digital,1
+AH-00712,2024-04-11,Lima,web,Emprendedor,billetera digital,1
+AH-00713,2024-04-12,Arequipa,web,Familia,contra entrega,1
+AH-00714,2024-04-17,Arequipa,marketplace,Emprendedor,billetera digital,1
+AH-00715,2024-04-21,Lima,marketplace,Emprendedor,tarjeta,1
+AH-00716,2024-04-23,Cusco,marketplace,Familia,tarjeta,1
+AH-00717,2024-04-23,Cusco,web,Hogar individual,tarjeta,1
+AH-00718,2024-04-26,Cusco,web,Familia,billetera digital,1
+AH-00719,2024-04-30,Lima,web,Familia,billetera digital,1
+AH-00720,2024-05-02,Arequipa,web,Familia,tarjeta,1
+AH-00721,2024-05-03,Cusco,web,Hogar individual,tarjeta,0
+AH-00722,2024-05-03,Arequipa,app,Familia,tarjeta,1
+AH-00723,2024-05-07,Lima,web,Hogar individual,billetera digital,1
+AH-00724,2024-05-08,Lima,web,Familia,tarjeta,1
+AH-00725,2024-05-08,Lima,marketplace,Familia,tarjeta,1
+AH-00726,2024-05-09,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00727,2024-05-09,Cusco,app,Familia,contra entrega,1
+AH-00728,2024-05-10,Lima,web,Emprendedor,tarjeta,1
+AH-00729,2024-05-12,Lima,marketplace,Familia,contra entrega,0
+AH-00730,2024-05-12,Lima,web,Familia,tarjeta,1
+AH-00731,2024-05-13,Arequipa,app,Familia,tarjeta,1
+AH-00732,2024-05-14,Cusco,marketplace,Familia,billetera digital,1
+AH-00733,2024-05-15,Lima,web,Emprendedor,billetera digital,1
+AH-00734,2024-05-17,Lima,marketplace,Emprendedor,tarjeta,0
+AH-00735,2024-05-17,Arequipa,web,Hogar individual,contra entrega,1
+AH-00736,2024-05-18,Lima,web,Familia,tarjeta,1
+AH-00737,2024-05-19,Lima,app,Familia,tarjeta,1
+AH-00738,2024-05-22,Lima,app,Familia,billetera digital,1
+AH-00739,2024-05-23,Lima,web,Hogar individual,billetera digital,1
+AH-00740,2024-05-25,Lima,app,Familia,tarjeta,1
+AH-00741,2024-05-25,Lima,web,Familia,tarjeta,1
+AH-00742,2024-05-26,Lima,app,Hogar individual,tarjeta,1
+AH-00743,2024-05-27,Lima,web,Familia,tarjeta,1
+AH-00744,2024-05-27,Arequipa,web,Familia,tarjeta,1
+AH-00745,2024-05-27,Cusco,web,Emprendedor,billetera digital,1
+AH-00746,2024-05-28,Lima,marketplace,Familia,tarjeta,1
+AH-00747,2024-05-29,Lima,app,Familia,billetera digital,1
+AH-00748,2024-05-29,Arequipa,web,Familia,tarjeta,1
+AH-00749,2024-05-29,Arequipa,app,Familia,tarjeta,1
+AH-00750,2024-05-30,Lima,web,Hogar individual,tarjeta,1
+AH-00751,2024-06-06,Lima,marketplace,Familia,tarjeta,1
+AH-00752,2024-06-09,Lima,web,Hogar individual,contra entrega,1
+AH-00753,2024-06-09,Lima,app,Familia,tarjeta,1
+AH-00754,2024-06-10,Lima,web,Hogar individual,tarjeta,1
+AH-00755,2024-06-10,Lima,app,Familia,contra entrega,1
+AH-00756,2024-06-11,Cusco,app,Hogar individual,billetera digital,1
+AH-00757,2024-06-11,Cusco,app,Familia,tarjeta,1
+AH-00758,2024-06-11,Lima,marketplace,Familia,billetera digital,1
+AH-00759,2024-06-13,Lima,web,Hogar individual,contra entrega,1
+AH-00760,2024-06-14,Cusco,marketplace,Hogar individual,contra entrega,1
+AH-00761,2024-06-15,Lima,marketplace,Familia,contra entrega,1
+AH-00762,2024-06-17,Arequipa,web,Hogar individual,tarjeta,1
+AH-00763,2024-06-17,Lima,web,Familia,tarjeta,1
+AH-00764,2024-06-18,Lima,app,Familia,contra entrega,1
+AH-00765,2024-06-20,Arequipa,app,Familia,billetera digital,1
+AH-00766,2024-06-21,Arequipa,web,Hogar individual,tarjeta,1
+AH-00767,2024-06-22,Lima,web,Familia,tarjeta,1
+AH-00768,2024-06-23,Lima,web,Hogar individual,contra entrega,1
+AH-00769,2024-06-23,Lima,app,Hogar individual,tarjeta,1
+AH-00770,2024-06-24,Lima,web,Familia,tarjeta,1
+AH-00771,2024-06-25,Lima,web,Emprendedor,tarjeta,1
+AH-00772,2024-06-25,Lima,web,Familia,billetera digital,1
+AH-00773,2024-06-26,Lima,web,Familia,billetera digital,1
+AH-00774,2024-06-27,Cusco,web,Familia,contra entrega,1
+AH-00775,2024-06-30,Lima,web,Emprendedor,tarjeta,1
+AH-00776,2024-07-01,Arequipa,web,Familia,tarjeta,1
+AH-00777,2024-07-02,Lima,web,Familia,tarjeta,1
+AH-00778,2024-07-02,Lima,web,Emprendedor,tarjeta,0
+AH-00779,2024-07-03,Arequipa,marketplace,Emprendedor,billetera digital,0
+AH-00780,2024-07-04,Cusco,web,Familia,billetera digital,1
+AH-00781,2024-07-04,Lima,marketplace,Familia,tarjeta,1
+AH-00782,2024-07-05,Lima,app,Familia,billetera digital,0
+AH-00783,2024-07-07,Lima,web,Familia,tarjeta,1
+AH-00784,2024-07-09,Lima,web,Hogar individual,tarjeta,1
+AH-00785,2024-07-09,Lima,marketplace,Familia,tarjeta,0
+AH-00786,2024-07-11,Lima,web,Familia,tarjeta,1
+AH-00787,2024-07-12,Lima,marketplace,Hogar individual,contra entrega,1
+AH-00788,2024-07-13,Lima,marketplace,Familia,tarjeta,1
+AH-00789,2024-07-14,Arequipa,web,Familia,tarjeta,1
+AH-00790,2024-07-15,Lima,web,Familia,contra entrega,1
+AH-00791,2024-07-17,Lima,web,Familia,contra entrega,1
+AH-00792,2024-07-18,Lima,app,Familia,billetera digital,1
+AH-00793,2024-07-18,Lima,app,Familia,contra entrega,1
+AH-00794,2024-07-18,Arequipa,app,Hogar individual,contra entrega,1
+AH-00795,2024-07-21,Lima,marketplace,Familia,billetera digital,1
+AH-00796,2024-07-22,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00797,2024-07-23,Lima,web,Hogar individual,tarjeta,1
+AH-00798,2024-07-23,Lima,web,Hogar individual,tarjeta,1
+AH-00799,2024-07-24,Cusco,app,Familia,billetera digital,1
+AH-00800,2024-07-24,Arequipa,app,Familia,billetera digital,1
+AH-00801,2024-07-25,Arequipa,marketplace,Hogar individual,contra entrega,1
+AH-00802,2024-07-26,Cusco,web,Familia,billetera digital,1
+AH-00803,2024-07-26,Arequipa,web,Hogar individual,tarjeta,1
+AH-00804,2024-07-27,Lima,web,Hogar individual,tarjeta,1
+AH-00805,2024-07-27,Cusco,web,Familia,tarjeta,1
+AH-00806,2024-07-31,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00807,2024-07-31,Lima,web,Hogar individual,billetera digital,1
+AH-00808,2024-08-01,Cusco,marketplace,Hogar individual,billetera digital,1
+AH-00809,2024-08-01,Lima,marketplace,Familia,tarjeta,1
+AH-00810,2024-08-03,Cusco,web,Familia,tarjeta,0
+AH-00811,2024-08-03,Arequipa,marketplace,Familia,tarjeta,1
+AH-00812,2024-08-04,Lima,app,Hogar individual,contra entrega,1
+AH-00813,2024-08-06,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00814,2024-08-08,Lima,app,Familia,tarjeta,1
+AH-00815,2024-08-10,Lima,app,Familia,tarjeta,1
+AH-00816,2024-08-10,Arequipa,web,Emprendedor,contra entrega,1
+AH-00817,2024-08-11,Lima,app,Hogar individual,billetera digital,1
+AH-00818,2024-08-13,Arequipa,web,Familia,tarjeta,0
+AH-00819,2024-08-14,Lima,marketplace,Emprendedor,tarjeta,1
+AH-00820,2024-08-14,Arequipa,web,Familia,contra entrega,1
+AH-00821,2024-08-14,Lima,web,Familia,contra entrega,1
+AH-00822,2024-08-15,Lima,web,Hogar individual,billetera digital,1
+AH-00823,2024-08-15,Lima,web,Hogar individual,billetera digital,1
+AH-00824,2024-08-16,Cusco,app,Hogar individual,tarjeta,1
+AH-00825,2024-08-17,Lima,web,Familia,tarjeta,1
+AH-00826,2024-08-17,Lima,web,Hogar individual,billetera digital,1
+AH-00827,2024-08-18,Cusco,web,Familia,tarjeta,1
+AH-00828,2024-08-19,Lima,web,Familia,billetera digital,1
+AH-00829,2024-08-20,Lima,web,Familia,billetera digital,1
+AH-00830,2024-08-21,Cusco,marketplace,Emprendedor,billetera digital,1
+AH-00831,2024-08-21,Lima,marketplace,Hogar individual,tarjeta,0
+AH-00832,2024-08-22,Lima,marketplace,Familia,billetera digital,1
+AH-00833,2024-08-23,Lima,web,Familia,tarjeta,1
+AH-00834,2024-08-25,Arequipa,marketplace,Familia,tarjeta,1
+AH-00835,2024-08-27,Lima,web,Emprendedor,tarjeta,1
+AH-00836,2024-08-27,Arequipa,marketplace,Familia,billetera digital,1
+AH-00837,2024-08-30,Arequipa,web,Familia,contra entrega,1
+AH-00838,2024-08-30,Cusco,app,Familia,tarjeta,1
+AH-00839,2024-08-31,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00840,2024-08-31,Arequipa,marketplace,Familia,billetera digital,1
+AH-00841,2024-08-31,Cusco,web,Hogar individual,tarjeta,1
+AH-00842,2024-08-31,Arequipa,web,Familia,tarjeta,1
+AH-00843,2024-09-04,Arequipa,marketplace,Familia,contra entrega,1
+AH-00844,2024-09-06,Arequipa,web,Familia,contra entrega,1
+AH-00845,2024-09-07,Lima,marketplace,Familia,billetera digital,1
+AH-00846,2024-09-08,Cusco,web,Hogar individual,tarjeta,1
+AH-00847,2024-09-10,Lima,web,Familia,tarjeta,0
+AH-00848,2024-09-10,Lima,web,Familia,tarjeta,1
+AH-00849,2024-09-10,Lima,web,Familia,billetera digital,1
+AH-00850,2024-09-10,Lima,app,Familia,tarjeta,1
+AH-00851,2024-09-10,Lima,marketplace,Familia,billetera digital,1
+AH-00852,2024-09-12,Cusco,web,Familia,contra entrega,1
+AH-00853,2024-09-13,Lima,marketplace,Hogar individual,billetera digital,1
+AH-00854,2024-09-13,Arequipa,app,Familia,billetera digital,1
+AH-00855,2024-09-13,Arequipa,web,Familia,tarjeta,1
+AH-00856,2024-09-14,Arequipa,web,Familia,tarjeta,1
+AH-00857,2024-09-14,Cusco,marketplace,Familia,tarjeta,1
+AH-00858,2024-09-15,Arequipa,web,Hogar individual,contra entrega,1
+AH-00859,2024-09-15,Lima,web,Familia,tarjeta,1
+AH-00860,2024-09-16,Lima,app,Hogar individual,tarjeta,1
+AH-00861,2024-09-20,Cusco,web,Familia,billetera digital,1
+AH-00862,2024-09-21,Cusco,web,Hogar individual,billetera digital,1
+AH-00863,2024-09-22,Lima,web,Emprendedor,billetera digital,1
+AH-00864,2024-09-23,Cusco,app,Familia,tarjeta,1
+AH-00865,2024-09-23,Lima,web,Familia,tarjeta,1
+AH-00866,2024-09-27,Lima,app,Familia,tarjeta,1
+AH-00867,2024-09-27,Cusco,app,Hogar individual,billetera digital,1
+AH-00868,2024-09-28,Lima,app,Familia,billetera digital,1
+AH-00869,2024-09-28,Lima,web,Familia,contra entrega,1
+AH-00870,2024-09-30,Lima,marketplace,Familia,contra entrega,1
+AH-00871,2024-09-30,Lima,app,Familia,billetera digital,1
+AH-00872,2024-10-01,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00873,2024-10-02,Arequipa,web,Familia,billetera digital,1
+AH-00874,2024-10-02,Lima,marketplace,Familia,contra entrega,1
+AH-00875,2024-10-04,Arequipa,web,Familia,billetera digital,1
+AH-00876,2024-10-04,Cusco,web,Familia,billetera digital,1
+AH-00877,2024-10-07,Arequipa,app,Hogar individual,billetera digital,1
+AH-00878,2024-10-08,Cusco,web,Familia,tarjeta,1
+AH-00879,2024-10-08,Lima,web,Hogar individual,billetera digital,1
+AH-00880,2024-10-09,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00881,2024-10-10,Arequipa,web,Emprendedor,tarjeta,1
+AH-00882,2024-10-12,Arequipa,app,Familia,billetera digital,1
+AH-00883,2024-10-12,Cusco,web,Hogar individual,billetera digital,1
+AH-00884,2024-10-13,Lima,web,Hogar individual,contra entrega,1
+AH-00885,2024-10-13,Lima,web,Hogar individual,billetera digital,1
+AH-00886,2024-10-14,Lima,web,Familia,tarjeta,1
+AH-00887,2024-10-14,Lima,app,Familia,billetera digital,1
+AH-00888,2024-10-15,Lima,app,Hogar individual,billetera digital,1
+AH-00889,2024-10-16,Lima,web,Hogar individual,billetera digital,1
+AH-00890,2024-10-16,Arequipa,app,Familia,billetera digital,0
+AH-00891,2024-10-17,Arequipa,web,Hogar individual,tarjeta,0
+AH-00892,2024-10-18,Lima,marketplace,Hogar individual,tarjeta,1
+AH-00893,2024-10-18,Arequipa,web,Familia,tarjeta,1
+AH-00894,2024-10-20,Lima,web,Emprendedor,billetera digital,1
+AH-00895,2024-10-21,Arequipa,web,Familia,tarjeta,1
+AH-00896,2024-10-21,Lima,app,Familia,contra entrega,1
+AH-00897,2024-10-22,Arequipa,web,Hogar individual,contra entrega,1
+AH-00898,2024-10-22,Lima,app,Familia,billetera digital,1
+AH-00899,2024-10-22,Lima,marketplace,Hogar individual,billetera digital,1
+AH-00900,2024-10-23,Lima,marketplace,Emprendedor,contra entrega,0
+AH-00901,2024-10-24,Lima,app,Familia,contra entrega,1
+AH-00902,2024-10-26,Arequipa,web,Familia,tarjeta,0
+AH-00903,2024-10-27,Cusco,web,Hogar individual,tarjeta,1
+AH-00904,2024-10-27,Lima,web,Hogar individual,billetera digital,1
+AH-00905,2024-10-27,Lima,app,Familia,tarjeta,1
+AH-00906,2024-10-27,Lima,marketplace,Familia,tarjeta,1
+AH-00907,2024-10-29,Cusco,app,Familia,billetera digital,1
+AH-00908,2024-10-31,Lima,web,Familia,tarjeta,1
+AH-00909,2024-10-31,Lima,web,Familia,contra entrega,1
+AH-00910,2024-11-01,Arequipa,web,Emprendedor,tarjeta,1
+AH-00911,2024-11-02,Lima,marketplace,Familia,contra entrega,1
+AH-00912,2024-11-02,Lima,web,Emprendedor,tarjeta,1
+AH-00913,2024-11-02,Lima,web,Hogar individual,contra entrega,1
+AH-00914,2024-11-03,Lima,app,Emprendedor,contra entrega,1
+AH-00915,2024-11-03,Arequipa,marketplace,Familia,billetera digital,1
+AH-00916,2024-11-03,Lima,web,Emprendedor,tarjeta,1
+AH-00917,2024-11-04,Lima,app,Hogar individual,billetera digital,1
+AH-00918,2024-11-04,Arequipa,marketplace,Hogar individual,tarjeta,1
+AH-00919,2024-11-05,Lima,web,Familia,billetera digital,1
+AH-00920,2024-11-06,Lima,web,Familia,tarjeta,1
+AH-00921,2024-11-07,Lima,web,Familia,billetera digital,1
+AH-00922,2024-11-08,Cusco,web,Familia,contra entrega,1
+AH-00923,2024-11-08,Lima,app,Familia,tarjeta,1
+AH-00924,2024-11-11,Lima,web,Familia,billetera digital,1
+AH-00925,2024-11-16,Cusco,web,Familia,tarjeta,1
+AH-00926,2024-11-17,Lima,web,Familia,tarjeta,1
+AH-00927,2024-11-17,Arequipa,app,Familia,billetera digital,1
+AH-00928,2024-11-17,Arequipa,app,Hogar individual,contra entrega,0
+AH-00929,2024-11-18,Lima,marketplace,Familia,contra entrega,1
+AH-00930,2024-11-19,Arequipa,app,Hogar individual,tarjeta,1
+AH-00931,2024-11-19,Lima,app,Familia,tarjeta,1
+AH-00932,2024-11-19,Arequipa,app,Hogar individual,contra entrega,0
+AH-00933,2024-11-20,Lima,app,Familia,contra entrega,1
+AH-00934,2024-11-20,Lima,web,Hogar individual,billetera digital,1
+AH-00935,2024-11-20,Cusco,app,Familia,billetera digital,1
+AH-00936,2024-11-20,Lima,web,Emprendedor,tarjeta,0
+AH-00937,2024-11-22,Lima,marketplace,Familia,contra entrega,1
+AH-00938,2024-11-23,Arequipa,app,Familia,tarjeta,1
+AH-00939,2024-11-26,Cusco,web,Familia,tarjeta,1
+AH-00940,2024-11-27,Cusco,marketplace,Familia,billetera digital,1
+AH-00941,2024-11-28,Lima,web,Familia,tarjeta,0
+AH-00942,2024-11-29,Lima,web,Emprendedor,contra entrega,1
+AH-00943,2024-11-30,Lima,web,Familia,tarjeta,1
+AH-00944,2024-12-01,Lima,web,Emprendedor,contra entrega,1
+AH-00945,2024-12-02,Lima,app,Familia,tarjeta,1
+AH-00946,2024-12-02,Lima,app,Familia,tarjeta,1
+AH-00947,2024-12-03,Cusco,app,Hogar individual,tarjeta,1
+AH-00948,2024-12-04,Lima,app,Familia,tarjeta,1
+AH-00949,2024-12-08,Lima,app,Familia,billetera digital,1
+AH-00950,2024-12-08,Lima,web,Familia,contra entrega,1
+AH-00951,2024-12-09,Cusco,marketplace,Familia,billetera digital,1
+AH-00952,2024-12-12,Lima,app,Familia,billetera digital,1
+AH-00953,2024-12-13,Cusco,web,Hogar individual,billetera digital,1
+AH-00954,2024-12-13,Lima,app,Familia,tarjeta,1
+AH-00955,2024-12-13,Arequipa,web,Hogar individual,billetera digital,1
+AH-00956,2024-12-13,Arequipa,web,Hogar individual,billetera digital,1
+AH-00957,2024-12-14,Lima,web,Emprendedor,tarjeta,1
+AH-00958,2024-12-16,Cusco,web,Familia,tarjeta,1
+AH-00959,2024-12-16,Lima,web,Familia,contra entrega,1
+AH-00960,2024-12-16,Lima,app,Hogar individual,tarjeta,1
+AH-00961,2024-12-16,Lima,web,Hogar individual,billetera digital,1
+AH-00962,2024-12-17,Arequipa,web,Emprendedor,tarjeta,1
+AH-00963,2024-12-19,Lima,web,Emprendedor,tarjeta,1
+AH-00964,2024-12-19,Lima,marketplace,Familia,tarjeta,1
+AH-00965,2024-12-20,Lima,web,Hogar individual,billetera digital,1
+AH-00966,2024-12-21,Cusco,marketplace,Familia,billetera digital,0
+AH-00967,2024-12-21,Lima,marketplace,Familia,tarjeta,1
+AH-00968,2024-12-22,Arequipa,marketplace,Hogar individual,tarjeta,1
+AH-00969,2024-12-23,Lima,web,Hogar individual,tarjeta,1
+AH-00970,2024-12-23,Lima,web,Familia,tarjeta,1
+AH-00971,2024-12-23,Cusco,web,Familia,tarjeta,0
+AH-00972,2024-12-23,Lima,web,Hogar individual,billetera digital,1
+AH-00973,2024-12-24,Lima,web,Hogar individual,contra entrega,1
+AH-00974,2024-12-25,Lima,web,Familia,contra entrega,1
+AH-00975,2024-12-25,Lima,app,Familia,tarjeta,1
+AH-00976,2024-12-26,Arequipa,app,Familia,billetera digital,1
+AH-00977,2024-12-27,Lima,app,Familia,tarjeta,1
+AH-00978,2024-12-27,Lima,web,Emprendedor,contra entrega,1
+AH-00979,2024-12-27,Cusco,web,Familia,billetera digital,1
+AH-00980,2024-12-27,Lima,marketplace,Hogar individual,billetera digital,1
+AH-00981,2024-12-28,Arequipa,app,Emprendedor,tarjeta,1
+AH-00982,2024-12-28,Lima,marketplace,Emprendedor,billetera digital,1
+AH-00983,2024-12-28,Lima,web,Familia,tarjeta,1
+AH-00984,2024-12-29,Lima,marketplace,Familia,billetera digital,1
+AH-00985,2024-12-31,Lima,web,Familia,contra entrega,1
+AH-00986,2024-12-31,Cusco,marketplace,Familia,billetera digital,1
+AH-00987,2025-01-02,Lima,marketplace,Familia,contra entrega,1
+AH-00988,2025-01-03,Cusco,web,Hogar individual,billetera digital,1
+AH-00989,2025-01-04,Lima,web,Familia,tarjeta,1
+AH-00990,2025-01-05,Lima,app,Familia,billetera digital,1
+AH-00991,2025-01-06,Arequipa,marketplace,Familia,tarjeta,1
+AH-00992,2025-01-07,Lima,web,Hogar individual,contra entrega,1
+AH-00993,2025-01-07,Arequipa,web,Familia,contra entrega,1
+AH-00994,2025-01-07,Lima,app,Hogar individual,billetera digital,1
+AH-00995,2025-01-08,Cusco,app,Hogar individual,contra entrega,1
+AH-00996,2025-01-08,Lima,marketplace,Hogar individual,billetera digital,1
+AH-00997,2025-01-08,Arequipa,app,Familia,billetera digital,1
+AH-00998,2025-01-08,Cusco,marketplace,Hogar individual,tarjeta,1
+AH-00999,2025-01-09,Lima,web,Familia,tarjeta,1
+AH-01000,2025-01-10,Arequipa,web,Familia,billetera digital,1
+AH-01001,2025-01-11,Arequipa,web,Emprendedor,tarjeta,1
+AH-01002,2025-01-11,Lima,web,Familia,tarjeta,1
+AH-01003,2025-01-13,Arequipa,app,Hogar individual,billetera digital,1
+AH-01004,2025-01-13,Lima,app,Emprendedor,tarjeta,1
+AH-01005,2025-01-14,Arequipa,web,Hogar individual,billetera digital,1
+AH-01006,2025-01-16,Arequipa,web,Familia,tarjeta,1
+AH-01007,2025-01-18,Lima,web,Familia,billetera digital,1
+AH-01008,2025-01-19,Lima,marketplace,Familia,contra entrega,1
+AH-01009,2025-01-20,Lima,web,Familia,billetera digital,1
+AH-01010,2025-01-20,Lima,marketplace,Hogar individual,billetera digital,1
+AH-01011,2025-01-21,Cusco,app,Hogar individual,tarjeta,1
+AH-01012,2025-01-22,Lima,app,Familia,billetera digital,1
+AH-01013,2025-01-22,Arequipa,web,Familia,tarjeta,1
+AH-01014,2025-01-24,Cusco,web,Hogar individual,tarjeta,1
+AH-01015,2025-01-24,Lima,app,Familia,tarjeta,1
+AH-01016,2025-01-26,Cusco,marketplace,Hogar individual,billetera digital,1
+AH-01017,2025-01-26,Lima,app,Familia,tarjeta,0
+AH-01018,2025-01-27,Arequipa,web,Familia,billetera digital,1
+AH-01019,2025-01-29,Lima,web,Hogar individual,tarjeta,1
+AH-01020,2025-01-29,Arequipa,app,Emprendedor,billetera digital,1
+AH-01021,2025-01-30,Lima,web,Emprendedor,billetera digital,1
+AH-01022,2025-02-01,Lima,marketplace,Familia,contra entrega,1
+AH-01023,2025-02-01,Arequipa,web,Hogar individual,tarjeta,1
+AH-01024,2025-02-04,Arequipa,web,Familia,contra entrega,1
+AH-01025,2025-02-04,Lima,marketplace,Familia,tarjeta,1
+AH-01026,2025-02-05,Lima,web,Familia,billetera digital,1
+AH-01027,2025-02-05,Lima,web,Familia,tarjeta,1
+AH-01028,2025-02-05,Arequipa,web,Familia,billetera digital,1
+AH-01029,2025-02-07,Lima,marketplace,Familia,tarjeta,1
+AH-01030,2025-02-07,Cusco,web,Familia,tarjeta,1
+AH-01031,2025-02-07,Cusco,web,Familia,billetera digital,1
+AH-01032,2025-02-08,Arequipa,marketplace,Familia,contra entrega,1
+AH-01033,2025-02-09,Arequipa,marketplace,Familia,tarjeta,1
+AH-01034,2025-02-09,Lima,marketplace,Hogar individual,contra entrega,1
+AH-01035,2025-02-10,Lima,app,Hogar individual,billetera digital,1
+AH-01036,2025-02-10,Lima,marketplace,Familia,billetera digital,0
+AH-01037,2025-02-10,Lima,app,Familia,billetera digital,1
+AH-01038,2025-02-11,Lima,web,Familia,tarjeta,0
+AH-01039,2025-02-12,Cusco,web,Hogar individual,tarjeta,1
+AH-01040,2025-02-13,Lima,web,Emprendedor,tarjeta,1
+AH-01041,2025-02-14,Lima,app,Emprendedor,billetera digital,1
+AH-01042,2025-02-16,Cusco,marketplace,Emprendedor,billetera digital,1
+AH-01043,2025-02-16,Lima,web,Familia,tarjeta,0
+AH-01044,2025-02-17,Lima,app,Emprendedor,tarjeta,1
+AH-01045,2025-02-17,Lima,web,Familia,billetera digital,1
+AH-01046,2025-02-19,Lima,app,Hogar individual,contra entrega,1
+AH-01047,2025-02-19,Lima,app,Familia,tarjeta,1
+AH-01048,2025-02-20,Arequipa,app,Familia,tarjeta,1
+AH-01049,2025-02-20,Lima,web,Emprendedor,contra entrega,1
+AH-01050,2025-02-21,Arequipa,app,Familia,tarjeta,1
+AH-01051,2025-02-21,Cusco,web,Familia,tarjeta,1
+AH-01052,2025-02-21,Lima,app,Familia,billetera digital,1
+AH-01053,2025-02-22,Lima,app,Hogar individual,contra entrega,1
+AH-01054,2025-02-23,Arequipa,app,Familia,contra entrega,1
+AH-01055,2025-02-24,Lima,app,Hogar individual,billetera digital,0
+AH-01056,2025-02-24,Arequipa,web,Familia,tarjeta,0
+AH-01057,2025-02-26,Lima,app,Emprendedor,tarjeta,1
+AH-01058,2025-03-01,Lima,marketplace,Emprendedor,tarjeta,1
+AH-01059,2025-03-01,Lima,web,Familia,tarjeta,1
+AH-01060,2025-03-01,Lima,app,Hogar individual,tarjeta,0
+AH-01061,2025-03-02,Cusco,web,Familia,tarjeta,1
+AH-01062,2025-03-02,Lima,web,Familia,tarjeta,1
+AH-01063,2025-03-02,Lima,web,Hogar individual,tarjeta,1
+AH-01064,2025-03-03,Lima,web,Familia,contra entrega,1
+AH-01065,2025-03-04,Lima,marketplace,Familia,tarjeta,1
+AH-01066,2025-03-04,Lima,app,Emprendedor,contra entrega,1
+AH-01067,2025-03-04,Arequipa,marketplace,Familia,tarjeta,1
+AH-01068,2025-03-05,Lima,web,Familia,tarjeta,1
+AH-01069,2025-03-06,Arequipa,web,Hogar individual,tarjeta,1
+AH-01070,2025-03-08,Lima,web,Hogar individual,tarjeta,1
+AH-01071,2025-03-09,Lima,web,Hogar individual,tarjeta,1
+AH-01072,2025-03-10,Cusco,app,Emprendedor,tarjeta,1
+AH-01073,2025-03-12,Lima,web,Familia,tarjeta,1
+AH-01074,2025-03-17,Lima,web,Hogar individual,tarjeta,1
+AH-01075,2025-03-17,Cusco,marketplace,Familia,tarjeta,1
+AH-01076,2025-03-18,Lima,web,Hogar individual,tarjeta,0
+AH-01077,2025-03-18,Lima,web,Emprendedor,tarjeta,1
+AH-01078,2025-03-19,Cusco,web,Familia,contra entrega,1
+AH-01079,2025-03-19,Lima,app,Familia,billetera digital,1
+AH-01080,2025-03-22,Lima,app,Emprendedor,tarjeta,1
+AH-01081,2025-03-23,Lima,web,Emprendedor,tarjeta,1
+AH-01082,2025-03-24,Lima,web,Familia,billetera digital,1
+AH-01083,2025-03-24,Arequipa,web,Familia,tarjeta,1
+AH-01084,2025-03-25,Lima,app,Emprendedor,billetera digital,1
+AH-01085,2025-03-28,Lima,app,Familia,billetera digital,1
+AH-01086,2025-03-28,Lima,web,Familia,billetera digital,1
+AH-01087,2025-03-28,Lima,web,Hogar individual,tarjeta,1
+AH-01088,2025-03-29,Arequipa,app,Familia,billetera digital,1
+AH-01089,2025-03-29,Lima,web,Hogar individual,contra entrega,1
+AH-01090,2025-03-30,Lima,app,Familia,tarjeta,1
+AH-01091,2025-03-31,Cusco,web,Hogar individual,billetera digital,1
+AH-01092,2025-03-31,Arequipa,web,Familia,tarjeta,1
+AH-01093,2025-03-31,Arequipa,web,Emprendedor,tarjeta,1
+AH-01094,2025-04-02,Lima,marketplace,Familia,tarjeta,1
+AH-01095,2025-04-02,Lima,web,Familia,tarjeta,1
+AH-01096,2025-04-02,Lima,web,Familia,contra entrega,1
+AH-01097,2025-04-03,Lima,web,Emprendedor,billetera digital,1
+AH-01098,2025-04-04,Arequipa,web,Familia,billetera digital,0
+AH-01099,2025-04-04,Arequipa,web,Familia,billetera digital,1
+AH-01100,2025-04-04,Lima,web,Familia,billetera digital,1
+AH-01101,2025-04-05,Lima,web,Familia,contra entrega,1
+AH-01102,2025-04-05,Lima,web,Hogar individual,tarjeta,1
+AH-01103,2025-04-05,Lima,web,Familia,billetera digital,1
+AH-01104,2025-04-06,Cusco,web,Hogar individual,tarjeta,1
+AH-01105,2025-04-06,Arequipa,marketplace,Familia,contra entrega,1
+AH-01106,2025-04-09,Lima,marketplace,Familia,billetera digital,1
+AH-01107,2025-04-09,Arequipa,web,Hogar individual,tarjeta,0
+AH-01108,2025-04-09,Cusco,web,Hogar individual,billetera digital,1
+AH-01109,2025-04-12,Lima,web,Familia,tarjeta,1
+AH-01110,2025-04-12,Lima,marketplace,Emprendedor,contra entrega,1
+AH-01111,2025-04-13,Lima,marketplace,Hogar individual,contra entrega,1
+AH-01112,2025-04-15,Lima,app,Emprendedor,contra entrega,1
+AH-01113,2025-04-16,Lima,app,Hogar individual,billetera digital,1
+AH-01114,2025-04-17,Lima,marketplace,Hogar individual,tarjeta,1
+AH-01115,2025-04-18,Lima,web,Familia,billetera digital,1
+AH-01116,2025-04-20,Cusco,marketplace,Familia,contra entrega,1
+AH-01117,2025-04-20,Lima,web,Hogar individual,contra entrega,1
+AH-01118,2025-04-21,Lima,marketplace,Familia,tarjeta,1
+AH-01119,2025-04-23,Cusco,app,Hogar individual,tarjeta,1
+AH-01120,2025-04-25,Lima,web,Familia,billetera digital,1
+AH-01121,2025-04-26,Lima,web,Hogar individual,tarjeta,1
+AH-01122,2025-04-26,Arequipa,web,Familia,billetera digital,1
+AH-01123,2025-04-30,Lima,web,Hogar individual,tarjeta,1
+AH-01124,2025-04-30,Cusco,app,Familia,tarjeta,1
+AH-01125,2025-04-30,Lima,app,Familia,billetera digital,1
+AH-01126,2025-05-01,Lima,web,Familia,billetera digital,0
+AH-01127,2025-05-02,Arequipa,app,Hogar individual,contra entrega,1
+AH-01128,2025-05-03,Lima,web,Hogar individual,billetera digital,1
+AH-01129,2025-05-04,Arequipa,marketplace,Familia,tarjeta,1
+AH-01130,2025-05-04,Lima,web,Familia,billetera digital,1
+AH-01131,2025-05-04,Lima,app,Emprendedor,contra entrega,1
+AH-01132,2025-05-07,Lima,app,Familia,billetera digital,1
+AH-01133,2025-05-09,Arequipa,marketplace,Hogar individual,billetera digital,1
+AH-01134,2025-05-10,Lima,web,Familia,tarjeta,1
+AH-01135,2025-05-11,Lima,marketplace,Familia,tarjeta,1
+AH-01136,2025-05-11,Arequipa,web,Familia,tarjeta,1
+AH-01137,2025-05-11,Lima,app,Hogar individual,tarjeta,1
+AH-01138,2025-05-12,Lima,marketplace,Familia,tarjeta,1
+AH-01139,2025-05-13,Lima,app,Familia,billetera digital,1
+AH-01140,2025-05-13,Lima,web,Familia,contra entrega,1
+AH-01141,2025-05-13,Arequipa,app,Familia,tarjeta,1
+AH-01142,2025-05-15,Arequipa,web,Hogar individual,billetera digital,1
+AH-01143,2025-05-15,Lima,app,Familia,tarjeta,1
+AH-01144,2025-05-16,Arequipa,web,Familia,billetera digital,1
+AH-01145,2025-05-16,Lima,web,Hogar individual,tarjeta,1
+AH-01146,2025-05-18,Lima,app,Hogar individual,contra entrega,1
+AH-01147,2025-05-18,Arequipa,marketplace,Familia,tarjeta,1
+AH-01148,2025-05-20,Arequipa,app,Hogar individual,contra entrega,1
+AH-01149,2025-05-20,Lima,web,Hogar individual,tarjeta,1
+AH-01150,2025-05-21,Lima,marketplace,Familia,billetera digital,1
+AH-01151,2025-05-22,Lima,web,Familia,billetera digital,1
+AH-01152,2025-05-22,Lima,app,Familia,tarjeta,1
+AH-01153,2025-05-23,Lima,web,Hogar individual,tarjeta,1
+AH-01154,2025-05-24,Arequipa,marketplace,Emprendedor,billetera digital,1
+AH-01155,2025-05-24,Cusco,app,Familia,tarjeta,1
+AH-01156,2025-05-25,Arequipa,marketplace,Familia,contra entrega,1
+AH-01157,2025-05-26,Arequipa,marketplace,Hogar individual,tarjeta,1
+AH-01158,2025-05-27,Arequipa,web,Hogar individual,tarjeta,1
+AH-01159,2025-05-27,Cusco,web,Familia,tarjeta,1
+AH-01160,2025-05-27,Lima,web,Emprendedor,tarjeta,1
+AH-01161,2025-05-29,Lima,app,Familia,tarjeta,1
+AH-01162,2025-05-30,Lima,marketplace,Familia,tarjeta,1
+AH-01163,2025-05-30,Lima,app,Hogar individual,contra entrega,1
+AH-01164,2025-05-30,Lima,web,Familia,contra entrega,1
+AH-01165,2025-05-31,Arequipa,web,Familia,billetera digital,1
+AH-01166,2025-06-02,Arequipa,web,Familia,tarjeta,1
+AH-01167,2025-06-02,Cusco,marketplace,Familia,tarjeta,1
+AH-01168,2025-06-02,Arequipa,web,Familia,contra entrega,1
+AH-01169,2025-06-04,Lima,marketplace,Familia,billetera digital,1
+AH-01170,2025-06-04,Arequipa,web,Familia,contra entrega,1
+AH-01171,2025-06-04,Lima,marketplace,Familia,billetera digital,1
+AH-01172,2025-06-04,Lima,app,Familia,billetera digital,1
+AH-01173,2025-06-04,Lima,web,Emprendedor,billetera digital,1
+AH-01174,2025-06-05,Lima,marketplace,Hogar individual,tarjeta,1
+AH-01175,2025-06-06,Lima,web,Hogar individual,billetera digital,1
+AH-01176,2025-06-08,Arequipa,app,Familia,billetera digital,1
+AH-01177,2025-06-10,Lima,app,Familia,tarjeta,1
+AH-01178,2025-06-10,Lima,app,Hogar individual,tarjeta,1
+AH-01179,2025-06-12,Cusco,web,Familia,tarjeta,1
+AH-01180,2025-06-12,Arequipa,app,Familia,tarjeta,0
+AH-01181,2025-06-13,Cusco,marketplace,Familia,billetera digital,1
+AH-01182,2025-06-14,Arequipa,web,Familia,tarjeta,1
+AH-01183,2025-06-14,Lima,web,Hogar individual,billetera digital,1
+AH-01184,2025-06-15,Arequipa,marketplace,Hogar individual,billetera digital,1
+AH-01185,2025-06-15,Arequipa,web,Hogar individual,billetera digital,1
+AH-01186,2025-06-19,Arequipa,marketplace,Hogar individual,contra entrega,1
+AH-01187,2025-06-19,Arequipa,app,Familia,tarjeta,1
+AH-01188,2025-06-20,Lima,web,Hogar individual,billetera digital,1
+AH-01189,2025-06-21,Cusco,web,Familia,tarjeta,1
+AH-01190,2025-06-23,Lima,app,Familia,tarjeta,1
+AH-01191,2025-06-23,Arequipa,web,Hogar individual,tarjeta,1
+AH-01192,2025-06-24,Lima,web,Hogar individual,tarjeta,1
+AH-01193,2025-06-25,Lima,web,Familia,billetera digital,1
+AH-01194,2025-06-25,Lima,app,Emprendedor,billetera digital,1
+AH-01195,2025-06-27,Cusco,app,Emprendedor,tarjeta,1
+AH-01196,2025-06-29,Cusco,app,Hogar individual,tarjeta,1
+AH-01197,2025-06-29,Lima,marketplace,Familia,tarjeta,1
+AH-01198,2025-07-01,Cusco,marketplace,Hogar individual,tarjeta,1
+AH-01199,2025-07-01,Cusco,web,Hogar individual,tarjeta,1
+AH-01200,2025-07-02,Lima,app,Hogar individual,contra entrega,1
+AH-01201,2025-07-03,Lima,web,Hogar individual,billetera digital,1
+AH-01202,2025-07-03,Lima,marketplace,Emprendedor,billetera digital,1
+AH-01203,2025-07-05,Arequipa,web,Familia,tarjeta,1
+AH-01204,2025-07-06,Lima,web,Familia,billetera digital,1
+AH-01205,2025-07-07,Lima,app,Hogar individual,billetera digital,1
+AH-01206,2025-07-07,Lima,web,Familia,billetera digital,1
+AH-01207,2025-07-08,Lima,marketplace,Familia,tarjeta,1
+AH-01208,2025-07-08,Arequipa,marketplace,Familia,tarjeta,1
+AH-01209,2025-07-09,Arequipa,web,Emprendedor,tarjeta,1
+AH-01210,2025-07-10,Lima,marketplace,Familia,tarjeta,0
+AH-01211,2025-07-10,Lima,web,Hogar individual,tarjeta,1
+AH-01212,2025-07-12,Lima,app,Emprendedor,tarjeta,1
+AH-01213,2025-07-12,Lima,web,Hogar individual,tarjeta,1
+AH-01214,2025-07-13,Lima,app,Hogar individual,billetera digital,1
+AH-01215,2025-07-13,Lima,web,Familia,tarjeta,1
+AH-01216,2025-07-13,Lima,web,Familia,billetera digital,1
+AH-01217,2025-07-13,Arequipa,app,Familia,tarjeta,1
+AH-01218,2025-07-14,Lima,web,Hogar individual,tarjeta,0
+AH-01219,2025-07-14,Lima,web,Hogar individual,contra entrega,1
+AH-01220,2025-07-15,Arequipa,web,Hogar individual,billetera digital,1
+AH-01221,2025-07-17,Arequipa,app,Familia,billetera digital,1
+AH-01222,2025-07-18,Lima,web,Hogar individual,billetera digital,0
+AH-01223,2025-07-18,Arequipa,web,Emprendedor,tarjeta,1
+AH-01224,2025-07-19,Lima,marketplace,Familia,tarjeta,1
+AH-01225,2025-07-20,Arequipa,marketplace,Familia,tarjeta,1
+AH-01226,2025-07-21,Arequipa,app,Familia,tarjeta,1
+AH-01227,2025-07-23,Lima,marketplace,Hogar individual,tarjeta,1
+AH-01228,2025-07-23,Lima,app,Emprendedor,tarjeta,1
+AH-01229,2025-07-23,Lima,marketplace,Familia,tarjeta,1
+AH-01230,2025-07-23,Arequipa,app,Familia,contra entrega,1
+AH-01231,2025-07-24,Lima,web,Hogar individual,contra entrega,1
+AH-01232,2025-07-24,Lima,app,Familia,billetera digital,1
+AH-01233,2025-07-24,Lima,web,Familia,tarjeta,1
+AH-01234,2025-07-25,Cusco,app,Familia,tarjeta,1
+AH-01235,2025-07-26,Lima,marketplace,Hogar individual,billetera digital,1
+AH-01236,2025-07-26,Lima,web,Familia,tarjeta,1
+AH-01237,2025-07-27,Lima,app,Hogar individual,billetera digital,1
+AH-01238,2025-07-28,Cusco,web,Hogar individual,contra entrega,1
+AH-01239,2025-07-29,Arequipa,app,Familia,billetera digital,1
+AH-01240,2025-07-30,Arequipa,app,Familia,contra entrega,1
+AH-01241,2025-07-30,Arequipa,marketplace,Emprendedor,tarjeta,1
+AH-01242,2025-07-30,Arequipa,marketplace,Hogar individual,contra entrega,1
+AH-01243,2025-07-30,Arequipa,app,Hogar individual,tarjeta,1
+AH-01244,2025-07-31,Arequipa,web,Familia,billetera digital,1
+AH-01245,2025-08-01,Arequipa,marketplace,Familia,contra entrega,1
+AH-01246,2025-08-03,Arequipa,app,Familia,tarjeta,1
+AH-01247,2025-08-04,Lima,marketplace,Emprendedor,tarjeta,1
+AH-01248,2025-08-04,Lima,app,Familia,tarjeta,1
+AH-01249,2025-08-05,Cusco,marketplace,Hogar individual,contra entrega,1
+AH-01250,2025-08-05,Arequipa,web,Hogar individual,billetera digital,1
+AH-01251,2025-08-08,Cusco,web,Hogar individual,tarjeta,1
+AH-01252,2025-08-08,Lima,app,Familia,contra entrega,1
+AH-01253,2025-08-10,Lima,marketplace,Hogar individual,contra entrega,1
+AH-01254,2025-08-10,Lima,marketplace,Familia,tarjeta,1
+AH-01255,2025-08-11,Lima,web,Hogar individual,contra entrega,1
+AH-01256,2025-08-12,Lima,web,Familia,billetera digital,1
+AH-01257,2025-08-12,Lima,app,Emprendedor,tarjeta,1
+AH-01258,2025-08-13,Lima,web,Familia,billetera digital,1
+AH-01259,2025-08-14,Lima,web,Familia,billetera digital,1
+AH-01260,2025-08-14,Arequipa,web,Hogar individual,contra entrega,1
+AH-01261,2025-08-15,Arequipa,marketplace,Emprendedor,tarjeta,1
+AH-01262,2025-08-20,Lima,web,Hogar individual,billetera digital,1
+AH-01263,2025-08-20,Lima,web,Familia,tarjeta,1
+AH-01264,2025-08-21,Lima,web,Emprendedor,tarjeta,1
+AH-01265,2025-08-22,Arequipa,marketplace,Familia,tarjeta,1
+AH-01266,2025-08-22,Arequipa,web,Familia,contra entrega,1
+AH-01267,2025-08-22,Arequipa,web,Familia,tarjeta,1
+AH-01268,2025-08-25,Lima,web,Familia,billetera digital,1
+AH-01269,2025-08-25,Arequipa,marketplace,Hogar individual,tarjeta,1
+AH-01270,2025-08-25,Cusco,marketplace,Familia,contra entrega,0
+AH-01271,2025-08-28,Lima,web,Familia,tarjeta,1
+AH-01272,2025-08-29,Lima,web,Familia,billetera digital,1
+AH-01273,2025-08-29,Lima,web,Familia,tarjeta,1
+AH-01274,2025-08-30,Arequipa,app,Emprendedor,contra entrega,1
+AH-01275,2025-09-05,Arequipa,app,Familia,contra entrega,1
+AH-01276,2025-09-05,Lima,web,Hogar individual,tarjeta,1
+AH-01277,2025-09-05,Lima,web,Emprendedor,billetera digital,1
+AH-01278,2025-09-06,Cusco,app,Familia,tarjeta,1
+AH-01279,2025-09-08,Lima,web,Familia,billetera digital,1
+AH-01280,2025-09-08,Lima,web,Hogar individual,tarjeta,1
+AH-01281,2025-09-09,Arequipa,web,Hogar individual,tarjeta,1
+AH-01282,2025-09-10,Lima,marketplace,Familia,tarjeta,1
+AH-01283,2025-09-10,Lima,app,Familia,tarjeta,1
+AH-01284,2025-09-10,Arequipa,web,Emprendedor,tarjeta,1
+AH-01285,2025-09-11,Lima,web,Familia,contra entrega,1
+AH-01286,2025-09-11,Cusco,web,Emprendedor,tarjeta,1
+AH-01287,2025-09-11,Arequipa,web,Familia,tarjeta,1
+AH-01288,2025-09-12,Cusco,app,Emprendedor,tarjeta,1
+AH-01289,2025-09-12,Lima,web,Emprendedor,tarjeta,1
+AH-01290,2025-09-13,Lima,app,Familia,billetera digital,1
+AH-01291,2025-09-17,Arequipa,web,Hogar individual,contra entrega,1
+AH-01292,2025-09-21,Lima,web,Emprendedor,tarjeta,1
+AH-01293,2025-09-21,Arequipa,marketplace,Familia,billetera digital,1
+AH-01294,2025-09-21,Arequipa,app,Familia,tarjeta,1
+AH-01295,2025-09-23,Arequipa,web,Hogar individual,tarjeta,1
+AH-01296,2025-09-23,Cusco,web,Familia,tarjeta,1
+AH-01297,2025-09-23,Cusco,marketplace,Emprendedor,tarjeta,1
+AH-01298,2025-09-24,Lima,web,Emprendedor,billetera digital,1
+AH-01299,2025-09-25,Arequipa,app,Emprendedor,contra entrega,1
+AH-01300,2025-09-26,Lima,marketplace,Emprendedor,tarjeta,1
+AH-01301,2025-09-30,Lima,web,Hogar individual,tarjeta,1
+AH-01302,2025-10-01,Lima,marketplace,Hogar individual,tarjeta,1
+AH-01303,2025-10-01,Arequipa,app,Familia,tarjeta,1
+AH-01304,2025-10-03,Lima,web,Familia,billetera digital,1
+AH-01305,2025-10-03,Arequipa,app,Familia,tarjeta,1
+AH-01306,2025-10-04,Lima,web,Hogar individual,billetera digital,1
+AH-01307,2025-10-04,Lima,web,Familia,billetera digital,1
+AH-01308,2025-10-06,Lima,app,Familia,billetera digital,1
+AH-01309,2025-10-09,Lima,marketplace,Familia,contra entrega,1
+AH-01310,2025-10-10,Lima,web,Familia,billetera digital,1
+AH-01311,2025-10-12,Lima,app,Familia,contra entrega,1
+AH-01312,2025-10-12,Cusco,marketplace,Hogar individual,billetera digital,0
+AH-01313,2025-10-13,Cusco,marketplace,Emprendedor,tarjeta,1
+AH-01314,2025-10-14,Lima,web,Familia,tarjeta,1
+AH-01315,2025-10-15,Lima,web,Hogar individual,contra entrega,1
+AH-01316,2025-10-16,Arequipa,web,Hogar individual,tarjeta,1
+AH-01317,2025-10-16,Lima,marketplace,Familia,tarjeta,1
+AH-01318,2025-10-16,Lima,web,Familia,contra entrega,1
+AH-01319,2025-10-16,Lima,app,Emprendedor,tarjeta,1
+AH-01320,2025-10-16,Arequipa,web,Hogar individual,billetera digital,1
+AH-01321,2025-10-16,Lima,web,Familia,billetera digital,1
+AH-01322,2025-10-18,Lima,web,Hogar individual,tarjeta,1
+AH-01323,2025-10-21,Lima,app,Familia,tarjeta,1
+AH-01324,2025-10-21,Cusco,app,Familia,tarjeta,1
+AH-01325,2025-10-23,Lima,app,Hogar individual,contra entrega,1
+AH-01326,2025-10-24,Lima,web,Familia,tarjeta,1
+AH-01327,2025-10-24,Lima,marketplace,Familia,billetera digital,1
+AH-01328,2025-10-24,Lima,web,Familia,tarjeta,1
+AH-01329,2025-10-25,Lima,web,Familia,tarjeta,1
+AH-01330,2025-10-26,Lima,marketplace,Familia,billetera digital,1
+AH-01331,2025-10-27,Arequipa,app,Emprendedor,contra entrega,1
+AH-01332,2025-10-27,Lima,marketplace,Familia,contra entrega,1
+AH-01333,2025-10-28,Lima,web,Emprendedor,tarjeta,1
+AH-01334,2025-10-28,Cusco,marketplace,Familia,billetera digital,1
+AH-01335,2025-10-29,Lima,web,Hogar individual,billetera digital,1
+AH-01336,2025-10-30,Lima,web,Hogar individual,tarjeta,1
+AH-01337,2025-10-30,Lima,web,Familia,billetera digital,0
+AH-01338,2025-10-31,Lima,web,Familia,tarjeta,1
+AH-01339,2025-11-01,Lima,app,Familia,tarjeta,1
+AH-01340,2025-11-02,Arequipa,web,Hogar individual,tarjeta,0
+AH-01341,2025-11-02,Lima,web,Familia,tarjeta,1
+AH-01342,2025-11-02,Lima,web,Familia,tarjeta,1
+AH-01343,2025-11-04,Lima,marketplace,Familia,tarjeta,1
+AH-01344,2025-11-05,Arequipa,marketplace,Familia,billetera digital,1
+AH-01345,2025-11-06,Arequipa,web,Hogar individual,tarjeta,1
+AH-01346,2025-11-06,Arequipa,app,Familia,contra entrega,1
+AH-01347,2025-11-06,Arequipa,web,Familia,contra entrega,1
+AH-01348,2025-11-06,Cusco,marketplace,Familia,billetera digital,1
+AH-01349,2025-11-09,Arequipa,web,Hogar individual,billetera digital,1
+AH-01350,2025-11-11,Lima,web,Familia,tarjeta,1
+AH-01351,2025-11-11,Lima,web,Hogar individual,billetera digital,1
+AH-01352,2025-11-12,Lima,app,Emprendedor,tarjeta,1
+AH-01353,2025-11-12,Lima,marketplace,Familia,tarjeta,1
+AH-01354,2025-11-12,Lima,web,Hogar individual,tarjeta,1
+AH-01355,2025-11-13,Lima,web,Familia,tarjeta,1
+AH-01356,2025-11-13,Cusco,app,Emprendedor,billetera digital,1
+AH-01357,2025-11-13,Arequipa,web,Hogar individual,billetera digital,1
+AH-01358,2025-11-13,Arequipa,web,Familia,contra entrega,1
+AH-01359,2025-11-15,Arequipa,web,Familia,tarjeta,1
+AH-01360,2025-11-17,Arequipa,web,Familia,contra entrega,1
+AH-01361,2025-11-18,Lima,app,Emprendedor,contra entrega,1
+AH-01362,2025-11-21,Cusco,web,Emprendedor,billetera digital,1
+AH-01363,2025-11-21,Lima,web,Hogar individual,contra entrega,1
+AH-01364,2025-11-22,Lima,app,Hogar individual,contra entrega,1
+AH-01365,2025-11-22,Lima,marketplace,Familia,billetera digital,0
+AH-01366,2025-11-23,Lima,marketplace,Familia,tarjeta,1
+AH-01367,2025-11-23,Arequipa,web,Familia,tarjeta,1
+AH-01368,2025-11-25,Lima,app,Emprendedor,tarjeta,1
+AH-01369,2025-11-25,Lima,app,Familia,tarjeta,1
+AH-01370,2025-11-25,Lima,marketplace,Emprendedor,tarjeta,1
+AH-01371,2025-11-25,Lima,web,Hogar individual,tarjeta,1
+AH-01372,2025-11-25,Lima,web,Hogar individual,tarjeta,1
+AH-01373,2025-11-26,Lima,web,Hogar individual,tarjeta,1
+AH-01374,2025-11-28,Arequipa,web,Familia,tarjeta,1
+AH-01375,2025-11-29,Lima,web,Familia,contra entrega,0
+AH-01376,2025-11-30,Arequipa,marketplace,Familia,tarjeta,0
+AH-01377,2025-12-01,Arequipa,marketplace,Emprendedor,tarjeta,1
+AH-01378,2025-12-01,Cusco,marketplace,Emprendedor,tarjeta,1
+AH-01379,2025-12-01,Arequipa,web,Familia,contra entrega,1
+AH-01380,2025-12-03,Arequipa,app,Hogar individual,billetera digital,1
+AH-01381,2025-12-04,Lima,web,Familia,tarjeta,0
+AH-01382,2025-12-05,Lima,web,Familia,billetera digital,1
+AH-01383,2025-12-06,Arequipa,marketplace,Familia,tarjeta,1
+AH-01384,2025-12-06,Arequipa,marketplace,Familia,tarjeta,1
+AH-01385,2025-12-09,Lima,app,Familia,contra entrega,1
+AH-01386,2025-12-09,Lima,app,Hogar individual,tarjeta,0
+AH-01387,2025-12-10,Cusco,marketplace,Familia,tarjeta,1
+AH-01388,2025-12-10,Lima,web,Familia,contra entrega,1
+AH-01389,2025-12-10,Lima,app,Familia,contra entrega,1
+AH-01390,2025-12-12,Lima,app,Familia,contra entrega,1
+AH-01391,2025-12-12,Cusco,web,Emprendedor,tarjeta,1
+AH-01392,2025-12-13,Arequipa,app,Familia,tarjeta,1
+AH-01393,2025-12-13,Lima,web,Hogar individual,contra entrega,1
+AH-01394,2025-12-14,Lima,web,Familia,tarjeta,1
+AH-01395,2025-12-14,Cusco,web,Familia,contra entrega,1
+AH-01396,2025-12-17,Lima,web,Familia,tarjeta,1
+AH-01397,2025-12-17,Lima,web,Familia,contra entrega,1
+AH-01398,2025-12-18,Lima,web,Hogar individual,tarjeta,1
+AH-01399,2025-12-18,Lima,app,Hogar individual,contra entrega,1
+AH-01400,2025-12-19,Cusco,app,Hogar individual,tarjeta,1
+AH-01401,2025-12-19,Arequipa,web,Hogar individual,tarjeta,1
+AH-01402,2025-12-19,Lima,app,Hogar individual,tarjeta,1
+AH-01403,2025-12-20,Lima,web,Emprendedor,billetera digital,1
+AH-01404,2025-12-21,Lima,marketplace,Familia,billetera digital,1
+AH-01405,2025-12-21,Arequipa,marketplace,Familia,tarjeta,0
+AH-01406,2025-12-22,Lima,marketplace,Familia,billetera digital,1
+AH-01407,2025-12-22,Lima,app,Emprendedor,tarjeta,1
+AH-01408,2025-12-23,Lima,web,Emprendedor,billetera digital,1
+AH-01409,2025-12-23,Arequipa,web,Familia,billetera digital,1
+AH-01410,2025-12-23,Arequipa,web,Hogar individual,tarjeta,1
+AH-01411,2025-12-23,Arequipa,marketplace,Hogar individual,billetera digital,1
+AH-01412,2025-12-24,Lima,web,Hogar individual,tarjeta,1
+AH-01413,2025-12-24,Cusco,app,Emprendedor,contra entrega,1
+AH-01414,2025-12-24,Arequipa,web,Emprendedor,tarjeta,1
+AH-01415,2025-12-26,Lima,web,Emprendedor,billetera digital,1
+AH-01416,2025-12-27,Cusco,marketplace,Hogar individual,tarjeta,1
+AH-01417,2025-12-27,Lima,app,Familia,contra entrega,1
+AH-01418,2025-12-28,Cusco,web,Emprendedor,tarjeta,1
+AH-01419,2025-12-29,Cusco,app,Familia,contra entrega,1
+AH-01420,2025-12-30,Lima,marketplace,Familia,tarjeta,1
+AH-01421,2025-12-31,Lima,web,Emprendedor,tarjeta,1
+AH-01422,2025-12-31,Arequipa,marketplace,Hogar individual,contra entrega,1
+AH-01423,2025-12-31,Cusco,marketplace,Familia,billetera digital,1
+AH-01424,2026-01-02,Lima,web,Familia,tarjeta,1
+AH-01425,2026-01-03,Arequipa,app,Familia,tarjeta,1
+AH-01426,2026-01-04,Lima,web,Familia,tarjeta,1
+AH-01427,2026-01-07,Arequipa,marketplace,Hogar individual,tarjeta,1
+AH-01428,2026-01-07,Lima,web,Hogar individual,billetera digital,1
+AH-01429,2026-01-08,Lima,marketplace,Familia,tarjeta,1
+AH-01430,2026-01-08,Arequipa,app,Familia,billetera digital,1
+AH-01431,2026-01-12,Lima,marketplace,Familia,billetera digital,1
+AH-01432,2026-01-13,Arequipa,web,Familia,billetera digital,1
+AH-01433,2026-01-13,Arequipa,web,Familia,billetera digital,1
+AH-01434,2026-01-14,Lima,web,Hogar individual,billetera digital,1
+AH-01435,2026-01-14,Arequipa,marketplace,Familia,tarjeta,1
+AH-01436,2026-01-15,Cusco,web,Familia,tarjeta,1
+AH-01437,2026-01-15,Lima,web,Familia,billetera digital,1
+AH-01438,2026-01-16,Lima,web,Hogar individual,tarjeta,1
+AH-01439,2026-01-16,Lima,app,Familia,tarjeta,1
+AH-01440,2026-01-17,Lima,app,Familia,tarjeta,1
+AH-01441,2026-01-18,Lima,app,Hogar individual,tarjeta,1
+AH-01442,2026-01-19,Lima,web,Hogar individual,billetera digital,1
+AH-01443,2026-01-21,Lima,app,Hogar individual,billetera digital,1
+AH-01444,2026-01-22,Lima,web,Hogar individual,tarjeta,1
+AH-01445,2026-01-26,Lima,app,Familia,tarjeta,0
+AH-01446,2026-01-26,Arequipa,app,Hogar individual,billetera digital,1
+AH-01447,2026-01-28,Arequipa,web,Hogar individual,tarjeta,0
+AH-01448,2026-01-28,Arequipa,marketplace,Familia,tarjeta,1
+AH-01449,2026-01-31,Lima,app,Hogar individual,tarjeta,1
+AH-01450,2026-02-01,Lima,app,Hogar individual,tarjeta,1
+AH-01451,2026-02-01,Lima,app,Hogar individual,tarjeta,1
+AH-01452,2026-02-01,Arequipa,app,Familia,tarjeta,0
+AH-01453,2026-02-01,Lima,web,Hogar individual,tarjeta,1
+AH-01454,2026-02-02,Lima,marketplace,Hogar individual,billetera digital,1
+AH-01455,2026-02-02,Arequipa,marketplace,Hogar individual,billetera digital,1
+AH-01456,2026-02-03,Lima,web,Familia,tarjeta,1
+AH-01457,2026-02-04,Lima,app,Familia,tarjeta,1
+AH-01458,2026-02-04,Cusco,app,Familia,tarjeta,1
+AH-01459,2026-02-07,Lima,web,Emprendedor,tarjeta,1
+AH-01460,2026-02-07,Lima,app,Familia,contra entrega,1
+AH-01461,2026-02-09,Lima,app,Familia,billetera digital,1
+AH-01462,2026-02-09,Lima,marketplace,Hogar individual,tarjeta,1
+AH-01463,2026-02-12,Arequipa,marketplace,Hogar individual,billetera digital,1
+AH-01464,2026-02-12,Lima,web,Hogar individual,billetera digital,1
+AH-01465,2026-02-12,Lima,app,Familia,billetera digital,1
+AH-01466,2026-02-15,Lima,app,Emprendedor,billetera digital,1
+AH-01467,2026-02-15,Lima,marketplace,Hogar individual,billetera digital,1
+AH-01468,2026-02-15,Lima,web,Familia,tarjeta,1
+AH-01469,2026-02-16,Lima,app,Familia,tarjeta,1
+AH-01470,2026-02-17,Lima,web,Familia,billetera digital,1
+AH-01471,2026-02-19,Lima,app,Familia,billetera digital,1
+AH-01472,2026-02-20,Lima,web,Familia,billetera digital,1
+AH-01473,2026-02-21,Lima,web,Emprendedor,tarjeta,1
+AH-01474,2026-02-22,Lima,web,Familia,contra entrega,0
+AH-01475,2026-02-22,Arequipa,web,Familia,tarjeta,1
+AH-01476,2026-02-23,Lima,web,Familia,contra entrega,1
+AH-01477,2026-02-24,Lima,marketplace,Familia,tarjeta,0
+AH-01478,2026-02-25,Lima,app,Hogar individual,tarjeta,1
+AH-01479,2026-02-26,Arequipa,marketplace,Familia,contra entrega,0
+AH-01480,2026-02-27,Lima,marketplace,Familia,contra entrega,1
+AH-01481,2026-02-27,Cusco,app,Hogar individual,tarjeta,1
+AH-01482,2026-02-28,Lima,web,Hogar individual,tarjeta,1
+AH-01483,2026-02-28,Arequipa,marketplace,Familia,contra entrega,1
+AH-01484,2026-03-03,Lima,web,Familia,billetera digital,1
+AH-01485,2026-03-03,Lima,app,Hogar individual,tarjeta,1
+AH-01486,2026-03-05,Lima,app,Familia,billetera digital,0
+AH-01487,2026-03-05,Lima,app,Familia,tarjeta,1
+AH-01488,2026-03-06,Lima,app,Hogar individual,contra entrega,1
+AH-01489,2026-03-07,Arequipa,app,Emprendedor,tarjeta,1
+AH-01490,2026-03-08,Lima,web,Familia,contra entrega,1
+AH-01491,2026-03-08,Arequipa,marketplace,Familia,tarjeta,1
+AH-01492,2026-03-08,Lima,app,Hogar individual,billetera digital,1
+AH-01493,2026-03-09,Lima,web,Emprendedor,billetera digital,1
+AH-01494,2026-03-10,Lima,app,Emprendedor,contra entrega,1
+AH-01495,2026-03-10,Lima,marketplace,Emprendedor,contra entrega,1
+AH-01496,2026-03-11,Cusco,marketplace,Familia,tarjeta,1
+AH-01497,2026-03-12,Lima,marketplace,Familia,contra entrega,1
+AH-01498,2026-03-15,Cusco,app,Familia,billetera digital,1
+AH-01499,2026-03-15,Lima,app,Familia,tarjeta,1
+AH-01500,2026-03-16,Lima,web,Emprendedor,tarjeta,1
+AH-01501,2026-03-16,Lima,app,Familia,tarjeta,1
+AH-01502,2026-03-18,Cusco,app,Emprendedor,billetera digital,1
+AH-01503,2026-03-18,Cusco,web,Familia,billetera digital,1
+AH-01504,2026-03-19,Lima,marketplace,Familia,tarjeta,1
+AH-01505,2026-03-20,Lima,web,Familia,billetera digital,1
+AH-01506,2026-03-24,Lima,web,Emprendedor,tarjeta,1
+AH-01507,2026-03-25,Lima,app,Familia,tarjeta,1
+AH-01508,2026-03-25,Lima,marketplace,Hogar individual,billetera digital,1
+AH-01509,2026-03-27,Arequipa,web,Emprendedor,billetera digital,0
+AH-01510,2026-03-27,Arequipa,app,Hogar individual,tarjeta,0
+AH-01511,2026-03-29,Lima,web,Hogar individual,tarjeta,1
+AH-01512,2026-03-30,Lima,web,Familia,tarjeta,1
+AH-01513,2026-04-02,Arequipa,web,Hogar individual,contra entrega,1
+AH-01514,2026-04-02,Cusco,app,Familia,contra entrega,1
+AH-01515,2026-04-03,Lima,web,Familia,tarjeta,1
+AH-01516,2026-04-03,Lima,web,Familia,tarjeta,1
+AH-01517,2026-04-05,Lima,web,Familia,tarjeta,1
+AH-01518,2026-04-05,Lima,marketplace,Emprendedor,billetera digital,1
+AH-01519,2026-04-06,Lima,web,Familia,billetera digital,1
+AH-01520,2026-04-06,Arequipa,web,Familia,billetera digital,1
+AH-01521,2026-04-06,Arequipa,app,Familia,tarjeta,1
+AH-01522,2026-04-06,Lima,marketplace,Hogar individual,billetera digital,1
+AH-01523,2026-04-06,Lima,web,Familia,contra entrega,1
+AH-01524,2026-04-08,Lima,web,Hogar individual,contra entrega,1
+AH-01525,2026-04-08,Lima,app,Familia,contra entrega,1
+AH-01526,2026-04-09,Lima,marketplace,Familia,contra entrega,1
+AH-01527,2026-04-09,Arequipa,marketplace,Familia,billetera digital,1
+AH-01528,2026-04-11,Lima,web,Hogar individual,tarjeta,1
+AH-01529,2026-04-11,Cusco,app,Hogar individual,billetera digital,1
+AH-01530,2026-04-12,Lima,web,Hogar individual,contra entrega,1
+AH-01531,2026-04-13,Arequipa,marketplace,Familia,tarjeta,1
+AH-01532,2026-04-13,Lima,app,Familia,contra entrega,1
+AH-01533,2026-04-14,Lima,app,Familia,billetera digital,0
+AH-01534,2026-04-14,Lima,web,Hogar individual,tarjeta,1
+AH-01535,2026-04-15,Lima,app,Familia,tarjeta,1
+AH-01536,2026-04-15,Lima,web,Familia,tarjeta,1
+AH-01537,2026-04-16,Cusco,app,Emprendedor,tarjeta,1
+AH-01538,2026-04-17,Arequipa,marketplace,Emprendedor,tarjeta,1
+AH-01539,2026-04-18,Lima,web,Familia,tarjeta,1
+AH-01540,2026-04-18,Lima,app,Hogar individual,tarjeta,1
+AH-01541,2026-04-20,Cusco,web,Hogar individual,tarjeta,0
+AH-01542,2026-04-20,Lima,app,Familia,tarjeta,1
+AH-01543,2026-04-20,Lima,web,Hogar individual,tarjeta,1
+AH-01544,2026-04-21,Arequipa,app,Familia,contra entrega,1
+AH-01545,2026-04-22,Lima,web,Hogar individual,tarjeta,1
+AH-01546,2026-04-22,Arequipa,app,Familia,tarjeta,0
+AH-01547,2026-04-22,Cusco,marketplace,Hogar individual,contra entrega,1
+AH-01548,2026-04-22,Arequipa,web,Familia,tarjeta,1
+AH-01549,2026-04-22,Cusco,web,Hogar individual,billetera digital,1
+AH-01550,2026-04-23,Lima,web,Hogar individual,tarjeta,1
+AH-01551,2026-04-23,Lima,web,Familia,tarjeta,1
+AH-01552,2026-04-24,Cusco,app,Familia,tarjeta,1
+AH-01553,2026-04-25,Lima,web,Familia,contra entrega,1
+AH-01554,2026-04-27,Lima,app,Hogar individual,tarjeta,1
+AH-01555,2026-04-28,Lima,app,Emprendedor,billetera digital,1
+AH-01556,2026-04-28,Lima,web,Hogar individual,billetera digital,1
+AH-01557,2026-04-29,Lima,web,Hogar individual,tarjeta,1
+AH-01558,2026-05-02,Lima,marketplace,Hogar individual,billetera digital,1
+AH-01559,2026-05-03,Lima,app,Emprendedor,tarjeta,1
+AH-01560,2026-05-05,Arequipa,app,Familia,billetera digital,1
+AH-01561,2026-05-07,Arequipa,marketplace,Familia,contra entrega,1
+AH-01562,2026-05-08,Lima,marketplace,Emprendedor,billetera digital,1
+AH-01563,2026-05-09,Lima,web,Familia,contra entrega,1
+AH-01564,2026-05-11,Lima,app,Hogar individual,tarjeta,1
+AH-01565,2026-05-11,Lima,web,Hogar individual,tarjeta,1
+AH-01566,2026-05-14,Cusco,web,Familia,tarjeta,1
+AH-01567,2026-05-15,Arequipa,web,Familia,tarjeta,1
+AH-01568,2026-05-16,Arequipa,web,Hogar individual,billetera digital,1
+AH-01569,2026-05-16,Cusco,web,Emprendedor,billetera digital,1
+AH-01570,2026-05-16,Cusco,marketplace,Familia,tarjeta,1
+AH-01571,2026-05-17,Cusco,marketplace,Familia,tarjeta,1
+AH-01572,2026-05-18,Lima,web,Emprendedor,contra entrega,1
+AH-01573,2026-05-20,Lima,web,Hogar individual,tarjeta,1
+AH-01574,2026-05-21,Lima,marketplace,Hogar individual,billetera digital,1
+AH-01575,2026-05-21,Lima,web,Hogar individual,tarjeta,1
+AH-01576,2026-05-21,Lima,app,Familia,billetera digital,1
+AH-01577,2026-05-22,Cusco,marketplace,Hogar individual,tarjeta,1
+AH-01578,2026-05-22,Lima,marketplace,Familia,contra entrega,1
+AH-01579,2026-05-22,Lima,web,Hogar individual,contra entrega,1
+AH-01580,2026-05-23,Lima,web,Emprendedor,tarjeta,1
+AH-01581,2026-05-23,Lima,app,Emprendedor,contra entrega,1
+AH-01582,2026-05-23,Arequipa,app,Emprendedor,tarjeta,1
+AH-01583,2026-05-23,Cusco,marketplace,Familia,tarjeta,1
+AH-01584,2026-05-24,Lima,web,Hogar individual,tarjeta,1
+AH-01585,2026-05-24,Arequipa,web,Familia,billetera digital,1
+AH-01586,2026-05-26,Cusco,web,Familia,contra entrega,1
+AH-01587,2026-05-26,Lima,marketplace,Familia,tarjeta,1
+AH-01588,2026-05-27,Cusco,web,Familia,tarjeta,1
+AH-01589,2026-05-27,Arequipa,web,Familia,tarjeta,0
+AH-01590,2026-05-29,Cusco,app,Hogar individual,billetera digital,1
+AH-01591,2026-06-01,Lima,web,Familia,tarjeta,1
+AH-01592,2026-06-02,Arequipa,web,Familia,contra entrega,1
+AH-01593,2026-06-02,Lima,web,Familia,billetera digital,1
+AH-01594,2026-06-02,Arequipa,web,Hogar individual,tarjeta,1
+AH-01595,2026-06-03,Arequipa,web,Familia,contra entrega,1
+AH-01596,2026-06-05,Arequipa,app,Hogar individual,billetera digital,1
+AH-01597,2026-06-06,Arequipa,web,Hogar individual,tarjeta,1
+AH-01598,2026-06-06,Lima,web,Familia,tarjeta,1
+AH-01599,2026-06-07,Lima,web,Familia,tarjeta,1
+AH-01600,2026-06-07,Arequipa,marketplace,Emprendedor,billetera digital,1
+AH-01601,2026-06-08,Lima,web,Hogar individual,tarjeta,0
+AH-01602,2026-06-09,Lima,marketplace,Familia,tarjeta,1
+AH-01603,2026-06-10,Lima,web,Familia,tarjeta,1
+AH-01604,2026-06-10,Lima,marketplace,Familia,contra entrega,1
+AH-01605,2026-06-11,Lima,web,Familia,contra entrega,1
+AH-01606,2026-06-11,Arequipa,app,Familia,contra entrega,1
+AH-01607,2026-06-12,Lima,app,Familia,contra entrega,1
+AH-01608,2026-06-12,Lima,app,Familia,contra entrega,1
+AH-01609,2026-06-13,Cusco,app,Familia,tarjeta,1
+AH-01610,2026-06-13,Arequipa,web,Hogar individual,tarjeta,1
+AH-01611,2026-06-13,Lima,app,Hogar individual,contra entrega,1
+AH-01612,2026-06-14,Arequipa,marketplace,Hogar individual,tarjeta,1
+AH-01613,2026-06-14,Lima,app,Familia,tarjeta,1
+AH-01614,2026-06-15,Lima,web,Hogar individual,contra entrega,1
+AH-01615,2026-06-16,Cusco,app,Familia,billetera digital,0
+AH-01616,2026-06-16,Lima,app,Hogar individual,tarjeta,1
+AH-01617,2026-06-17,Lima,marketplace,Familia,tarjeta,1
+AH-01618,2026-06-17,Lima,marketplace,Hogar individual,tarjeta,1
+AH-01619,2026-06-17,Lima,app,Hogar individual,billetera digital,0
+AH-01620,2026-06-18,Lima,web,Familia,billetera digital,1
+AH-01621,2026-06-18,Arequipa,app,Familia,tarjeta,1
+AH-01622,2026-06-19,Lima,web,Familia,billetera digital,1
+AH-01623,2026-06-19,Lima,web,Familia,billetera digital,1
+AH-01624,2026-06-20,Arequipa,app,Emprendedor,tarjeta,1
+AH-01625,2026-06-20,Arequipa,app,Familia,contra entrega,0
+AH-01626,2026-06-21,Lima,web,Hogar individual,tarjeta,1
+AH-01627,2026-06-22,Lima,app,Familia,billetera digital,1
+AH-01628,2026-06-22,Lima,web,Emprendedor,tarjeta,1
+AH-01629,2026-06-23,Arequipa,web,Emprendedor,billetera digital,1
+AH-01630,2026-06-24,Arequipa,web,Familia,tarjeta,1
+AH-01631,2026-06-25,Lima,web,Familia,tarjeta,1
+AH-01632,2026-06-25,Lima,app,Hogar individual,tarjeta,1
+AH-01633,2026-06-25,Lima,web,Familia,billetera digital,1
+AH-01634,2026-06-26,Lima,web,Familia,billetera digital,1
+AH-01635,2026-06-27,Lima,app,Familia,contra entrega,1
+AH-01636,2026-06-27,Arequipa,web,Familia,tarjeta,1
+AH-01637,2026-06-27,Arequipa,web,Hogar individual,tarjeta,1
+AH-01638,2026-06-28,Lima,app,Familia,contra entrega,1
+AH-01639,2026-06-28,Arequipa,marketplace,Familia,contra entrega,1
+AH-01640,2026-06-30,Lima,marketplace,Emprendedor,contra entrega,1
+AH-01641,2026-07-01,Lima,app,Familia,tarjeta,1
+AH-01642,2026-07-01,Arequipa,web,Hogar individual,billetera digital,1
+AH-01643,2026-07-02,Cusco,app,Hogar individual,billetera digital,1
+AH-01644,2026-07-04,Lima,app,Familia,billetera digital,1
+AH-01645,2026-07-04,Arequipa,marketplace,Hogar individual,tarjeta,1
+AH-01646,2026-07-05,Lima,app,Familia,contra entrega,1
+AH-01647,2026-07-05,Lima,web,Emprendedor,contra entrega,1
+AH-01648,2026-07-06,Lima,web,Familia,tarjeta,1
+AH-01649,2026-07-07,Lima,app,Familia,contra entrega,1
+AH-01650,2026-07-07,Lima,web,Familia,tarjeta,1
+AH-01651,2026-07-08,Lima,web,Hogar individual,contra entrega,1
+AH-01652,2026-07-08,Lima,marketplace,Hogar individual,tarjeta,1
+AH-01653,2026-07-09,Arequipa,web,Hogar individual,billetera digital,1
+AH-01654,2026-07-09,Cusco,app,Emprendedor,tarjeta,1
+AH-01655,2026-07-09,Cusco,web,Hogar individual,tarjeta,1
+AH-01656,2026-07-10,Arequipa,app,Familia,tarjeta,1
+AH-01657,2026-07-10,Arequipa,app,Familia,tarjeta,1
+AH-01658,2026-07-11,Arequipa,app,Familia,tarjeta,1
+AH-01659,2026-07-13,Arequipa,app,Familia,tarjeta,1
+AH-01660,2026-07-13,Arequipa,app,Emprendedor,tarjeta,1
+AH-01661,2026-07-13,Lima,marketplace,Hogar individual,contra entrega,1
+AH-01662,2026-07-14,Cusco,web,Familia,billetera digital,1
+AH-01663,2026-07-14,Cusco,web,Familia,tarjeta,1
+AH-01664,2026-07-14,Lima,marketplace,Familia,contra entrega,1
+AH-01665,2026-07-14,Cusco,app,Familia,tarjeta,1
+AH-01666,2026-07-15,Lima,app,Emprendedor,tarjeta,1
+AH-01667,2026-07-15,Lima,app,Emprendedor,tarjeta,1
+AH-01668,2026-07-15,Lima,marketplace,Familia,contra entrega,1
+AH-01669,2026-07-16,Lima,app,Emprendedor,tarjeta,1
+AH-01670,2026-07-18,Lima,web,Emprendedor,contra entrega,0
+AH-01671,2026-07-20,Lima,web,Emprendedor,tarjeta,1
+AH-01672,2026-07-21,Lima,web,Familia,tarjeta,1
+AH-01673,2026-07-21,Lima,app,Familia,contra entrega,1
+AH-01674,2026-07-22,Lima,app,Hogar individual,tarjeta,1
+AH-01675,2026-07-22,Lima,app,Familia,tarjeta,1
+AH-01676,2026-07-22,Cusco,marketplace,Hogar individual,tarjeta,0
+AH-01677,2026-07-23,Cusco,app,Familia,tarjeta,1
+AH-01678,2026-07-23,Cusco,web,Familia,billetera digital,0
+AH-01679,2026-07-24,Lima,web,Familia,tarjeta,1
+AH-01680,2026-07-24,Lima,marketplace,Hogar individual,contra entrega,1
+AH-01681,2026-07-25,Lima,web,Familia,billetera digital,1
+AH-01682,2026-07-25,Arequipa,web,Familia,billetera digital,1
+AH-01683,2026-07-27,Arequipa,app,Familia,tarjeta,1
+AH-01684,2026-07-27,Cusco,web,Hogar individual,contra entrega,1
+AH-01685,2026-07-28,Lima,web,Familia,tarjeta,1
+AH-01686,2026-07-28,Lima,app,Familia,tarjeta,1
+AH-01687,2026-07-29,Lima,web,Hogar individual,billetera digital,1
+AH-01688,2026-07-29,Lima,app,Familia,tarjeta,1
+AH-01689,2026-07-29,Lima,web,Hogar individual,billetera digital,1
+AH-01690,2026-07-31,Arequipa,web,Emprendedor,tarjeta,1
+AH-01691,2026-08-05,Lima,web,Familia,tarjeta,1
+AH-01692,2026-08-05,Lima,web,Familia,tarjeta,1
+AH-01693,2026-08-05,Lima,app,Hogar individual,contra entrega,1
+AH-01694,2026-08-06,Lima,marketplace,Emprendedor,tarjeta,1
+AH-01695,2026-08-06,Lima,app,Hogar individual,billetera digital,1
+AH-01696,2026-08-07,Lima,marketplace,Familia,tarjeta,1
+AH-01697,2026-08-08,Lima,app,Familia,billetera digital,1
+AH-01698,2026-08-08,Lima,web,Hogar individual,tarjeta,1
+AH-01699,2026-08-09,Lima,marketplace,Hogar individual,tarjeta,1
+AH-01700,2026-08-09,Arequipa,web,Familia,billetera digital,1
+AH-01701,2026-08-11,Lima,marketplace,Hogar individual,tarjeta,1
+AH-01702,2026-08-11,Arequipa,app,Hogar individual,tarjeta,1
+AH-01703,2026-08-11,Arequipa,web,Hogar individual,tarjeta,1
+AH-01704,2026-08-13,Lima,app,Familia,tarjeta,1
+AH-01705,2026-08-14,Lima,app,Familia,tarjeta,1
+AH-01706,2026-08-14,Lima,web,Familia,tarjeta,1
+AH-01707,2026-08-14,Lima,app,Familia,contra entrega,1
+AH-01708,2026-08-16,Arequipa,marketplace,Familia,tarjeta,1
+AH-01709,2026-08-16,Lima,marketplace,Familia,tarjeta,1
+AH-01710,2026-08-16,Lima,web,Familia,billetera digital,1
+AH-01711,2026-08-17,Arequipa,web,Hogar individual,tarjeta,1
+AH-01712,2026-08-19,Lima,marketplace,Emprendedor,contra entrega,1
+AH-01713,2026-08-21,Lima,web,Familia,contra entrega,1
+AH-01714,2026-08-22,Lima,marketplace,Familia,tarjeta,1
+AH-01715,2026-08-24,Lima,web,Hogar individual,billetera digital,1
+AH-01716,2026-08-24,Cusco,app,Familia,contra entrega,1
+AH-01717,2026-08-25,Arequipa,app,Hogar individual,billetera digital,1
+AH-01718,2026-08-25,Lima,app,Familia,contra entrega,1
+AH-01719,2026-08-25,Lima,web,Familia,contra entrega,1
+AH-01720,2026-08-27,Lima,web,Hogar individual,billetera digital,1
+AH-01721,2026-08-29,Lima,web,Hogar individual,tarjeta,1
+AH-01722,2026-08-30,Lima,app,Familia,billetera digital,1
+AH-01723,2026-08-30,Lima,web,Hogar individual,contra entrega,1
+AH-01724,2026-08-31,Lima,web,Familia,billetera digital,1
+AH-01725,2026-08-31,Lima,web,Hogar individual,billetera digital,0
+AH-01726,2026-08-31,Cusco,web,Hogar individual,contra entrega,1
+AH-01727,2026-09-01,Lima,marketplace,Familia,tarjeta,1
+AH-01728,2026-09-01,Arequipa,app,Emprendedor,tarjeta,1
+AH-01729,2026-09-02,Arequipa,web,Familia,tarjeta,1
+AH-01730,2026-09-03,Arequipa,web,Emprendedor,billetera digital,1
+AH-01731,2026-09-03,Lima,marketplace,Hogar individual,tarjeta,1
+AH-01732,2026-09-03,Lima,web,Familia,tarjeta,1
+AH-01733,2026-09-04,Lima,web,Hogar individual,contra entrega,1
+AH-01734,2026-09-05,Lima,marketplace,Familia,billetera digital,0
+AH-01735,2026-09-05,Lima,web,Familia,billetera digital,0
+AH-01736,2026-09-06,Lima,marketplace,Familia,tarjeta,1
+AH-01737,2026-09-06,Lima,marketplace,Emprendedor,tarjeta,1
+AH-01738,2026-09-07,Cusco,web,Familia,tarjeta,1
+AH-01739,2026-09-07,Lima,marketplace,Hogar individual,tarjeta,1
+AH-01740,2026-09-08,Lima,marketplace,Hogar individual,tarjeta,1
+AH-01741,2026-09-09,Lima,marketplace,Familia,tarjeta,1
+AH-01742,2026-09-10,Lima,app,Emprendedor,contra entrega,0
+AH-01743,2026-09-10,Lima,marketplace,Familia,contra entrega,1
+AH-01744,2026-09-10,Arequipa,web,Familia,billetera digital,1
+AH-01745,2026-09-11,Cusco,web,Hogar individual,contra entrega,1
+AH-01746,2026-09-12,Lima,marketplace,Familia,tarjeta,1
+AH-01747,2026-09-13,Arequipa,web,Hogar individual,contra entrega,1
+AH-01748,2026-09-13,Lima,app,Hogar individual,billetera digital,1
+AH-01749,2026-09-14,Lima,app,Hogar individual,billetera digital,1
+AH-01750,2026-09-16,Lima,app,Hogar individual,billetera digital,1
+AH-01751,2026-09-16,Lima,app,Hogar individual,tarjeta,1
+AH-01752,2026-09-18,Arequipa,web,Emprendedor,contra entrega,1
+AH-01753,2026-09-19,Arequipa,app,Familia,tarjeta,1
+AH-01754,2026-09-19,Lima,app,Emprendedor,tarjeta,1
+AH-01755,2026-09-20,Lima,marketplace,Familia,billetera digital,0
+AH-01756,2026-09-20,Lima,web,Familia,tarjeta,1
+AH-01757,2026-09-20,Lima,marketplace,Familia,contra entrega,0
+AH-01758,2026-09-21,Lima,web,Hogar individual,tarjeta,1
+AH-01759,2026-09-21,Arequipa,app,Emprendedor,billetera digital,1
+AH-01760,2026-09-23,Lima,web,Hogar individual,billetera digital,1
+AH-01761,2026-09-24,Lima,web,Emprendedor,tarjeta,1
+AH-01762,2026-09-24,Lima,marketplace,Emprendedor,tarjeta,1
+AH-01763,2026-09-24,Lima,app,Familia,billetera digital,1
+AH-01764,2026-09-26,Cusco,web,Familia,billetera digital,1
+AH-01765,2026-09-27,Lima,web,Emprendedor,tarjeta,1
+AH-01766,2026-09-27,Lima,web,Familia,tarjeta,1
+AH-01767,2026-09-28,Lima,web,Familia,billetera digital,1
+AH-01768,2026-10-01,Lima,web,Emprendedor,tarjeta,1
+AH-01769,2026-10-01,Lima,web,Hogar individual,billetera digital,1
+AH-01770,2026-10-01,Arequipa,app,Hogar individual,tarjeta,1
+AH-01771,2026-10-01,Cusco,app,Emprendedor,tarjeta,1
+AH-01772,2026-10-02,Lima,web,Hogar individual,tarjeta,1
+AH-01773,2026-10-03,Cusco,web,Hogar individual,billetera digital,1
+AH-01774,2026-10-04,Lima,web,Hogar individual,tarjeta,1
+AH-01775,2026-10-04,Lima,marketplace,Familia,tarjeta,1
+AH-01776,2026-10-06,Arequipa,marketplace,Hogar individual,billetera digital,1
+AH-01777,2026-10-06,Arequipa,marketplace,Hogar individual,tarjeta,1
+AH-01778,2026-10-06,Lima,web,Familia,tarjeta,1
+AH-01779,2026-10-06,Lima,marketplace,Hogar individual,tarjeta,1
+AH-01780,2026-10-08,Cusco,web,Familia,tarjeta,1
+AH-01781,2026-10-08,Lima,app,Familia,tarjeta,0
+AH-01782,2026-10-09,Lima,web,Familia,billetera digital,1
+AH-01783,2026-10-09,Lima,app,Familia,tarjeta,1
+AH-01784,2026-10-09,Cusco,web,Familia,contra entrega,1
+AH-01785,2026-10-09,Lima,web,Emprendedor,billetera digital,1
+AH-01786,2026-10-11,Lima,web,Emprendedor,tarjeta,1
+AH-01787,2026-10-11,Arequipa,app,Familia,billetera digital,1
+AH-01788,2026-10-12,Cusco,web,Familia,tarjeta,1
+AH-01789,2026-10-13,Cusco,marketplace,Familia,contra entrega,1
+AH-01790,2026-10-14,Cusco,marketplace,Familia,billetera digital,1
+AH-01791,2026-10-15,Cusco,app,Familia,tarjeta,1
+AH-01792,2026-10-15,Arequipa,app,Familia,tarjeta,1
+AH-01793,2026-10-15,Lima,marketplace,Hogar individual,contra entrega,1
+AH-01794,2026-10-16,Arequipa,web,Hogar individual,tarjeta,1
+AH-01795,2026-10-16,Lima,web,Familia,billetera digital,1
+AH-01796,2026-10-17,Lima,web,Familia,tarjeta,1
+AH-01797,2026-10-19,Arequipa,marketplace,Familia,tarjeta,1
+AH-01798,2026-10-23,Lima,web,Familia,tarjeta,1
+AH-01799,2026-10-23,Lima,web,Emprendedor,tarjeta,1
+AH-01800,2026-10-25,Arequipa,web,Familia,tarjeta,1
+AH-01801,2026-10-26,Cusco,app,Hogar individual,contra entrega,1
+AH-01802,2026-10-26,Lima,marketplace,Familia,tarjeta,1
+AH-01803,2026-10-27,Cusco,marketplace,Emprendedor,tarjeta,0
+AH-01804,2026-10-27,Lima,web,Familia,billetera digital,1
+AH-01805,2026-10-28,Lima,web,Hogar individual,billetera digital,1
+AH-01806,2026-10-29,Lima,app,Emprendedor,tarjeta,1
+AH-01807,2026-10-30,Lima,web,Familia,tarjeta,1
+AH-01808,2026-10-31,Lima,app,Familia,billetera digital,1
+AH-01809,2026-10-31,Lima,web,Familia,tarjeta,0
+AH-01810,2026-10-31,Lima,web,Hogar individual,tarjeta,1

@@ -1,0 +1,2401 @@
+semana,sede,linea,solicitado,atendido,faltante,precio,coste_unitario
+2023-01-02,Cusco ciudad,Detergentes y limpiadores,65,65,0,58.01,43.0
+2023-01-02,Cusco ciudad,Desinfección,60,60,0,52.01,38.0
+2023-01-02,Cusco ciudad,Empaque descartable,58,58,0,44.01,32.0
+2023-01-02,Cusco ciudad,Papel e higiene,83,83,0,62.01,46.01
+2023-01-02,Cusco ciudad,Menaje descartable,34,34,0,40.01,29.0
+2023-01-02,Cusco ciudad,Bolsas y film,45,45,0,56.01,42.0
+2023-01-02,Valle Sagrado,Detergentes y limpiadores,24,24,0,58.01,43.0
+2023-01-02,Valle Sagrado,Desinfección,43,43,0,52.01,38.0
+2023-01-02,Valle Sagrado,Empaque descartable,47,47,0,44.01,32.0
+2023-01-02,Valle Sagrado,Papel e higiene,40,40,0,62.01,46.01
+2023-01-02,Valle Sagrado,Menaje descartable,31,31,0,40.01,29.0
+2023-01-02,Valle Sagrado,Bolsas y film,13,13,0,56.01,42.0
+2023-01-09,Cusco ciudad,Detergentes y limpiadores,72,72,0,58.06,43.04
+2023-01-09,Cusco ciudad,Desinfección,28,28,0,52.06,38.03
+2023-01-09,Cusco ciudad,Empaque descartable,34,34,0,44.05,32.03
+2023-01-09,Cusco ciudad,Papel e higiene,34,34,0,62.07,46.04
+2023-01-09,Cusco ciudad,Menaje descartable,22,22,0,40.04,29.03
+2023-01-09,Cusco ciudad,Bolsas y film,13,13,0,56.06,42.04
+2023-01-09,Valle Sagrado,Detergentes y limpiadores,26,26,0,58.06,43.04
+2023-01-09,Valle Sagrado,Desinfección,26,26,0,52.06,38.03
+2023-01-09,Valle Sagrado,Empaque descartable,8,8,0,44.05,32.03
+2023-01-09,Valle Sagrado,Papel e higiene,26,26,0,62.07,46.04
+2023-01-09,Valle Sagrado,Menaje descartable,5,5,0,40.04,29.03
+2023-01-09,Valle Sagrado,Bolsas y film,6,6,0,56.06,42.04
+2023-01-16,Cusco ciudad,Detergentes y limpiadores,12,12,0,58.12,43.07
+2023-01-16,Cusco ciudad,Desinfección,24,24,0,52.11,38.06
+2023-01-16,Cusco ciudad,Empaque descartable,17,17,0,44.09,32.05
+2023-01-16,Cusco ciudad,Papel e higiene,26,26,0,62.13,46.08
+2023-01-16,Cusco ciudad,Menaje descartable,16,16,0,40.08,29.05
+2023-01-16,Cusco ciudad,Bolsas y film,9,9,0,56.12,42.07
+2023-01-16,Valle Sagrado,Detergentes y limpiadores,13,13,0,58.12,43.07
+2023-01-16,Valle Sagrado,Desinfección,7,7,0,52.11,38.06
+2023-01-16,Valle Sagrado,Empaque descartable,17,17,0,44.09,32.05
+2023-01-16,Valle Sagrado,Papel e higiene,11,11,0,62.13,46.08
+2023-01-16,Valle Sagrado,Menaje descartable,12,12,0,40.08,29.05
+2023-01-16,Valle Sagrado,Bolsas y film,13,13,0,56.12,42.07
+2023-01-23,Cusco ciudad,Detergentes y limpiadores,38,38,0,58.17,43.1
+2023-01-23,Cusco ciudad,Desinfección,23,13,10,52.16,38.09
+2023-01-23,Cusco ciudad,Empaque descartable,20,20,0,44.13,32.08
+2023-01-23,Cusco ciudad,Papel e higiene,29,29,0,62.19,46.11
+2023-01-23,Cusco ciudad,Menaje descartable,15,15,0,40.12,29.07
+2023-01-23,Cusco ciudad,Bolsas y film,11,11,0,56.17,42.1
+2023-01-23,Valle Sagrado,Detergentes y limpiadores,14,14,0,58.17,43.1
+2023-01-23,Valle Sagrado,Desinfección,34,17,17,52.16,38.09
+2023-01-23,Valle Sagrado,Empaque descartable,8,8,0,44.13,32.08
+2023-01-23,Valle Sagrado,Papel e higiene,16,16,0,62.19,46.11
+2023-01-23,Valle Sagrado,Menaje descartable,10,10,0,40.12,29.07
+2023-01-23,Valle Sagrado,Bolsas y film,10,10,0,56.17,42.1
+2023-01-30,Cusco ciudad,Detergentes y limpiadores,38,38,0,58.23,43.14
+2023-01-30,Cusco ciudad,Desinfección,19,19,0,52.21,38.12
+2023-01-30,Cusco ciudad,Empaque descartable,24,24,0,44.17,32.1
+2023-01-30,Cusco ciudad,Papel e higiene,25,25,0,62.25,46.15
+2023-01-30,Cusco ciudad,Menaje descartable,15,15,0,40.16,29.09
+2023-01-30,Cusco ciudad,Bolsas y film,5,5,0,56.22,42.13
+2023-01-30,Valle Sagrado,Detergentes y limpiadores,6,6,0,58.23,43.14
+2023-01-30,Valle Sagrado,Desinfección,4,4,0,52.21,38.12
+2023-01-30,Valle Sagrado,Empaque descartable,10,10,0,44.17,32.1
+2023-01-30,Valle Sagrado,Papel e higiene,15,15,0,62.25,46.15
+2023-01-30,Valle Sagrado,Menaje descartable,16,16,0,40.16,29.09
+2023-01-30,Valle Sagrado,Bolsas y film,1,1,0,56.22,42.13
+2023-02-06,Cusco ciudad,Detergentes y limpiadores,15,15,0,58.29,43.17
+2023-02-06,Cusco ciudad,Desinfección,8,8,0,52.26,38.15
+2023-02-06,Cusco ciudad,Empaque descartable,17,17,0,44.22,32.13
+2023-02-06,Cusco ciudad,Papel e higiene,24,24,0,62.31,46.18
+2023-02-06,Cusco ciudad,Menaje descartable,14,14,0,40.2,29.11
+2023-02-06,Cusco ciudad,Bolsas y film,20,20,0,56.28,42.17
+2023-02-06,Valle Sagrado,Detergentes y limpiadores,18,18,0,58.29,43.17
+2023-02-06,Valle Sagrado,Desinfección,7,7,0,52.26,38.15
+2023-02-06,Valle Sagrado,Empaque descartable,26,26,0,44.22,32.13
+2023-02-06,Valle Sagrado,Papel e higiene,16,16,0,62.31,46.18
+2023-02-06,Valle Sagrado,Menaje descartable,5,5,0,40.2,29.11
+2023-02-06,Valle Sagrado,Bolsas y film,6,6,0,56.28,42.17
+2023-02-13,Cusco ciudad,Detergentes y limpiadores,26,26,0,58.34,43.2
+2023-02-13,Cusco ciudad,Desinfección,20,20,0,52.31,38.18
+2023-02-13,Cusco ciudad,Empaque descartable,28,28,0,44.26,32.15
+2023-02-13,Cusco ciudad,Papel e higiene,17,17,0,62.37,46.22
+2023-02-13,Cusco ciudad,Menaje descartable,35,35,0,40.24,29.14
+2023-02-13,Cusco ciudad,Bolsas y film,7,7,0,56.33,42.2
+2023-02-13,Valle Sagrado,Detergentes y limpiadores,11,11,0,58.34,43.2
+2023-02-13,Valle Sagrado,Desinfección,3,3,0,52.31,38.18
+2023-02-13,Valle Sagrado,Empaque descartable,15,15,0,44.26,32.15
+2023-02-13,Valle Sagrado,Papel e higiene,16,16,0,62.37,46.22
+2023-02-13,Valle Sagrado,Menaje descartable,3,3,0,40.24,29.14
+2023-02-13,Valle Sagrado,Bolsas y film,10,10,0,56.33,42.2
+2023-02-20,Cusco ciudad,Detergentes y limpiadores,26,26,0,58.4,43.24
+2023-02-20,Cusco ciudad,Desinfección,14,14,0,52.36,38.21
+2023-02-20,Cusco ciudad,Empaque descartable,45,45,0,44.3,32.18
+2023-02-20,Cusco ciudad,Papel e higiene,12,12,0,62.42,46.25
+2023-02-20,Cusco ciudad,Menaje descartable,21,21,0,40.27,29.16
+2023-02-20,Cusco ciudad,Bolsas y film,17,17,0,56.38,42.23
+2023-02-20,Valle Sagrado,Detergentes y limpiadores,15,15,0,58.4,43.24
+2023-02-20,Valle Sagrado,Desinfección,13,13,0,52.36,38.21
+2023-02-20,Valle Sagrado,Empaque descartable,20,20,0,44.3,32.18
+2023-02-20,Valle Sagrado,Papel e higiene,9,9,0,62.42,46.25
+2023-02-20,Valle Sagrado,Menaje descartable,0,0,0,40.27,29.16
+2023-02-20,Valle Sagrado,Bolsas y film,0,0,0,56.38,42.23
+2023-02-27,Cusco ciudad,Detergentes y limpiadores,22,22,0,58.45,43.27
+2023-02-27,Cusco ciudad,Desinfección,16,16,0,52.41,38.24
+2023-02-27,Cusco ciudad,Empaque descartable,9,9,0,44.34,32.2
+2023-02-27,Cusco ciudad,Papel e higiene,28,28,0,62.48,46.29
+2023-02-27,Cusco ciudad,Menaje descartable,6,6,0,40.31,29.18
+2023-02-27,Cusco ciudad,Bolsas y film,22,22,0,56.44,42.26
+2023-02-27,Valle Sagrado,Detergentes y limpiadores,15,15,0,58.45,43.27
+2023-02-27,Valle Sagrado,Desinfección,11,11,0,52.41,38.24
+2023-02-27,Valle Sagrado,Empaque descartable,9,9,0,44.34,32.2
+2023-02-27,Valle Sagrado,Papel e higiene,10,10,0,62.48,46.29
+2023-02-27,Valle Sagrado,Menaje descartable,5,5,0,40.31,29.18
+2023-02-27,Valle Sagrado,Bolsas y film,6,6,0,56.44,42.26
+2023-03-06,Cusco ciudad,Detergentes y limpiadores,50,50,0,58.51,43.3
+2023-03-06,Cusco ciudad,Desinfección,20,20,0,52.46,38.27
+2023-03-06,Cusco ciudad,Empaque descartable,38,38,0,44.39,32.22
+2023-03-06,Cusco ciudad,Papel e higiene,25,25,0,62.54,46.32
+2023-03-06,Cusco ciudad,Menaje descartable,22,22,0,40.35,29.2
+2023-03-06,Cusco ciudad,Bolsas y film,24,24,0,56.49,42.29
+2023-03-06,Valle Sagrado,Detergentes y limpiadores,9,9,0,58.51,43.3
+2023-03-06,Valle Sagrado,Desinfección,9,9,0,52.46,38.27
+2023-03-06,Valle Sagrado,Empaque descartable,22,22,0,44.39,32.22
+2023-03-06,Valle Sagrado,Papel e higiene,20,20,0,62.54,46.32
+2023-03-06,Valle Sagrado,Menaje descartable,17,17,0,40.35,29.2
+2023-03-06,Valle Sagrado,Bolsas y film,6,6,0,56.49,42.29
+2023-03-13,Cusco ciudad,Detergentes y limpiadores,24,24,0,58.56,43.33
+2023-03-13,Cusco ciudad,Desinfección,12,12,0,52.51,38.3
+2023-03-13,Cusco ciudad,Empaque descartable,14,14,0,44.43,32.25
+2023-03-13,Cusco ciudad,Papel e higiene,28,10,18,62.6,46.36
+2023-03-13,Cusco ciudad,Menaje descartable,17,17,0,40.39,29.23
+2023-03-13,Cusco ciudad,Bolsas y film,7,7,0,56.54,42.33
+2023-03-13,Valle Sagrado,Detergentes y limpiadores,6,6,0,58.56,43.33
+2023-03-13,Valle Sagrado,Desinfección,9,9,0,52.51,38.3
+2023-03-13,Valle Sagrado,Empaque descartable,8,8,0,44.43,32.25
+2023-03-13,Valle Sagrado,Papel e higiene,17,7,10,62.6,46.36
+2023-03-13,Valle Sagrado,Menaje descartable,8,8,0,40.39,29.23
+2023-03-13,Valle Sagrado,Bolsas y film,1,1,0,56.54,42.33
+2023-03-20,Cusco ciudad,Detergentes y limpiadores,32,32,0,58.62,43.37
+2023-03-20,Cusco ciudad,Desinfección,14,14,0,52.56,38.32
+2023-03-20,Cusco ciudad,Empaque descartable,16,16,0,44.47,32.27
+2023-03-20,Cusco ciudad,Papel e higiene,43,43,0,62.66,46.39
+2023-03-20,Cusco ciudad,Menaje descartable,44,44,0,40.43,29.25
+2023-03-20,Cusco ciudad,Bolsas y film,26,26,0,56.6,42.36
+2023-03-20,Valle Sagrado,Detergentes y limpiadores,25,25,0,58.62,43.37
+2023-03-20,Valle Sagrado,Desinfección,12,12,0,52.56,38.32
+2023-03-20,Valle Sagrado,Empaque descartable,12,12,0,44.47,32.27
+2023-03-20,Valle Sagrado,Papel e higiene,3,3,0,62.66,46.39
+2023-03-20,Valle Sagrado,Menaje descartable,3,3,0,40.43,29.25
+2023-03-20,Valle Sagrado,Bolsas y film,11,11,0,56.6,42.36
+2023-03-27,Cusco ciudad,Detergentes y limpiadores,17,17,0,58.68,43.4
+2023-03-27,Cusco ciudad,Desinfección,14,14,0,52.61,38.35
+2023-03-27,Cusco ciudad,Empaque descartable,40,40,0,44.51,32.3
+2023-03-27,Cusco ciudad,Papel e higiene,17,17,0,62.72,46.43
+2023-03-27,Cusco ciudad,Menaje descartable,8,8,0,40.47,29.27
+2023-03-27,Cusco ciudad,Bolsas y film,11,11,0,56.65,42.39
+2023-03-27,Valle Sagrado,Detergentes y limpiadores,21,21,0,58.68,43.4
+2023-03-27,Valle Sagrado,Desinfección,7,7,0,52.61,38.35
+2023-03-27,Valle Sagrado,Empaque descartable,14,14,0,44.51,32.3
+2023-03-27,Valle Sagrado,Papel e higiene,17,17,0,62.72,46.43
+2023-03-27,Valle Sagrado,Menaje descartable,16,16,0,40.47,29.27
+2023-03-27,Valle Sagrado,Bolsas y film,1,1,0,56.65,42.39
+2023-04-03,Cusco ciudad,Detergentes y limpiadores,22,22,0,58.73,43.43
+2023-04-03,Cusco ciudad,Desinfección,7,7,0,52.66,38.38
+2023-04-03,Cusco ciudad,Empaque descartable,49,49,0,44.55,32.32
+2023-04-03,Cusco ciudad,Papel e higiene,30,30,0,62.78,46.46
+2023-04-03,Cusco ciudad,Menaje descartable,31,31,0,40.5,29.29
+2023-04-03,Cusco ciudad,Bolsas y film,12,12,0,56.71,42.42
+2023-04-03,Valle Sagrado,Detergentes y limpiadores,16,16,0,58.73,43.43
+2023-04-03,Valle Sagrado,Desinfección,3,3,0,52.66,38.38
+2023-04-03,Valle Sagrado,Empaque descartable,17,17,0,44.55,32.32
+2023-04-03,Valle Sagrado,Papel e higiene,13,13,0,62.78,46.46
+2023-04-03,Valle Sagrado,Menaje descartable,11,11,0,40.5,29.29
+2023-04-03,Valle Sagrado,Bolsas y film,8,8,0,56.71,42.42
+2023-04-10,Cusco ciudad,Detergentes y limpiadores,39,39,0,58.79,43.47
+2023-04-10,Cusco ciudad,Desinfección,11,11,0,52.71,38.41
+2023-04-10,Cusco ciudad,Empaque descartable,28,28,0,44.6,32.35
+2023-04-10,Cusco ciudad,Papel e higiene,33,33,0,62.84,46.5
+2023-04-10,Cusco ciudad,Menaje descartable,8,2,6,40.54,29.31
+2023-04-10,Cusco ciudad,Bolsas y film,24,24,0,56.76,42.46
+2023-04-10,Valle Sagrado,Detergentes y limpiadores,7,7,0,58.79,43.47
+2023-04-10,Valle Sagrado,Desinfección,12,12,0,52.71,38.41
+2023-04-10,Valle Sagrado,Empaque descartable,27,27,0,44.6,32.35
+2023-04-10,Valle Sagrado,Papel e higiene,18,18,0,62.84,46.5
+2023-04-10,Valle Sagrado,Menaje descartable,2,0,2,40.54,29.31
+2023-04-10,Valle Sagrado,Bolsas y film,8,8,0,56.76,42.46
+2023-04-17,Cusco ciudad,Detergentes y limpiadores,46,46,0,58.84,43.5
+2023-04-17,Cusco ciudad,Desinfección,38,38,0,52.76,38.44
+2023-04-17,Cusco ciudad,Empaque descartable,32,32,0,44.64,32.37
+2023-04-17,Cusco ciudad,Papel e higiene,48,48,0,62.9,46.53
+2023-04-17,Cusco ciudad,Menaje descartable,23,23,0,40.58,29.34
+2023-04-17,Cusco ciudad,Bolsas y film,9,9,0,56.81,42.49
+2023-04-17,Valle Sagrado,Detergentes y limpiadores,21,21,0,58.84,43.5
+2023-04-17,Valle Sagrado,Desinfección,28,28,0,52.76,38.44
+2023-04-17,Valle Sagrado,Empaque descartable,10,10,0,44.64,32.37
+2023-04-17,Valle Sagrado,Papel e higiene,7,7,0,62.9,46.53
+2023-04-17,Valle Sagrado,Menaje descartable,27,27,0,40.58,29.34
+2023-04-17,Valle Sagrado,Bolsas y film,9,9,0,56.81,42.49
+2023-04-24,Cusco ciudad,Detergentes y limpiadores,44,44,0,58.9,43.53
+2023-04-24,Cusco ciudad,Desinfección,24,24,0,52.8,38.47
+2023-04-24,Cusco ciudad,Empaque descartable,17,17,0,44.68,32.4
+2023-04-24,Cusco ciudad,Papel e higiene,20,20,0,62.96,46.57
+2023-04-24,Cusco ciudad,Menaje descartable,13,13,0,40.62,29.36
+2023-04-24,Cusco ciudad,Bolsas y film,12,12,0,56.87,42.52
+2023-04-24,Valle Sagrado,Detergentes y limpiadores,16,16,0,58.9,43.53
+2023-04-24,Valle Sagrado,Desinfección,23,23,0,52.8,38.47
+2023-04-24,Valle Sagrado,Empaque descartable,32,32,0,44.68,32.4
+2023-04-24,Valle Sagrado,Papel e higiene,9,9,0,62.96,46.57
+2023-04-24,Valle Sagrado,Menaje descartable,12,12,0,40.62,29.36
+2023-04-24,Valle Sagrado,Bolsas y film,11,11,0,56.87,42.52
+2023-05-01,Cusco ciudad,Detergentes y limpiadores,11,11,0,58.95,43.57
+2023-05-01,Cusco ciudad,Desinfección,26,26,0,52.85,38.5
+2023-05-01,Cusco ciudad,Empaque descartable,22,22,0,44.72,32.42
+2023-05-01,Cusco ciudad,Papel e higiene,55,55,0,63.02,46.6
+2023-05-01,Cusco ciudad,Menaje descartable,47,47,0,40.66,29.38
+2023-05-01,Cusco ciudad,Bolsas y film,17,17,0,56.92,42.55
+2023-05-01,Valle Sagrado,Detergentes y limpiadores,18,18,0,58.95,43.57
+2023-05-01,Valle Sagrado,Desinfección,13,13,0,52.85,38.5
+2023-05-01,Valle Sagrado,Empaque descartable,18,18,0,44.72,32.42
+2023-05-01,Valle Sagrado,Papel e higiene,27,27,0,63.02,46.6
+2023-05-01,Valle Sagrado,Menaje descartable,20,20,0,40.66,29.38
+2023-05-01,Valle Sagrado,Bolsas y film,14,14,0,56.92,42.55
+2023-05-08,Cusco ciudad,Detergentes y limpiadores,54,54,0,59.01,43.6
+2023-05-08,Cusco ciudad,Desinfección,32,32,0,52.9,38.53
+2023-05-08,Cusco ciudad,Empaque descartable,56,20,36,44.77,32.45
+2023-05-08,Cusco ciudad,Papel e higiene,36,36,0,63.08,46.64
+2023-05-08,Cusco ciudad,Menaje descartable,19,19,0,40.7,29.4
+2023-05-08,Cusco ciudad,Bolsas y film,43,43,0,56.97,42.58
+2023-05-08,Valle Sagrado,Detergentes y limpiadores,17,17,0,59.01,43.6
+2023-05-08,Valle Sagrado,Desinfección,7,7,0,52.9,38.53
+2023-05-08,Valle Sagrado,Empaque descartable,7,3,4,44.77,32.45
+2023-05-08,Valle Sagrado,Papel e higiene,3,3,0,63.08,46.64
+2023-05-08,Valle Sagrado,Menaje descartable,7,7,0,40.7,29.4
+2023-05-08,Valle Sagrado,Bolsas y film,10,10,0,56.97,42.58
+2023-05-15,Cusco ciudad,Detergentes y limpiadores,37,37,0,59.06,43.63
+2023-05-15,Cusco ciudad,Desinfección,10,10,0,52.95,38.56
+2023-05-15,Cusco ciudad,Empaque descartable,33,33,0,44.81,32.47
+2023-05-15,Cusco ciudad,Papel e higiene,28,28,0,63.14,46.68
+2023-05-15,Cusco ciudad,Menaje descartable,26,26,0,40.73,29.43
+2023-05-15,Cusco ciudad,Bolsas y film,29,29,0,57.03,42.62
+2023-05-15,Valle Sagrado,Detergentes y limpiadores,22,22,0,59.06,43.63
+2023-05-15,Valle Sagrado,Desinfección,8,8,0,52.95,38.56
+2023-05-15,Valle Sagrado,Empaque descartable,28,28,0,44.81,32.47
+2023-05-15,Valle Sagrado,Papel e higiene,14,14,0,63.14,46.68
+2023-05-15,Valle Sagrado,Menaje descartable,3,3,0,40.73,29.43
+2023-05-15,Valle Sagrado,Bolsas y film,5,5,0,57.03,42.62
+2023-05-22,Cusco ciudad,Detergentes y limpiadores,28,28,0,59.12,43.66
+2023-05-22,Cusco ciudad,Desinfección,14,14,0,53.0,38.59
+2023-05-22,Cusco ciudad,Empaque descartable,30,30,0,44.85,32.49
+2023-05-22,Cusco ciudad,Papel e higiene,36,36,0,63.2,46.71
+2023-05-22,Cusco ciudad,Menaje descartable,15,15,0,40.77,29.45
+2023-05-22,Cusco ciudad,Bolsas y film,11,11,0,57.08,42.65
+2023-05-22,Valle Sagrado,Detergentes y limpiadores,25,25,0,59.12,43.66
+2023-05-22,Valle Sagrado,Desinfección,26,26,0,53.0,38.59
+2023-05-22,Valle Sagrado,Empaque descartable,2,2,0,44.85,32.49
+2023-05-22,Valle Sagrado,Papel e higiene,19,19,0,63.2,46.71
+2023-05-22,Valle Sagrado,Menaje descartable,8,8,0,40.77,29.45
+2023-05-22,Valle Sagrado,Bolsas y film,12,12,0,57.08,42.65
+2023-05-29,Cusco ciudad,Detergentes y limpiadores,71,71,0,59.18,43.7
+2023-05-29,Cusco ciudad,Desinfección,21,21,0,53.05,38.62
+2023-05-29,Cusco ciudad,Empaque descartable,30,30,0,44.89,32.52
+2023-05-29,Cusco ciudad,Papel e higiene,24,24,0,63.26,46.75
+2023-05-29,Cusco ciudad,Menaje descartable,15,2,13,40.81,29.47
+2023-05-29,Cusco ciudad,Bolsas y film,12,12,0,57.14,42.68
+2023-05-29,Valle Sagrado,Detergentes y limpiadores,11,11,0,59.18,43.7
+2023-05-29,Valle Sagrado,Desinfección,0,0,0,53.05,38.62
+2023-05-29,Valle Sagrado,Empaque descartable,13,13,0,44.89,32.52
+2023-05-29,Valle Sagrado,Papel e higiene,10,10,0,63.26,46.75
+2023-05-29,Valle Sagrado,Menaje descartable,2,0,2,40.81,29.47
+2023-05-29,Valle Sagrado,Bolsas y film,10,10,0,57.14,42.68
+2023-06-05,Cusco ciudad,Detergentes y limpiadores,49,22,27,59.23,43.73
+2023-06-05,Cusco ciudad,Desinfección,39,39,0,53.1,38.65
+2023-06-05,Cusco ciudad,Empaque descartable,37,37,0,44.93,32.54
+2023-06-05,Cusco ciudad,Papel e higiene,8,8,0,63.32,46.78
+2023-06-05,Cusco ciudad,Menaje descartable,36,36,0,40.85,29.49
+2023-06-05,Cusco ciudad,Bolsas y film,9,9,0,57.19,42.71
+2023-06-05,Valle Sagrado,Detergentes y limpiadores,23,11,12,59.23,43.73
+2023-06-05,Valle Sagrado,Desinfección,3,3,0,53.1,38.65
+2023-06-05,Valle Sagrado,Empaque descartable,18,18,0,44.93,32.54
+2023-06-05,Valle Sagrado,Papel e higiene,16,16,0,63.32,46.78
+2023-06-05,Valle Sagrado,Menaje descartable,15,15,0,40.85,29.49
+2023-06-05,Valle Sagrado,Bolsas y film,0,0,0,57.19,42.71
+2023-06-12,Cusco ciudad,Detergentes y limpiadores,35,35,0,59.29,43.76
+2023-06-12,Cusco ciudad,Desinfección,23,23,0,53.15,38.67
+2023-06-12,Cusco ciudad,Empaque descartable,21,21,0,44.98,32.57
+2023-06-12,Cusco ciudad,Papel e higiene,28,28,0,63.38,46.82
+2023-06-12,Cusco ciudad,Menaje descartable,22,22,0,40.89,29.51
+2023-06-12,Cusco ciudad,Bolsas y film,15,15,0,57.24,42.75
+2023-06-12,Valle Sagrado,Detergentes y limpiadores,13,13,0,59.29,43.76
+2023-06-12,Valle Sagrado,Desinfección,3,3,0,53.15,38.67
+2023-06-12,Valle Sagrado,Empaque descartable,7,7,0,44.98,32.57
+2023-06-12,Valle Sagrado,Papel e higiene,15,15,0,63.38,46.82
+2023-06-12,Valle Sagrado,Menaje descartable,17,17,0,40.89,29.51
+2023-06-12,Valle Sagrado,Bolsas y film,8,8,0,57.24,42.75
+2023-06-19,Cusco ciudad,Detergentes y limpiadores,28,28,0,59.34,43.8
+2023-06-19,Cusco ciudad,Desinfección,13,7,6,53.2,38.7
+2023-06-19,Cusco ciudad,Empaque descartable,63,63,0,45.02,32.59
+2023-06-19,Cusco ciudad,Papel e higiene,37,37,0,63.44,46.85
+2023-06-19,Cusco ciudad,Menaje descartable,35,35,0,40.93,29.54
+2023-06-19,Cusco ciudad,Bolsas y film,36,36,0,57.3,42.78
+2023-06-19,Valle Sagrado,Detergentes y limpiadores,24,24,0,59.34,43.8
+2023-06-19,Valle Sagrado,Desinfección,20,9,11,53.2,38.7
+2023-06-19,Valle Sagrado,Empaque descartable,21,21,0,45.02,32.59
+2023-06-19,Valle Sagrado,Papel e higiene,17,17,0,63.44,46.85
+2023-06-19,Valle Sagrado,Menaje descartable,12,12,0,40.93,29.54
+2023-06-19,Valle Sagrado,Bolsas y film,2,2,0,57.3,42.78
+2023-06-26,Cusco ciudad,Detergentes y limpiadores,28,5,23,59.4,43.83
+2023-06-26,Cusco ciudad,Desinfección,9,9,0,53.25,38.73
+2023-06-26,Cusco ciudad,Empaque descartable,39,39,0,45.06,32.62
+2023-06-26,Cusco ciudad,Papel e higiene,38,38,0,63.49,46.89
+2023-06-26,Cusco ciudad,Menaje descartable,32,32,0,40.96,29.56
+2023-06-26,Cusco ciudad,Bolsas y film,10,8,2,57.35,42.81
+2023-06-26,Valle Sagrado,Detergentes y limpiadores,9,3,6,59.4,43.83
+2023-06-26,Valle Sagrado,Desinfección,11,11,0,53.25,38.73
+2023-06-26,Valle Sagrado,Empaque descartable,23,23,0,45.06,32.62
+2023-06-26,Valle Sagrado,Papel e higiene,9,9,0,63.49,46.89
+2023-06-26,Valle Sagrado,Menaje descartable,6,6,0,40.96,29.56
+2023-06-26,Valle Sagrado,Bolsas y film,11,7,4,57.35,42.81
+2023-07-03,Cusco ciudad,Detergentes y limpiadores,25,25,0,59.45,43.86
+2023-07-03,Cusco ciudad,Desinfección,12,12,0,53.3,38.76
+2023-07-03,Cusco ciudad,Empaque descartable,35,35,0,45.1,32.64
+2023-07-03,Cusco ciudad,Papel e higiene,38,38,0,63.55,46.92
+2023-07-03,Cusco ciudad,Menaje descartable,30,5,25,41.0,29.58
+2023-07-03,Cusco ciudad,Bolsas y film,14,14,0,57.4,42.84
+2023-07-03,Valle Sagrado,Detergentes y limpiadores,11,11,0,59.45,43.86
+2023-07-03,Valle Sagrado,Desinfección,12,12,0,53.3,38.76
+2023-07-03,Valle Sagrado,Empaque descartable,18,18,0,45.1,32.64
+2023-07-03,Valle Sagrado,Papel e higiene,14,14,0,63.55,46.92
+2023-07-03,Valle Sagrado,Menaje descartable,13,5,8,41.0,29.58
+2023-07-03,Valle Sagrado,Bolsas y film,7,7,0,57.4,42.84
+2023-07-10,Cusco ciudad,Detergentes y limpiadores,67,67,0,59.51,43.9
+2023-07-10,Cusco ciudad,Desinfección,41,41,0,53.35,38.79
+2023-07-10,Cusco ciudad,Empaque descartable,81,81,0,45.15,32.67
+2023-07-10,Cusco ciudad,Papel e higiene,72,72,0,63.61,46.96
+2023-07-10,Cusco ciudad,Menaje descartable,59,59,0,41.04,29.6
+2023-07-10,Cusco ciudad,Bolsas y film,12,12,0,57.46,42.87
+2023-07-10,Valle Sagrado,Detergentes y limpiadores,17,17,0,59.51,43.9
+2023-07-10,Valle Sagrado,Desinfección,19,19,0,53.35,38.79
+2023-07-10,Valle Sagrado,Empaque descartable,16,16,0,45.15,32.67
+2023-07-10,Valle Sagrado,Papel e higiene,17,17,0,63.61,46.96
+2023-07-10,Valle Sagrado,Menaje descartable,10,10,0,41.04,29.6
+2023-07-10,Valle Sagrado,Bolsas y film,13,13,0,57.46,42.87
+2023-07-17,Cusco ciudad,Detergentes y limpiadores,27,27,0,59.57,43.93
+2023-07-17,Cusco ciudad,Desinfección,13,13,0,53.4,38.82
+2023-07-17,Cusco ciudad,Empaque descartable,24,24,0,45.19,32.69
+2023-07-17,Cusco ciudad,Papel e higiene,48,48,0,63.67,46.99
+2023-07-17,Cusco ciudad,Menaje descartable,28,16,12,41.08,29.63
+2023-07-17,Cusco ciudad,Bolsas y film,16,16,0,57.51,42.91
+2023-07-17,Valle Sagrado,Detergentes y limpiadores,6,6,0,59.57,43.93
+2023-07-17,Valle Sagrado,Desinfección,17,17,0,53.4,38.82
+2023-07-17,Valle Sagrado,Empaque descartable,21,21,0,45.19,32.69
+2023-07-17,Valle Sagrado,Papel e higiene,0,0,0,63.67,46.99
+2023-07-17,Valle Sagrado,Menaje descartable,13,11,2,41.08,29.63
+2023-07-17,Valle Sagrado,Bolsas y film,6,6,0,57.51,42.91
+2023-07-24,Cusco ciudad,Detergentes y limpiadores,19,19,0,59.62,43.96
+2023-07-24,Cusco ciudad,Desinfección,11,11,0,53.45,38.85
+2023-07-24,Cusco ciudad,Empaque descartable,28,28,0,45.23,32.72
+2023-07-24,Cusco ciudad,Papel e higiene,43,43,0,63.73,47.03
+2023-07-24,Cusco ciudad,Menaje descartable,22,22,0,41.12,29.65
+2023-07-24,Cusco ciudad,Bolsas y film,16,16,0,57.56,42.94
+2023-07-24,Valle Sagrado,Detergentes y limpiadores,6,6,0,59.62,43.96
+2023-07-24,Valle Sagrado,Desinfección,9,9,0,53.45,38.85
+2023-07-24,Valle Sagrado,Empaque descartable,23,23,0,45.23,32.72
+2023-07-24,Valle Sagrado,Papel e higiene,3,3,0,63.73,47.03
+2023-07-24,Valle Sagrado,Menaje descartable,6,6,0,41.12,29.65
+2023-07-24,Valle Sagrado,Bolsas y film,9,9,0,57.56,42.94
+2023-07-31,Cusco ciudad,Detergentes y limpiadores,51,51,0,59.68,43.99
+2023-07-31,Cusco ciudad,Desinfección,28,28,0,53.5,38.88
+2023-07-31,Cusco ciudad,Empaque descartable,45,45,0,45.27,32.74
+2023-07-31,Cusco ciudad,Papel e higiene,45,45,0,63.79,47.06
+2023-07-31,Cusco ciudad,Menaje descartable,32,32,0,41.16,29.67
+2023-07-31,Cusco ciudad,Bolsas y film,13,13,0,57.62,42.97
+2023-07-31,Valle Sagrado,Detergentes y limpiadores,26,26,0,59.68,43.99
+2023-07-31,Valle Sagrado,Desinfección,17,17,0,53.5,38.88
+2023-07-31,Valle Sagrado,Empaque descartable,16,16,0,45.27,32.74
+2023-07-31,Valle Sagrado,Papel e higiene,15,15,0,63.79,47.06
+2023-07-31,Valle Sagrado,Menaje descartable,14,14,0,41.16,29.67
+2023-07-31,Valle Sagrado,Bolsas y film,0,0,0,57.62,42.97
+2023-08-07,Cusco ciudad,Detergentes y limpiadores,65,65,0,59.73,44.03
+2023-08-07,Cusco ciudad,Desinfección,45,45,0,53.55,38.91
+2023-08-07,Cusco ciudad,Empaque descartable,39,39,0,45.31,32.76
+2023-08-07,Cusco ciudad,Papel e higiene,44,44,0,63.85,47.1
+2023-08-07,Cusco ciudad,Menaje descartable,44,44,0,41.19,29.69
+2023-08-07,Cusco ciudad,Bolsas y film,23,23,0,57.67,43.0
+2023-08-07,Valle Sagrado,Detergentes y limpiadores,14,14,0,59.73,44.03
+2023-08-07,Valle Sagrado,Desinfección,24,24,0,53.55,38.91
+2023-08-07,Valle Sagrado,Empaque descartable,10,10,0,45.31,32.76
+2023-08-07,Valle Sagrado,Papel e higiene,24,24,0,63.85,47.1
+2023-08-07,Valle Sagrado,Menaje descartable,18,18,0,41.19,29.69
+2023-08-07,Valle Sagrado,Bolsas y film,10,10,0,57.67,43.0
+2023-08-14,Cusco ciudad,Detergentes y limpiadores,53,53,0,59.79,44.06
+2023-08-14,Cusco ciudad,Desinfección,58,58,0,53.6,38.94
+2023-08-14,Cusco ciudad,Empaque descartable,44,44,0,45.36,32.79
+2023-08-14,Cusco ciudad,Papel e higiene,40,40,0,63.91,47.13
+2023-08-14,Cusco ciudad,Menaje descartable,25,25,0,41.23,29.72
+2023-08-14,Cusco ciudad,Bolsas y film,29,29,0,57.73,43.04
+2023-08-14,Valle Sagrado,Detergentes y limpiadores,5,5,0,59.79,44.06
+2023-08-14,Valle Sagrado,Desinfección,19,19,0,53.6,38.94
+2023-08-14,Valle Sagrado,Empaque descartable,21,21,0,45.36,32.79
+2023-08-14,Valle Sagrado,Papel e higiene,18,18,0,63.91,47.13
+2023-08-14,Valle Sagrado,Menaje descartable,13,13,0,41.23,29.72
+2023-08-14,Valle Sagrado,Bolsas y film,5,5,0,57.73,43.04
+2023-08-21,Cusco ciudad,Detergentes y limpiadores,40,40,0,59.84,44.09
+2023-08-21,Cusco ciudad,Desinfección,38,38,0,53.65,38.97
+2023-08-21,Cusco ciudad,Empaque descartable,43,43,0,45.4,32.81
+2023-08-21,Cusco ciudad,Papel e higiene,44,44,0,63.97,47.17
+2023-08-21,Cusco ciudad,Menaje descartable,55,55,0,41.27,29.74
+2023-08-21,Cusco ciudad,Bolsas y film,14,14,0,57.78,43.07
+2023-08-21,Valle Sagrado,Detergentes y limpiadores,13,13,0,59.84,44.09
+2023-08-21,Valle Sagrado,Desinfección,17,17,0,53.65,38.97
+2023-08-21,Valle Sagrado,Empaque descartable,14,14,0,45.4,32.81
+2023-08-21,Valle Sagrado,Papel e higiene,17,17,0,63.97,47.17
+2023-08-21,Valle Sagrado,Menaje descartable,19,19,0,41.27,29.74
+2023-08-21,Valle Sagrado,Bolsas y film,11,11,0,57.78,43.07
+2023-08-28,Cusco ciudad,Detergentes y limpiadores,50,50,0,59.9,44.13
+2023-08-28,Cusco ciudad,Desinfección,21,21,0,53.7,39.0
+2023-08-28,Cusco ciudad,Empaque descartable,41,41,0,45.44,32.84
+2023-08-28,Cusco ciudad,Papel e higiene,28,28,0,64.03,47.2
+2023-08-28,Cusco ciudad,Menaje descartable,26,26,0,41.31,29.76
+2023-08-28,Cusco ciudad,Bolsas y film,15,15,0,57.83,43.1
+2023-08-28,Valle Sagrado,Detergentes y limpiadores,15,15,0,59.9,44.13
+2023-08-28,Valle Sagrado,Desinfección,2,2,0,53.7,39.0
+2023-08-28,Valle Sagrado,Empaque descartable,11,11,0,45.44,32.84
+2023-08-28,Valle Sagrado,Papel e higiene,19,19,0,64.03,47.2
+2023-08-28,Valle Sagrado,Menaje descartable,29,29,0,41.31,29.76
+2023-08-28,Valle Sagrado,Bolsas y film,15,15,0,57.83,43.1
+2023-09-04,Cusco ciudad,Detergentes y limpiadores,40,40,0,59.95,44.16
+2023-09-04,Cusco ciudad,Desinfección,30,30,0,53.75,39.02
+2023-09-04,Cusco ciudad,Empaque descartable,54,54,0,45.48,32.86
+2023-09-04,Cusco ciudad,Papel e higiene,50,50,0,64.09,47.24
+2023-09-04,Cusco ciudad,Menaje descartable,35,35,0,41.35,29.78
+2023-09-04,Cusco ciudad,Bolsas y film,29,29,0,57.89,43.13
+2023-09-04,Valle Sagrado,Detergentes y limpiadores,28,28,0,59.95,44.16
+2023-09-04,Valle Sagrado,Desinfección,20,20,0,53.75,39.02
+2023-09-04,Valle Sagrado,Empaque descartable,32,32,0,45.48,32.86
+2023-09-04,Valle Sagrado,Papel e higiene,28,28,0,64.09,47.24
+2023-09-04,Valle Sagrado,Menaje descartable,12,12,0,41.35,29.78
+2023-09-04,Valle Sagrado,Bolsas y film,10,10,0,57.89,43.13
+2023-09-11,Cusco ciudad,Detergentes y limpiadores,49,49,0,60.01,44.19
+2023-09-11,Cusco ciudad,Desinfección,27,27,0,53.8,39.05
+2023-09-11,Cusco ciudad,Empaque descartable,41,41,0,45.52,32.89
+2023-09-11,Cusco ciudad,Papel e higiene,63,63,0,64.15,47.28
+2023-09-11,Cusco ciudad,Menaje descartable,53,53,0,41.39,29.8
+2023-09-11,Cusco ciudad,Bolsas y film,13,13,0,57.94,43.16
+2023-09-11,Valle Sagrado,Detergentes y limpiadores,10,10,0,60.01,44.19
+2023-09-11,Valle Sagrado,Desinfección,6,6,0,53.8,39.05
+2023-09-11,Valle Sagrado,Empaque descartable,21,21,0,45.52,32.89
+2023-09-11,Valle Sagrado,Papel e higiene,14,14,0,64.15,47.28
+2023-09-11,Valle Sagrado,Menaje descartable,9,9,0,41.39,29.8
+2023-09-11,Valle Sagrado,Bolsas y film,4,4,0,57.94,43.16
+2023-09-18,Cusco ciudad,Detergentes y limpiadores,53,53,0,60.07,44.23
+2023-09-18,Cusco ciudad,Desinfección,37,37,0,53.85,39.08
+2023-09-18,Cusco ciudad,Empaque descartable,30,30,0,45.57,32.91
+2023-09-18,Cusco ciudad,Papel e higiene,53,19,34,64.21,47.31
+2023-09-18,Cusco ciudad,Menaje descartable,24,24,0,41.42,29.83
+2023-09-18,Cusco ciudad,Bolsas y film,10,10,0,57.99,43.2
+2023-09-18,Valle Sagrado,Detergentes y limpiadores,31,31,0,60.07,44.23
+2023-09-18,Valle Sagrado,Desinfección,15,15,0,53.85,39.08
+2023-09-18,Valle Sagrado,Empaque descartable,27,27,0,45.57,32.91
+2023-09-18,Valle Sagrado,Papel e higiene,24,12,12,64.21,47.31
+2023-09-18,Valle Sagrado,Menaje descartable,14,14,0,41.42,29.83
+2023-09-18,Valle Sagrado,Bolsas y film,2,2,0,57.99,43.2
+2023-09-25,Cusco ciudad,Detergentes y limpiadores,56,56,0,60.12,44.26
+2023-09-25,Cusco ciudad,Desinfección,17,17,0,53.9,39.11
+2023-09-25,Cusco ciudad,Empaque descartable,49,49,0,45.61,32.94
+2023-09-25,Cusco ciudad,Papel e higiene,47,47,0,64.27,47.35
+2023-09-25,Cusco ciudad,Menaje descartable,24,24,0,41.46,29.85
+2023-09-25,Cusco ciudad,Bolsas y film,26,26,0,58.05,43.23
+2023-09-25,Valle Sagrado,Detergentes y limpiadores,15,15,0,60.12,44.26
+2023-09-25,Valle Sagrado,Desinfección,8,8,0,53.9,39.11
+2023-09-25,Valle Sagrado,Empaque descartable,16,16,0,45.61,32.94
+2023-09-25,Valle Sagrado,Papel e higiene,14,14,0,64.27,47.35
+2023-09-25,Valle Sagrado,Menaje descartable,10,10,0,41.46,29.85
+2023-09-25,Valle Sagrado,Bolsas y film,0,0,0,58.05,43.23
+2023-10-02,Cusco ciudad,Detergentes y limpiadores,25,25,0,60.18,44.29
+2023-10-02,Cusco ciudad,Desinfección,48,48,0,53.95,39.14
+2023-10-02,Cusco ciudad,Empaque descartable,46,46,0,45.65,32.96
+2023-10-02,Cusco ciudad,Papel e higiene,49,49,0,64.33,47.38
+2023-10-02,Cusco ciudad,Menaje descartable,21,21,0,41.5,29.87
+2023-10-02,Cusco ciudad,Bolsas y film,23,23,0,58.1,43.26
+2023-10-02,Valle Sagrado,Detergentes y limpiadores,16,16,0,60.18,44.29
+2023-10-02,Valle Sagrado,Desinfección,10,10,0,53.95,39.14
+2023-10-02,Valle Sagrado,Empaque descartable,23,23,0,45.65,32.96
+2023-10-02,Valle Sagrado,Papel e higiene,26,26,0,64.33,47.38
+2023-10-02,Valle Sagrado,Menaje descartable,12,12,0,41.5,29.87
+2023-10-02,Valle Sagrado,Bolsas y film,10,10,0,58.1,43.26
+2023-10-09,Cusco ciudad,Detergentes y limpiadores,56,56,0,60.23,44.32
+2023-10-09,Cusco ciudad,Desinfección,20,20,0,54.0,39.17
+2023-10-09,Cusco ciudad,Empaque descartable,45,45,0,45.69,32.99
+2023-10-09,Cusco ciudad,Papel e higiene,31,31,0,64.39,47.42
+2023-10-09,Cusco ciudad,Menaje descartable,16,16,0,41.54,29.89
+2023-10-09,Cusco ciudad,Bolsas y film,25,25,0,58.16,43.29
+2023-10-09,Valle Sagrado,Detergentes y limpiadores,32,32,0,60.23,44.32
+2023-10-09,Valle Sagrado,Desinfección,4,4,0,54.0,39.17
+2023-10-09,Valle Sagrado,Empaque descartable,12,12,0,45.69,32.99
+2023-10-09,Valle Sagrado,Papel e higiene,31,31,0,64.39,47.42
+2023-10-09,Valle Sagrado,Menaje descartable,8,8,0,41.54,29.89
+2023-10-09,Valle Sagrado,Bolsas y film,10,10,0,58.16,43.29
+2023-10-16,Cusco ciudad,Detergentes y limpiadores,51,51,0,60.29,44.36
+2023-10-16,Cusco ciudad,Desinfección,34,34,0,54.05,39.2
+2023-10-16,Cusco ciudad,Empaque descartable,50,50,0,45.74,33.01
+2023-10-16,Cusco ciudad,Papel e higiene,37,37,0,64.45,47.45
+2023-10-16,Cusco ciudad,Menaje descartable,24,24,0,41.58,29.92
+2023-10-16,Cusco ciudad,Bolsas y film,34,34,0,58.21,43.33
+2023-10-16,Valle Sagrado,Detergentes y limpiadores,30,30,0,60.29,44.36
+2023-10-16,Valle Sagrado,Desinfección,2,2,0,54.05,39.2
+2023-10-16,Valle Sagrado,Empaque descartable,13,13,0,45.74,33.01
+2023-10-16,Valle Sagrado,Papel e higiene,21,21,0,64.45,47.45
+2023-10-16,Valle Sagrado,Menaje descartable,19,19,0,41.58,29.92
+2023-10-16,Valle Sagrado,Bolsas y film,1,1,0,58.21,43.33
+2023-10-23,Cusco ciudad,Detergentes y limpiadores,38,38,0,60.34,44.39
+2023-10-23,Cusco ciudad,Desinfección,38,38,0,54.1,39.23
+2023-10-23,Cusco ciudad,Empaque descartable,69,69,0,45.78,33.03
+2023-10-23,Cusco ciudad,Papel e higiene,53,53,0,64.51,47.49
+2023-10-23,Cusco ciudad,Menaje descartable,18,18,0,41.62,29.94
+2023-10-23,Cusco ciudad,Bolsas y film,21,21,0,58.26,43.36
+2023-10-23,Valle Sagrado,Detergentes y limpiadores,19,19,0,60.34,44.39
+2023-10-23,Valle Sagrado,Desinfección,7,7,0,54.1,39.23
+2023-10-23,Valle Sagrado,Empaque descartable,20,20,0,45.78,33.03
+2023-10-23,Valle Sagrado,Papel e higiene,28,28,0,64.51,47.49
+2023-10-23,Valle Sagrado,Menaje descartable,13,13,0,41.62,29.94
+2023-10-23,Valle Sagrado,Bolsas y film,5,5,0,58.26,43.36
+2023-10-30,Cusco ciudad,Detergentes y limpiadores,76,76,0,60.4,44.42
+2023-10-30,Cusco ciudad,Desinfección,19,19,0,54.15,39.26
+2023-10-30,Cusco ciudad,Empaque descartable,52,52,0,45.82,33.06
+2023-10-30,Cusco ciudad,Papel e higiene,53,53,0,64.56,47.52
+2023-10-30,Cusco ciudad,Menaje descartable,22,22,0,41.65,29.96
+2023-10-30,Cusco ciudad,Bolsas y film,25,25,0,58.32,43.39
+2023-10-30,Valle Sagrado,Detergentes y limpiadores,22,22,0,60.4,44.42
+2023-10-30,Valle Sagrado,Desinfección,12,12,0,54.15,39.26
+2023-10-30,Valle Sagrado,Empaque descartable,2,2,0,45.82,33.06
+2023-10-30,Valle Sagrado,Papel e higiene,6,6,0,64.56,47.52
+2023-10-30,Valle Sagrado,Menaje descartable,12,12,0,41.65,29.96
+2023-10-30,Valle Sagrado,Bolsas y film,4,4,0,58.32,43.39
+2023-11-06,Cusco ciudad,Detergentes y limpiadores,60,60,0,60.46,44.46
+2023-11-06,Cusco ciudad,Desinfección,34,34,0,54.2,39.29
+2023-11-06,Cusco ciudad,Empaque descartable,46,46,0,45.86,33.08
+2023-11-06,Cusco ciudad,Papel e higiene,38,38,0,64.62,47.56
+2023-11-06,Cusco ciudad,Menaje descartable,22,22,0,41.69,29.98
+2023-11-06,Cusco ciudad,Bolsas y film,25,25,0,58.37,43.42
+2023-11-06,Valle Sagrado,Detergentes y limpiadores,23,23,0,60.46,44.46
+2023-11-06,Valle Sagrado,Desinfección,13,13,0,54.2,39.29
+2023-11-06,Valle Sagrado,Empaque descartable,22,22,0,45.86,33.08
+2023-11-06,Valle Sagrado,Papel e higiene,7,7,0,64.62,47.56
+2023-11-06,Valle Sagrado,Menaje descartable,15,15,0,41.69,29.98
+2023-11-06,Valle Sagrado,Bolsas y film,0,0,0,58.37,43.42
+2023-11-13,Cusco ciudad,Detergentes y limpiadores,32,32,0,60.51,44.49
+2023-11-13,Cusco ciudad,Desinfección,62,62,0,54.25,39.32
+2023-11-13,Cusco ciudad,Empaque descartable,53,53,0,45.9,33.11
+2023-11-13,Cusco ciudad,Papel e higiene,53,53,0,64.68,47.59
+2023-11-13,Cusco ciudad,Menaje descartable,33,33,0,41.73,30.0
+2023-11-13,Cusco ciudad,Bolsas y film,29,29,0,58.42,43.45
+2023-11-13,Valle Sagrado,Detergentes y limpiadores,17,17,0,60.51,44.49
+2023-11-13,Valle Sagrado,Desinfección,17,17,0,54.25,39.32
+2023-11-13,Valle Sagrado,Empaque descartable,25,25,0,45.9,33.11
+2023-11-13,Valle Sagrado,Papel e higiene,14,14,0,64.68,47.59
+2023-11-13,Valle Sagrado,Menaje descartable,6,6,0,41.73,30.0
+2023-11-13,Valle Sagrado,Bolsas y film,12,12,0,58.42,43.45
+2023-11-20,Cusco ciudad,Detergentes y limpiadores,40,40,0,60.57,44.52
+2023-11-20,Cusco ciudad,Desinfección,24,24,0,54.3,39.35
+2023-11-20,Cusco ciudad,Empaque descartable,56,56,0,45.95,33.13
+2023-11-20,Cusco ciudad,Papel e higiene,34,34,0,64.74,47.63
+2023-11-20,Cusco ciudad,Menaje descartable,35,35,0,41.77,30.03
+2023-11-20,Cusco ciudad,Bolsas y film,15,15,0,58.48,43.49
+2023-11-20,Valle Sagrado,Detergentes y limpiadores,19,19,0,60.57,44.52
+2023-11-20,Valle Sagrado,Desinfección,7,7,0,54.3,39.35
+2023-11-20,Valle Sagrado,Empaque descartable,25,25,0,45.95,33.13
+2023-11-20,Valle Sagrado,Papel e higiene,7,7,0,64.74,47.63
+2023-11-20,Valle Sagrado,Menaje descartable,8,8,0,41.77,30.03
+2023-11-20,Valle Sagrado,Bolsas y film,8,8,0,58.48,43.49
+2023-11-27,Cusco ciudad,Detergentes y limpiadores,50,50,0,60.62,44.56
+2023-11-27,Cusco ciudad,Desinfección,18,18,0,54.35,39.37
+2023-11-27,Cusco ciudad,Empaque descartable,67,67,0,45.99,33.16
+2023-11-27,Cusco ciudad,Papel e higiene,39,39,0,64.8,47.66
+2023-11-27,Cusco ciudad,Menaje descartable,50,50,0,41.81,30.05
+2023-11-27,Cusco ciudad,Bolsas y film,24,24,0,58.53,43.52
+2023-11-27,Valle Sagrado,Detergentes y limpiadores,12,12,0,60.62,44.56
+2023-11-27,Valle Sagrado,Desinfección,18,18,0,54.35,39.37
+2023-11-27,Valle Sagrado,Empaque descartable,22,22,0,45.99,33.16
+2023-11-27,Valle Sagrado,Papel e higiene,9,9,0,64.8,47.66
+2023-11-27,Valle Sagrado,Menaje descartable,8,8,0,41.81,30.05
+2023-11-27,Valle Sagrado,Bolsas y film,8,8,0,58.53,43.52
+2023-12-04,Cusco ciudad,Detergentes y limpiadores,39,39,0,60.68,44.59
+2023-12-04,Cusco ciudad,Desinfección,34,34,0,54.4,39.4
+2023-12-04,Cusco ciudad,Empaque descartable,45,45,0,46.03,33.18
+2023-12-04,Cusco ciudad,Papel e higiene,22,22,0,64.86,47.7
+2023-12-04,Cusco ciudad,Menaje descartable,52,52,0,41.85,30.07
+2023-12-04,Cusco ciudad,Bolsas y film,28,28,0,58.59,43.55
+2023-12-04,Valle Sagrado,Detergentes y limpiadores,10,10,0,60.68,44.59
+2023-12-04,Valle Sagrado,Desinfección,11,11,0,54.4,39.4
+2023-12-04,Valle Sagrado,Empaque descartable,35,35,0,46.03,33.18
+2023-12-04,Valle Sagrado,Papel e higiene,19,19,0,64.86,47.7
+2023-12-04,Valle Sagrado,Menaje descartable,8,8,0,41.85,30.07
+2023-12-04,Valle Sagrado,Bolsas y film,15,15,0,58.59,43.55
+2023-12-11,Cusco ciudad,Detergentes y limpiadores,47,47,0,60.73,44.62
+2023-12-11,Cusco ciudad,Desinfección,38,38,0,54.45,39.43
+2023-12-11,Cusco ciudad,Empaque descartable,53,53,0,46.07,33.21
+2023-12-11,Cusco ciudad,Papel e higiene,47,47,0,64.92,47.73
+2023-12-11,Cusco ciudad,Menaje descartable,21,21,0,41.88,30.09
+2023-12-11,Cusco ciudad,Bolsas y film,26,26,0,58.64,43.58
+2023-12-11,Valle Sagrado,Detergentes y limpiadores,11,11,0,60.73,44.62
+2023-12-11,Valle Sagrado,Desinfección,19,19,0,54.45,39.43
+2023-12-11,Valle Sagrado,Empaque descartable,14,14,0,46.07,33.21
+2023-12-11,Valle Sagrado,Papel e higiene,6,6,0,64.92,47.73
+2023-12-11,Valle Sagrado,Menaje descartable,12,12,0,41.88,30.09
+2023-12-11,Valle Sagrado,Bolsas y film,6,6,0,58.64,43.58
+2023-12-18,Cusco ciudad,Detergentes y limpiadores,60,60,0,60.79,44.65
+2023-12-18,Cusco ciudad,Desinfección,17,17,0,54.5,39.46
+2023-12-18,Cusco ciudad,Empaque descartable,57,18,39,46.12,33.23
+2023-12-18,Cusco ciudad,Papel e higiene,63,63,0,64.98,47.77
+2023-12-18,Cusco ciudad,Menaje descartable,25,25,0,41.92,30.12
+2023-12-18,Cusco ciudad,Bolsas y film,16,16,0,58.69,43.62
+2023-12-18,Valle Sagrado,Detergentes y limpiadores,12,12,0,60.79,44.65
+2023-12-18,Valle Sagrado,Desinfección,13,13,0,54.5,39.46
+2023-12-18,Valle Sagrado,Empaque descartable,9,3,6,46.12,33.23
+2023-12-18,Valle Sagrado,Papel e higiene,14,14,0,64.98,47.77
+2023-12-18,Valle Sagrado,Menaje descartable,2,2,0,41.92,30.12
+2023-12-18,Valle Sagrado,Bolsas y film,8,8,0,58.69,43.62
+2023-12-25,Cusco ciudad,Detergentes y limpiadores,65,65,0,60.84,44.69
+2023-12-25,Cusco ciudad,Desinfección,22,22,0,54.55,39.49
+2023-12-25,Cusco ciudad,Empaque descartable,55,55,0,46.16,33.26
+2023-12-25,Cusco ciudad,Papel e higiene,27,27,0,65.04,47.8
+2023-12-25,Cusco ciudad,Menaje descartable,31,31,0,41.96,30.14
+2023-12-25,Cusco ciudad,Bolsas y film,16,16,0,58.75,43.65
+2023-12-25,Valle Sagrado,Detergentes y limpiadores,10,10,0,60.84,44.69
+2023-12-25,Valle Sagrado,Desinfección,20,20,0,54.55,39.49
+2023-12-25,Valle Sagrado,Empaque descartable,2,2,0,46.16,33.26
+2023-12-25,Valle Sagrado,Papel e higiene,8,8,0,65.04,47.8
+2023-12-25,Valle Sagrado,Menaje descartable,14,14,0,41.96,30.14
+2023-12-25,Valle Sagrado,Bolsas y film,8,8,0,58.75,43.65
+2024-01-01,Cusco ciudad,Detergentes y limpiadores,67,67,0,60.9,44.72
+2024-01-01,Cusco ciudad,Desinfección,32,32,0,54.6,39.52
+2024-01-01,Cusco ciudad,Empaque descartable,57,57,0,46.2,33.28
+2024-01-01,Cusco ciudad,Papel e higiene,83,83,0,65.1,47.84
+2024-01-01,Cusco ciudad,Menaje descartable,50,50,0,42.0,30.16
+2024-01-01,Cusco ciudad,Bolsas y film,30,30,0,58.8,43.68
+2024-01-01,Valle Sagrado,Detergentes y limpiadores,13,13,0,60.9,44.72
+2024-01-01,Valle Sagrado,Desinfección,3,3,0,54.6,39.52
+2024-01-01,Valle Sagrado,Empaque descartable,12,12,0,46.2,33.28
+2024-01-01,Valle Sagrado,Papel e higiene,7,7,0,65.1,47.84
+2024-01-01,Valle Sagrado,Menaje descartable,5,5,0,42.0,30.16
+2024-01-01,Valle Sagrado,Bolsas y film,3,3,0,58.8,43.68
+2024-01-08,Cusco ciudad,Detergentes y limpiadores,44,44,0,60.96,44.75
+2024-01-08,Cusco ciudad,Desinfección,23,23,0,54.65,39.55
+2024-01-08,Cusco ciudad,Empaque descartable,28,28,0,46.24,33.3
+2024-01-08,Cusco ciudad,Papel e higiene,31,31,0,65.16,47.88
+2024-01-08,Cusco ciudad,Menaje descartable,29,29,0,42.04,30.18
+2024-01-08,Cusco ciudad,Bolsas y film,28,28,0,58.85,43.71
+2024-01-08,Valle Sagrado,Detergentes y limpiadores,14,14,0,60.96,44.75
+2024-01-08,Valle Sagrado,Desinfección,19,19,0,54.65,39.55
+2024-01-08,Valle Sagrado,Empaque descartable,22,22,0,46.24,33.3
+2024-01-08,Valle Sagrado,Papel e higiene,14,14,0,65.16,47.88
+2024-01-08,Valle Sagrado,Menaje descartable,21,21,0,42.04,30.18
+2024-01-08,Valle Sagrado,Bolsas y film,23,23,0,58.85,43.71
+2024-01-15,Cusco ciudad,Detergentes y limpiadores,36,36,0,61.01,44.79
+2024-01-15,Cusco ciudad,Desinfección,24,24,0,54.7,39.58
+2024-01-15,Cusco ciudad,Empaque descartable,42,42,0,46.28,33.33
+2024-01-15,Cusco ciudad,Papel e higiene,31,31,0,65.22,47.91
+2024-01-15,Cusco ciudad,Menaje descartable,35,35,0,42.08,30.2
+2024-01-15,Cusco ciudad,Bolsas y film,19,7,12,58.91,43.74
+2024-01-15,Valle Sagrado,Detergentes y limpiadores,6,6,0,61.01,44.79
+2024-01-15,Valle Sagrado,Desinfección,13,13,0,54.7,39.58
+2024-01-15,Valle Sagrado,Empaque descartable,20,20,0,46.28,33.33
+2024-01-15,Valle Sagrado,Papel e higiene,25,25,0,65.22,47.91
+2024-01-15,Valle Sagrado,Menaje descartable,7,7,0,42.08,30.2
+2024-01-15,Valle Sagrado,Bolsas y film,11,4,7,58.91,43.74
+2024-01-22,Cusco ciudad,Detergentes y limpiadores,71,71,0,61.07,44.82
+2024-01-22,Cusco ciudad,Desinfección,34,34,0,54.75,39.61
+2024-01-22,Cusco ciudad,Empaque descartable,46,46,0,46.33,33.35
+2024-01-22,Cusco ciudad,Papel e higiene,45,45,0,65.28,47.95
+2024-01-22,Cusco ciudad,Menaje descartable,21,21,0,42.12,30.23
+2024-01-22,Cusco ciudad,Bolsas y film,16,16,0,58.96,43.78
+2024-01-22,Valle Sagrado,Detergentes y limpiadores,18,18,0,61.07,44.82
+2024-01-22,Valle Sagrado,Desinfección,6,6,0,54.75,39.61
+2024-01-22,Valle Sagrado,Empaque descartable,21,21,0,46.33,33.35
+2024-01-22,Valle Sagrado,Papel e higiene,23,23,0,65.28,47.95
+2024-01-22,Valle Sagrado,Menaje descartable,13,13,0,42.12,30.23
+2024-01-22,Valle Sagrado,Bolsas y film,15,15,0,58.96,43.78
+2024-01-29,Cusco ciudad,Detergentes y limpiadores,57,57,0,61.12,44.85
+2024-01-29,Cusco ciudad,Desinfección,35,35,0,54.8,39.64
+2024-01-29,Cusco ciudad,Empaque descartable,67,67,0,46.37,33.38
+2024-01-29,Cusco ciudad,Papel e higiene,92,92,0,65.34,47.98
+2024-01-29,Cusco ciudad,Menaje descartable,50,50,0,42.15,30.25
+2024-01-29,Cusco ciudad,Bolsas y film,20,20,0,59.01,43.81
+2024-01-29,Valle Sagrado,Detergentes y limpiadores,22,22,0,61.12,44.85
+2024-01-29,Valle Sagrado,Desinfección,7,7,0,54.8,39.64
+2024-01-29,Valle Sagrado,Empaque descartable,27,27,0,46.37,33.38
+2024-01-29,Valle Sagrado,Papel e higiene,3,3,0,65.34,47.98
+2024-01-29,Valle Sagrado,Menaje descartable,10,10,0,42.15,30.25
+2024-01-29,Valle Sagrado,Bolsas y film,7,7,0,59.01,43.81
+2024-02-05,Cusco ciudad,Detergentes y limpiadores,41,41,0,61.18,44.88
+2024-02-05,Cusco ciudad,Desinfección,38,38,0,54.85,39.67
+2024-02-05,Cusco ciudad,Empaque descartable,43,43,0,46.41,33.4
+2024-02-05,Cusco ciudad,Papel e higiene,41,41,0,65.4,48.02
+2024-02-05,Cusco ciudad,Menaje descartable,30,30,0,42.19,30.27
+2024-02-05,Cusco ciudad,Bolsas y film,40,19,21,59.07,43.84
+2024-02-05,Valle Sagrado,Detergentes y limpiadores,26,26,0,61.18,44.88
+2024-02-05,Valle Sagrado,Desinfección,24,24,0,54.85,39.67
+2024-02-05,Valle Sagrado,Empaque descartable,21,21,0,46.41,33.4
+2024-02-05,Valle Sagrado,Papel e higiene,19,19,0,65.4,48.02
+2024-02-05,Valle Sagrado,Menaje descartable,5,5,0,42.19,30.27
+2024-02-05,Valle Sagrado,Bolsas y film,9,5,4,59.07,43.84
+2024-02-12,Cusco ciudad,Detergentes y limpiadores,61,61,0,61.23,44.92
+2024-02-12,Cusco ciudad,Desinfección,32,32,0,54.9,39.69
+2024-02-12,Cusco ciudad,Empaque descartable,44,44,0,46.45,33.43
+2024-02-12,Cusco ciudad,Papel e higiene,48,48,0,65.46,48.05
+2024-02-12,Cusco ciudad,Menaje descartable,22,22,0,42.23,30.29
+2024-02-12,Cusco ciudad,Bolsas y film,20,20,0,59.12,43.87
+2024-02-12,Valle Sagrado,Detergentes y limpiadores,22,22,0,61.23,44.92
+2024-02-12,Valle Sagrado,Desinfección,25,25,0,54.9,39.69
+2024-02-12,Valle Sagrado,Empaque descartable,7,7,0,46.45,33.43
+2024-02-12,Valle Sagrado,Papel e higiene,3,3,0,65.46,48.05
+2024-02-12,Valle Sagrado,Menaje descartable,12,12,0,42.23,30.29
+2024-02-12,Valle Sagrado,Bolsas y film,7,7,0,59.12,43.87
+2024-02-19,Cusco ciudad,Detergentes y limpiadores,25,25,0,61.29,44.95
+2024-02-19,Cusco ciudad,Desinfección,34,34,0,54.95,39.72
+2024-02-19,Cusco ciudad,Empaque descartable,57,57,0,46.5,33.45
+2024-02-19,Cusco ciudad,Papel e higiene,34,34,0,65.52,48.09
+2024-02-19,Cusco ciudad,Menaje descartable,35,35,0,42.27,30.32
+2024-02-19,Cusco ciudad,Bolsas y film,23,23,0,59.18,43.91
+2024-02-19,Valle Sagrado,Detergentes y limpiadores,22,22,0,61.29,44.95
+2024-02-19,Valle Sagrado,Desinfección,23,23,0,54.95,39.72
+2024-02-19,Valle Sagrado,Empaque descartable,22,22,0,46.5,33.45
+2024-02-19,Valle Sagrado,Papel e higiene,9,9,0,65.52,48.09
+2024-02-19,Valle Sagrado,Menaje descartable,9,9,0,42.27,30.32
+2024-02-19,Valle Sagrado,Bolsas y film,9,9,0,59.18,43.91
+2024-02-26,Cusco ciudad,Detergentes y limpiadores,43,43,0,61.34,44.98
+2024-02-26,Cusco ciudad,Desinfección,30,30,0,55.0,39.75
+2024-02-26,Cusco ciudad,Empaque descartable,37,19,18,46.54,33.48
+2024-02-26,Cusco ciudad,Papel e higiene,54,54,0,65.58,48.12
+2024-02-26,Cusco ciudad,Menaje descartable,58,58,0,42.31,30.34
+2024-02-26,Cusco ciudad,Bolsas y film,18,18,0,59.23,43.94
+2024-02-26,Valle Sagrado,Detergentes y limpiadores,9,9,0,61.34,44.98
+2024-02-26,Valle Sagrado,Desinfección,12,12,0,55.0,39.75
+2024-02-26,Valle Sagrado,Empaque descartable,7,5,2,46.54,33.48
+2024-02-26,Valle Sagrado,Papel e higiene,13,13,0,65.58,48.12
+2024-02-26,Valle Sagrado,Menaje descartable,18,18,0,42.31,30.34
+2024-02-26,Valle Sagrado,Bolsas y film,0,0,0,59.23,43.94
+2024-03-04,Cusco ciudad,Detergentes y limpiadores,35,35,0,61.4,45.02
+2024-03-04,Cusco ciudad,Desinfección,19,19,0,55.05,39.78
+2024-03-04,Cusco ciudad,Empaque descartable,21,21,0,46.58,33.5
+2024-03-04,Cusco ciudad,Papel e higiene,24,24,0,65.64,48.16
+2024-03-04,Cusco ciudad,Menaje descartable,15,15,0,42.35,30.36
+2024-03-04,Cusco ciudad,Bolsas y film,18,18,0,59.28,43.97
+2024-03-04,Valle Sagrado,Detergentes y limpiadores,19,19,0,61.4,45.02
+2024-03-04,Valle Sagrado,Desinfección,6,6,0,55.05,39.78
+2024-03-04,Valle Sagrado,Empaque descartable,17,17,0,46.58,33.5
+2024-03-04,Valle Sagrado,Papel e higiene,9,9,0,65.64,48.16
+2024-03-04,Valle Sagrado,Menaje descartable,13,13,0,42.35,30.36
+2024-03-04,Valle Sagrado,Bolsas y film,7,7,0,59.28,43.97
+2024-03-11,Cusco ciudad,Detergentes y limpiadores,68,68,0,61.46,45.05
+2024-03-11,Cusco ciudad,Desinfección,32,32,0,55.1,39.81
+2024-03-11,Cusco ciudad,Empaque descartable,63,63,0,46.62,33.53
+2024-03-11,Cusco ciudad,Papel e higiene,75,75,0,65.69,48.19
+2024-03-11,Cusco ciudad,Menaje descartable,33,33,0,42.38,30.38
+2024-03-11,Cusco ciudad,Bolsas y film,19,19,0,59.34,44.0
+2024-03-11,Valle Sagrado,Detergentes y limpiadores,23,23,0,61.46,45.05
+2024-03-11,Valle Sagrado,Desinfección,12,12,0,55.1,39.81
+2024-03-11,Valle Sagrado,Empaque descartable,18,18,0,46.62,33.53
+2024-03-11,Valle Sagrado,Papel e higiene,1,1,0,65.69,48.19
+2024-03-11,Valle Sagrado,Menaje descartable,6,6,0,42.38,30.38
+2024-03-11,Valle Sagrado,Bolsas y film,12,12,0,59.34,44.0
+2024-03-18,Cusco ciudad,Detergentes y limpiadores,43,43,0,61.51,45.08
+2024-03-18,Cusco ciudad,Desinfección,51,51,0,55.15,39.84
+2024-03-18,Cusco ciudad,Empaque descartable,36,36,0,46.66,33.55
+2024-03-18,Cusco ciudad,Papel e higiene,33,33,0,65.75,48.23
+2024-03-18,Cusco ciudad,Menaje descartable,9,9,0,42.42,30.4
+2024-03-18,Cusco ciudad,Bolsas y film,22,22,0,59.39,44.03
+2024-03-18,Valle Sagrado,Detergentes y limpiadores,23,23,0,61.51,45.08
+2024-03-18,Valle Sagrado,Desinfección,20,20,0,55.15,39.84
+2024-03-18,Valle Sagrado,Empaque descartable,20,20,0,46.66,33.55
+2024-03-18,Valle Sagrado,Papel e higiene,7,7,0,65.75,48.23
+2024-03-18,Valle Sagrado,Menaje descartable,12,12,0,42.42,30.4
+2024-03-18,Valle Sagrado,Bolsas y film,14,14,0,59.39,44.03
+2024-03-25,Cusco ciudad,Detergentes y limpiadores,38,38,0,61.57,45.12
+2024-03-25,Cusco ciudad,Desinfección,41,41,0,55.2,39.87
+2024-03-25,Cusco ciudad,Empaque descartable,62,62,0,46.71,33.57
+2024-03-25,Cusco ciudad,Papel e higiene,51,51,0,65.81,48.26
+2024-03-25,Cusco ciudad,Menaje descartable,36,36,0,42.46,30.43
+2024-03-25,Cusco ciudad,Bolsas y film,15,15,0,59.44,44.07
+2024-03-25,Valle Sagrado,Detergentes y limpiadores,9,9,0,61.57,45.12
+2024-03-25,Valle Sagrado,Desinfección,13,13,0,55.2,39.87
+2024-03-25,Valle Sagrado,Empaque descartable,13,13,0,46.71,33.57
+2024-03-25,Valle Sagrado,Papel e higiene,7,7,0,65.81,48.26
+2024-03-25,Valle Sagrado,Menaje descartable,12,12,0,42.46,30.43
+2024-03-25,Valle Sagrado,Bolsas y film,8,8,0,59.44,44.07
+2024-04-01,Cusco ciudad,Detergentes y limpiadores,58,58,0,61.62,45.15
+2024-04-01,Cusco ciudad,Desinfección,39,39,0,55.25,39.9
+2024-04-01,Cusco ciudad,Empaque descartable,60,60,0,46.75,33.6
+2024-04-01,Cusco ciudad,Papel e higiene,43,43,0,65.87,48.3
+2024-04-01,Cusco ciudad,Menaje descartable,64,64,0,42.5,30.45
+2024-04-01,Cusco ciudad,Bolsas y film,29,29,0,59.5,44.1
+2024-04-01,Valle Sagrado,Detergentes y limpiadores,17,17,0,61.62,45.15
+2024-04-01,Valle Sagrado,Desinfección,11,11,0,55.25,39.9
+2024-04-01,Valle Sagrado,Empaque descartable,6,6,0,46.75,33.6
+2024-04-01,Valle Sagrado,Papel e higiene,34,34,0,65.87,48.3
+2024-04-01,Valle Sagrado,Menaje descartable,19,19,0,42.5,30.45
+2024-04-01,Valle Sagrado,Bolsas y film,21,21,0,59.5,44.1
+2024-04-08,Cusco ciudad,Detergentes y limpiadores,71,38,33,61.68,45.18
+2024-04-08,Cusco ciudad,Desinfección,11,11,0,55.3,39.93
+2024-04-08,Cusco ciudad,Empaque descartable,51,51,0,46.79,33.62
+2024-04-08,Cusco ciudad,Papel e higiene,48,48,0,65.93,48.33
+2024-04-08,Cusco ciudad,Menaje descartable,17,17,0,42.54,30.47
+2024-04-08,Cusco ciudad,Bolsas y film,20,20,0,59.55,44.13
+2024-04-08,Valle Sagrado,Detergentes y limpiadores,9,2,7,61.68,45.18
+2024-04-08,Valle Sagrado,Desinfección,12,12,0,55.3,39.93
+2024-04-08,Valle Sagrado,Empaque descartable,17,17,0,46.79,33.62
+2024-04-08,Valle Sagrado,Papel e higiene,35,35,0,65.93,48.33
+2024-04-08,Valle Sagrado,Menaje descartable,26,26,0,42.54,30.47
+2024-04-08,Valle Sagrado,Bolsas y film,15,15,0,59.55,44.13
+2024-04-15,Cusco ciudad,Detergentes y limpiadores,41,41,0,61.73,45.21
+2024-04-15,Cusco ciudad,Desinfección,30,30,0,55.35,39.96
+2024-04-15,Cusco ciudad,Empaque descartable,28,28,0,46.83,33.65
+2024-04-15,Cusco ciudad,Papel e higiene,26,26,0,65.99,48.37
+2024-04-15,Cusco ciudad,Menaje descartable,36,36,0,42.58,30.49
+2024-04-15,Cusco ciudad,Bolsas y film,21,21,0,59.61,44.16
+2024-04-15,Valle Sagrado,Detergentes y limpiadores,21,21,0,61.73,45.21
+2024-04-15,Valle Sagrado,Desinfección,9,9,0,55.35,39.96
+2024-04-15,Valle Sagrado,Empaque descartable,24,24,0,46.83,33.65
+2024-04-15,Valle Sagrado,Papel e higiene,17,17,0,65.99,48.37
+2024-04-15,Valle Sagrado,Menaje descartable,2,2,0,42.58,30.49
+2024-04-15,Valle Sagrado,Bolsas y film,10,10,0,59.61,44.16
+2024-04-22,Cusco ciudad,Detergentes y limpiadores,53,17,36,61.79,45.25
+2024-04-22,Cusco ciudad,Desinfección,36,36,0,55.4,39.99
+2024-04-22,Cusco ciudad,Empaque descartable,34,34,0,46.88,33.67
+2024-04-22,Cusco ciudad,Papel e higiene,34,34,0,66.05,48.4
+2024-04-22,Cusco ciudad,Menaje descartable,44,44,0,42.61,30.52
+2024-04-22,Cusco ciudad,Bolsas y film,31,31,0,59.66,44.2
+2024-04-22,Valle Sagrado,Detergentes y limpiadores,17,3,14,61.79,45.25
+2024-04-22,Valle Sagrado,Desinfección,3,3,0,55.4,39.99
+2024-04-22,Valle Sagrado,Empaque descartable,10,10,0,46.88,33.67
+2024-04-22,Valle Sagrado,Papel e higiene,12,12,0,66.05,48.4
+2024-04-22,Valle Sagrado,Menaje descartable,13,13,0,42.61,30.52
+2024-04-22,Valle Sagrado,Bolsas y film,6,6,0,59.66,44.2
+2024-04-29,Cusco ciudad,Detergentes y limpiadores,50,50,0,61.85,45.28
+2024-04-29,Cusco ciudad,Desinfección,51,51,0,55.45,40.02
+2024-04-29,Cusco ciudad,Empaque descartable,35,35,0,46.92,33.7
+2024-04-29,Cusco ciudad,Papel e higiene,50,22,28,66.11,48.44
+2024-04-29,Cusco ciudad,Menaje descartable,56,56,0,42.65,30.54
+2024-04-29,Cusco ciudad,Bolsas y film,12,8,4,59.71,44.23
+2024-04-29,Valle Sagrado,Detergentes y limpiadores,5,5,0,61.85,45.28
+2024-04-29,Valle Sagrado,Desinfección,2,2,0,55.45,40.02
+2024-04-29,Valle Sagrado,Empaque descartable,21,21,0,46.92,33.7
+2024-04-29,Valle Sagrado,Papel e higiene,13,5,8,66.11,48.44
+2024-04-29,Valle Sagrado,Menaje descartable,17,17,0,42.65,30.54
+2024-04-29,Valle Sagrado,Bolsas y film,20,8,12,59.71,44.23
+2024-05-06,Cusco ciudad,Detergentes y limpiadores,107,107,0,61.9,45.31
+2024-05-06,Cusco ciudad,Desinfección,41,41,0,55.5,40.04
+2024-05-06,Cusco ciudad,Empaque descartable,47,47,0,46.96,33.72
+2024-05-06,Cusco ciudad,Papel e higiene,48,48,0,66.17,48.48
+2024-05-06,Cusco ciudad,Menaje descartable,39,39,0,42.69,30.56
+2024-05-06,Cusco ciudad,Bolsas y film,30,30,0,59.77,44.26
+2024-05-06,Valle Sagrado,Detergentes y limpiadores,22,22,0,61.9,45.31
+2024-05-06,Valle Sagrado,Desinfección,8,8,0,55.5,40.04
+2024-05-06,Valle Sagrado,Empaque descartable,17,17,0,46.96,33.72
+2024-05-06,Valle Sagrado,Papel e higiene,16,16,0,66.17,48.48
+2024-05-06,Valle Sagrado,Menaje descartable,14,14,0,42.69,30.56
+2024-05-06,Valle Sagrado,Bolsas y film,9,9,0,59.77,44.26
+2024-05-13,Cusco ciudad,Detergentes y limpiadores,35,35,0,61.96,45.35
+2024-05-13,Cusco ciudad,Desinfección,23,23,0,55.55,40.07
+2024-05-13,Cusco ciudad,Empaque descartable,59,59,0,47.0,33.75
+2024-05-13,Cusco ciudad,Papel e higiene,43,43,0,66.23,48.51
+2024-05-13,Cusco ciudad,Menaje descartable,24,24,0,42.73,30.58
+2024-05-13,Cusco ciudad,Bolsas y film,11,11,0,59.82,44.29
+2024-05-13,Valle Sagrado,Detergentes y limpiadores,13,13,0,61.96,45.35
+2024-05-13,Valle Sagrado,Desinfección,13,13,0,55.55,40.07
+2024-05-13,Valle Sagrado,Empaque descartable,20,20,0,47.0,33.75
+2024-05-13,Valle Sagrado,Papel e higiene,10,10,0,66.23,48.51
+2024-05-13,Valle Sagrado,Menaje descartable,13,13,0,42.73,30.58
+2024-05-13,Valle Sagrado,Bolsas y film,3,3,0,59.82,44.29
+2024-05-20,Cusco ciudad,Detergentes y limpiadores,63,63,0,62.01,45.38
+2024-05-20,Cusco ciudad,Desinfección,41,41,0,55.6,40.1
+2024-05-20,Cusco ciudad,Empaque descartable,65,65,0,47.04,33.77
+2024-05-20,Cusco ciudad,Papel e higiene,58,58,0,66.29,48.55
+2024-05-20,Cusco ciudad,Menaje descartable,47,47,0,42.77,30.6
+2024-05-20,Cusco ciudad,Bolsas y film,29,29,0,59.87,44.32
+2024-05-20,Valle Sagrado,Detergentes y limpiadores,45,45,0,62.01,45.38
+2024-05-20,Valle Sagrado,Desinfección,36,36,0,55.6,40.1
+2024-05-20,Valle Sagrado,Empaque descartable,22,22,0,47.04,33.77
+2024-05-20,Valle Sagrado,Papel e higiene,14,14,0,66.29,48.55
+2024-05-20,Valle Sagrado,Menaje descartable,20,20,0,42.77,30.6
+2024-05-20,Valle Sagrado,Bolsas y film,35,35,0,59.87,44.32
+2024-05-27,Cusco ciudad,Detergentes y limpiadores,66,66,0,62.07,45.41
+2024-05-27,Cusco ciudad,Desinfección,24,24,0,55.65,40.13
+2024-05-27,Cusco ciudad,Empaque descartable,32,32,0,47.09,33.8
+2024-05-27,Cusco ciudad,Papel e higiene,41,41,0,66.35,48.58
+2024-05-27,Cusco ciudad,Menaje descartable,35,35,0,42.81,30.63
+2024-05-27,Cusco ciudad,Bolsas y film,34,34,0,59.93,44.36
+2024-05-27,Valle Sagrado,Detergentes y limpiadores,8,8,0,62.07,45.41
+2024-05-27,Valle Sagrado,Desinfección,11,11,0,55.65,40.13
+2024-05-27,Valle Sagrado,Empaque descartable,31,31,0,47.09,33.8
+2024-05-27,Valle Sagrado,Papel e higiene,16,16,0,66.35,48.58
+2024-05-27,Valle Sagrado,Menaje descartable,15,15,0,42.81,30.63
+2024-05-27,Valle Sagrado,Bolsas y film,24,24,0,59.93,44.36
+2024-06-03,Cusco ciudad,Detergentes y limpiadores,55,55,0,62.12,45.45
+2024-06-03,Cusco ciudad,Desinfección,41,41,0,55.7,40.16
+2024-06-03,Cusco ciudad,Empaque descartable,67,67,0,47.13,33.82
+2024-06-03,Cusco ciudad,Papel e higiene,40,40,0,66.41,48.62
+2024-06-03,Cusco ciudad,Menaje descartable,40,40,0,42.84,30.65
+2024-06-03,Cusco ciudad,Bolsas y film,20,20,0,59.98,44.39
+2024-06-03,Valle Sagrado,Detergentes y limpiadores,16,16,0,62.12,45.45
+2024-06-03,Valle Sagrado,Desinfección,21,21,0,55.7,40.16
+2024-06-03,Valle Sagrado,Empaque descartable,29,29,0,47.13,33.82
+2024-06-03,Valle Sagrado,Papel e higiene,19,19,0,66.41,48.62
+2024-06-03,Valle Sagrado,Menaje descartable,17,17,0,42.84,30.65
+2024-06-03,Valle Sagrado,Bolsas y film,8,8,0,59.98,44.39
+2024-06-10,Cusco ciudad,Detergentes y limpiadores,83,83,0,62.18,45.48
+2024-06-10,Cusco ciudad,Desinfección,30,30,0,55.75,40.19
+2024-06-10,Cusco ciudad,Empaque descartable,73,73,0,47.17,33.84
+2024-06-10,Cusco ciudad,Papel e higiene,59,59,0,66.47,48.65
+2024-06-10,Cusco ciudad,Menaje descartable,58,58,0,42.88,30.67
+2024-06-10,Cusco ciudad,Bolsas y film,32,32,0,60.04,44.42
+2024-06-10,Valle Sagrado,Detergentes y limpiadores,44,44,0,62.18,45.48
+2024-06-10,Valle Sagrado,Desinfección,12,12,0,55.75,40.19
+2024-06-10,Valle Sagrado,Empaque descartable,22,22,0,47.17,33.84
+2024-06-10,Valle Sagrado,Papel e higiene,50,50,0,66.47,48.65
+2024-06-10,Valle Sagrado,Menaje descartable,15,15,0,42.88,30.67
+2024-06-10,Valle Sagrado,Bolsas y film,11,11,0,60.04,44.42
+2024-06-17,Cusco ciudad,Detergentes y limpiadores,63,63,0,62.23,45.51
+2024-06-17,Cusco ciudad,Desinfección,23,23,0,55.8,40.22
+2024-06-17,Cusco ciudad,Empaque descartable,74,74,0,47.21,33.87
+2024-06-17,Cusco ciudad,Papel e higiene,49,49,0,66.53,48.69
+2024-06-17,Cusco ciudad,Menaje descartable,33,33,0,42.92,30.69
+2024-06-17,Cusco ciudad,Bolsas y film,26,26,0,60.09,44.45
+2024-06-17,Valle Sagrado,Detergentes y limpiadores,13,13,0,62.23,45.51
+2024-06-17,Valle Sagrado,Desinfección,9,9,0,55.8,40.22
+2024-06-17,Valle Sagrado,Empaque descartable,20,20,0,47.21,33.87
+2024-06-17,Valle Sagrado,Papel e higiene,15,15,0,66.53,48.69
+2024-06-17,Valle Sagrado,Menaje descartable,5,5,0,42.92,30.69
+2024-06-17,Valle Sagrado,Bolsas y film,9,9,0,60.09,44.45
+2024-06-24,Cusco ciudad,Detergentes y limpiadores,74,74,0,62.29,45.54
+2024-06-24,Cusco ciudad,Desinfección,54,22,32,55.85,40.25
+2024-06-24,Cusco ciudad,Empaque descartable,84,32,52,47.25,33.89
+2024-06-24,Cusco ciudad,Papel e higiene,60,60,0,66.59,48.72
+2024-06-24,Cusco ciudad,Menaje descartable,23,23,0,42.96,30.72
+2024-06-24,Cusco ciudad,Bolsas y film,15,15,0,60.14,44.49
+2024-06-24,Valle Sagrado,Detergentes y limpiadores,41,41,0,62.29,45.54
+2024-06-24,Valle Sagrado,Desinfección,11,0,11,55.85,40.25
+2024-06-24,Valle Sagrado,Empaque descartable,24,15,9,47.25,33.89
+2024-06-24,Valle Sagrado,Papel e higiene,25,25,0,66.59,48.72
+2024-06-24,Valle Sagrado,Menaje descartable,22,22,0,42.96,30.72
+2024-06-24,Valle Sagrado,Bolsas y film,0,0,0,60.14,44.49
+2024-07-01,Cusco ciudad,Detergentes y limpiadores,74,74,0,62.35,45.58
+2024-07-01,Cusco ciudad,Desinfección,51,51,0,55.9,40.28
+2024-07-01,Cusco ciudad,Empaque descartable,52,52,0,47.3,33.92
+2024-07-01,Cusco ciudad,Papel e higiene,47,47,0,66.65,48.76
+2024-07-01,Cusco ciudad,Menaje descartable,43,43,0,43.0,30.74
+2024-07-01,Cusco ciudad,Bolsas y film,17,17,0,60.2,44.52
+2024-07-01,Valle Sagrado,Detergentes y limpiadores,34,34,0,62.35,45.58
+2024-07-01,Valle Sagrado,Desinfección,8,8,0,55.9,40.28
+2024-07-01,Valle Sagrado,Empaque descartable,10,10,0,47.3,33.92
+2024-07-01,Valle Sagrado,Papel e higiene,6,6,0,66.65,48.76
+2024-07-01,Valle Sagrado,Menaje descartable,14,14,0,43.0,30.74
+2024-07-01,Valle Sagrado,Bolsas y film,20,20,0,60.2,44.52
+2024-07-08,Cusco ciudad,Detergentes y limpiadores,65,65,0,62.4,45.61
+2024-07-08,Cusco ciudad,Desinfección,38,38,0,55.95,40.31
+2024-07-08,Cusco ciudad,Empaque descartable,94,94,0,47.34,33.94
+2024-07-08,Cusco ciudad,Papel e higiene,115,115,0,66.71,48.79
+2024-07-08,Cusco ciudad,Menaje descartable,38,38,0,43.04,30.76
+2024-07-08,Cusco ciudad,Bolsas y film,41,41,0,60.25,44.55
+2024-07-08,Valle Sagrado,Detergentes y limpiadores,33,33,0,62.4,45.61
+2024-07-08,Valle Sagrado,Desinfección,16,16,0,55.95,40.31
+2024-07-08,Valle Sagrado,Empaque descartable,35,35,0,47.34,33.94
+2024-07-08,Valle Sagrado,Papel e higiene,15,15,0,66.71,48.79
+2024-07-08,Valle Sagrado,Menaje descartable,24,24,0,43.04,30.76
+2024-07-08,Valle Sagrado,Bolsas y film,0,0,0,60.25,44.55
+2024-07-15,Cusco ciudad,Detergentes y limpiadores,78,78,0,62.46,45.64
+2024-07-15,Cusco ciudad,Desinfección,37,37,0,56.0,40.34
+2024-07-15,Cusco ciudad,Empaque descartable,93,93,0,47.38,33.97
+2024-07-15,Cusco ciudad,Papel e higiene,55,15,40,66.76,48.83
+2024-07-15,Cusco ciudad,Menaje descartable,79,79,0,43.07,30.78
+2024-07-15,Cusco ciudad,Bolsas y film,19,19,0,60.3,44.58
+2024-07-15,Valle Sagrado,Detergentes y limpiadores,33,33,0,62.46,45.64
+2024-07-15,Valle Sagrado,Desinfección,14,14,0,56.0,40.34
+2024-07-15,Valle Sagrado,Empaque descartable,25,25,0,47.38,33.97
+2024-07-15,Valle Sagrado,Papel e higiene,22,1,21,66.76,48.83
+2024-07-15,Valle Sagrado,Menaje descartable,11,11,0,43.07,30.78
+2024-07-15,Valle Sagrado,Bolsas y film,11,11,0,60.3,44.58
+2024-07-22,Cusco ciudad,Detergentes y limpiadores,43,43,0,62.51,45.68
+2024-07-22,Cusco ciudad,Desinfección,38,38,0,56.05,40.37
+2024-07-22,Cusco ciudad,Empaque descartable,53,53,0,47.42,33.99
+2024-07-22,Cusco ciudad,Papel e higiene,56,56,0,66.82,48.86
+2024-07-22,Cusco ciudad,Menaje descartable,33,33,0,43.11,30.81
+2024-07-22,Cusco ciudad,Bolsas y film,23,14,9,60.36,44.61
+2024-07-22,Valle Sagrado,Detergentes y limpiadores,17,17,0,62.51,45.68
+2024-07-22,Valle Sagrado,Desinfección,47,47,0,56.05,40.37
+2024-07-22,Valle Sagrado,Empaque descartable,45,45,0,47.42,33.99
+2024-07-22,Valle Sagrado,Papel e higiene,19,19,0,66.82,48.86
+2024-07-22,Valle Sagrado,Menaje descartable,15,15,0,43.11,30.81
+2024-07-22,Valle Sagrado,Bolsas y film,7,7,0,60.36,44.61
+2024-07-29,Cusco ciudad,Detergentes y limpiadores,51,51,0,62.57,45.71
+2024-07-29,Cusco ciudad,Desinfección,57,57,0,56.1,40.39
+2024-07-29,Cusco ciudad,Empaque descartable,73,73,0,47.47,34.02
+2024-07-29,Cusco ciudad,Papel e higiene,28,28,0,66.88,48.9
+2024-07-29,Cusco ciudad,Menaje descartable,53,53,0,43.15,30.83
+2024-07-29,Cusco ciudad,Bolsas y film,21,21,0,60.41,44.65
+2024-07-29,Valle Sagrado,Detergentes y limpiadores,21,21,0,62.57,45.71
+2024-07-29,Valle Sagrado,Desinfección,6,6,0,56.1,40.39
+2024-07-29,Valle Sagrado,Empaque descartable,40,40,0,47.47,34.02
+2024-07-29,Valle Sagrado,Papel e higiene,37,37,0,66.88,48.9
+2024-07-29,Valle Sagrado,Menaje descartable,9,9,0,43.15,30.83
+2024-07-29,Valle Sagrado,Bolsas y film,15,15,0,60.41,44.65
+2024-08-05,Cusco ciudad,Detergentes y limpiadores,75,75,0,62.62,45.74
+2024-08-05,Cusco ciudad,Desinfección,46,46,0,56.15,40.42
+2024-08-05,Cusco ciudad,Empaque descartable,46,46,0,47.51,34.04
+2024-08-05,Cusco ciudad,Papel e higiene,59,59,0,66.94,48.93
+2024-08-05,Cusco ciudad,Menaje descartable,59,59,0,43.19,30.85
+2024-08-05,Cusco ciudad,Bolsas y film,39,39,0,60.46,44.68
+2024-08-05,Valle Sagrado,Detergentes y limpiadores,45,45,0,62.62,45.74
+2024-08-05,Valle Sagrado,Desinfección,36,36,0,56.15,40.42
+2024-08-05,Valle Sagrado,Empaque descartable,23,23,0,47.51,34.04
+2024-08-05,Valle Sagrado,Papel e higiene,32,32,0,66.94,48.93
+2024-08-05,Valle Sagrado,Menaje descartable,34,34,0,43.19,30.85
+2024-08-05,Valle Sagrado,Bolsas y film,14,14,0,60.46,44.68
+2024-08-12,Cusco ciudad,Detergentes y limpiadores,58,58,0,62.68,45.78
+2024-08-12,Cusco ciudad,Desinfección,56,56,0,56.2,40.45
+2024-08-12,Cusco ciudad,Empaque descartable,66,66,0,47.55,34.07
+2024-08-12,Cusco ciudad,Papel e higiene,57,57,0,67.0,48.97
+2024-08-12,Cusco ciudad,Menaje descartable,55,55,0,43.23,30.87
+2024-08-12,Cusco ciudad,Bolsas y film,24,24,0,60.52,44.71
+2024-08-12,Valle Sagrado,Detergentes y limpiadores,37,37,0,62.68,45.78
+2024-08-12,Valle Sagrado,Desinfección,19,19,0,56.2,40.45
+2024-08-12,Valle Sagrado,Empaque descartable,24,24,0,47.55,34.07
+2024-08-12,Valle Sagrado,Papel e higiene,18,18,0,67.0,48.97
+2024-08-12,Valle Sagrado,Menaje descartable,21,21,0,43.23,30.87
+2024-08-12,Valle Sagrado,Bolsas y film,17,17,0,60.52,44.71
+2024-08-19,Cusco ciudad,Detergentes y limpiadores,63,63,0,62.74,45.81
+2024-08-19,Cusco ciudad,Desinfección,50,50,0,56.25,40.48
+2024-08-19,Cusco ciudad,Empaque descartable,39,16,23,47.59,34.09
+2024-08-19,Cusco ciudad,Papel e higiene,67,67,0,67.06,49.0
+2024-08-19,Cusco ciudad,Menaje descartable,39,39,0,43.27,30.89
+2024-08-19,Cusco ciudad,Bolsas y film,53,53,0,60.57,44.74
+2024-08-19,Valle Sagrado,Detergentes y limpiadores,11,11,0,62.74,45.81
+2024-08-19,Valle Sagrado,Desinfección,25,25,0,56.25,40.48
+2024-08-19,Valle Sagrado,Empaque descartable,46,39,7,47.59,34.09
+2024-08-19,Valle Sagrado,Papel e higiene,25,25,0,67.06,49.0
+2024-08-19,Valle Sagrado,Menaje descartable,25,25,0,43.27,30.89
+2024-08-19,Valle Sagrado,Bolsas y film,6,6,0,60.57,44.74
+2024-08-26,Cusco ciudad,Detergentes y limpiadores,62,62,0,62.79,45.84
+2024-08-26,Cusco ciudad,Desinfección,63,63,0,56.3,40.51
+2024-08-26,Cusco ciudad,Empaque descartable,62,62,0,47.63,34.11
+2024-08-26,Cusco ciudad,Papel e higiene,51,51,0,67.12,49.04
+2024-08-26,Cusco ciudad,Menaje descartable,31,31,0,43.3,30.92
+2024-08-26,Cusco ciudad,Bolsas y film,31,18,13,60.63,44.78
+2024-08-26,Valle Sagrado,Detergentes y limpiadores,13,13,0,62.79,45.84
+2024-08-26,Valle Sagrado,Desinfección,37,37,0,56.3,40.51
+2024-08-26,Valle Sagrado,Empaque descartable,26,26,0,47.63,34.11
+2024-08-26,Valle Sagrado,Papel e higiene,39,39,0,67.12,49.04
+2024-08-26,Valle Sagrado,Menaje descartable,21,21,0,43.3,30.92
+2024-08-26,Valle Sagrado,Bolsas y film,29,0,29,60.63,44.78
+2024-09-02,Cusco ciudad,Detergentes y limpiadores,62,62,0,62.85,45.87
+2024-09-02,Cusco ciudad,Desinfección,33,33,0,56.35,40.54
+2024-09-02,Cusco ciudad,Empaque descartable,55,55,0,47.68,34.14
+2024-09-02,Cusco ciudad,Papel e higiene,57,57,0,67.18,49.08
+2024-09-02,Cusco ciudad,Menaje descartable,30,30,0,43.34,30.94
+2024-09-02,Cusco ciudad,Bolsas y film,25,25,0,60.68,44.81
+2024-09-02,Valle Sagrado,Detergentes y limpiadores,17,17,0,62.85,45.87
+2024-09-02,Valle Sagrado,Desinfección,8,8,0,56.35,40.54
+2024-09-02,Valle Sagrado,Empaque descartable,32,32,0,47.68,34.14
+2024-09-02,Valle Sagrado,Papel e higiene,24,24,0,67.18,49.08
+2024-09-02,Valle Sagrado,Menaje descartable,25,25,0,43.34,30.94
+2024-09-02,Valle Sagrado,Bolsas y film,6,6,0,60.68,44.81
+2024-09-09,Cusco ciudad,Detergentes y limpiadores,75,75,0,62.9,45.91
+2024-09-09,Cusco ciudad,Desinfección,28,28,0,56.4,40.57
+2024-09-09,Cusco ciudad,Empaque descartable,66,66,0,47.72,34.16
+2024-09-09,Cusco ciudad,Papel e higiene,50,50,0,67.24,49.11
+2024-09-09,Cusco ciudad,Menaje descartable,26,26,0,43.38,30.96
+2024-09-09,Cusco ciudad,Bolsas y film,19,19,0,60.73,44.84
+2024-09-09,Valle Sagrado,Detergentes y limpiadores,33,33,0,62.9,45.91
+2024-09-09,Valle Sagrado,Desinfección,7,7,0,56.4,40.57
+2024-09-09,Valle Sagrado,Empaque descartable,20,20,0,47.72,34.16
+2024-09-09,Valle Sagrado,Papel e higiene,40,40,0,67.24,49.11
+2024-09-09,Valle Sagrado,Menaje descartable,31,31,0,43.38,30.96
+2024-09-09,Valle Sagrado,Bolsas y film,18,18,0,60.73,44.84
+2024-09-16,Cusco ciudad,Detergentes y limpiadores,74,74,0,62.96,45.94
+2024-09-16,Cusco ciudad,Desinfección,36,36,0,56.44,40.6
+2024-09-16,Cusco ciudad,Empaque descartable,56,56,0,47.76,34.19
+2024-09-16,Cusco ciudad,Papel e higiene,68,68,0,67.3,49.15
+2024-09-16,Cusco ciudad,Menaje descartable,32,32,0,43.42,30.98
+2024-09-16,Cusco ciudad,Bolsas y film,45,45,0,60.79,44.87
+2024-09-16,Valle Sagrado,Detergentes y limpiadores,33,33,0,62.96,45.94
+2024-09-16,Valle Sagrado,Desinfección,24,24,0,56.44,40.6
+2024-09-16,Valle Sagrado,Empaque descartable,45,45,0,47.76,34.19
+2024-09-16,Valle Sagrado,Papel e higiene,27,27,0,67.3,49.15
+2024-09-16,Valle Sagrado,Menaje descartable,8,8,0,43.42,30.98
+2024-09-16,Valle Sagrado,Bolsas y film,27,27,0,60.79,44.87
+2024-09-23,Cusco ciudad,Detergentes y limpiadores,42,42,0,63.01,45.97
+2024-09-23,Cusco ciudad,Desinfección,39,39,0,56.49,40.63
+2024-09-23,Cusco ciudad,Empaque descartable,72,72,0,47.8,34.21
+2024-09-23,Cusco ciudad,Papel e higiene,54,54,0,67.36,49.18
+2024-09-23,Cusco ciudad,Menaje descartable,32,32,0,43.46,31.01
+2024-09-23,Cusco ciudad,Bolsas y film,23,23,0,60.84,44.9
+2024-09-23,Valle Sagrado,Detergentes y limpiadores,23,23,0,63.01,45.97
+2024-09-23,Valle Sagrado,Desinfección,19,19,0,56.49,40.63
+2024-09-23,Valle Sagrado,Empaque descartable,22,22,0,47.8,34.21
+2024-09-23,Valle Sagrado,Papel e higiene,54,54,0,67.36,49.18
+2024-09-23,Valle Sagrado,Menaje descartable,33,33,0,43.46,31.01
+2024-09-23,Valle Sagrado,Bolsas y film,14,14,0,60.84,44.9
+2024-09-30,Cusco ciudad,Detergentes y limpiadores,61,31,30,63.07,46.01
+2024-09-30,Cusco ciudad,Desinfección,42,10,32,56.54,40.66
+2024-09-30,Cusco ciudad,Empaque descartable,63,63,0,47.85,34.24
+2024-09-30,Cusco ciudad,Papel e higiene,34,34,0,67.42,49.22
+2024-09-30,Cusco ciudad,Menaje descartable,50,50,0,43.5,31.03
+2024-09-30,Cusco ciudad,Bolsas y film,27,27,0,60.89,44.94
+2024-09-30,Valle Sagrado,Detergentes y limpiadores,27,16,11,63.07,46.01
+2024-09-30,Valle Sagrado,Desinfección,14,11,3,56.54,40.66
+2024-09-30,Valle Sagrado,Empaque descartable,41,41,0,47.85,34.24
+2024-09-30,Valle Sagrado,Papel e higiene,27,27,0,67.42,49.22
+2024-09-30,Valle Sagrado,Menaje descartable,29,29,0,43.5,31.03
+2024-09-30,Valle Sagrado,Bolsas y film,27,27,0,60.89,44.94
+2024-10-07,Cusco ciudad,Detergentes y limpiadores,56,56,0,63.12,46.04
+2024-10-07,Cusco ciudad,Desinfección,45,45,0,56.59,40.69
+2024-10-07,Cusco ciudad,Empaque descartable,66,66,0,47.89,34.26
+2024-10-07,Cusco ciudad,Papel e higiene,62,62,0,67.48,49.25
+2024-10-07,Cusco ciudad,Menaje descartable,44,26,18,43.53,31.05
+2024-10-07,Cusco ciudad,Bolsas y film,32,32,0,60.95,44.97
+2024-10-07,Valle Sagrado,Detergentes y limpiadores,23,23,0,63.12,46.04
+2024-10-07,Valle Sagrado,Desinfección,17,17,0,56.59,40.69
+2024-10-07,Valle Sagrado,Empaque descartable,17,17,0,47.89,34.26
+2024-10-07,Valle Sagrado,Papel e higiene,37,37,0,67.48,49.25
+2024-10-07,Valle Sagrado,Menaje descartable,10,6,4,43.53,31.05
+2024-10-07,Valle Sagrado,Bolsas y film,13,13,0,60.95,44.97
+2024-10-14,Cusco ciudad,Detergentes y limpiadores,72,72,0,63.18,46.07
+2024-10-14,Cusco ciudad,Desinfección,52,52,0,56.64,40.72
+2024-10-14,Cusco ciudad,Empaque descartable,53,53,0,47.93,34.29
+2024-10-14,Cusco ciudad,Papel e higiene,60,60,0,67.54,49.29
+2024-10-14,Cusco ciudad,Menaje descartable,42,42,0,43.57,31.07
+2024-10-14,Cusco ciudad,Bolsas y film,25,25,0,61.0,45.0
+2024-10-14,Valle Sagrado,Detergentes y limpiadores,54,54,0,63.18,46.07
+2024-10-14,Valle Sagrado,Desinfección,13,13,0,56.64,40.72
+2024-10-14,Valle Sagrado,Empaque descartable,30,30,0,47.93,34.29
+2024-10-14,Valle Sagrado,Papel e higiene,29,29,0,67.54,49.29
+2024-10-14,Valle Sagrado,Menaje descartable,24,24,0,43.57,31.07
+2024-10-14,Valle Sagrado,Bolsas y film,13,13,0,61.0,45.0
+2024-10-21,Cusco ciudad,Detergentes y limpiadores,79,79,0,63.24,46.11
+2024-10-21,Cusco ciudad,Desinfección,25,25,0,56.69,40.74
+2024-10-21,Cusco ciudad,Empaque descartable,82,82,0,47.97,34.31
+2024-10-21,Cusco ciudad,Papel e higiene,67,43,24,67.6,49.32
+2024-10-21,Cusco ciudad,Menaje descartable,46,46,0,43.61,31.09
+2024-10-21,Cusco ciudad,Bolsas y film,25,25,0,61.06,45.03
+2024-10-21,Valle Sagrado,Detergentes y limpiadores,24,24,0,63.24,46.11
+2024-10-21,Valle Sagrado,Desinfección,16,16,0,56.69,40.74
+2024-10-21,Valle Sagrado,Empaque descartable,22,22,0,47.97,34.31
+2024-10-21,Valle Sagrado,Papel e higiene,24,9,15,67.6,49.32
+2024-10-21,Valle Sagrado,Menaje descartable,13,13,0,43.61,31.09
+2024-10-21,Valle Sagrado,Bolsas y film,7,7,0,61.06,45.03
+2024-10-28,Cusco ciudad,Detergentes y limpiadores,59,59,0,63.29,46.14
+2024-10-28,Cusco ciudad,Desinfección,36,36,0,56.74,40.77
+2024-10-28,Cusco ciudad,Empaque descartable,102,102,0,48.01,34.34
+2024-10-28,Cusco ciudad,Papel e higiene,56,56,0,67.66,49.36
+2024-10-28,Cusco ciudad,Menaje descartable,36,36,0,43.65,31.12
+2024-10-28,Cusco ciudad,Bolsas y film,9,9,0,61.11,45.07
+2024-10-28,Valle Sagrado,Detergentes y limpiadores,48,48,0,63.29,46.14
+2024-10-28,Valle Sagrado,Desinfección,13,13,0,56.74,40.77
+2024-10-28,Valle Sagrado,Empaque descartable,34,34,0,48.01,34.34
+2024-10-28,Valle Sagrado,Papel e higiene,28,28,0,67.66,49.36
+2024-10-28,Valle Sagrado,Menaje descartable,17,17,0,43.65,31.12
+2024-10-28,Valle Sagrado,Bolsas y film,18,18,0,61.11,45.07
+2024-11-04,Cusco ciudad,Detergentes y limpiadores,87,87,0,63.35,46.17
+2024-11-04,Cusco ciudad,Desinfección,59,59,0,56.79,40.8
+2024-11-04,Cusco ciudad,Empaque descartable,60,60,0,48.06,34.36
+2024-11-04,Cusco ciudad,Papel e higiene,58,58,0,67.72,49.39
+2024-11-04,Cusco ciudad,Menaje descartable,24,24,0,43.69,31.14
+2024-11-04,Cusco ciudad,Bolsas y film,34,34,0,61.16,45.1
+2024-11-04,Valle Sagrado,Detergentes y limpiadores,17,17,0,63.35,46.17
+2024-11-04,Valle Sagrado,Desinfección,2,2,0,56.79,40.8
+2024-11-04,Valle Sagrado,Empaque descartable,28,28,0,48.06,34.36
+2024-11-04,Valle Sagrado,Papel e higiene,23,23,0,67.72,49.39
+2024-11-04,Valle Sagrado,Menaje descartable,3,3,0,43.69,31.14
+2024-11-04,Valle Sagrado,Bolsas y film,8,8,0,61.16,45.1
+2024-11-11,Cusco ciudad,Detergentes y limpiadores,86,86,0,63.4,46.2
+2024-11-11,Cusco ciudad,Desinfección,26,26,0,56.84,40.83
+2024-11-11,Cusco ciudad,Empaque descartable,81,81,0,48.1,34.38
+2024-11-11,Cusco ciudad,Papel e higiene,59,59,0,67.78,49.43
+2024-11-11,Cusco ciudad,Menaje descartable,45,45,0,43.73,31.16
+2024-11-11,Cusco ciudad,Bolsas y film,29,29,0,61.22,45.13
+2024-11-11,Valle Sagrado,Detergentes y limpiadores,26,26,0,63.4,46.2
+2024-11-11,Valle Sagrado,Desinfección,10,10,0,56.84,40.83
+2024-11-11,Valle Sagrado,Empaque descartable,33,33,0,48.1,34.38
+2024-11-11,Valle Sagrado,Papel e higiene,27,27,0,67.78,49.43
+2024-11-11,Valle Sagrado,Menaje descartable,18,18,0,43.73,31.16
+2024-11-11,Valle Sagrado,Bolsas y film,8,8,0,61.22,45.13
+2024-11-18,Cusco ciudad,Detergentes y limpiadores,52,52,0,63.46,46.24
+2024-11-18,Cusco ciudad,Desinfección,48,48,0,56.89,40.86
+2024-11-18,Cusco ciudad,Empaque descartable,72,72,0,48.14,34.41
+2024-11-18,Cusco ciudad,Papel e higiene,76,76,0,67.83,49.46
+2024-11-18,Cusco ciudad,Menaje descartable,29,29,0,43.76,31.18
+2024-11-18,Cusco ciudad,Bolsas y film,26,26,0,61.27,45.16
+2024-11-18,Valle Sagrado,Detergentes y limpiadores,10,10,0,63.46,46.24
+2024-11-18,Valle Sagrado,Desinfección,38,38,0,56.89,40.86
+2024-11-18,Valle Sagrado,Empaque descartable,30,30,0,48.14,34.41
+2024-11-18,Valle Sagrado,Papel e higiene,20,20,0,67.83,49.46
+2024-11-18,Valle Sagrado,Menaje descartable,20,20,0,43.76,31.18
+2024-11-18,Valle Sagrado,Bolsas y film,13,13,0,61.27,45.16
+2024-11-25,Cusco ciudad,Detergentes y limpiadores,35,17,18,63.51,46.27
+2024-11-25,Cusco ciudad,Desinfección,44,44,0,56.94,40.89
+2024-11-25,Cusco ciudad,Empaque descartable,59,59,0,48.18,34.43
+2024-11-25,Cusco ciudad,Papel e higiene,52,52,0,67.89,49.5
+2024-11-25,Cusco ciudad,Menaje descartable,38,38,0,43.8,31.21
+2024-11-25,Cusco ciudad,Bolsas y film,17,17,0,61.32,45.19
+2024-11-25,Valle Sagrado,Detergentes y limpiadores,13,9,4,63.51,46.27
+2024-11-25,Valle Sagrado,Desinfección,23,23,0,56.94,40.89
+2024-11-25,Valle Sagrado,Empaque descartable,24,24,0,48.18,34.43
+2024-11-25,Valle Sagrado,Papel e higiene,21,21,0,67.89,49.5
+2024-11-25,Valle Sagrado,Menaje descartable,11,11,0,43.8,31.21
+2024-11-25,Valle Sagrado,Bolsas y film,25,25,0,61.32,45.19
+2024-12-02,Cusco ciudad,Detergentes y limpiadores,78,78,0,63.57,46.3
+2024-12-02,Cusco ciudad,Desinfección,29,29,0,56.99,40.92
+2024-12-02,Cusco ciudad,Empaque descartable,57,57,0,48.23,34.46
+2024-12-02,Cusco ciudad,Papel e higiene,68,68,0,67.95,49.53
+2024-12-02,Cusco ciudad,Menaje descartable,69,69,0,43.84,31.23
+2024-12-02,Cusco ciudad,Bolsas y film,52,52,0,61.38,45.23
+2024-12-02,Valle Sagrado,Detergentes y limpiadores,41,41,0,63.57,46.3
+2024-12-02,Valle Sagrado,Desinfección,14,14,0,56.99,40.92
+2024-12-02,Valle Sagrado,Empaque descartable,37,37,0,48.23,34.46
+2024-12-02,Valle Sagrado,Papel e higiene,27,27,0,67.95,49.53
+2024-12-02,Valle Sagrado,Menaje descartable,23,23,0,43.84,31.23
+2024-12-02,Valle Sagrado,Bolsas y film,15,15,0,61.38,45.23
+2024-12-09,Cusco ciudad,Detergentes y limpiadores,65,65,0,63.63,46.34
+2024-12-09,Cusco ciudad,Desinfección,37,37,0,57.04,40.95
+2024-12-09,Cusco ciudad,Empaque descartable,71,71,0,48.27,34.48
+2024-12-09,Cusco ciudad,Papel e higiene,69,69,0,68.01,49.57
+2024-12-09,Cusco ciudad,Menaje descartable,26,26,0,43.88,31.25
+2024-12-09,Cusco ciudad,Bolsas y film,30,30,0,61.43,45.26
+2024-12-09,Valle Sagrado,Detergentes y limpiadores,39,39,0,63.63,46.34
+2024-12-09,Valle Sagrado,Desinfección,20,20,0,57.04,40.95
+2024-12-09,Valle Sagrado,Empaque descartable,6,6,0,48.27,34.48
+2024-12-09,Valle Sagrado,Papel e higiene,11,11,0,68.01,49.57
+2024-12-09,Valle Sagrado,Menaje descartable,22,22,0,43.88,31.25
+2024-12-09,Valle Sagrado,Bolsas y film,13,13,0,61.43,45.26
+2024-12-16,Cusco ciudad,Detergentes y limpiadores,95,95,0,63.68,46.37
+2024-12-16,Cusco ciudad,Desinfección,39,39,0,57.09,40.98
+2024-12-16,Cusco ciudad,Empaque descartable,42,42,0,48.31,34.51
+2024-12-16,Cusco ciudad,Papel e higiene,105,105,0,68.07,49.6
+2024-12-16,Cusco ciudad,Menaje descartable,52,52,0,43.92,31.27
+2024-12-16,Cusco ciudad,Bolsas y film,26,26,0,61.48,45.29
+2024-12-16,Valle Sagrado,Detergentes y limpiadores,19,19,0,63.68,46.37
+2024-12-16,Valle Sagrado,Desinfección,25,25,0,57.09,40.98
+2024-12-16,Valle Sagrado,Empaque descartable,19,19,0,48.31,34.51
+2024-12-16,Valle Sagrado,Papel e higiene,11,11,0,68.07,49.6
+2024-12-16,Valle Sagrado,Menaje descartable,10,10,0,43.92,31.27
+2024-12-16,Valle Sagrado,Bolsas y film,2,2,0,61.48,45.29
+2024-12-23,Cusco ciudad,Detergentes y limpiadores,70,70,0,63.74,46.4
+2024-12-23,Cusco ciudad,Desinfección,65,65,0,57.14,41.01
+2024-12-23,Cusco ciudad,Empaque descartable,53,53,0,48.35,34.53
+2024-12-23,Cusco ciudad,Papel e higiene,32,32,0,68.13,49.64
+2024-12-23,Cusco ciudad,Menaje descartable,28,28,0,43.96,31.29
+2024-12-23,Cusco ciudad,Bolsas y film,38,38,0,61.54,45.32
+2024-12-23,Valle Sagrado,Detergentes y limpiadores,37,37,0,63.74,46.4
+2024-12-23,Valle Sagrado,Desinfección,24,24,0,57.14,41.01
+2024-12-23,Valle Sagrado,Empaque descartable,39,39,0,48.35,34.53
+2024-12-23,Valle Sagrado,Papel e higiene,20,20,0,68.13,49.64
+2024-12-23,Valle Sagrado,Menaje descartable,22,22,0,43.96,31.29
+2024-12-23,Valle Sagrado,Bolsas y film,6,6,0,61.54,45.32
+2024-12-30,Cusco ciudad,Detergentes y limpiadores,77,77,0,63.79,46.44
+2024-12-30,Cusco ciudad,Desinfección,32,32,0,57.19,41.04
+2024-12-30,Cusco ciudad,Empaque descartable,53,53,0,48.39,34.56
+2024-12-30,Cusco ciudad,Papel e higiene,57,57,0,68.19,49.67
+2024-12-30,Cusco ciudad,Menaje descartable,30,30,0,43.99,31.32
+2024-12-30,Cusco ciudad,Bolsas y film,26,26,0,61.59,45.36
+2024-12-30,Valle Sagrado,Detergentes y limpiadores,54,54,0,63.79,46.44
+2024-12-30,Valle Sagrado,Desinfección,10,10,0,57.19,41.04
+2024-12-30,Valle Sagrado,Empaque descartable,40,40,0,48.39,34.56
+2024-12-30,Valle Sagrado,Papel e higiene,23,23,0,68.19,49.67
+2024-12-30,Valle Sagrado,Menaje descartable,17,17,0,43.99,31.32
+2024-12-30,Valle Sagrado,Bolsas y film,7,7,0,61.59,45.36
+2025-01-06,Cusco ciudad,Detergentes y limpiadores,51,51,0,63.85,46.47
+2025-01-06,Cusco ciudad,Desinfección,56,56,0,57.24,41.06
+2025-01-06,Cusco ciudad,Empaque descartable,57,57,0,48.44,34.58
+2025-01-06,Cusco ciudad,Papel e higiene,53,53,0,68.25,49.71
+2025-01-06,Cusco ciudad,Menaje descartable,25,25,0,44.03,31.34
+2025-01-06,Cusco ciudad,Bolsas y film,40,40,0,61.65,45.39
+2025-01-06,Valle Sagrado,Detergentes y limpiadores,36,36,0,63.85,46.47
+2025-01-06,Valle Sagrado,Desinfección,19,19,0,57.24,41.06
+2025-01-06,Valle Sagrado,Empaque descartable,34,34,0,48.44,34.58
+2025-01-06,Valle Sagrado,Papel e higiene,21,21,0,68.25,49.71
+2025-01-06,Valle Sagrado,Menaje descartable,5,5,0,44.03,31.34
+2025-01-06,Valle Sagrado,Bolsas y film,8,8,0,61.65,45.39
+2025-01-13,Cusco ciudad,Detergentes y limpiadores,62,62,0,63.9,46.5
+2025-01-13,Cusco ciudad,Desinfección,35,35,0,57.29,41.09
+2025-01-13,Cusco ciudad,Empaque descartable,76,76,0,48.48,34.61
+2025-01-13,Cusco ciudad,Papel e higiene,86,86,0,68.31,49.75
+2025-01-13,Cusco ciudad,Menaje descartable,53,53,0,44.07,31.36
+2025-01-13,Cusco ciudad,Bolsas y film,30,30,0,61.7,45.42
+2025-01-13,Valle Sagrado,Detergentes y limpiadores,28,28,0,63.9,46.5
+2025-01-13,Valle Sagrado,Desinfección,8,8,0,57.29,41.09
+2025-01-13,Valle Sagrado,Empaque descartable,36,36,0,48.48,34.61
+2025-01-13,Valle Sagrado,Papel e higiene,10,10,0,68.31,49.75
+2025-01-13,Valle Sagrado,Menaje descartable,19,19,0,44.07,31.36
+2025-01-13,Valle Sagrado,Bolsas y film,16,16,0,61.7,45.42
+2025-01-20,Cusco ciudad,Detergentes y limpiadores,41,41,0,63.96,46.53
+2025-01-20,Cusco ciudad,Desinfección,40,40,0,57.34,41.12
+2025-01-20,Cusco ciudad,Empaque descartable,67,67,0,48.52,34.63
+2025-01-20,Cusco ciudad,Papel e higiene,52,52,0,68.37,49.78
+2025-01-20,Cusco ciudad,Menaje descartable,39,39,0,44.11,31.38
+2025-01-20,Cusco ciudad,Bolsas y film,41,41,0,61.75,45.45
+2025-01-20,Valle Sagrado,Detergentes y limpiadores,20,20,0,63.96,46.53
+2025-01-20,Valle Sagrado,Desinfección,4,4,0,57.34,41.12
+2025-01-20,Valle Sagrado,Empaque descartable,33,33,0,48.52,34.63
+2025-01-20,Valle Sagrado,Papel e higiene,6,6,0,68.37,49.78
+2025-01-20,Valle Sagrado,Menaje descartable,25,25,0,44.11,31.38
+2025-01-20,Valle Sagrado,Bolsas y film,15,15,0,61.75,45.45
+2025-01-27,Cusco ciudad,Detergentes y limpiadores,92,92,0,64.01,46.57
+2025-01-27,Cusco ciudad,Desinfección,52,52,0,57.39,41.15
+2025-01-27,Cusco ciudad,Empaque descartable,97,97,0,48.56,34.65
+2025-01-27,Cusco ciudad,Papel e higiene,75,75,0,68.43,49.82
+2025-01-27,Cusco ciudad,Menaje descartable,62,62,0,44.15,31.41
+2025-01-27,Cusco ciudad,Bolsas y film,51,51,0,61.81,45.48
+2025-01-27,Valle Sagrado,Detergentes y limpiadores,11,11,0,64.01,46.57
+2025-01-27,Valle Sagrado,Desinfección,8,8,0,57.39,41.15
+2025-01-27,Valle Sagrado,Empaque descartable,18,18,0,48.56,34.65
+2025-01-27,Valle Sagrado,Papel e higiene,26,26,0,68.43,49.82
+2025-01-27,Valle Sagrado,Menaje descartable,19,19,0,44.15,31.41
+2025-01-27,Valle Sagrado,Bolsas y film,25,25,0,61.81,45.48
+2025-02-03,Cusco ciudad,Detergentes y limpiadores,23,23,0,64.07,46.6
+2025-02-03,Cusco ciudad,Desinfección,29,29,0,57.44,41.18
+2025-02-03,Cusco ciudad,Empaque descartable,35,35,0,48.6,34.68
+2025-02-03,Cusco ciudad,Papel e higiene,50,50,0,68.49,49.85
+2025-02-03,Cusco ciudad,Menaje descartable,26,26,0,44.19,31.43
+2025-02-03,Cusco ciudad,Bolsas y film,12,12,0,61.86,45.52
+2025-02-03,Valle Sagrado,Detergentes y limpiadores,25,25,0,64.07,46.6
+2025-02-03,Valle Sagrado,Desinfección,22,22,0,57.44,41.18
+2025-02-03,Valle Sagrado,Empaque descartable,20,20,0,48.6,34.68
+2025-02-03,Valle Sagrado,Papel e higiene,32,32,0,68.49,49.85
+2025-02-03,Valle Sagrado,Menaje descartable,8,8,0,44.19,31.43
+2025-02-03,Valle Sagrado,Bolsas y film,10,10,0,61.86,45.52
+2025-02-10,Cusco ciudad,Detergentes y limpiadores,62,62,0,64.13,46.63
+2025-02-10,Cusco ciudad,Desinfección,50,50,0,57.49,41.21
+2025-02-10,Cusco ciudad,Empaque descartable,53,53,0,48.65,34.7
+2025-02-10,Cusco ciudad,Papel e higiene,75,75,0,68.55,49.89
+2025-02-10,Cusco ciudad,Menaje descartable,39,39,0,44.22,31.45
+2025-02-10,Cusco ciudad,Bolsas y film,30,30,0,61.91,45.55
+2025-02-10,Valle Sagrado,Detergentes y limpiadores,8,8,0,64.13,46.63
+2025-02-10,Valle Sagrado,Desinfección,22,22,0,57.49,41.21
+2025-02-10,Valle Sagrado,Empaque descartable,16,16,0,48.65,34.7
+2025-02-10,Valle Sagrado,Papel e higiene,34,34,0,68.55,49.89
+2025-02-10,Valle Sagrado,Menaje descartable,13,13,0,44.22,31.45
+2025-02-10,Valle Sagrado,Bolsas y film,11,11,0,61.91,45.55
+2025-02-17,Cusco ciudad,Detergentes y limpiadores,55,55,0,64.18,46.67
+2025-02-17,Cusco ciudad,Desinfección,32,32,0,57.54,41.24
+2025-02-17,Cusco ciudad,Empaque descartable,57,57,0,48.69,34.73
+2025-02-17,Cusco ciudad,Papel e higiene,33,33,0,68.61,49.92
+2025-02-17,Cusco ciudad,Menaje descartable,46,46,0,44.26,31.47
+2025-02-17,Cusco ciudad,Bolsas y film,34,34,0,61.97,45.58
+2025-02-17,Valle Sagrado,Detergentes y limpiadores,41,41,0,64.18,46.67
+2025-02-17,Valle Sagrado,Desinfección,21,21,0,57.54,41.24
+2025-02-17,Valle Sagrado,Empaque descartable,62,62,0,48.69,34.73
+2025-02-17,Valle Sagrado,Papel e higiene,40,40,0,68.61,49.92
+2025-02-17,Valle Sagrado,Menaje descartable,30,30,0,44.26,31.47
+2025-02-17,Valle Sagrado,Bolsas y film,11,11,0,61.97,45.58
+2025-02-24,Cusco ciudad,Detergentes y limpiadores,53,53,0,64.24,46.7
+2025-02-24,Cusco ciudad,Desinfección,21,21,0,57.59,41.27
+2025-02-24,Cusco ciudad,Empaque descartable,75,75,0,48.73,34.75
+2025-02-24,Cusco ciudad,Papel e higiene,55,55,0,68.67,49.96
+2025-02-24,Cusco ciudad,Menaje descartable,39,39,0,44.3,31.49
+2025-02-24,Cusco ciudad,Bolsas y film,34,34,0,62.02,45.61
+2025-02-24,Valle Sagrado,Detergentes y limpiadores,16,16,0,64.24,46.7
+2025-02-24,Valle Sagrado,Desinfección,13,13,0,57.59,41.27
+2025-02-24,Valle Sagrado,Empaque descartable,25,25,0,48.73,34.75
+2025-02-24,Valle Sagrado,Papel e higiene,24,24,0,68.67,49.96
+2025-02-24,Valle Sagrado,Menaje descartable,9,9,0,44.3,31.49
+2025-02-24,Valle Sagrado,Bolsas y film,26,26,0,62.02,45.61
+2025-03-03,Cusco ciudad,Detergentes y limpiadores,83,83,0,64.29,46.73
+2025-03-03,Cusco ciudad,Desinfección,39,19,20,57.64,41.3
+2025-03-03,Cusco ciudad,Empaque descartable,48,48,0,48.77,34.78
+2025-03-03,Cusco ciudad,Papel e higiene,59,13,46,68.73,49.99
+2025-03-03,Cusco ciudad,Menaje descartable,25,25,0,44.34,31.52
+2025-03-03,Cusco ciudad,Bolsas y film,43,43,0,62.08,45.65
+2025-03-03,Valle Sagrado,Detergentes y limpiadores,46,46,0,64.29,46.73
+2025-03-03,Valle Sagrado,Desinfección,22,2,20,57.64,41.3
+2025-03-03,Valle Sagrado,Empaque descartable,31,31,0,48.77,34.78
+2025-03-03,Valle Sagrado,Papel e higiene,47,16,31,68.73,49.99
+2025-03-03,Valle Sagrado,Menaje descartable,16,16,0,44.34,31.52
+2025-03-03,Valle Sagrado,Bolsas y film,0,0,0,62.08,45.65
+2025-03-10,Cusco ciudad,Detergentes y limpiadores,75,75,0,64.35,46.77
+2025-03-10,Cusco ciudad,Desinfección,26,26,0,57.69,41.33
+2025-03-10,Cusco ciudad,Empaque descartable,52,52,0,48.82,34.8
+2025-03-10,Cusco ciudad,Papel e higiene,45,45,0,68.79,50.03
+2025-03-10,Cusco ciudad,Menaje descartable,25,25,0,44.38,31.54
+2025-03-10,Cusco ciudad,Bolsas y film,22,22,0,62.13,45.68
+2025-03-10,Valle Sagrado,Detergentes y limpiadores,25,25,0,64.35,46.77
+2025-03-10,Valle Sagrado,Desinfección,15,15,0,57.69,41.33
+2025-03-10,Valle Sagrado,Empaque descartable,25,25,0,48.82,34.8
+2025-03-10,Valle Sagrado,Papel e higiene,8,8,0,68.79,50.03
+2025-03-10,Valle Sagrado,Menaje descartable,8,8,0,44.38,31.54
+2025-03-10,Valle Sagrado,Bolsas y film,20,20,0,62.13,45.68
+2025-03-17,Cusco ciudad,Detergentes y limpiadores,40,40,0,64.4,46.8
+2025-03-17,Cusco ciudad,Desinfección,39,39,0,57.74,41.36
+2025-03-17,Cusco ciudad,Empaque descartable,56,56,0,48.86,34.83
+2025-03-17,Cusco ciudad,Papel e higiene,83,45,38,68.85,50.06
+2025-03-17,Cusco ciudad,Menaje descartable,36,36,0,44.42,31.56
+2025-03-17,Cusco ciudad,Bolsas y film,20,20,0,62.18,45.71
+2025-03-17,Valle Sagrado,Detergentes y limpiadores,24,24,0,64.4,46.8
+2025-03-17,Valle Sagrado,Desinfección,28,28,0,57.74,41.36
+2025-03-17,Valle Sagrado,Empaque descartable,11,11,0,48.86,34.83
+2025-03-17,Valle Sagrado,Papel e higiene,32,11,21,68.85,50.06
+2025-03-17,Valle Sagrado,Menaje descartable,14,14,0,44.42,31.56
+2025-03-17,Valle Sagrado,Bolsas y film,17,17,0,62.18,45.71
+2025-03-24,Cusco ciudad,Detergentes y limpiadores,63,63,0,64.46,46.83
+2025-03-24,Cusco ciudad,Desinfección,52,52,0,57.79,41.39
+2025-03-24,Cusco ciudad,Empaque descartable,46,46,0,48.9,34.85
+2025-03-24,Cusco ciudad,Papel e higiene,82,82,0,68.9,50.1
+2025-03-24,Cusco ciudad,Menaje descartable,41,41,0,44.45,31.58
+2025-03-24,Cusco ciudad,Bolsas y film,21,21,0,62.24,45.74
+2025-03-24,Valle Sagrado,Detergentes y limpiadores,30,30,0,64.46,46.83
+2025-03-24,Valle Sagrado,Desinfección,34,34,0,57.79,41.39
+2025-03-24,Valle Sagrado,Empaque descartable,12,12,0,48.9,34.85
+2025-03-24,Valle Sagrado,Papel e higiene,29,29,0,68.9,50.1
+2025-03-24,Valle Sagrado,Menaje descartable,23,23,0,44.45,31.58
+2025-03-24,Valle Sagrado,Bolsas y film,10,10,0,62.24,45.74
+2025-03-31,Cusco ciudad,Detergentes y limpiadores,86,86,0,64.52,46.86
+2025-03-31,Cusco ciudad,Desinfección,32,32,0,57.84,41.41
+2025-03-31,Cusco ciudad,Empaque descartable,33,33,0,48.94,34.88
+2025-03-31,Cusco ciudad,Papel e higiene,53,53,0,68.96,50.13
+2025-03-31,Cusco ciudad,Menaje descartable,47,47,0,44.49,31.61
+2025-03-31,Cusco ciudad,Bolsas y film,28,28,0,62.29,45.77
+2025-03-31,Valle Sagrado,Detergentes y limpiadores,27,27,0,64.52,46.86
+2025-03-31,Valle Sagrado,Desinfección,8,8,0,57.84,41.41
+2025-03-31,Valle Sagrado,Empaque descartable,36,36,0,48.94,34.88
+2025-03-31,Valle Sagrado,Papel e higiene,36,36,0,68.96,50.13
+2025-03-31,Valle Sagrado,Menaje descartable,28,28,0,44.49,31.61
+2025-03-31,Valle Sagrado,Bolsas y film,5,5,0,62.29,45.77
+2025-04-07,Cusco ciudad,Detergentes y limpiadores,63,63,0,64.57,46.9
+2025-04-07,Cusco ciudad,Desinfección,32,32,0,57.89,41.44
+2025-04-07,Cusco ciudad,Empaque descartable,77,77,0,48.98,34.9
+2025-04-07,Cusco ciudad,Papel e higiene,70,70,0,69.02,50.17
+2025-04-07,Cusco ciudad,Menaje descartable,64,64,0,44.53,31.63
+2025-04-07,Cusco ciudad,Bolsas y film,28,28,0,62.34,45.81
+2025-04-07,Valle Sagrado,Detergentes y limpiadores,20,20,0,64.57,46.9
+2025-04-07,Valle Sagrado,Desinfección,13,13,0,57.89,41.44
+2025-04-07,Valle Sagrado,Empaque descartable,31,31,0,48.98,34.9
+2025-04-07,Valle Sagrado,Papel e higiene,42,42,0,69.02,50.17
+2025-04-07,Valle Sagrado,Menaje descartable,17,17,0,44.53,31.63
+2025-04-07,Valle Sagrado,Bolsas y film,19,19,0,62.34,45.81
+2025-04-14,Cusco ciudad,Detergentes y limpiadores,69,69,0,64.63,46.93
+2025-04-14,Cusco ciudad,Desinfección,35,35,0,57.94,41.47
+2025-04-14,Cusco ciudad,Empaque descartable,38,38,0,49.03,34.92
+2025-04-14,Cusco ciudad,Papel e higiene,51,51,0,69.08,50.2
+2025-04-14,Cusco ciudad,Menaje descartable,39,39,0,44.57,31.65
+2025-04-14,Cusco ciudad,Bolsas y film,5,5,0,62.4,45.84
+2025-04-14,Valle Sagrado,Detergentes y limpiadores,31,31,0,64.63,46.93
+2025-04-14,Valle Sagrado,Desinfección,23,23,0,57.94,41.47
+2025-04-14,Valle Sagrado,Empaque descartable,12,12,0,49.03,34.92
+2025-04-14,Valle Sagrado,Papel e higiene,16,16,0,69.08,50.2
+2025-04-14,Valle Sagrado,Menaje descartable,18,18,0,44.57,31.65
+2025-04-14,Valle Sagrado,Bolsas y film,10,10,0,62.4,45.84
+2025-04-21,Cusco ciudad,Detergentes y limpiadores,57,57,0,64.68,46.96
+2025-04-21,Cusco ciudad,Desinfección,40,40,0,57.99,41.5
+2025-04-21,Cusco ciudad,Empaque descartable,71,71,0,49.07,34.95
+2025-04-21,Cusco ciudad,Papel e higiene,58,58,0,69.14,50.24
+2025-04-21,Cusco ciudad,Menaje descartable,48,48,0,44.61,31.67
+2025-04-21,Cusco ciudad,Bolsas y film,16,16,0,62.45,45.87
+2025-04-21,Valle Sagrado,Detergentes y limpiadores,37,37,0,64.68,46.96
+2025-04-21,Valle Sagrado,Desinfección,19,19,0,57.99,41.5
+2025-04-21,Valle Sagrado,Empaque descartable,30,30,0,49.07,34.95
+2025-04-21,Valle Sagrado,Papel e higiene,28,28,0,69.14,50.24
+2025-04-21,Valle Sagrado,Menaje descartable,16,16,0,44.61,31.67
+2025-04-21,Valle Sagrado,Bolsas y film,13,13,0,62.45,45.87
+2025-04-28,Cusco ciudad,Detergentes y limpiadores,86,86,0,64.74,47.0
+2025-04-28,Cusco ciudad,Desinfección,62,62,0,58.04,41.53
+2025-04-28,Cusco ciudad,Empaque descartable,50,50,0,49.11,34.97
+2025-04-28,Cusco ciudad,Papel e higiene,58,58,0,69.2,50.27
+2025-04-28,Cusco ciudad,Menaje descartable,12,8,4,44.65,31.7
+2025-04-28,Cusco ciudad,Bolsas y film,22,22,0,62.51,45.9
+2025-04-28,Valle Sagrado,Detergentes y limpiadores,52,52,0,64.74,47.0
+2025-04-28,Valle Sagrado,Desinfección,22,22,0,58.04,41.53
+2025-04-28,Valle Sagrado,Empaque descartable,44,44,0,49.11,34.97
+2025-04-28,Valle Sagrado,Papel e higiene,53,53,0,69.2,50.27
+2025-04-28,Valle Sagrado,Menaje descartable,20,12,8,44.65,31.7
+2025-04-28,Valle Sagrado,Bolsas y film,13,13,0,62.51,45.9
+2025-05-05,Cusco ciudad,Detergentes y limpiadores,71,71,0,64.79,47.03
+2025-05-05,Cusco ciudad,Desinfección,64,64,0,58.09,41.56
+2025-05-05,Cusco ciudad,Empaque descartable,70,70,0,49.15,35.0
+2025-05-05,Cusco ciudad,Papel e higiene,43,43,0,69.26,50.31
+2025-05-05,Cusco ciudad,Menaje descartable,48,48,0,44.68,31.72
+2025-05-05,Cusco ciudad,Bolsas y film,26,26,0,62.56,45.94
+2025-05-05,Valle Sagrado,Detergentes y limpiadores,24,24,0,64.79,47.03
+2025-05-05,Valle Sagrado,Desinfección,17,17,0,58.09,41.56
+2025-05-05,Valle Sagrado,Empaque descartable,19,19,0,49.15,35.0
+2025-05-05,Valle Sagrado,Papel e higiene,16,16,0,69.26,50.31
+2025-05-05,Valle Sagrado,Menaje descartable,25,25,0,44.68,31.72
+2025-05-05,Valle Sagrado,Bolsas y film,12,12,0,62.56,45.94
+2025-05-12,Cusco ciudad,Detergentes y limpiadores,54,54,0,64.85,47.06
+2025-05-12,Cusco ciudad,Desinfección,53,53,0,58.14,41.59
+2025-05-12,Cusco ciudad,Empaque descartable,61,61,0,49.2,35.02
+2025-05-12,Cusco ciudad,Papel e higiene,93,93,0,69.32,50.35
+2025-05-12,Cusco ciudad,Menaje descartable,47,13,34,44.72,31.74
+2025-05-12,Cusco ciudad,Bolsas y film,32,32,0,62.61,45.97
+2025-05-12,Valle Sagrado,Detergentes y limpiadores,35,35,0,64.85,47.06
+2025-05-12,Valle Sagrado,Desinfección,34,34,0,58.14,41.59
+2025-05-12,Valle Sagrado,Empaque descartable,36,36,0,49.2,35.02
+2025-05-12,Valle Sagrado,Papel e higiene,15,15,0,69.32,50.35
+2025-05-12,Valle Sagrado,Menaje descartable,26,16,10,44.72,31.74
+2025-05-12,Valle Sagrado,Bolsas y film,6,6,0,62.61,45.97
+2025-05-19,Cusco ciudad,Detergentes y limpiadores,62,62,0,64.9,47.1
+2025-05-19,Cusco ciudad,Desinfección,45,45,0,58.19,41.62
+2025-05-19,Cusco ciudad,Empaque descartable,74,46,28,49.24,35.05
+2025-05-19,Cusco ciudad,Papel e higiene,52,52,0,69.38,50.38
+2025-05-19,Cusco ciudad,Menaje descartable,37,37,0,44.76,31.76
+2025-05-19,Cusco ciudad,Bolsas y film,39,39,0,62.67,46.0
+2025-05-19,Valle Sagrado,Detergentes y limpiadores,62,62,0,64.9,47.1
+2025-05-19,Valle Sagrado,Desinfección,22,22,0,58.19,41.62
+2025-05-19,Valle Sagrado,Empaque descartable,38,17,21,49.24,35.05
+2025-05-19,Valle Sagrado,Papel e higiene,48,48,0,69.38,50.38
+2025-05-19,Valle Sagrado,Menaje descartable,17,17,0,44.76,31.76
+2025-05-19,Valle Sagrado,Bolsas y film,16,16,0,62.67,46.0
+2025-05-26,Cusco ciudad,Detergentes y limpiadores,85,85,0,64.96,47.13
+2025-05-26,Cusco ciudad,Desinfección,54,54,0,58.24,41.65
+2025-05-26,Cusco ciudad,Empaque descartable,101,101,0,49.28,35.07
+2025-05-26,Cusco ciudad,Papel e higiene,75,27,48,69.44,50.42
+2025-05-26,Cusco ciudad,Menaje descartable,60,60,0,44.8,31.78
+2025-05-26,Cusco ciudad,Bolsas y film,27,27,0,62.72,46.03
+2025-05-26,Valle Sagrado,Detergentes y limpiadores,56,56,0,64.96,47.13
+2025-05-26,Valle Sagrado,Desinfección,11,11,0,58.24,41.65
+2025-05-26,Valle Sagrado,Empaque descartable,14,14,0,49.28,35.07
+2025-05-26,Valle Sagrado,Papel e higiene,9,3,6,69.44,50.42
+2025-05-26,Valle Sagrado,Menaje descartable,8,8,0,44.8,31.78
+2025-05-26,Valle Sagrado,Bolsas y film,10,10,0,62.72,46.03
+2025-06-02,Cusco ciudad,Detergentes y limpiadores,60,60,0,65.02,47.16
+2025-06-02,Cusco ciudad,Desinfección,45,45,0,58.29,41.68
+2025-06-02,Cusco ciudad,Empaque descartable,115,115,0,49.32,35.1
+2025-06-02,Cusco ciudad,Papel e higiene,60,60,0,69.5,50.45
+2025-06-02,Cusco ciudad,Menaje descartable,29,29,0,44.84,31.81
+2025-06-02,Cusco ciudad,Bolsas y film,21,21,0,62.77,46.06
+2025-06-02,Valle Sagrado,Detergentes y limpiadores,42,42,0,65.02,47.16
+2025-06-02,Valle Sagrado,Desinfección,33,33,0,58.29,41.68
+2025-06-02,Valle Sagrado,Empaque descartable,55,55,0,49.32,35.1
+2025-06-02,Valle Sagrado,Papel e higiene,61,61,0,69.5,50.45
+2025-06-02,Valle Sagrado,Menaje descartable,28,28,0,44.84,31.81
+2025-06-02,Valle Sagrado,Bolsas y film,23,23,0,62.77,46.06
+2025-06-09,Cusco ciudad,Detergentes y limpiadores,47,47,0,65.07,47.19
+2025-06-09,Cusco ciudad,Desinfección,18,18,0,58.34,41.71
+2025-06-09,Cusco ciudad,Empaque descartable,97,97,0,49.36,35.12
+2025-06-09,Cusco ciudad,Papel e higiene,38,38,0,69.56,50.49
+2025-06-09,Cusco ciudad,Menaje descartable,18,18,0,44.88,31.83
+2025-06-09,Cusco ciudad,Bolsas y film,17,17,0,62.83,46.1
+2025-06-09,Valle Sagrado,Detergentes y limpiadores,16,16,0,65.07,47.19
+2025-06-09,Valle Sagrado,Desinfección,28,28,0,58.34,41.71
+2025-06-09,Valle Sagrado,Empaque descartable,35,35,0,49.36,35.12
+2025-06-09,Valle Sagrado,Papel e higiene,23,23,0,69.56,50.49
+2025-06-09,Valle Sagrado,Menaje descartable,17,17,0,44.88,31.83
+2025-06-09,Valle Sagrado,Bolsas y film,16,16,0,62.83,46.1
+2025-06-16,Cusco ciudad,Detergentes y limpiadores,68,68,0,65.13,47.23
+2025-06-16,Cusco ciudad,Desinfección,55,55,0,58.39,41.74
+2025-06-16,Cusco ciudad,Empaque descartable,109,109,0,49.41,35.15
+2025-06-16,Cusco ciudad,Papel e higiene,67,67,0,69.62,50.52
+2025-06-16,Cusco ciudad,Menaje descartable,33,33,0,44.92,31.85
+2025-06-16,Cusco ciudad,Bolsas y film,44,44,0,62.88,46.13
+2025-06-16,Valle Sagrado,Detergentes y limpiadores,42,42,0,65.13,47.23
+2025-06-16,Valle Sagrado,Desinfección,24,24,0,58.39,41.74
+2025-06-16,Valle Sagrado,Empaque descartable,25,25,0,49.41,35.15
+2025-06-16,Valle Sagrado,Papel e higiene,14,14,0,69.62,50.52
+2025-06-16,Valle Sagrado,Menaje descartable,42,42,0,44.92,31.85
+2025-06-16,Valle Sagrado,Bolsas y film,11,11,0,62.88,46.13
+2025-06-23,Cusco ciudad,Detergentes y limpiadores,64,64,0,65.18,47.26
+2025-06-23,Cusco ciudad,Desinfección,48,48,0,58.44,41.76
+2025-06-23,Cusco ciudad,Empaque descartable,75,75,0,49.45,35.17
+2025-06-23,Cusco ciudad,Papel e higiene,64,64,0,69.68,50.56
+2025-06-23,Cusco ciudad,Menaje descartable,58,58,0,44.95,31.87
+2025-06-23,Cusco ciudad,Bolsas y film,57,57,0,62.93,46.16
+2025-06-23,Valle Sagrado,Detergentes y limpiadores,38,38,0,65.18,47.26
+2025-06-23,Valle Sagrado,Desinfección,13,13,0,58.44,41.76
+2025-06-23,Valle Sagrado,Empaque descartable,54,54,0,49.45,35.17
+2025-06-23,Valle Sagrado,Papel e higiene,22,22,0,69.68,50.56
+2025-06-23,Valle Sagrado,Menaje descartable,19,19,0,44.95,31.87
+2025-06-23,Valle Sagrado,Bolsas y film,19,19,0,62.93,46.16
+2025-06-30,Cusco ciudad,Detergentes y limpiadores,69,69,0,65.24,47.29
+2025-06-30,Cusco ciudad,Desinfección,24,24,0,58.49,41.79
+2025-06-30,Cusco ciudad,Empaque descartable,82,82,0,49.49,35.19
+2025-06-30,Cusco ciudad,Papel e higiene,68,68,0,69.74,50.59
+2025-06-30,Cusco ciudad,Menaje descartable,75,75,0,44.99,31.9
+2025-06-30,Cusco ciudad,Bolsas y film,39,39,0,62.99,46.19
+2025-06-30,Valle Sagrado,Detergentes y limpiadores,48,48,0,65.24,47.29
+2025-06-30,Valle Sagrado,Desinfección,31,31,0,58.49,41.79
+2025-06-30,Valle Sagrado,Empaque descartable,40,40,0,49.49,35.19
+2025-06-30,Valle Sagrado,Papel e higiene,26,26,0,69.74,50.59
+2025-06-30,Valle Sagrado,Menaje descartable,11,11,0,44.99,31.9
+2025-06-30,Valle Sagrado,Bolsas y film,13,13,0,62.99,46.19
+2025-07-07,Cusco ciudad,Detergentes y limpiadores,74,74,0,65.29,47.33
+2025-07-07,Cusco ciudad,Desinfección,74,74,0,58.54,41.82
+2025-07-07,Cusco ciudad,Empaque descartable,76,76,0,49.53,35.22
+2025-07-07,Cusco ciudad,Papel e higiene,86,86,0,69.8,50.63
+2025-07-07,Cusco ciudad,Menaje descartable,49,49,0,45.03,31.92
+2025-07-07,Cusco ciudad,Bolsas y film,31,7,24,63.04,46.23
+2025-07-07,Valle Sagrado,Detergentes y limpiadores,32,32,0,65.29,47.33
+2025-07-07,Valle Sagrado,Desinfección,45,45,0,58.54,41.82
+2025-07-07,Valle Sagrado,Empaque descartable,40,40,0,49.53,35.22
+2025-07-07,Valle Sagrado,Papel e higiene,22,22,0,69.8,50.63
+2025-07-07,Valle Sagrado,Menaje descartable,34,34,0,45.03,31.92
+2025-07-07,Valle Sagrado,Bolsas y film,17,5,12,63.04,46.23
+2025-07-14,Cusco ciudad,Detergentes y limpiadores,49,49,0,65.35,47.36
+2025-07-14,Cusco ciudad,Desinfección,50,50,0,58.59,41.85
+2025-07-14,Cusco ciudad,Empaque descartable,122,122,0,49.58,35.24
+2025-07-14,Cusco ciudad,Papel e higiene,50,50,0,69.86,50.66
+2025-07-14,Cusco ciudad,Menaje descartable,48,48,0,45.07,31.94
+2025-07-14,Cusco ciudad,Bolsas y film,28,28,0,63.1,46.26
+2025-07-14,Valle Sagrado,Detergentes y limpiadores,47,47,0,65.35,47.36
+2025-07-14,Valle Sagrado,Desinfección,35,35,0,58.59,41.85
+2025-07-14,Valle Sagrado,Empaque descartable,59,59,0,49.58,35.24
+2025-07-14,Valle Sagrado,Papel e higiene,24,24,0,69.86,50.66
+2025-07-14,Valle Sagrado,Menaje descartable,22,22,0,45.07,31.94
+2025-07-14,Valle Sagrado,Bolsas y film,24,24,0,63.1,46.26
+2025-07-21,Cusco ciudad,Detergentes y limpiadores,97,97,0,65.4,47.39
+2025-07-21,Cusco ciudad,Desinfección,55,32,23,58.64,41.88
+2025-07-21,Cusco ciudad,Empaque descartable,93,93,0,49.62,35.27
+2025-07-21,Cusco ciudad,Papel e higiene,81,81,0,69.92,50.7
+2025-07-21,Cusco ciudad,Menaje descartable,79,79,0,45.11,31.96
+2025-07-21,Cusco ciudad,Bolsas y film,32,32,0,63.15,46.29
+2025-07-21,Valle Sagrado,Detergentes y limpiadores,31,31,0,65.4,47.39
+2025-07-21,Valle Sagrado,Desinfección,38,18,20,58.64,41.88
+2025-07-21,Valle Sagrado,Empaque descartable,48,48,0,49.62,35.27
+2025-07-21,Valle Sagrado,Papel e higiene,43,43,0,69.92,50.7
+2025-07-21,Valle Sagrado,Menaje descartable,44,44,0,45.11,31.96
+2025-07-21,Valle Sagrado,Bolsas y film,9,9,0,63.15,46.29
+2025-07-28,Cusco ciudad,Detergentes y limpiadores,51,51,0,65.46,47.42
+2025-07-28,Cusco ciudad,Desinfección,68,31,37,58.69,41.91
+2025-07-28,Cusco ciudad,Empaque descartable,36,36,0,49.66,35.29
+2025-07-28,Cusco ciudad,Papel e higiene,51,51,0,69.98,50.73
+2025-07-28,Cusco ciudad,Menaje descartable,44,44,0,45.15,31.98
+2025-07-28,Cusco ciudad,Bolsas y film,48,18,30,63.2,46.32
+2025-07-28,Valle Sagrado,Detergentes y limpiadores,52,52,0,65.46,47.42
+2025-07-28,Valle Sagrado,Desinfección,24,13,11,58.69,41.91
+2025-07-28,Valle Sagrado,Empaque descartable,50,50,0,49.66,35.29
+2025-07-28,Valle Sagrado,Papel e higiene,28,28,0,69.98,50.73
+2025-07-28,Valle Sagrado,Menaje descartable,39,39,0,45.15,31.98
+2025-07-28,Valle Sagrado,Bolsas y film,17,2,15,63.2,46.32
+2025-08-04,Cusco ciudad,Detergentes y limpiadores,94,94,0,65.52,47.46
+2025-08-04,Cusco ciudad,Desinfección,38,38,0,58.74,41.94
+2025-08-04,Cusco ciudad,Empaque descartable,55,55,0,49.7,35.32
+2025-08-04,Cusco ciudad,Papel e higiene,92,92,0,70.03,50.77
+2025-08-04,Cusco ciudad,Menaje descartable,38,38,0,45.18,32.01
+2025-08-04,Cusco ciudad,Bolsas y film,25,25,0,63.26,46.35
+2025-08-04,Valle Sagrado,Detergentes y limpiadores,39,39,0,65.52,47.46
+2025-08-04,Valle Sagrado,Desinfección,42,42,0,58.74,41.94
+2025-08-04,Valle Sagrado,Empaque descartable,29,29,0,49.7,35.32
+2025-08-04,Valle Sagrado,Papel e higiene,52,52,0,70.03,50.77
+2025-08-04,Valle Sagrado,Menaje descartable,43,43,0,45.18,32.01
+2025-08-04,Valle Sagrado,Bolsas y film,11,11,0,63.26,46.35
+2025-08-11,Cusco ciudad,Detergentes y limpiadores,106,106,0,65.57,47.49
+2025-08-11,Cusco ciudad,Desinfección,49,49,0,58.79,41.97
+2025-08-11,Cusco ciudad,Empaque descartable,73,73,0,49.74,35.34
+2025-08-11,Cusco ciudad,Papel e higiene,88,88,0,70.09,50.8
+2025-08-11,Cusco ciudad,Menaje descartable,57,57,0,45.22,32.03
+2025-08-11,Cusco ciudad,Bolsas y film,44,44,0,63.31,46.39
+2025-08-11,Valle Sagrado,Detergentes y limpiadores,30,30,0,65.57,47.49
+2025-08-11,Valle Sagrado,Desinfección,12,12,0,58.79,41.97
+2025-08-11,Valle Sagrado,Empaque descartable,14,14,0,49.74,35.34
+2025-08-11,Valle Sagrado,Papel e higiene,18,18,0,70.09,50.8
+2025-08-11,Valle Sagrado,Menaje descartable,33,33,0,45.22,32.03
+2025-08-11,Valle Sagrado,Bolsas y film,26,26,0,63.31,46.39
+2025-08-18,Cusco ciudad,Detergentes y limpiadores,73,73,0,65.63,47.52
+2025-08-18,Cusco ciudad,Desinfección,82,82,0,58.84,42.0
+2025-08-18,Cusco ciudad,Empaque descartable,84,84,0,49.79,35.37
+2025-08-18,Cusco ciudad,Papel e higiene,83,83,0,70.15,50.84
+2025-08-18,Cusco ciudad,Menaje descartable,71,71,0,45.26,32.05
+2025-08-18,Cusco ciudad,Bolsas y film,46,46,0,63.36,46.42
+2025-08-18,Valle Sagrado,Detergentes y limpiadores,55,55,0,65.63,47.52
+2025-08-18,Valle Sagrado,Desinfección,27,27,0,58.84,42.0
+2025-08-18,Valle Sagrado,Empaque descartable,39,39,0,49.79,35.37
+2025-08-18,Valle Sagrado,Papel e higiene,34,34,0,70.15,50.84
+2025-08-18,Valle Sagrado,Menaje descartable,34,34,0,45.26,32.05
+2025-08-18,Valle Sagrado,Bolsas y film,19,19,0,63.36,46.42
+2025-08-25,Cusco ciudad,Detergentes y limpiadores,117,117,0,65.68,47.56
+2025-08-25,Cusco ciudad,Desinfección,76,76,0,58.89,42.03
+2025-08-25,Cusco ciudad,Empaque descartable,48,48,0,49.83,35.39
+2025-08-25,Cusco ciudad,Papel e higiene,67,67,0,70.21,50.87
+2025-08-25,Cusco ciudad,Menaje descartable,75,75,0,45.3,32.07
+2025-08-25,Cusco ciudad,Bolsas y film,53,53,0,63.42,46.45
+2025-08-25,Valle Sagrado,Detergentes y limpiadores,70,70,0,65.68,47.56
+2025-08-25,Valle Sagrado,Desinfección,29,29,0,58.89,42.03
+2025-08-25,Valle Sagrado,Empaque descartable,44,44,0,49.83,35.39
+2025-08-25,Valle Sagrado,Papel e higiene,39,39,0,70.21,50.87
+2025-08-25,Valle Sagrado,Menaje descartable,38,38,0,45.3,32.07
+2025-08-25,Valle Sagrado,Bolsas y film,32,32,0,63.42,46.45
+2025-09-01,Cusco ciudad,Detergentes y limpiadores,78,78,0,65.74,47.59
+2025-09-01,Cusco ciudad,Desinfección,67,67,0,58.94,42.06
+2025-09-01,Cusco ciudad,Empaque descartable,69,69,0,49.87,35.42
+2025-09-01,Cusco ciudad,Papel e higiene,63,63,0,70.27,50.91
+2025-09-01,Cusco ciudad,Menaje descartable,63,63,0,45.34,32.1
+2025-09-01,Cusco ciudad,Bolsas y film,36,36,0,63.47,46.48
+2025-09-01,Valle Sagrado,Detergentes y limpiadores,30,30,0,65.74,47.59
+2025-09-01,Valle Sagrado,Desinfección,36,36,0,58.94,42.06
+2025-09-01,Valle Sagrado,Empaque descartable,22,22,0,49.87,35.42
+2025-09-01,Valle Sagrado,Papel e higiene,28,28,0,70.27,50.91
+2025-09-01,Valle Sagrado,Menaje descartable,22,22,0,45.34,32.1
+2025-09-01,Valle Sagrado,Bolsas y film,14,14,0,63.47,46.48
+2025-09-08,Cusco ciudad,Detergentes y limpiadores,148,148,0,65.79,47.62
+2025-09-08,Cusco ciudad,Desinfección,33,33,0,58.99,42.09
+2025-09-08,Cusco ciudad,Empaque descartable,63,63,0,49.91,35.44
+2025-09-08,Cusco ciudad,Papel e higiene,69,69,0,70.33,50.95
+2025-09-08,Cusco ciudad,Menaje descartable,54,54,0,45.38,32.12
+2025-09-08,Cusco ciudad,Bolsas y film,36,36,0,63.53,46.52
+2025-09-08,Valle Sagrado,Detergentes y limpiadores,38,38,0,65.79,47.62
+2025-09-08,Valle Sagrado,Desinfección,27,27,0,58.99,42.09
+2025-09-08,Valle Sagrado,Empaque descartable,54,54,0,49.91,35.44
+2025-09-08,Valle Sagrado,Papel e higiene,31,31,0,70.33,50.95
+2025-09-08,Valle Sagrado,Menaje descartable,8,8,0,45.38,32.12
+2025-09-08,Valle Sagrado,Bolsas y film,22,22,0,63.53,46.52
+2025-09-15,Cusco ciudad,Detergentes y limpiadores,90,90,0,65.85,47.66
+2025-09-15,Cusco ciudad,Desinfección,48,48,0,59.04,42.11
+2025-09-15,Cusco ciudad,Empaque descartable,71,71,0,49.96,35.46
+2025-09-15,Cusco ciudad,Papel e higiene,64,64,0,70.39,50.98
+2025-09-15,Cusco ciudad,Menaje descartable,57,57,0,45.41,32.14
+2025-09-15,Cusco ciudad,Bolsas y film,43,43,0,63.58,46.55
+2025-09-15,Valle Sagrado,Detergentes y limpiadores,38,38,0,65.85,47.66
+2025-09-15,Valle Sagrado,Desinfección,39,39,0,59.04,42.11
+2025-09-15,Valle Sagrado,Empaque descartable,49,49,0,49.96,35.46
+2025-09-15,Valle Sagrado,Papel e higiene,30,30,0,70.39,50.98
+2025-09-15,Valle Sagrado,Menaje descartable,30,30,0,45.41,32.14
+2025-09-15,Valle Sagrado,Bolsas y film,18,18,0,63.58,46.55
+2025-09-22,Cusco ciudad,Detergentes y limpiadores,91,91,0,65.91,47.69
+2025-09-22,Cusco ciudad,Desinfección,43,43,0,59.09,42.14
+2025-09-22,Cusco ciudad,Empaque descartable,74,74,0,50.0,35.49
+2025-09-22,Cusco ciudad,Papel e higiene,83,83,0,70.45,51.02
+2025-09-22,Cusco ciudad,Menaje descartable,60,60,0,45.45,32.16
+2025-09-22,Cusco ciudad,Bolsas y film,34,34,0,63.63,46.58
+2025-09-22,Valle Sagrado,Detergentes y limpiadores,34,34,0,65.91,47.69
+2025-09-22,Valle Sagrado,Desinfección,21,21,0,59.09,42.14
+2025-09-22,Valle Sagrado,Empaque descartable,22,22,0,50.0,35.49
+2025-09-22,Valle Sagrado,Papel e higiene,18,18,0,70.45,51.02
+2025-09-22,Valle Sagrado,Menaje descartable,29,29,0,45.45,32.16
+2025-09-22,Valle Sagrado,Bolsas y film,16,16,0,63.63,46.58
+2025-09-29,Cusco ciudad,Detergentes y limpiadores,87,87,0,65.96,47.72
+2025-09-29,Cusco ciudad,Desinfección,63,63,0,59.14,42.17
+2025-09-29,Cusco ciudad,Empaque descartable,70,70,0,50.04,35.51
+2025-09-29,Cusco ciudad,Papel e higiene,95,95,0,70.51,51.05
+2025-09-29,Cusco ciudad,Menaje descartable,52,52,0,45.49,32.18
+2025-09-29,Cusco ciudad,Bolsas y film,22,6,16,63.69,46.61
+2025-09-29,Valle Sagrado,Detergentes y limpiadores,63,63,0,65.96,47.72
+2025-09-29,Valle Sagrado,Desinfección,27,27,0,59.14,42.17
+2025-09-29,Valle Sagrado,Empaque descartable,61,61,0,50.04,35.51
+2025-09-29,Valle Sagrado,Papel e higiene,33,33,0,70.51,51.05
+2025-09-29,Valle Sagrado,Menaje descartable,52,52,0,45.49,32.18
+2025-09-29,Valle Sagrado,Bolsas y film,35,10,25,63.69,46.61
+2025-10-06,Cusco ciudad,Detergentes y limpiadores,101,101,0,66.02,47.75
+2025-10-06,Cusco ciudad,Desinfección,49,49,0,59.19,42.2
+2025-10-06,Cusco ciudad,Empaque descartable,90,90,0,50.08,35.54
+2025-10-06,Cusco ciudad,Papel e higiene,72,72,0,70.57,51.09
+2025-10-06,Cusco ciudad,Menaje descartable,42,42,0,45.53,32.21
+2025-10-06,Cusco ciudad,Bolsas y film,32,21,11,63.74,46.64
+2025-10-06,Valle Sagrado,Detergentes y limpiadores,71,71,0,66.02,47.75
+2025-10-06,Valle Sagrado,Desinfección,31,31,0,59.19,42.2
+2025-10-06,Valle Sagrado,Empaque descartable,50,50,0,50.08,35.54
+2025-10-06,Valle Sagrado,Papel e higiene,38,38,0,70.57,51.09
+2025-10-06,Valle Sagrado,Menaje descartable,37,37,0,45.53,32.21
+2025-10-06,Valle Sagrado,Bolsas y film,36,14,22,63.74,46.64
+2025-10-13,Cusco ciudad,Detergentes y limpiadores,55,55,0,66.07,47.79
+2025-10-13,Cusco ciudad,Desinfección,38,38,0,59.24,42.23
+2025-10-13,Cusco ciudad,Empaque descartable,56,56,0,50.12,35.56
+2025-10-13,Cusco ciudad,Papel e higiene,74,74,0,70.63,51.12
+2025-10-13,Cusco ciudad,Menaje descartable,69,69,0,45.57,32.23
+2025-10-13,Cusco ciudad,Bolsas y film,37,22,15,63.79,46.68
+2025-10-13,Valle Sagrado,Detergentes y limpiadores,43,43,0,66.07,47.79
+2025-10-13,Valle Sagrado,Desinfección,15,15,0,59.24,42.23
+2025-10-13,Valle Sagrado,Empaque descartable,33,33,0,50.12,35.56
+2025-10-13,Valle Sagrado,Papel e higiene,24,24,0,70.63,51.12
+2025-10-13,Valle Sagrado,Menaje descartable,16,16,0,45.57,32.23
+2025-10-13,Valle Sagrado,Bolsas y film,18,11,7,63.79,46.68
+2025-10-20,Cusco ciudad,Detergentes y limpiadores,108,108,0,66.13,47.82
+2025-10-20,Cusco ciudad,Desinfección,39,39,0,59.29,42.26
+2025-10-20,Cusco ciudad,Empaque descartable,74,74,0,50.17,35.59
+2025-10-20,Cusco ciudad,Papel e higiene,48,48,0,70.69,51.16
+2025-10-20,Cusco ciudad,Menaje descartable,68,68,0,45.61,32.25
+2025-10-20,Cusco ciudad,Bolsas y film,34,34,0,63.85,46.71
+2025-10-20,Valle Sagrado,Detergentes y limpiadores,59,59,0,66.13,47.82
+2025-10-20,Valle Sagrado,Desinfección,20,20,0,59.29,42.26
+2025-10-20,Valle Sagrado,Empaque descartable,43,43,0,50.17,35.59
+2025-10-20,Valle Sagrado,Papel e higiene,42,42,0,70.69,51.16
+2025-10-20,Valle Sagrado,Menaje descartable,51,51,0,45.61,32.25
+2025-10-20,Valle Sagrado,Bolsas y film,25,25,0,63.85,46.71
+2025-10-27,Cusco ciudad,Detergentes y limpiadores,59,59,0,66.18,47.85
+2025-10-27,Cusco ciudad,Desinfección,43,43,0,59.34,42.29
+2025-10-27,Cusco ciudad,Empaque descartable,75,75,0,50.21,35.61
+2025-10-27,Cusco ciudad,Papel e higiene,93,93,0,70.75,51.19
+2025-10-27,Cusco ciudad,Menaje descartable,77,77,0,45.64,32.27
+2025-10-27,Cusco ciudad,Bolsas y film,42,42,0,63.9,46.74
+2025-10-27,Valle Sagrado,Detergentes y limpiadores,32,32,0,66.18,47.85
+2025-10-27,Valle Sagrado,Desinfección,29,29,0,59.34,42.29
+2025-10-27,Valle Sagrado,Empaque descartable,39,39,0,50.21,35.61
+2025-10-27,Valle Sagrado,Papel e higiene,54,54,0,70.75,51.19
+2025-10-27,Valle Sagrado,Menaje descartable,16,16,0,45.64,32.27
+2025-10-27,Valle Sagrado,Bolsas y film,11,11,0,63.9,46.74
+2025-11-03,Cusco ciudad,Detergentes y limpiadores,59,59,0,66.24,47.89
+2025-11-03,Cusco ciudad,Desinfección,60,60,0,59.39,42.32
+2025-11-03,Cusco ciudad,Empaque descartable,75,75,0,50.25,35.64
+2025-11-03,Cusco ciudad,Papel e higiene,70,70,0,70.81,51.23
+2025-11-03,Cusco ciudad,Menaje descartable,66,37,29,45.68,32.3
+2025-11-03,Cusco ciudad,Bolsas y film,37,37,0,63.96,46.77
+2025-11-03,Valle Sagrado,Detergentes y limpiadores,59,59,0,66.24,47.89
+2025-11-03,Valle Sagrado,Desinfección,43,43,0,59.39,42.32
+2025-11-03,Valle Sagrado,Empaque descartable,31,31,0,50.25,35.64
+2025-11-03,Valle Sagrado,Papel e higiene,39,39,0,70.81,51.23
+2025-11-03,Valle Sagrado,Menaje descartable,12,6,6,45.68,32.3
+2025-11-03,Valle Sagrado,Bolsas y film,35,35,0,63.96,46.77
+2025-11-10,Cusco ciudad,Detergentes y limpiadores,45,45,0,66.29,47.92
+2025-11-10,Cusco ciudad,Desinfección,43,43,0,59.44,42.35
+2025-11-10,Cusco ciudad,Empaque descartable,58,58,0,50.29,35.66
+2025-11-10,Cusco ciudad,Papel e higiene,39,39,0,70.87,51.26
+2025-11-10,Cusco ciudad,Menaje descartable,62,62,0,45.72,32.32
+2025-11-10,Cusco ciudad,Bolsas y film,10,10,0,64.01,46.81
+2025-11-10,Valle Sagrado,Detergentes y limpiadores,47,47,0,66.29,47.92
+2025-11-10,Valle Sagrado,Desinfección,24,24,0,59.44,42.35
+2025-11-10,Valle Sagrado,Empaque descartable,67,67,0,50.29,35.66
+2025-11-10,Valle Sagrado,Papel e higiene,35,35,0,70.87,51.26
+2025-11-10,Valle Sagrado,Menaje descartable,22,22,0,45.72,32.32
+2025-11-10,Valle Sagrado,Bolsas y film,19,19,0,64.01,46.81
+2025-11-17,Cusco ciudad,Detergentes y limpiadores,83,83,0,66.35,47.95
+2025-11-17,Cusco ciudad,Desinfección,24,24,0,59.49,42.38
+2025-11-17,Cusco ciudad,Empaque descartable,72,72,0,50.33,35.69
+2025-11-17,Cusco ciudad,Papel e higiene,72,72,0,70.93,51.3
+2025-11-17,Cusco ciudad,Menaje descartable,66,66,0,45.76,32.34
+2025-11-17,Cusco ciudad,Bolsas y film,31,31,0,64.06,46.84
+2025-11-17,Valle Sagrado,Detergentes y limpiadores,40,40,0,66.35,47.95
+2025-11-17,Valle Sagrado,Desinfección,28,28,0,59.49,42.38
+2025-11-17,Valle Sagrado,Empaque descartable,40,40,0,50.33,35.69
+2025-11-17,Valle Sagrado,Papel e higiene,42,42,0,70.93,51.3
+2025-11-17,Valle Sagrado,Menaje descartable,27,27,0,45.76,32.34
+2025-11-17,Valle Sagrado,Bolsas y film,8,8,0,64.06,46.84
+2025-11-24,Cusco ciudad,Detergentes y limpiadores,94,94,0,66.41,47.99
+2025-11-24,Cusco ciudad,Desinfección,70,70,0,59.54,42.41
+2025-11-24,Cusco ciudad,Empaque descartable,62,62,0,50.38,35.71
+2025-11-24,Cusco ciudad,Papel e higiene,52,52,0,70.99,51.33
+2025-11-24,Cusco ciudad,Menaje descartable,49,49,0,45.8,32.36
+2025-11-24,Cusco ciudad,Bolsas y film,36,36,0,64.12,46.87
+2025-11-24,Valle Sagrado,Detergentes y limpiadores,35,35,0,66.41,47.99
+2025-11-24,Valle Sagrado,Desinfección,32,32,0,59.54,42.41
+2025-11-24,Valle Sagrado,Empaque descartable,58,58,0,50.38,35.71
+2025-11-24,Valle Sagrado,Papel e higiene,37,37,0,70.99,51.33
+2025-11-24,Valle Sagrado,Menaje descartable,29,29,0,45.8,32.36
+2025-11-24,Valle Sagrado,Bolsas y film,21,21,0,64.12,46.87
+2025-12-01,Cusco ciudad,Detergentes y limpiadores,93,93,0,66.46,48.02
+2025-12-01,Cusco ciudad,Desinfección,36,36,0,59.59,42.44
+2025-12-01,Cusco ciudad,Empaque descartable,63,63,0,50.42,35.73
+2025-12-01,Cusco ciudad,Papel e higiene,55,55,0,71.05,51.37
+2025-12-01,Cusco ciudad,Menaje descartable,42,42,0,45.84,32.38
+2025-12-01,Cusco ciudad,Bolsas y film,33,33,0,64.17,46.9
+2025-12-01,Valle Sagrado,Detergentes y limpiadores,55,55,0,66.46,48.02
+2025-12-01,Valle Sagrado,Desinfección,30,30,0,59.59,42.44
+2025-12-01,Valle Sagrado,Empaque descartable,31,31,0,50.42,35.73
+2025-12-01,Valle Sagrado,Papel e higiene,13,13,0,71.05,51.37
+2025-12-01,Valle Sagrado,Menaje descartable,7,7,0,45.84,32.38
+2025-12-01,Valle Sagrado,Bolsas y film,9,9,0,64.17,46.9
+2025-12-08,Cusco ciudad,Detergentes y limpiadores,53,53,0,66.52,48.05
+2025-12-08,Cusco ciudad,Desinfección,33,33,0,59.64,42.46
+2025-12-08,Cusco ciudad,Empaque descartable,44,44,0,50.46,35.76
+2025-12-08,Cusco ciudad,Papel e higiene,59,59,0,71.1,51.4
+2025-12-08,Cusco ciudad,Menaje descartable,38,38,0,45.87,32.41
+2025-12-08,Cusco ciudad,Bolsas y film,8,8,0,64.22,46.93
+2025-12-08,Valle Sagrado,Detergentes y limpiadores,68,68,0,66.52,48.05
+2025-12-08,Valle Sagrado,Desinfección,17,17,0,59.64,42.46
+2025-12-08,Valle Sagrado,Empaque descartable,20,20,0,50.46,35.76
+2025-12-08,Valle Sagrado,Papel e higiene,28,28,0,71.1,51.4
+2025-12-08,Valle Sagrado,Menaje descartable,31,31,0,45.87,32.41
+2025-12-08,Valle Sagrado,Bolsas y film,18,18,0,64.22,46.93
+2025-12-15,Cusco ciudad,Detergentes y limpiadores,74,74,0,66.57,48.08
+2025-12-15,Cusco ciudad,Desinfección,40,40,0,59.69,42.49
+2025-12-15,Cusco ciudad,Empaque descartable,73,73,0,50.5,35.78
+2025-12-15,Cusco ciudad,Papel e higiene,96,96,0,71.16,51.44
+2025-12-15,Cusco ciudad,Menaje descartable,70,70,0,45.91,32.43
+2025-12-15,Cusco ciudad,Bolsas y film,23,23,0,64.28,46.97
+2025-12-15,Valle Sagrado,Detergentes y limpiadores,40,40,0,66.57,48.08
+2025-12-15,Valle Sagrado,Desinfección,26,26,0,59.69,42.49
+2025-12-15,Valle Sagrado,Empaque descartable,38,38,0,50.5,35.78
+2025-12-15,Valle Sagrado,Papel e higiene,17,17,0,71.16,51.44
+2025-12-15,Valle Sagrado,Menaje descartable,20,20,0,45.91,32.43
+2025-12-15,Valle Sagrado,Bolsas y film,10,10,0,64.28,46.97
+2025-12-22,Cusco ciudad,Detergentes y limpiadores,84,37,47,66.63,48.12
+2025-12-22,Cusco ciudad,Desinfección,33,33,0,59.74,42.52
+2025-12-22,Cusco ciudad,Empaque descartable,67,67,0,50.55,35.81
+2025-12-22,Cusco ciudad,Papel e higiene,60,18,42,71.22,51.47
+2025-12-22,Cusco ciudad,Menaje descartable,72,72,0,45.95,32.45
+2025-12-22,Cusco ciudad,Bolsas y film,19,19,0,64.33,47.0
+2025-12-22,Valle Sagrado,Detergentes y limpiadores,42,7,35,66.63,48.12
+2025-12-22,Valle Sagrado,Desinfección,35,35,0,59.74,42.52
+2025-12-22,Valle Sagrado,Empaque descartable,35,35,0,50.55,35.81
+2025-12-22,Valle Sagrado,Papel e higiene,52,10,42,71.22,51.47
+2025-12-22,Valle Sagrado,Menaje descartable,39,39,0,45.95,32.45
+2025-12-22,Valle Sagrado,Bolsas y film,10,10,0,64.33,47.0
+2025-12-29,Cusco ciudad,Detergentes y limpiadores,57,57,0,66.68,48.15
+2025-12-29,Cusco ciudad,Desinfección,56,56,0,59.79,42.55
+2025-12-29,Cusco ciudad,Empaque descartable,43,43,0,50.59,35.83
+2025-12-29,Cusco ciudad,Papel e higiene,72,72,0,71.28,51.51
+2025-12-29,Cusco ciudad,Menaje descartable,61,61,0,45.99,32.47
+2025-12-29,Cusco ciudad,Bolsas y film,34,34,0,64.38,47.03
+2025-12-29,Valle Sagrado,Detergentes y limpiadores,32,32,0,66.68,48.15
+2025-12-29,Valle Sagrado,Desinfección,13,13,0,59.79,42.55
+2025-12-29,Valle Sagrado,Empaque descartable,44,44,0,50.59,35.83
+2025-12-29,Valle Sagrado,Papel e higiene,38,38,0,71.28,51.51
+2025-12-29,Valle Sagrado,Menaje descartable,31,31,0,45.99,32.47
+2025-12-29,Valle Sagrado,Bolsas y film,25,25,0,64.38,47.03
+2026-01-05,Cusco ciudad,Detergentes y limpiadores,102,102,0,66.74,48.18
+2026-01-05,Cusco ciudad,Desinfección,20,20,0,59.84,42.58
+2026-01-05,Cusco ciudad,Empaque descartable,74,74,0,50.63,35.86
+2026-01-05,Cusco ciudad,Papel e higiene,60,60,0,71.34,51.55
+2026-01-05,Cusco ciudad,Menaje descartable,55,55,0,46.03,32.5
+2026-01-05,Cusco ciudad,Bolsas y film,56,56,0,64.44,47.06
+2026-01-05,Valle Sagrado,Detergentes y limpiadores,32,32,0,66.74,48.18
+2026-01-05,Valle Sagrado,Desinfección,10,10,0,59.84,42.58
+2026-01-05,Valle Sagrado,Empaque descartable,22,22,0,50.63,35.86
+2026-01-05,Valle Sagrado,Papel e higiene,29,29,0,71.34,51.55
+2026-01-05,Valle Sagrado,Menaje descartable,17,17,0,46.03,32.5
+2026-01-05,Valle Sagrado,Bolsas y film,16,16,0,64.44,47.06
+2026-01-12,Cusco ciudad,Detergentes y limpiadores,45,45,0,66.8,48.22
+2026-01-12,Cusco ciudad,Desinfección,44,44,0,59.89,42.61
+2026-01-12,Cusco ciudad,Empaque descartable,48,48,0,50.67,35.88
+2026-01-12,Cusco ciudad,Papel e higiene,25,25,0,71.4,51.58
+2026-01-12,Cusco ciudad,Menaje descartable,62,62,0,46.07,32.52
+2026-01-12,Cusco ciudad,Bolsas y film,31,31,0,64.49,47.1
+2026-01-12,Valle Sagrado,Detergentes y limpiadores,21,21,0,66.8,48.22
+2026-01-12,Valle Sagrado,Desinfección,22,22,0,59.89,42.61
+2026-01-12,Valle Sagrado,Empaque descartable,47,47,0,50.67,35.88
+2026-01-12,Valle Sagrado,Papel e higiene,40,40,0,71.4,51.58
+2026-01-12,Valle Sagrado,Menaje descartable,22,22,0,46.07,32.52
+2026-01-12,Valle Sagrado,Bolsas y film,11,11,0,64.49,47.1
+2026-01-19,Cusco ciudad,Detergentes y limpiadores,63,63,0,66.85,48.25
+2026-01-19,Cusco ciudad,Desinfección,40,40,0,59.94,42.64
+2026-01-19,Cusco ciudad,Empaque descartable,71,71,0,50.71,35.91
+2026-01-19,Cusco ciudad,Papel e higiene,65,65,0,71.46,51.62
+2026-01-19,Cusco ciudad,Menaje descartable,67,67,0,46.1,32.54
+2026-01-19,Cusco ciudad,Bolsas y film,29,29,0,64.55,47.13
+2026-01-19,Valle Sagrado,Detergentes y limpiadores,24,24,0,66.85,48.25
+2026-01-19,Valle Sagrado,Desinfección,18,18,0,59.94,42.64
+2026-01-19,Valle Sagrado,Empaque descartable,30,30,0,50.71,35.91
+2026-01-19,Valle Sagrado,Papel e higiene,29,29,0,71.46,51.62
+2026-01-19,Valle Sagrado,Menaje descartable,18,18,0,46.1,32.54
+2026-01-19,Valle Sagrado,Bolsas y film,20,20,0,64.55,47.13
+2026-01-26,Cusco ciudad,Detergentes y limpiadores,76,30,46,66.91,48.28
+2026-01-26,Cusco ciudad,Desinfección,67,67,0,59.99,42.67
+2026-01-26,Cusco ciudad,Empaque descartable,108,108,0,50.76,35.93
+2026-01-26,Cusco ciudad,Papel e higiene,79,79,0,71.52,51.65
+2026-01-26,Cusco ciudad,Menaje descartable,45,8,37,46.14,32.56
+2026-01-26,Cusco ciudad,Bolsas y film,29,29,0,64.6,47.16
+2026-01-26,Valle Sagrado,Detergentes y limpiadores,31,14,17,66.91,48.28
+2026-01-26,Valle Sagrado,Desinfección,21,21,0,59.99,42.67
+2026-01-26,Valle Sagrado,Empaque descartable,35,35,0,50.76,35.93
+2026-01-26,Valle Sagrado,Papel e higiene,61,61,0,71.52,51.65
+2026-01-26,Valle Sagrado,Menaje descartable,17,5,12,46.14,32.56
+2026-01-26,Valle Sagrado,Bolsas y film,24,24,0,64.6,47.16
+2026-02-02,Cusco ciudad,Detergentes y limpiadores,52,52,0,66.96,48.32
+2026-02-02,Cusco ciudad,Desinfección,55,55,0,60.04,42.7
+2026-02-02,Cusco ciudad,Empaque descartable,72,72,0,50.8,35.96
+2026-02-02,Cusco ciudad,Papel e higiene,39,39,0,71.58,51.69
+2026-02-02,Cusco ciudad,Menaje descartable,46,46,0,46.18,32.58
+2026-02-02,Cusco ciudad,Bolsas y film,41,41,0,64.65,47.19
+2026-02-02,Valle Sagrado,Detergentes y limpiadores,31,31,0,66.96,48.32
+2026-02-02,Valle Sagrado,Desinfección,14,14,0,60.04,42.7
+2026-02-02,Valle Sagrado,Empaque descartable,35,35,0,50.8,35.96
+2026-02-02,Valle Sagrado,Papel e higiene,44,44,0,71.58,51.69
+2026-02-02,Valle Sagrado,Menaje descartable,16,16,0,46.18,32.58
+2026-02-02,Valle Sagrado,Bolsas y film,31,31,0,64.65,47.19
+2026-02-09,Cusco ciudad,Detergentes y limpiadores,51,51,0,67.02,48.35
+2026-02-09,Cusco ciudad,Desinfección,44,44,0,60.08,42.73
+2026-02-09,Cusco ciudad,Empaque descartable,75,75,0,50.84,35.98
+2026-02-09,Cusco ciudad,Papel e higiene,58,58,0,71.64,51.72
+2026-02-09,Cusco ciudad,Menaje descartable,43,43,0,46.22,32.61
+2026-02-09,Cusco ciudad,Bolsas y film,12,12,0,64.71,47.22
+2026-02-09,Valle Sagrado,Detergentes y limpiadores,45,45,0,67.02,48.35
+2026-02-09,Valle Sagrado,Desinfección,14,14,0,60.08,42.73
+2026-02-09,Valle Sagrado,Empaque descartable,27,27,0,50.84,35.98
+2026-02-09,Valle Sagrado,Papel e higiene,37,37,0,71.64,51.72
+2026-02-09,Valle Sagrado,Menaje descartable,26,26,0,46.22,32.61
+2026-02-09,Valle Sagrado,Bolsas y film,39,39,0,64.71,47.22
+2026-02-16,Cusco ciudad,Detergentes y limpiadores,81,81,0,67.07,48.38
+2026-02-16,Cusco ciudad,Desinfección,37,37,0,60.13,42.76
+2026-02-16,Cusco ciudad,Empaque descartable,85,85,0,50.88,36.0
+2026-02-16,Cusco ciudad,Papel e higiene,80,80,0,71.7,51.76
+2026-02-16,Cusco ciudad,Menaje descartable,45,45,0,46.26,32.63
+2026-02-16,Cusco ciudad,Bolsas y film,24,24,0,64.76,47.26
+2026-02-16,Valle Sagrado,Detergentes y limpiadores,30,30,0,67.07,48.38
+2026-02-16,Valle Sagrado,Desinfección,26,26,0,60.13,42.76
+2026-02-16,Valle Sagrado,Empaque descartable,34,34,0,50.88,36.0
+2026-02-16,Valle Sagrado,Papel e higiene,34,34,0,71.7,51.76
+2026-02-16,Valle Sagrado,Menaje descartable,11,11,0,46.26,32.63
+2026-02-16,Valle Sagrado,Bolsas y film,13,13,0,64.76,47.26
+2026-02-23,Cusco ciudad,Detergentes y limpiadores,87,87,0,67.13,48.41
+2026-02-23,Cusco ciudad,Desinfección,43,43,0,60.18,42.78
+2026-02-23,Cusco ciudad,Empaque descartable,42,42,0,50.93,36.03
+2026-02-23,Cusco ciudad,Papel e higiene,31,31,0,71.76,51.79
+2026-02-23,Cusco ciudad,Menaje descartable,30,30,0,46.3,32.65
+2026-02-23,Cusco ciudad,Bolsas y film,31,31,0,64.81,47.29
+2026-02-23,Valle Sagrado,Detergentes y limpiadores,28,28,0,67.13,48.41
+2026-02-23,Valle Sagrado,Desinfección,7,7,0,60.18,42.78
+2026-02-23,Valle Sagrado,Empaque descartable,39,39,0,50.93,36.03
+2026-02-23,Valle Sagrado,Papel e higiene,27,27,0,71.76,51.79
+2026-02-23,Valle Sagrado,Menaje descartable,10,10,0,46.3,32.65
+2026-02-23,Valle Sagrado,Bolsas y film,18,18,0,64.81,47.29
+2026-03-02,Cusco ciudad,Detergentes y limpiadores,41,41,0,67.18,48.45
+2026-03-02,Cusco ciudad,Desinfección,35,35,0,60.23,42.81
+2026-03-02,Cusco ciudad,Empaque descartable,62,62,0,50.97,36.05
+2026-03-02,Cusco ciudad,Papel e higiene,58,58,0,71.82,51.83
+2026-03-02,Cusco ciudad,Menaje descartable,45,45,0,46.33,32.67
+2026-03-02,Cusco ciudad,Bolsas y film,74,74,0,64.87,47.32
+2026-03-02,Valle Sagrado,Detergentes y limpiadores,30,30,0,67.18,48.45
+2026-03-02,Valle Sagrado,Desinfección,34,34,0,60.23,42.81
+2026-03-02,Valle Sagrado,Empaque descartable,27,27,0,50.97,36.05
+2026-03-02,Valle Sagrado,Papel e higiene,55,55,0,71.82,51.83
+2026-03-02,Valle Sagrado,Menaje descartable,16,16,0,46.33,32.67
+2026-03-02,Valle Sagrado,Bolsas y film,2,2,0,64.87,47.32
+2026-03-09,Cusco ciudad,Detergentes y limpiadores,70,70,0,67.24,48.48
+2026-03-09,Cusco ciudad,Desinfección,77,77,0,60.28,42.84
+2026-03-09,Cusco ciudad,Empaque descartable,60,60,0,51.01,36.08
+2026-03-09,Cusco ciudad,Papel e higiene,63,63,0,71.88,51.86
+2026-03-09,Cusco ciudad,Menaje descartable,34,34,0,46.37,32.7
+2026-03-09,Cusco ciudad,Bolsas y film,24,24,0,64.92,47.35
+2026-03-09,Valle Sagrado,Detergentes y limpiadores,46,46,0,67.24,48.48
+2026-03-09,Valle Sagrado,Desinfección,14,14,0,60.28,42.84
+2026-03-09,Valle Sagrado,Empaque descartable,26,26,0,51.01,36.08
+2026-03-09,Valle Sagrado,Papel e higiene,24,24,0,71.88,51.86
+2026-03-09,Valle Sagrado,Menaje descartable,21,21,0,46.37,32.7
+2026-03-09,Valle Sagrado,Bolsas y film,11,11,0,64.92,47.35
+2026-03-16,Cusco ciudad,Detergentes y limpiadores,53,53,0,67.3,48.51
+2026-03-16,Cusco ciudad,Desinfección,36,36,0,60.33,42.87
+2026-03-16,Cusco ciudad,Empaque descartable,62,62,0,51.05,36.1
+2026-03-16,Cusco ciudad,Papel e higiene,49,49,0,71.94,51.9
+2026-03-16,Cusco ciudad,Menaje descartable,68,68,0,46.41,32.72
+2026-03-16,Cusco ciudad,Bolsas y film,46,46,0,64.98,47.39
+2026-03-16,Valle Sagrado,Detergentes y limpiadores,37,37,0,67.3,48.51
+2026-03-16,Valle Sagrado,Desinfección,16,16,0,60.33,42.87
+2026-03-16,Valle Sagrado,Empaque descartable,29,29,0,51.05,36.1
+2026-03-16,Valle Sagrado,Papel e higiene,29,29,0,71.94,51.9
+2026-03-16,Valle Sagrado,Menaje descartable,31,31,0,46.41,32.72
+2026-03-16,Valle Sagrado,Bolsas y film,14,14,0,64.98,47.39
+2026-03-23,Cusco ciudad,Detergentes y limpiadores,75,75,0,67.35,48.55
+2026-03-23,Cusco ciudad,Desinfección,44,44,0,60.38,42.9
+2026-03-23,Cusco ciudad,Empaque descartable,57,57,0,51.09,36.13
+2026-03-23,Cusco ciudad,Papel e higiene,53,53,0,72.0,51.93
+2026-03-23,Cusco ciudad,Menaje descartable,46,46,0,46.45,32.74
+2026-03-23,Cusco ciudad,Bolsas y film,44,44,0,65.03,47.42
+2026-03-23,Valle Sagrado,Detergentes y limpiadores,19,19,0,67.35,48.55
+2026-03-23,Valle Sagrado,Desinfección,18,18,0,60.38,42.9
+2026-03-23,Valle Sagrado,Empaque descartable,57,57,0,51.09,36.13
+2026-03-23,Valle Sagrado,Papel e higiene,17,17,0,72.0,51.93
+2026-03-23,Valle Sagrado,Menaje descartable,6,6,0,46.45,32.74
+2026-03-23,Valle Sagrado,Bolsas y film,14,14,0,65.03,47.42
+2026-03-30,Cusco ciudad,Detergentes y limpiadores,101,101,0,67.41,48.58
+2026-03-30,Cusco ciudad,Desinfección,27,27,0,60.43,42.93
+2026-03-30,Cusco ciudad,Empaque descartable,78,78,0,51.14,36.15
+2026-03-30,Cusco ciudad,Papel e higiene,44,44,0,72.06,51.97
+2026-03-30,Cusco ciudad,Menaje descartable,49,49,0,46.49,32.76
+2026-03-30,Cusco ciudad,Bolsas y film,36,36,0,65.08,47.45
+2026-03-30,Valle Sagrado,Detergentes y limpiadores,38,38,0,67.41,48.58
+2026-03-30,Valle Sagrado,Desinfección,23,23,0,60.43,42.93
+2026-03-30,Valle Sagrado,Empaque descartable,31,31,0,51.14,36.15
+2026-03-30,Valle Sagrado,Papel e higiene,27,27,0,72.06,51.97
+2026-03-30,Valle Sagrado,Menaje descartable,42,42,0,46.49,32.76
+2026-03-30,Valle Sagrado,Bolsas y film,23,23,0,65.08,47.45
+2026-04-06,Cusco ciudad,Detergentes y limpiadores,66,66,0,67.46,48.61
+2026-04-06,Cusco ciudad,Desinfección,61,61,0,60.48,42.96
+2026-04-06,Cusco ciudad,Empaque descartable,68,68,0,51.18,36.18
+2026-04-06,Cusco ciudad,Papel e higiene,89,89,0,72.12,52.0
+2026-04-06,Cusco ciudad,Menaje descartable,59,59,0,46.53,32.79
+2026-04-06,Cusco ciudad,Bolsas y film,24,24,0,65.14,47.48
+2026-04-06,Valle Sagrado,Detergentes y limpiadores,59,59,0,67.46,48.61
+2026-04-06,Valle Sagrado,Desinfección,29,29,0,60.48,42.96
+2026-04-06,Valle Sagrado,Empaque descartable,30,30,0,51.18,36.18
+2026-04-06,Valle Sagrado,Papel e higiene,50,50,0,72.12,52.0
+2026-04-06,Valle Sagrado,Menaje descartable,16,16,0,46.53,32.79
+2026-04-06,Valle Sagrado,Bolsas y film,4,4,0,65.14,47.48
+2026-04-13,Cusco ciudad,Detergentes y limpiadores,70,70,0,67.52,48.65
+2026-04-13,Cusco ciudad,Desinfección,26,26,0,60.53,42.99
+2026-04-13,Cusco ciudad,Empaque descartable,61,61,0,51.22,36.2
+2026-04-13,Cusco ciudad,Papel e higiene,68,68,0,72.17,52.04
+2026-04-13,Cusco ciudad,Menaje descartable,50,50,0,46.56,32.81
+2026-04-13,Cusco ciudad,Bolsas y film,27,27,0,65.19,47.51
+2026-04-13,Valle Sagrado,Detergentes y limpiadores,44,44,0,67.52,48.65
+2026-04-13,Valle Sagrado,Desinfección,39,39,0,60.53,42.99
+2026-04-13,Valle Sagrado,Empaque descartable,50,50,0,51.22,36.2
+2026-04-13,Valle Sagrado,Papel e higiene,31,31,0,72.17,52.04
+2026-04-13,Valle Sagrado,Menaje descartable,18,18,0,46.56,32.81
+2026-04-13,Valle Sagrado,Bolsas y film,17,17,0,65.19,47.51
+2026-04-20,Cusco ciudad,Detergentes y limpiadores,86,86,0,67.57,48.68
+2026-04-20,Cusco ciudad,Desinfección,46,46,0,60.58,43.02
+2026-04-20,Cusco ciudad,Empaque descartable,61,61,0,51.26,36.23
+2026-04-20,Cusco ciudad,Papel e higiene,55,55,0,72.23,52.07
+2026-04-20,Cusco ciudad,Menaje descartable,56,56,0,46.6,32.83
+2026-04-20,Cusco ciudad,Bolsas y film,55,55,0,65.24,47.55
+2026-04-20,Valle Sagrado,Detergentes y limpiadores,35,35,0,67.57,48.68
+2026-04-20,Valle Sagrado,Desinfección,22,22,0,60.58,43.02
+2026-04-20,Valle Sagrado,Empaque descartable,46,46,0,51.26,36.23
+2026-04-20,Valle Sagrado,Papel e higiene,45,45,0,72.23,52.07
+2026-04-20,Valle Sagrado,Menaje descartable,18,18,0,46.6,32.83
+2026-04-20,Valle Sagrado,Bolsas y film,24,24,0,65.24,47.55
+2026-04-27,Cusco ciudad,Detergentes y limpiadores,98,98,0,67.63,48.71
+2026-04-27,Cusco ciudad,Desinfección,46,46,0,60.63,43.05
+2026-04-27,Cusco ciudad,Empaque descartable,57,57,0,51.31,36.25
+2026-04-27,Cusco ciudad,Papel e higiene,68,68,0,72.29,52.11
+2026-04-27,Cusco ciudad,Menaje descartable,50,50,0,46.64,32.85
+2026-04-27,Cusco ciudad,Bolsas y film,44,44,0,65.3,47.58
+2026-04-27,Valle Sagrado,Detergentes y limpiadores,43,43,0,67.63,48.71
+2026-04-27,Valle Sagrado,Desinfección,25,25,0,60.63,43.05
+2026-04-27,Valle Sagrado,Empaque descartable,35,35,0,51.31,36.25
+2026-04-27,Valle Sagrado,Papel e higiene,58,58,0,72.29,52.11
+2026-04-27,Valle Sagrado,Menaje descartable,27,27,0,46.64,32.85
+2026-04-27,Valle Sagrado,Bolsas y film,6,6,0,65.3,47.58
+2026-05-04,Cusco ciudad,Detergentes y limpiadores,103,52,51,67.69,48.74
+2026-05-04,Cusco ciudad,Desinfección,54,54,0,60.68,43.08
+2026-05-04,Cusco ciudad,Empaque descartable,74,74,0,51.35,36.27
+2026-05-04,Cusco ciudad,Papel e higiene,61,61,0,72.35,52.15
+2026-05-04,Cusco ciudad,Menaje descartable,86,86,0,46.68,32.87
+2026-05-04,Cusco ciudad,Bolsas y film,25,25,0,65.35,47.61
+2026-05-04,Valle Sagrado,Detergentes y limpiadores,44,21,23,67.69,48.74
+2026-05-04,Valle Sagrado,Desinfección,31,31,0,60.68,43.08
+2026-05-04,Valle Sagrado,Empaque descartable,22,22,0,51.35,36.27
+2026-05-04,Valle Sagrado,Papel e higiene,37,37,0,72.35,52.15
+2026-05-04,Valle Sagrado,Menaje descartable,32,32,0,46.68,32.87
+2026-05-04,Valle Sagrado,Bolsas y film,12,12,0,65.35,47.61
+2026-05-11,Cusco ciudad,Detergentes y limpiadores,84,32,52,67.74,48.78
+2026-05-11,Cusco ciudad,Desinfección,43,43,0,60.73,43.11
+2026-05-11,Cusco ciudad,Empaque descartable,87,31,56,51.39,36.3
+2026-05-11,Cusco ciudad,Papel e higiene,75,75,0,72.41,52.18
+2026-05-11,Cusco ciudad,Menaje descartable,65,65,0,46.72,32.9
+2026-05-11,Cusco ciudad,Bolsas y film,31,31,0,65.4,47.64
+2026-05-11,Valle Sagrado,Detergentes y limpiadores,44,23,21,67.74,48.78
+2026-05-11,Valle Sagrado,Desinfección,9,9,0,60.73,43.11
+2026-05-11,Valle Sagrado,Empaque descartable,28,6,22,51.39,36.3
+2026-05-11,Valle Sagrado,Papel e higiene,28,28,0,72.41,52.18
+2026-05-11,Valle Sagrado,Menaje descartable,30,30,0,46.72,32.9
+2026-05-11,Valle Sagrado,Bolsas y film,34,34,0,65.4,47.64
+2026-05-18,Cusco ciudad,Detergentes y limpiadores,111,111,0,67.8,48.81
+2026-05-18,Cusco ciudad,Desinfección,55,55,0,60.78,43.13
+2026-05-18,Cusco ciudad,Empaque descartable,89,89,0,51.43,36.32
+2026-05-18,Cusco ciudad,Papel e higiene,102,102,0,72.47,52.22
+2026-05-18,Cusco ciudad,Menaje descartable,71,71,0,46.76,32.92
+2026-05-18,Cusco ciudad,Bolsas y film,55,55,0,65.46,47.68
+2026-05-18,Valle Sagrado,Detergentes y limpiadores,47,47,0,67.8,48.81
+2026-05-18,Valle Sagrado,Desinfección,21,21,0,60.78,43.13
+2026-05-18,Valle Sagrado,Empaque descartable,42,42,0,51.43,36.32
+2026-05-18,Valle Sagrado,Papel e higiene,23,23,0,72.47,52.22
+2026-05-18,Valle Sagrado,Menaje descartable,22,22,0,46.76,32.92
+2026-05-18,Valle Sagrado,Bolsas y film,15,15,0,65.46,47.68
+2026-05-25,Cusco ciudad,Detergentes y limpiadores,79,79,0,67.85,48.84
+2026-05-25,Cusco ciudad,Desinfección,57,57,0,60.83,43.16
+2026-05-25,Cusco ciudad,Empaque descartable,77,77,0,51.47,36.35
+2026-05-25,Cusco ciudad,Papel e higiene,60,60,0,72.53,52.25
+2026-05-25,Cusco ciudad,Menaje descartable,49,49,0,46.79,32.94
+2026-05-25,Cusco ciudad,Bolsas y film,26,26,0,65.51,47.71
+2026-05-25,Valle Sagrado,Detergentes y limpiadores,45,45,0,67.85,48.84
+2026-05-25,Valle Sagrado,Desinfección,40,40,0,60.83,43.16
+2026-05-25,Valle Sagrado,Empaque descartable,46,46,0,51.47,36.35
+2026-05-25,Valle Sagrado,Papel e higiene,17,17,0,72.53,52.25
+2026-05-25,Valle Sagrado,Menaje descartable,37,37,0,46.79,32.94
+2026-05-25,Valle Sagrado,Bolsas y film,31,31,0,65.51,47.71
+2026-06-01,Cusco ciudad,Detergentes y limpiadores,93,93,0,67.91,48.88
+2026-06-01,Cusco ciudad,Desinfección,59,59,0,60.88,43.19
+2026-06-01,Cusco ciudad,Empaque descartable,94,94,0,51.52,36.37
+2026-06-01,Cusco ciudad,Papel e higiene,94,94,0,72.59,52.29
+2026-06-01,Cusco ciudad,Menaje descartable,48,48,0,46.83,32.96
+2026-06-01,Cusco ciudad,Bolsas y film,47,47,0,65.57,47.74
+2026-06-01,Valle Sagrado,Detergentes y limpiadores,15,15,0,67.91,48.88
+2026-06-01,Valle Sagrado,Desinfección,38,38,0,60.88,43.19
+2026-06-01,Valle Sagrado,Empaque descartable,44,44,0,51.52,36.37
+2026-06-01,Valle Sagrado,Papel e higiene,71,71,0,72.59,52.29
+2026-06-01,Valle Sagrado,Menaje descartable,40,40,0,46.83,32.96
+2026-06-01,Valle Sagrado,Bolsas y film,14,14,0,65.57,47.74
+2026-06-08,Cusco ciudad,Detergentes y limpiadores,69,69,0,67.96,48.91
+2026-06-08,Cusco ciudad,Desinfección,74,74,0,60.93,43.22
+2026-06-08,Cusco ciudad,Empaque descartable,71,71,0,51.56,36.4
+2026-06-08,Cusco ciudad,Papel e higiene,73,73,0,72.65,52.32
+2026-06-08,Cusco ciudad,Menaje descartable,63,63,0,46.87,32.99
+2026-06-08,Cusco ciudad,Bolsas y film,37,37,0,65.62,47.77
+2026-06-08,Valle Sagrado,Detergentes y limpiadores,17,17,0,67.96,48.91
+2026-06-08,Valle Sagrado,Desinfección,26,26,0,60.93,43.22
+2026-06-08,Valle Sagrado,Empaque descartable,49,49,0,51.56,36.4
+2026-06-08,Valle Sagrado,Papel e higiene,28,28,0,72.65,52.32
+2026-06-08,Valle Sagrado,Menaje descartable,34,34,0,46.87,32.99
+2026-06-08,Valle Sagrado,Bolsas y film,41,41,0,65.62,47.77
+2026-06-15,Cusco ciudad,Detergentes y limpiadores,70,70,0,68.02,48.94
+2026-06-15,Cusco ciudad,Desinfección,41,41,0,60.98,43.25
+2026-06-15,Cusco ciudad,Empaque descartable,77,77,0,51.6,36.42
+2026-06-15,Cusco ciudad,Papel e higiene,105,105,0,72.71,52.36
+2026-06-15,Cusco ciudad,Menaje descartable,74,74,0,46.91,33.01
+2026-06-15,Cusco ciudad,Bolsas y film,31,31,0,65.67,47.8
+2026-06-15,Valle Sagrado,Detergentes y limpiadores,54,54,0,68.02,48.94
+2026-06-15,Valle Sagrado,Desinfección,35,35,0,60.98,43.25
+2026-06-15,Valle Sagrado,Empaque descartable,65,65,0,51.6,36.42
+2026-06-15,Valle Sagrado,Papel e higiene,29,29,0,72.71,52.36
+2026-06-15,Valle Sagrado,Menaje descartable,32,32,0,46.91,33.01
+2026-06-15,Valle Sagrado,Bolsas y film,12,12,0,65.67,47.8
+2026-06-22,Cusco ciudad,Detergentes y limpiadores,61,23,38,68.07,48.98
+2026-06-22,Cusco ciudad,Desinfección,36,36,0,61.03,43.28
+2026-06-22,Cusco ciudad,Empaque descartable,88,88,0,51.64,36.45
+2026-06-22,Cusco ciudad,Papel e higiene,91,91,0,72.77,52.39
+2026-06-22,Cusco ciudad,Menaje descartable,75,75,0,46.95,33.03
+2026-06-22,Cusco ciudad,Bolsas y film,16,16,0,65.73,47.84
+2026-06-22,Valle Sagrado,Detergentes y limpiadores,43,16,27,68.07,48.98
+2026-06-22,Valle Sagrado,Desinfección,29,29,0,61.03,43.28
+2026-06-22,Valle Sagrado,Empaque descartable,53,53,0,51.64,36.45
+2026-06-22,Valle Sagrado,Papel e higiene,42,42,0,72.77,52.39
+2026-06-22,Valle Sagrado,Menaje descartable,20,20,0,46.95,33.03
+2026-06-22,Valle Sagrado,Bolsas y film,12,12,0,65.73,47.84
+2026-06-29,Cusco ciudad,Detergentes y limpiadores,89,89,0,68.13,49.01
+2026-06-29,Cusco ciudad,Desinfección,69,69,0,61.08,43.31
+2026-06-29,Cusco ciudad,Empaque descartable,118,118,0,51.68,36.47
+2026-06-29,Cusco ciudad,Papel e higiene,94,94,0,72.83,52.43
+2026-06-29,Cusco ciudad,Menaje descartable,93,93,0,46.99,33.05
+2026-06-29,Cusco ciudad,Bolsas y film,26,26,0,65.78,47.87
+2026-06-29,Valle Sagrado,Detergentes y limpiadores,34,34,0,68.13,49.01
+2026-06-29,Valle Sagrado,Desinfección,22,22,0,61.08,43.31
+2026-06-29,Valle Sagrado,Empaque descartable,71,71,0,51.68,36.47
+2026-06-29,Valle Sagrado,Papel e higiene,21,21,0,72.83,52.43
+2026-06-29,Valle Sagrado,Menaje descartable,31,31,0,46.99,33.05
+2026-06-29,Valle Sagrado,Bolsas y film,39,39,0,65.78,47.87
+2026-07-06,Cusco ciudad,Detergentes y limpiadores,51,51,0,68.19,49.04
+2026-07-06,Cusco ciudad,Desinfección,76,76,0,61.13,43.34
+2026-07-06,Cusco ciudad,Empaque descartable,102,102,0,51.73,36.5
+2026-07-06,Cusco ciudad,Papel e higiene,82,82,0,72.89,52.46
+2026-07-06,Cusco ciudad,Menaje descartable,108,47,61,47.02,33.07
+2026-07-06,Cusco ciudad,Bolsas y film,31,31,0,65.83,47.9
+2026-07-06,Valle Sagrado,Detergentes y limpiadores,41,41,0,68.19,49.04
+2026-07-06,Valle Sagrado,Desinfección,20,20,0,61.13,43.34
+2026-07-06,Valle Sagrado,Empaque descartable,22,22,0,51.73,36.5
+2026-07-06,Valle Sagrado,Papel e higiene,32,32,0,72.89,52.46
+2026-07-06,Valle Sagrado,Menaje descartable,14,10,4,47.02,33.07
+2026-07-06,Valle Sagrado,Bolsas y film,8,8,0,65.83,47.9
+2026-07-13,Cusco ciudad,Detergentes y limpiadores,93,93,0,68.24,49.07
+2026-07-13,Cusco ciudad,Desinfección,81,81,0,61.18,43.37
+2026-07-13,Cusco ciudad,Empaque descartable,137,137,0,51.77,36.52
+2026-07-13,Cusco ciudad,Papel e higiene,76,76,0,72.95,52.5
+2026-07-13,Cusco ciudad,Menaje descartable,44,44,0,47.06,33.1
+2026-07-13,Cusco ciudad,Bolsas y film,43,43,0,65.89,47.93
+2026-07-13,Valle Sagrado,Detergentes y limpiadores,39,39,0,68.24,49.07
+2026-07-13,Valle Sagrado,Desinfección,18,18,0,61.18,43.37
+2026-07-13,Valle Sagrado,Empaque descartable,60,60,0,51.77,36.52
+2026-07-13,Valle Sagrado,Papel e higiene,38,38,0,72.95,52.5
+2026-07-13,Valle Sagrado,Menaje descartable,35,35,0,47.06,33.1
+2026-07-13,Valle Sagrado,Bolsas y film,27,27,0,65.89,47.93
+2026-07-20,Cusco ciudad,Detergentes y limpiadores,71,71,0,68.3,49.11
+2026-07-20,Cusco ciudad,Desinfección,65,29,36,61.23,43.4
+2026-07-20,Cusco ciudad,Empaque descartable,100,100,0,51.81,36.54
+2026-07-20,Cusco ciudad,Papel e higiene,64,64,0,73.01,52.53
+2026-07-20,Cusco ciudad,Menaje descartable,45,45,0,47.1,33.12
+2026-07-20,Cusco ciudad,Bolsas y film,30,30,0,65.94,47.97
+2026-07-20,Valle Sagrado,Detergentes y limpiadores,34,34,0,68.3,49.11
+2026-07-20,Valle Sagrado,Desinfección,41,24,17,61.23,43.4
+2026-07-20,Valle Sagrado,Empaque descartable,55,55,0,51.81,36.54
+2026-07-20,Valle Sagrado,Papel e higiene,49,49,0,73.01,52.53
+2026-07-20,Valle Sagrado,Menaje descartable,31,31,0,47.1,33.12
+2026-07-20,Valle Sagrado,Bolsas y film,20,20,0,65.94,47.97
+2026-07-27,Cusco ciudad,Detergentes y limpiadores,95,95,0,68.35,49.14
+2026-07-27,Cusco ciudad,Desinfección,86,86,0,61.28,43.43
+2026-07-27,Cusco ciudad,Empaque descartable,119,119,0,51.85,36.57
+2026-07-27,Cusco ciudad,Papel e higiene,106,106,0,73.07,52.57
+2026-07-27,Cusco ciudad,Menaje descartable,62,62,0,47.14,33.14
+2026-07-27,Cusco ciudad,Bolsas y film,37,37,0,66.0,48.0
+2026-07-27,Valle Sagrado,Detergentes y limpiadores,36,36,0,68.35,49.14
+2026-07-27,Valle Sagrado,Desinfección,33,33,0,61.28,43.43
+2026-07-27,Valle Sagrado,Empaque descartable,39,39,0,51.85,36.57
+2026-07-27,Valle Sagrado,Papel e higiene,36,36,0,73.07,52.57
+2026-07-27,Valle Sagrado,Menaje descartable,44,44,0,47.14,33.14
+2026-07-27,Valle Sagrado,Bolsas y film,25,25,0,66.0,48.0
+2026-08-03,Cusco ciudad,Detergentes y limpiadores,89,89,0,68.41,49.17
+2026-08-03,Cusco ciudad,Desinfección,87,87,0,61.33,43.46
+2026-08-03,Cusco ciudad,Empaque descartable,85,85,0,51.9,36.59
+2026-08-03,Cusco ciudad,Papel e higiene,85,85,0,73.13,52.6
+2026-08-03,Cusco ciudad,Menaje descartable,47,47,0,47.18,33.16
+2026-08-03,Cusco ciudad,Bolsas y film,35,35,0,66.05,48.03
+2026-08-03,Valle Sagrado,Detergentes y limpiadores,38,38,0,68.41,49.17
+2026-08-03,Valle Sagrado,Desinfección,42,42,0,61.33,43.46
+2026-08-03,Valle Sagrado,Empaque descartable,39,39,0,51.9,36.59
+2026-08-03,Valle Sagrado,Papel e higiene,20,20,0,73.13,52.6
+2026-08-03,Valle Sagrado,Menaje descartable,32,32,0,47.18,33.16
+2026-08-03,Valle Sagrado,Bolsas y film,27,27,0,66.05,48.03
+2026-08-10,Cusco ciudad,Detergentes y limpiadores,96,96,0,68.46,49.21
+2026-08-10,Cusco ciudad,Desinfección,86,86,0,61.38,43.48
+2026-08-10,Cusco ciudad,Empaque descartable,63,63,0,51.94,36.62
+2026-08-10,Cusco ciudad,Papel e higiene,65,65,0,73.19,52.64
+2026-08-10,Cusco ciudad,Menaje descartable,61,61,0,47.22,33.19
+2026-08-10,Cusco ciudad,Bolsas y film,38,38,0,66.1,48.06
+2026-08-10,Valle Sagrado,Detergentes y limpiadores,61,61,0,68.46,49.21
+2026-08-10,Valle Sagrado,Desinfección,15,15,0,61.38,43.48
+2026-08-10,Valle Sagrado,Empaque descartable,37,37,0,51.94,36.62
+2026-08-10,Valle Sagrado,Papel e higiene,38,38,0,73.19,52.64
+2026-08-10,Valle Sagrado,Menaje descartable,41,41,0,47.22,33.19
+2026-08-10,Valle Sagrado,Bolsas y film,24,24,0,66.1,48.06
+2026-08-17,Cusco ciudad,Detergentes y limpiadores,94,94,0,68.52,49.24
+2026-08-17,Cusco ciudad,Desinfección,90,90,0,61.43,43.51
+2026-08-17,Cusco ciudad,Empaque descartable,71,71,0,51.98,36.64
+2026-08-17,Cusco ciudad,Papel e higiene,96,96,0,73.24,52.67
+2026-08-17,Cusco ciudad,Menaje descartable,94,94,0,47.25,33.21
+2026-08-17,Cusco ciudad,Bolsas y film,27,27,0,66.16,48.09
+2026-08-17,Valle Sagrado,Detergentes y limpiadores,64,64,0,68.52,49.24
+2026-08-17,Valle Sagrado,Desinfección,23,23,0,61.43,43.51
+2026-08-17,Valle Sagrado,Empaque descartable,25,25,0,51.98,36.64
+2026-08-17,Valle Sagrado,Papel e higiene,53,53,0,73.24,52.67
+2026-08-17,Valle Sagrado,Menaje descartable,45,45,0,47.25,33.21
+2026-08-17,Valle Sagrado,Bolsas y film,14,14,0,66.16,48.09
+2026-08-24,Cusco ciudad,Detergentes y limpiadores,86,86,0,68.58,49.27
+2026-08-24,Cusco ciudad,Desinfección,45,45,0,61.48,43.54
+2026-08-24,Cusco ciudad,Empaque descartable,105,105,0,52.02,36.67
+2026-08-24,Cusco ciudad,Papel e higiene,90,90,0,73.3,52.71
+2026-08-24,Cusco ciudad,Menaje descartable,72,72,0,47.29,33.23
+2026-08-24,Cusco ciudad,Bolsas y film,24,24,0,66.21,48.13
+2026-08-24,Valle Sagrado,Detergentes y limpiadores,52,52,0,68.58,49.27
+2026-08-24,Valle Sagrado,Desinfección,57,57,0,61.48,43.54
+2026-08-24,Valle Sagrado,Empaque descartable,49,49,0,52.02,36.67
+2026-08-24,Valle Sagrado,Papel e higiene,58,58,0,73.3,52.71
+2026-08-24,Valle Sagrado,Menaje descartable,43,43,0,47.29,33.23
+2026-08-24,Valle Sagrado,Bolsas y film,15,15,0,66.21,48.13
+2026-08-31,Cusco ciudad,Detergentes y limpiadores,124,124,0,68.63,49.31
+2026-08-31,Cusco ciudad,Desinfección,53,53,0,61.53,43.57
+2026-08-31,Cusco ciudad,Empaque descartable,87,87,0,52.06,36.69
+2026-08-31,Cusco ciudad,Papel e higiene,128,128,0,73.36,52.74
+2026-08-31,Cusco ciudad,Menaje descartable,71,71,0,47.33,33.25
+2026-08-31,Cusco ciudad,Bolsas y film,32,32,0,66.26,48.16
+2026-08-31,Valle Sagrado,Detergentes y limpiadores,37,37,0,68.63,49.31
+2026-08-31,Valle Sagrado,Desinfección,28,28,0,61.53,43.57
+2026-08-31,Valle Sagrado,Empaque descartable,47,47,0,52.06,36.69
+2026-08-31,Valle Sagrado,Papel e higiene,31,31,0,73.36,52.74
+2026-08-31,Valle Sagrado,Menaje descartable,36,36,0,47.33,33.25
+2026-08-31,Valle Sagrado,Bolsas y film,22,22,0,66.26,48.16
+2026-09-07,Cusco ciudad,Detergentes y limpiadores,91,91,0,68.69,49.34
+2026-09-07,Cusco ciudad,Desinfección,57,57,0,61.58,43.6
+2026-09-07,Cusco ciudad,Empaque descartable,69,69,0,52.11,36.72
+2026-09-07,Cusco ciudad,Papel e higiene,87,87,0,73.42,52.78
+2026-09-07,Cusco ciudad,Menaje descartable,43,43,0,47.37,33.27
+2026-09-07,Cusco ciudad,Bolsas y film,55,55,0,66.32,48.19
+2026-09-07,Valle Sagrado,Detergentes y limpiadores,41,41,0,68.69,49.34
+2026-09-07,Valle Sagrado,Desinfección,42,42,0,61.58,43.6
+2026-09-07,Valle Sagrado,Empaque descartable,67,67,0,52.11,36.72
+2026-09-07,Valle Sagrado,Papel e higiene,40,40,0,73.42,52.78
+2026-09-07,Valle Sagrado,Menaje descartable,28,28,0,47.37,33.27
+2026-09-07,Valle Sagrado,Bolsas y film,3,3,0,66.32,48.19
+2026-09-14,Cusco ciudad,Detergentes y limpiadores,77,77,0,68.74,49.37
+2026-09-14,Cusco ciudad,Desinfección,60,34,26,61.63,43.63
+2026-09-14,Cusco ciudad,Empaque descartable,58,58,0,52.15,36.74
+2026-09-14,Cusco ciudad,Papel e higiene,64,64,0,73.48,52.82
+2026-09-14,Cusco ciudad,Menaje descartable,51,51,0,47.41,33.3
+2026-09-14,Cusco ciudad,Bolsas y film,51,51,0,66.37,48.22
+2026-09-14,Valle Sagrado,Detergentes y limpiadores,80,80,0,68.74,49.37
+2026-09-14,Valle Sagrado,Desinfección,19,9,10,61.63,43.63
+2026-09-14,Valle Sagrado,Empaque descartable,34,34,0,52.15,36.74
+2026-09-14,Valle Sagrado,Papel e higiene,53,53,0,73.48,52.82
+2026-09-14,Valle Sagrado,Menaje descartable,18,18,0,47.41,33.3
+2026-09-14,Valle Sagrado,Bolsas y film,12,12,0,66.37,48.22
+2026-09-21,Cusco ciudad,Detergentes y limpiadores,106,106,0,68.8,49.4
+2026-09-21,Cusco ciudad,Desinfección,88,88,0,61.68,43.66
+2026-09-21,Cusco ciudad,Empaque descartable,69,69,0,52.19,36.77
+2026-09-21,Cusco ciudad,Papel e higiene,106,106,0,73.54,52.85
+2026-09-21,Cusco ciudad,Menaje descartable,65,65,0,47.45,33.32
+2026-09-21,Cusco ciudad,Bolsas y film,37,37,0,66.43,48.26
+2026-09-21,Valle Sagrado,Detergentes y limpiadores,32,32,0,68.8,49.4
+2026-09-21,Valle Sagrado,Desinfección,38,38,0,61.68,43.66
+2026-09-21,Valle Sagrado,Empaque descartable,25,25,0,52.19,36.77
+2026-09-21,Valle Sagrado,Papel e higiene,42,42,0,73.54,52.85
+2026-09-21,Valle Sagrado,Menaje descartable,37,37,0,47.45,33.32
+2026-09-21,Valle Sagrado,Bolsas y film,14,14,0,66.43,48.26
+2026-09-28,Cusco ciudad,Detergentes y limpiadores,53,53,0,68.85,49.44
+2026-09-28,Cusco ciudad,Desinfección,67,67,0,61.73,43.69
+2026-09-28,Cusco ciudad,Empaque descartable,97,97,0,52.23,36.79
+2026-09-28,Cusco ciudad,Papel e higiene,70,70,0,73.6,52.89
+2026-09-28,Cusco ciudad,Menaje descartable,53,53,0,47.48,33.34
+2026-09-28,Cusco ciudad,Bolsas y film,24,12,12,66.48,48.29
+2026-09-28,Valle Sagrado,Detergentes y limpiadores,78,78,0,68.85,49.44
+2026-09-28,Valle Sagrado,Desinfección,26,26,0,61.73,43.69
+2026-09-28,Valle Sagrado,Empaque descartable,42,42,0,52.23,36.79
+2026-09-28,Valle Sagrado,Papel e higiene,31,31,0,73.6,52.89
+2026-09-28,Valle Sagrado,Menaje descartable,26,26,0,47.48,33.34
+2026-09-28,Valle Sagrado,Bolsas y film,41,27,14,66.48,48.29
+2026-10-05,Cusco ciudad,Detergentes y limpiadores,104,104,0,68.91,49.47
+2026-10-05,Cusco ciudad,Desinfección,45,45,0,61.78,43.72
+2026-10-05,Cusco ciudad,Empaque descartable,91,91,0,52.28,36.81
+2026-10-05,Cusco ciudad,Papel e higiene,57,57,0,73.66,52.92
+2026-10-05,Cusco ciudad,Menaje descartable,61,61,0,47.52,33.36
+2026-10-05,Cusco ciudad,Bolsas y film,46,46,0,66.53,48.32
+2026-10-05,Valle Sagrado,Detergentes y limpiadores,41,41,0,68.91,49.47
+2026-10-05,Valle Sagrado,Desinfección,40,40,0,61.78,43.72
+2026-10-05,Valle Sagrado,Empaque descartable,42,42,0,52.28,36.81
+2026-10-05,Valle Sagrado,Papel e higiene,47,47,0,73.66,52.92
+2026-10-05,Valle Sagrado,Menaje descartable,16,16,0,47.52,33.36
+2026-10-05,Valle Sagrado,Bolsas y film,21,21,0,66.53,48.32
+2026-10-12,Cusco ciudad,Detergentes y limpiadores,82,82,0,68.96,49.5
+2026-10-12,Cusco ciudad,Desinfección,53,53,0,61.83,43.75
+2026-10-12,Cusco ciudad,Empaque descartable,100,100,0,52.32,36.84
+2026-10-12,Cusco ciudad,Papel e higiene,94,94,0,73.72,52.96
+2026-10-12,Cusco ciudad,Menaje descartable,39,39,0,47.56,33.39
+2026-10-12,Cusco ciudad,Bolsas y film,12,12,0,66.59,48.35
+2026-10-12,Valle Sagrado,Detergentes y limpiadores,82,82,0,68.96,49.5
+2026-10-12,Valle Sagrado,Desinfección,32,32,0,61.83,43.75
+2026-10-12,Valle Sagrado,Empaque descartable,33,33,0,52.32,36.84
+2026-10-12,Valle Sagrado,Papel e higiene,25,25,0,73.72,52.96
+2026-10-12,Valle Sagrado,Menaje descartable,12,12,0,47.56,33.39
+2026-10-12,Valle Sagrado,Bolsas y film,14,14,0,66.59,48.35
+2026-10-19,Cusco ciudad,Detergentes y limpiadores,98,98,0,69.02,49.54
+2026-10-19,Cusco ciudad,Desinfección,42,42,0,61.88,43.78
+2026-10-19,Cusco ciudad,Empaque descartable,79,79,0,52.36,36.86
+2026-10-19,Cusco ciudad,Papel e higiene,105,105,0,73.78,52.99
+2026-10-19,Cusco ciudad,Menaje descartable,85,85,0,47.6,33.41
+2026-10-19,Cusco ciudad,Bolsas y film,30,30,0,66.64,48.38
+2026-10-19,Valle Sagrado,Detergentes y limpiadores,44,44,0,69.02,49.54
+2026-10-19,Valle Sagrado,Desinfección,18,18,0,61.88,43.78
+2026-10-19,Valle Sagrado,Empaque descartable,40,40,0,52.36,36.86
+2026-10-19,Valle Sagrado,Papel e higiene,32,32,0,73.78,52.99
+2026-10-19,Valle Sagrado,Menaje descartable,36,36,0,47.6,33.41
+2026-10-19,Valle Sagrado,Bolsas y film,24,24,0,66.64,48.38
+2026-10-26,Cusco ciudad,Detergentes y limpiadores,59,59,0,69.08,49.57
+2026-10-26,Cusco ciudad,Desinfección,62,62,0,61.93,43.81
+2026-10-26,Cusco ciudad,Empaque descartable,54,54,0,52.4,36.89
+2026-10-26,Cusco ciudad,Papel e higiene,49,49,0,73.84,53.03
+2026-10-26,Cusco ciudad,Menaje descartable,63,63,0,47.64,33.43
+2026-10-26,Cusco ciudad,Bolsas y film,21,21,0,66.69,48.42
+2026-10-26,Valle Sagrado,Detergentes y limpiadores,46,46,0,69.08,49.57
+2026-10-26,Valle Sagrado,Desinfección,20,20,0,61.93,43.81
+2026-10-26,Valle Sagrado,Empaque descartable,68,68,0,52.4,36.89
+2026-10-26,Valle Sagrado,Papel e higiene,22,22,0,73.84,53.03
+2026-10-26,Valle Sagrado,Menaje descartable,27,27,0,47.64,33.43
+2026-10-26,Valle Sagrado,Bolsas y film,26,26,0,66.69,48.42

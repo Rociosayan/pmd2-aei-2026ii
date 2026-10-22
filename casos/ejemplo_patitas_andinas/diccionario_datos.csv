@@ -1,0 +1,74 @@
+tabla,campo,tipo,descripcion,valores_posibles,filas
+clientes,id_cliente,texto,Identificador seudonimizado del cliente. Clave única.,,2165
+clientes,fecha_alta,texto,"Fecha de alta del cliente (puede ser anterior al inicio del historial, 2023-01-02).",,2165
+clientes,sede,texto,Ciudad de entrega habitual del cliente.,Lima | Piura | Trujillo,2165
+clientes,canal,texto,Canal de registro o de adquisición.,WhatsApp | app | web,2165
+clientes,segmento,texto,Segmento comercial del cliente.,Gato | Perro | Perro y gato,2165
+clientes,plan_recompra,texto,"Plan de recompra del cliente (sin plan, recordatorio mensual o ahorra y recibe).",ahorra y recibe | recordatorio mensual | sin plan,2165
+clientes,consentimiento_contacto,entero,1 si el cliente autoriza ser contactado; 0 si no. Un cliente sin consentimiento no puede ser contactado.,,2165
+actividad,id_evento,texto,Identificador único del evento (una fila por evento).,,47054
+actividad,id_pedido,texto,Identificador del pedido; un pedido puede tener varias líneas.,,47054
+actividad,id_cliente,texto,Cliente que origina el evento. Relaciona con clientes.id_cliente.,,47054
+actividad,fecha_evento,texto,Fecha del evento.,,47054
+actividad,tipo_evento,texto,Tipo de evento. pedido: una fila por línea de pedido; devolucion: reembolso posterior a una entrega (ingreso negativo).,devolucion | pedido,47054
+actividad,sede,texto,Ciudad de entrega del pedido.,Lima | Piura | Trujillo,47054
+actividad,linea,texto,Familia de producto.,Accesorios y juguetes | Alimento gato | Alimento perro | Camas y transporte | Higiene y cuidado | Snacks y premios,47054
+actividad,unidades_solicitadas,entero,Unidades pedidas en la línea de pedido.,,47054
+actividad,unidades,entero,Unidades efectivamente entregadas (0 si la línea se canceló).,,47054
+actividad,precio_unitario,decimal,"Precio de lista unitario al momento del pedido, en soles.",,47054
+actividad,descuento_pct,entero,"Descuento promocional aplicado, en porcentaje.",,47054
+actividad,ingreso,decimal,Ingreso del evento en soles (negativo en devoluciones y notas de crédito).,,47054
+actividad,coste_variable,decimal,Coste variable asociado al evento en soles.,,47054
+actividad,estado,texto,Estado final del evento.,cancelado_cliente | cancelado_sin_stock | en_ruta | entregado | procesada,47054
+actividad,fecha_entrega,texto,Fecha de entrega; vacía si el pedido no se ha entregado.,,47054
+actividad,dias_entrega,decimal,Días entre el pedido y la entrega.,,47054
+actividad,plazo_prometido_dias,decimal,"Plazo de entrega prometido al cliente, en días.",,47054
+cohortes,id_cliente,texto,Cliente. Relaciona con clientes.id_cliente.,,46399
+cohortes,fecha_corte,texto,Fecha de corte de la cohorte (primer domingo de cada mes). Los predictores deben calcularse solo con eventos hasta esa fecha inclusive.,,46399
+cohortes,elegible,entero,1 si el cliente cumple la regla de elegibilidad del caso en esa fecha de corte; 0 si no.,,46399
+cohortes,seguimiento_fin,texto,Fecha en que termina el seguimiento de la etiqueta. Si es posterior a 2026-11-01 la etiqueta aún no está madura.,,46399
+cohortes,churn,decimal,1 si ocurrió el abandono definido por el caso; 0 si no; vacío si el cliente no es elegible o el seguimiento no ha terminado.,,46399
+cohortes,definicion_etiqueta,texto,Código de la definición de abandono aplicada (ver README del caso).,sin_pedido_entregado_60d,46399
+demanda,semana,texto,Lunes de la semana (semana de lunes a domingo).,,3600
+demanda,sede,texto,Ciudad de entrega del pedido.,Lima | Piura | Trujillo,3600
+demanda,linea,texto,Familia de producto. (clave junto con semana).,Accesorios y juguetes | Alimento gato | Alimento perro | Camas y transporte | Higiene y cuidado | Snacks y premios,3600
+demanda,solicitado,entero,"Unidades solicitadas en la semana, sin contar las canceladas por el propio cliente.",,3600
+demanda,atendido,entero,Unidades efectivamente atendidas o entregadas.,,3600
+demanda,faltante,entero,solicitado − atendido: demanda no atendida (demanda censurada).,,3600
+demanda,precio,decimal,"Precio de lista unitario de la semana, en soles.",,3600
+demanda,coste_unitario,decimal,"Coste unitario de la semana, en soles.",,3600
+recursos,periodo,texto,Periodo del plan operativo (2026-11).,2026-11,28
+recursos,recurso,texto,"Recurso, regla o parámetro.",almacenamiento | cobertura_minima | contacto_whatsapp | costo_excedente | descuento_primera_compra | despachos | efecto_incremental | horizonte_retencion | inventario | llamada | multiplicador_efecto_llamada | presupuesto_campana | presupuesto_compra | tasa_devolucion | unidades_por_despacho | uso_descuento,28
+recursos,linea,texto,Familia de producto.,Accesorios y juguetes | Alimento gato | Alimento perro | Camas y transporte | Higiene y cuidado | Snacks y premios | alto | bajo | medio | todas,28
+recursos,disponibilidad,decimal,"Cantidad disponible al inicio del periodo (stock, horas, etc.).",,28
+recursos,consumo_unitario,decimal,"Consumo del recurso por unidad producida, vendida o atendida (ver nota).",,28
+recursos,coste,decimal,Coste unitario en soles (ver nota).,,28
+recursos,margen,decimal,Margen o contribución unitaria en soles (ver nota).,,28
+recursos,limite,decimal,"Límite máximo (o mínimo, si se indica) del plan para ese recurso.",,28
+recursos,unidad,texto,Unidad de medida.,S/ | contactos | despachos | fraccion | llamadas | meses | unidades | unidades de almacenamiento | unidades/pedido | veces,28
+recursos,elegibilidad,texto,Compatibilidad o alcance del recurso.,todas las sedes,28
+recursos,nota,texto,Aclaración sobre cómo interpretar la fila.,,28
+operaciones,id_operacion,texto,Identificador único de la operación.,,34541
+operaciones,fecha_hora,texto,Fecha y hora de la operación.,,34541
+operaciones,sede,texto,"Sede, zona o área donde ocurre.",Lima | Piura | Trujillo,34541
+operaciones,tipo,texto,Tipo de medición u operación.,preparacion_pedido | reembolso,34541
+operaciones,valor,decimal,Valor medido (ver unidad).,,34541
+operaciones,unidad,texto,Unidad de medida del valor.,S/ | min,34541
+operaciones,tamano_muestra,entero,Número de unidades que resume la fila.,,34541
+operaciones,denominador,decimal,Denominador cuando el valor forma parte de una proporción.,,34541
+operaciones,id_cliente,texto,"Cliente asociado, si corresponde.",,34541
+operaciones,ref_evento,texto,"Identificador del evento, pedido o lote de actividad al que se refiere.",,34541
+politica_actual,regla_id,texto,Identificador de la regla de la política vigente.,PA-R1 | PA-R2 | PA-R3,3
+politica_actual,alcance,texto,Decisión a la que aplica la regla.,contactos | descuento | reposicion,3
+politica_actual,prioridad,entero,Orden de aplicación.,,3
+politica_actual,cantidades,decimal,Cantidad que define la regla.,,3
+politica_actual,coste,decimal,"Coste unitario asociado, en soles.",,3
+politica_actual,fecha_vigencia,texto,Fecha desde la que rige la regla.,2026-10-01,3
+politica_actual,descripcion,texto,Descripción de la regla; permite reconstruir el escenario actual.,,3
+documentos,doc_id,texto,Identificador del documento. Un mismo doc_id puede tener varias versiones.,PA-DOC-01 | PA-DOC-02 | PA-DOC-03 | PA-DOC-04 | PA-DOC-05,7
+documentos,titulo,texto,Título del documento.,Contacto con clientes y consentimiento | Niveles de servicio de despacho | Política de devoluciones | Programa Ahorra y recibe | Reglas de autorización de descuentos,7
+documentos,version,decimal,Versión del documento.,,7
+documentos,fecha_vigencia,texto,Fecha desde la que rige esta versión.,2025-01-01 | 2025-03-01 | 2026-01-10 | 2026-01-20 | 2026-02-01 | 2026-03-01,7
+documentos,estado,texto,vigente o reemplazada. Las respuestas del asistente deben usar la versión vigente.,reemplazada | vigente,7
+documentos,texto,texto,Texto completo de la versión.,,7
+documentos,fuente_o_responsable,texto,Área responsable del documento.,Gerencia Comercial | Gerencia de Operaciones | Jefatura de Marketing | Jefatura de Servicio al Cliente | Oficial de Datos Personales,7

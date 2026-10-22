@@ -1,0 +1,70 @@
+tabla,campo,tipo,descripcion,valores_posibles,filas
+clientes,id_cliente,texto,Identificador seudonimizado del cliente. Clave única.,,5416
+clientes,fecha_alta,texto,"Fecha de alta del cliente (puede ser anterior al inicio del historial, 2023-01-02).",,5416
+clientes,region,texto,Región del suscriptor.,Exterior | Lima | Regiones,5416
+clientes,canal,texto,Canal de registro o de adquisición.,alianza corporativa | publicidad | referido | web orgánico,5416
+clientes,segmento,texto,Segmento comercial del cliente.,Básico | Plus | Pro,5416
+clientes,dispositivo_principal,texto,Dispositivo desde el que más accede el suscriptor.,laptop | movil | tablet,5416
+clientes,consentimiento_contacto,entero,1 si el cliente autoriza ser contactado; 0 si no. Un cliente sin consentimiento no puede ser contactado.,,5416
+actividad,id_evento,texto,Identificador único del evento (una fila por evento).,,163231
+actividad,id_cliente,texto,Cliente que origina el evento. Relaciona con clientes.id_cliente.,,163231
+actividad,fecha_evento,texto,Fecha del evento.,,163231
+actividad,tipo_evento,texto,Tipo de evento. sesion_estudio; solicitud_tutoria (atendida o no_atendida); curso_completado; alta; renovacion; baja; incidencia.,alta | baja | curso_completado | incidencia | renovacion | sesion_estudio | solicitud_tutoria,163231
+actividad,sede,texto,Siempre Online.,Exterior | Lima | Online | Regiones,163231
+actividad,linea,texto,Área temática.,Datos y Analítica | Gestión y Liderazgo | Idiomas y Comunicación,163231
+actividad,unidades_solicitadas,decimal,Sesiones de 30 minutos solicitadas (tutorías).,,163231
+actividad,unidades,decimal,Sesiones realizadas (0 si no se atendió).,,163231
+actividad,ingreso,decimal,Ingreso del evento en soles (negativo en devoluciones y notas de crédito).,,163231
+actividad,coste_variable,decimal,Coste variable asociado al evento en soles.,,163231
+actividad,estado,texto,Estado final del evento.,abierta | atendida | completada | completado | no_atendida | no_renovo | pagada | resuelta,163231
+actividad,valor,decimal,"En sesion_estudio, minutos de estudio de la sesión.",,163231
+cohortes,id_cliente,texto,Cliente. Relaciona con clientes.id_cliente.,,50966
+cohortes,fecha_corte,texto,Fecha de corte de la cohorte (primer domingo de cada mes). Los predictores deben calcularse solo con eventos hasta esa fecha inclusive.,,50966
+cohortes,elegible,entero,1 si el cliente cumple la regla de elegibilidad del caso en esa fecha de corte; 0 si no.,,50966
+cohortes,seguimiento_fin,texto,Fecha en que termina el seguimiento de la etiqueta. Si es posterior a 2026-11-01 la etiqueta aún no está madura.,,50966
+cohortes,churn,decimal,1 si ocurrió el abandono definido por el caso; 0 si no; vacío si el cliente no es elegible o el seguimiento no ha terminado.,,50966
+cohortes,definicion_etiqueta,texto,Código de la definición de abandono aplicada (ver README del caso).,sin_renovacion_30d_tras_vencimiento,50966
+cohortes,fecha_vencimiento,texto,Fecha del próximo vencimiento del ciclo de 30 días posterior al corte.,,50966
+demanda,semana,texto,Lunes de la semana (semana de lunes a domingo).,,600
+demanda,sede,texto,Siempre Online.,Online,600
+demanda,linea,texto,Área temática. (clave junto con semana).,Datos y Analítica | Gestión y Liderazgo | Idiomas y Comunicación,600
+demanda,solicitado,entero,"Unidades solicitadas en la semana, sin contar las canceladas por el propio cliente.",,600
+demanda,atendido,entero,Unidades efectivamente atendidas o entregadas.,,600
+demanda,faltante,entero,solicitado − atendido: demanda no atendida (demanda censurada).,,600
+demanda,precio,decimal,"Precio del paquete por sesión de tutoría, en soles.",,600
+demanda,coste_unitario,decimal,"Coste por sesión de tutoría del área, en soles.",,600
+recursos,periodo,texto,Periodo del plan operativo (2026-11).,2026-11,17
+recursos,recurso,texto,"Recurso, regla o parámetro.",aumento_demanda_tutoria | horas_tutoria | horizonte_retencion | incremento_renovacion | llamada | mensaje | presupuesto_acompanamiento | presupuesto_tutoria | reserva_minima_area | sesiones_maximas | tutoria,17
+recursos,linea,texto,Área temática.,Datos y Analítica | Gestión y Liderazgo | Idiomas y Comunicación | alto | bajo | medio | todas,17
+recursos,disponibilidad,decimal,"Cantidad disponible al inicio del periodo (stock, horas, etc.).",,17
+recursos,consumo_unitario,decimal,"Consumo del recurso por unidad producida, vendida o atendida (ver nota).",,17
+recursos,coste,decimal,Coste unitario en soles (ver nota).,,17
+recursos,margen,decimal,Margen o contribución unitaria en soles (ver nota).,,17
+recursos,limite,decimal,"Límite máximo (o mínimo, si se indica) del plan para ese recurso.",,17
+recursos,unidad,texto,Unidad de medida.,S/ | fraccion | horas | llamadas | mensajes | meses | sesiones | sesiones de 30 min,17
+recursos,elegibilidad,decimal,Compatibilidad o alcance del recurso.,,17
+recursos,nota,texto,Aclaración sobre cómo interpretar la fila.,,17
+operaciones,id_operacion,texto,Identificador único de la operación.,,19782
+operaciones,fecha_hora,texto,Fecha y hora de la operación.,,19782
+operaciones,sede,texto,"Sede, zona o área donde ocurre.",Online,19782
+operaciones,tipo,texto,Tipo de medición u operación.,primera_respuesta_min,19782
+operaciones,valor,decimal,"En sesion_estudio, minutos de estudio de la sesión.",,19782
+operaciones,unidad,texto,Unidad de medida del valor.,min,19782
+operaciones,tamano_muestra,entero,Número de unidades que resume la fila.,,19782
+operaciones,denominador,decimal,Denominador cuando el valor forma parte de una proporción.,,19782
+operaciones,id_cliente,texto,"Cliente asociado, si corresponde.",,19782
+operaciones,ref_evento,texto,"Identificador del evento, pedido o lote de actividad al que se refiere.",,19782
+politica_actual,regla_id,texto,Identificador de la regla de la política vigente.,AA-R1 | AA-R2,2
+politica_actual,alcance,texto,Decisión a la que aplica la regla.,contactos | tutorias,2
+politica_actual,prioridad,entero,Orden de aplicación.,,2
+politica_actual,cantidades,decimal,Cantidad que define la regla.,,2
+politica_actual,coste,decimal,"Coste unitario asociado, en soles.",,2
+politica_actual,fecha_vigencia,texto,Fecha desde la que rige la regla.,2026-10-01,2
+politica_actual,descripcion,texto,Descripción de la regla; permite reconstruir el escenario actual.,,2
+documentos,doc_id,texto,Identificador del documento. Un mismo doc_id puede tener varias versiones.,AA-DOC-01 | AA-DOC-02 | AA-DOC-03 | AA-DOC-04,5
+documentos,titulo,texto,Título del documento.,Atención al usuario | Política de certificados | Política de suscripción | Política de tutorías,5
+documentos,version,decimal,Versión del documento.,,5
+documentos,fecha_vigencia,texto,Fecha desde la que rige esta versión.,2025-03-01 | 2026-01-15 | 2026-02-01 | 2026-02-10,5
+documentos,estado,texto,vigente o reemplazada. Las respuestas del asistente deben usar la versión vigente.,reemplazada | vigente,5
+documentos,texto,texto,Texto completo de la versión.,,5
+documentos,fuente_o_responsable,texto,Área responsable del documento.,Coordinación Académica | Gerencia Comercial | Jefatura de Atención al Usuario,5

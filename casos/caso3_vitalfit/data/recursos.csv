@@ -1,0 +1,31 @@
+periodo,recurso,linea,disponibilidad,consumo_unitario,coste,margen,limite,unidad,elegibilidad,nota
+2026-11,sesion,Mañana,,1.25,38.0,8.0,,sesiones,,consumo_unitario = horas de instructor por sesión; coste = coste de una sesión; margen = contribución por cupo atendido
+2026-11,sesion,Mediodía,,1.25,38.0,8.0,,sesiones,,consumo_unitario = horas de instructor por sesión; coste = coste de una sesión; margen = contribución por cupo atendido
+2026-11,sesion,Tarde,,1.25,38.0,8.0,,sesiones,,consumo_unitario = horas de instructor por sesión; coste = coste de una sesión; margen = contribución por cupo atendido
+2026-11,sesion,Noche,,1.25,38.0,8.0,,sesiones,,consumo_unitario = horas de instructor por sesión; coste = coste de una sesión; margen = contribución por cupo atendido
+2026-11,capacidad_salas,Mañana,48.0,,,,,sesiones/semana,Sede Centro,dos salas por sede × horas de la franja × 6 días; una sesión simultánea por sala
+2026-11,capacidad_salas,Mediodía,48.0,,,,,sesiones/semana,Sede Centro,dos salas por sede × horas de la franja × 6 días; una sesión simultánea por sala
+2026-11,capacidad_salas,Tarde,36.0,,,,,sesiones/semana,Sede Centro,dos salas por sede × horas de la franja × 6 días; una sesión simultánea por sala
+2026-11,capacidad_salas,Noche,36.0,,,,,sesiones/semana,Sede Centro,dos salas por sede × horas de la franja × 6 días; una sesión simultánea por sala
+2026-11,minimo_sesiones_semana,Sede Centro,,,,,8.0,sesiones/semana,,
+2026-11,capacidad_salas,Mañana,48.0,,,,,sesiones/semana,Sede Sur,dos salas por sede × horas de la franja × 6 días; una sesión simultánea por sala
+2026-11,capacidad_salas,Mediodía,48.0,,,,,sesiones/semana,Sede Sur,dos salas por sede × horas de la franja × 6 días; una sesión simultánea por sala
+2026-11,capacidad_salas,Tarde,36.0,,,,,sesiones/semana,Sede Sur,dos salas por sede × horas de la franja × 6 días; una sesión simultánea por sala
+2026-11,capacidad_salas,Noche,36.0,,,,,sesiones/semana,Sede Sur,dos salas por sede × horas de la franja × 6 días; una sesión simultánea por sala
+2026-11,minimo_sesiones_semana,Sede Sur,,,,,8.0,sesiones/semana,,
+2026-11,capacidad_salas,Mañana,48.0,,,,,sesiones/semana,Sede Norte,dos salas por sede × horas de la franja × 6 días; una sesión simultánea por sala
+2026-11,capacidad_salas,Mediodía,48.0,,,,,sesiones/semana,Sede Norte,dos salas por sede × horas de la franja × 6 días; una sesión simultánea por sala
+2026-11,capacidad_salas,Tarde,36.0,,,,,sesiones/semana,Sede Norte,dos salas por sede × horas de la franja × 6 días; una sesión simultánea por sala
+2026-11,capacidad_salas,Noche,36.0,,,,,sesiones/semana,Sede Norte,dos salas por sede × horas de la franja × 6 días; una sesión simultánea por sala
+2026-11,minimo_sesiones_semana,Sede Norte,,,,,8.0,sesiones/semana,,
+2026-11,sesiones_totales,todas,,,,,180.0,sesiones,,cuatro semanas
+2026-11,horas_instructor,todas,,,,,240.0,horas,,cuatro semanas
+2026-11,cupos_por_sesion,todas,,20.0,,,,cupos,,
+2026-11,presupuesto_retencion,todas,,,,,4500.0,S/,,
+2026-11,llamada,todas,,,6.0,,400.0,llamadas,,
+2026-11,orientacion,todas,,,18.0,,250.0,sesiones,,coste por sesión utilizada
+2026-11,horizonte_retencion,todas,,6.0,,,,meses,,
+2026-11,reduccion_horas_instructor,todas,,0.1,,,,fraccion,,escenario de sensibilidad
+2026-11,incremento_renovacion,bajo,0.0,,,,,fraccion,,
+2026-11,incremento_renovacion,medio,0.03,,,,,fraccion,,
+2026-11,incremento_renovacion,alto,0.07,,,,,fraccion,,

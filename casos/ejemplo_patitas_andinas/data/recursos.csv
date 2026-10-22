@@ -1,0 +1,29 @@
+periodo,recurso,linea,disponibilidad,consumo_unitario,coste,margen,limite,unidad,elegibilidad,nota
+2026-11,inventario,Alimento perro,146.0,3.0,104.7,41.88,,unidades,todas las sedes,disponibilidad = stock inicial; consumo_unitario = unidades de almacenamiento por unidad; coste = coste de compra; margen = precio de lista − coste
+2026-11,inventario,Alimento gato,76.0,2.0,72.84,30.35,,unidades,todas las sedes,disponibilidad = stock inicial; consumo_unitario = unidades de almacenamiento por unidad; coste = coste de compra; margen = precio de lista − coste
+2026-11,inventario,Snacks y premios,76.0,0.3,15.93,14.56,,unidades,todas las sedes,disponibilidad = stock inicial; consumo_unitario = unidades de almacenamiento por unidad; coste = coste de compra; margen = precio de lista − coste
+2026-11,inventario,Higiene y cuidado,51.0,0.6,27.31,21.94,,unidades,todas las sedes,disponibilidad = stock inicial; consumo_unitario = unidades de almacenamiento por unidad; coste = coste de compra; margen = precio de lista − coste
+2026-11,inventario,Accesorios y juguetes,57.0,0.5,21.62,20.59,,unidades,todas las sedes,disponibilidad = stock inicial; consumo_unitario = unidades de almacenamiento por unidad; coste = coste de compra; margen = precio de lista − coste
+2026-11,inventario,Camas y transporte,33.0,4.0,111.53,76.09,,unidades,todas las sedes,disponibilidad = stock inicial; consumo_unitario = unidades de almacenamiento por unidad; coste = coste de compra; margen = precio de lista − coste
+2026-11,tasa_devolucion,Alimento perro,,0.01,,,,fraccion,,fracción de unidades entregadas que se devuelve
+2026-11,tasa_devolucion,Alimento gato,,0.01,,,,fraccion,,fracción de unidades entregadas que se devuelve
+2026-11,tasa_devolucion,Snacks y premios,,0.02,,,,fraccion,,fracción de unidades entregadas que se devuelve
+2026-11,tasa_devolucion,Higiene y cuidado,,0.03,,,,fraccion,,fracción de unidades entregadas que se devuelve
+2026-11,tasa_devolucion,Accesorios y juguetes,,0.05,,,,fraccion,,fracción de unidades entregadas que se devuelve
+2026-11,tasa_devolucion,Camas y transporte,,0.06,,,,fraccion,,fracción de unidades entregadas que se devuelve
+2026-11,presupuesto_compra,todas,,,,,33000.0,S/,,compra de reposición del plan
+2026-11,almacenamiento,todas,,,,,900.0,unidades de almacenamiento,,capacidad de recepción del plan
+2026-11,despachos,todas,,,,,800.0,despachos,,cada pedido consume un despacho
+2026-11,unidades_por_despacho,todas,,1.73,,,,unidades/pedido,,promedio de las últimas 4 semanas
+2026-11,presupuesto_campana,todas,,,,,1500.0,S/,,
+2026-11,contacto_whatsapp,todas,,,1.2,,900.0,contactos,,
+2026-11,llamada,todas,,,7.0,,120.0,llamadas,,
+2026-11,multiplicador_efecto_llamada,todas,,1.5,,,,veces,,"supuesto: la llamada evita abandono 1,5 veces más que el WhatsApp"
+2026-11,descuento_primera_compra,todas,,0.08,,,,fraccion,,descuento sobre el primer pedido tras el contacto
+2026-11,uso_descuento,todas,,0.3,,,,fraccion,,supuesto: proporción de contactados que utiliza el descuento
+2026-11,cobertura_minima,todas,,0.5,,,,fraccion,,mínimo de la demanda pronosticada de cada familia que debe poder atenderse con stock + compra (reserva para pedidos sin promoción)
+2026-11,costo_excedente,todas,,0.1,,,,fraccion,,"supuesto: coste de mantener una unidad que no se vende en el plan, como fracción de su coste de compra"
+2026-11,horizonte_retencion,todas,,6.0,,,,meses,,para el CLV simplificado
+2026-11,efecto_incremental,bajo,0.0,,,,,fraccion,,fracción supuesta de los clientes que abandonarían y se evita que abandonen al contactarlos (WhatsApp)
+2026-11,efecto_incremental,medio,0.08,,,,,fraccion,,fracción supuesta de los clientes que abandonarían y se evita que abandonen al contactarlos (WhatsApp)
+2026-11,efecto_incremental,alto,0.15,,,,,fraccion,,fracción supuesta de los clientes que abandonarían y se evita que abandonen al contactarlos (WhatsApp)

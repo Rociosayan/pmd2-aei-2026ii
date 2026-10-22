@@ -1,0 +1,25 @@
+periodo,recurso,linea,disponibilidad,consumo_unitario,coste,margen,limite,unidad,elegibilidad,nota
+2026-11,inventario,Cocina menor,75.0,1.0,59.18,40.49,,unidades,todas las sedes,consumo_unitario = unidades de almacenamiento por unidad; coste = coste de compra
+2026-11,inventario,Electrodomésticos pequeños,22.0,2.0,170.71,75.54,,unidades,todas las sedes,consumo_unitario = unidades de almacenamiento por unidad; coste = coste de compra
+2026-11,inventario,Organización,53.0,1.2,38.69,31.67,,unidades,todas las sedes,consumo_unitario = unidades de almacenamiento por unidad; coste = coste de compra
+2026-11,inventario,Textiles hogar,60.0,0.8,45.52,36.56,,unidades,todas las sedes,consumo_unitario = unidades de almacenamiento por unidad; coste = coste de compra
+2026-11,inventario,Iluminación,43.0,0.6,35.28,29.21,,unidades,todas las sedes,consumo_unitario = unidades de almacenamiento por unidad; coste = coste de compra
+2026-11,inventario,Limpieza hogar,54.0,0.7,25.04,21.86,,unidades,todas las sedes,consumo_unitario = unidades de almacenamiento por unidad; coste = coste de compra
+2026-11,tasa_devolucion,Cocina menor,,0.03,,,,fraccion,,fracción de unidades entregadas que se devuelve
+2026-11,tasa_devolucion,Electrodomésticos pequeños,,0.07,,,,fraccion,,fracción de unidades entregadas que se devuelve
+2026-11,tasa_devolucion,Organización,,0.02,,,,fraccion,,fracción de unidades entregadas que se devuelve
+2026-11,tasa_devolucion,Textiles hogar,,0.04,,,,fraccion,,fracción de unidades entregadas que se devuelve
+2026-11,tasa_devolucion,Iluminación,,0.04,,,,fraccion,,fracción de unidades entregadas que se devuelve
+2026-11,tasa_devolucion,Limpieza hogar,,0.01,,,,fraccion,,fracción de unidades entregadas que se devuelve
+2026-11,presupuesto_compra,todas,,,,,48000.0,S/,,compra de reposición del plan
+2026-11,almacenamiento,todas,,,,,800.0,unidades de almacenamiento,,capacidad de recepción del plan
+2026-11,despachos,todas,,,,,900.0,despachos,,cada pedido consume un despacho
+2026-11,unidades_por_despacho,todas,,1.66,,,,unidades/pedido,,promedio de las últimas 4 semanas
+2026-11,presupuesto_campana,todas,,,,,9000.0,S/,,
+2026-11,contacto_whatsapp,todas,,,1.5,,1200.0,contactos,,
+2026-11,llamada,todas,,,8.0,,180.0,llamadas,,
+2026-11,descuento_primera_compra,todas,,0.08,,,,fraccion,,descuento sobre el primer pedido tras el contacto
+2026-11,horizonte_retencion,todas,,6.0,,,,meses,,para el CLV simplificado
+2026-11,efecto_incremental,bajo,0.0,,,,,fraccion,,probabilidad incremental supuesta de evitar la inactividad
+2026-11,efecto_incremental,medio,0.05,,,,,fraccion,,probabilidad incremental supuesta de evitar la inactividad
+2026-11,efecto_incremental,alto,0.1,,,,,fraccion,,probabilidad incremental supuesta de evitar la inactividad

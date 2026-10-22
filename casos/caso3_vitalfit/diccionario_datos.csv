@@ -1,0 +1,70 @@
+tabla,campo,tipo,descripcion,valores_posibles,filas
+clientes,id_cliente,texto,Identificador seudonimizado del cliente. Clave única.,,3056
+clientes,fecha_alta,texto,"Fecha de alta del cliente (puede ser anterior al inicio del historial, 2023-01-02).",,3056
+clientes,sede,texto,Sede donde se realiza la reserva.,Sede Centro | Sede Norte | Sede Sur,3056
+clientes,canal,texto,Canal de registro o de adquisición.,corporativo | presencial | web,3056
+clientes,segmento,texto,Segmento comercial del cliente.,Básica | Plus | Premium,3056
+clientes,origen_registro,texto,Origen del registro del socio.,promoción de verano | referido | sin promoción,3056
+clientes,consentimiento_contacto,entero,1 si el cliente autoriza ser contactado; 0 si no. Un cliente sin consentimiento no puede ser contactado.,,3056
+actividad,id_evento,texto,Identificador único del evento (una fila por evento).,,192185
+actividad,id_cliente,texto,Cliente que origina el evento. Relaciona con clientes.id_cliente.,,192185
+actividad,fecha_evento,texto,Fecha del evento.,,192185
+actividad,tipo_evento,texto,"Tipo de evento. reserva_clase: estados asistida, inasistencia, cancelada, lista_espera; alta; renovacion; baja; incidencia.",alta | baja | incidencia | renovacion | reserva_clase,192185
+actividad,sede,texto,Sede donde se realiza la reserva.,Sede Centro | Sede Norte | Sede Sur,192185
+actividad,linea,texto,Franja horaria de la clase.,Mañana | Mediodía | Noche | Tarde,192185
+actividad,unidades_solicitadas,decimal,Cupos solicitados (1 por reserva).,,192185
+actividad,unidades,decimal,Cupos asignados (0 si la reserva quedó en lista de espera).,,192185
+actividad,ingreso,decimal,Ingreso del evento en soles (negativo en devoluciones y notas de crédito).,,192185
+actividad,coste_variable,decimal,Coste variable asociado al evento en soles.,,192185
+actividad,estado,texto,Estado final del evento.,abierta | asistida | cancelada | inasistencia | lista_espera | no_renovo | pagada | resuelta,192185
+actividad,valor,decimal,,,192185
+cohortes,id_cliente,texto,Cliente. Relaciona con clientes.id_cliente.,,31813
+cohortes,fecha_corte,texto,Fecha de corte de la cohorte (primer domingo de cada mes). Los predictores deben calcularse solo con eventos hasta esa fecha inclusive.,,31813
+cohortes,elegible,entero,1 si el cliente cumple la regla de elegibilidad del caso en esa fecha de corte; 0 si no.,,31813
+cohortes,seguimiento_fin,texto,Fecha en que termina el seguimiento de la etiqueta. Si es posterior a 2026-11-01 la etiqueta aún no está madura.,,31813
+cohortes,churn,decimal,1 si ocurrió el abandono definido por el caso; 0 si no; vacío si el cliente no es elegible o el seguimiento no ha terminado.,,31813
+cohortes,definicion_etiqueta,texto,Código de la definición de abandono aplicada (ver README del caso).,sin_renovacion_30d_tras_vencimiento,31813
+cohortes,fecha_vencimiento,texto,Fecha del próximo vencimiento del ciclo de 30 días posterior al corte.,,31813
+demanda,semana,texto,Lunes de la semana (semana de lunes a domingo).,,2400
+demanda,sede,texto,Sede donde se realiza la reserva.,Sede Centro | Sede Norte | Sede Sur,2400
+demanda,linea,texto,Franja horaria de la clase. (clave junto con semana).,Mañana | Mediodía | Noche | Tarde,2400
+demanda,solicitado,entero,"Unidades solicitadas en la semana, sin contar las canceladas por el propio cliente.",,2400
+demanda,atendido,entero,Unidades efectivamente atendidas o entregadas.,,2400
+demanda,faltante,entero,solicitado − atendido: demanda no atendida (demanda censurada).,,2400
+demanda,precio,decimal,"Contribución por cupo atendido, en soles.",,2400
+demanda,coste_unitario,decimal,"Coste de una sesión repartido entre sus 20 cupos, en soles.",,2400
+recursos,periodo,texto,Periodo del plan operativo (2026-11).,2026-11,30
+recursos,recurso,texto,"Recurso, regla o parámetro.",capacidad_salas | cupos_por_sesion | horas_instructor | horizonte_retencion | incremento_renovacion | llamada | minimo_sesiones_semana | orientacion | presupuesto_retencion | reduccion_horas_instructor | sesion | sesiones_totales,30
+recursos,linea,texto,Franja horaria de la clase.,Mañana | Mediodía | Noche | Sede Centro | Sede Norte | Sede Sur | Tarde | alto | bajo | medio | todas,30
+recursos,disponibilidad,decimal,"Cantidad disponible al inicio del periodo (stock, horas, etc.).",,30
+recursos,consumo_unitario,decimal,"Consumo del recurso por unidad producida, vendida o atendida (ver nota).",,30
+recursos,coste,decimal,Coste unitario en soles (ver nota).,,30
+recursos,margen,decimal,Margen o contribución unitaria en soles (ver nota).,,30
+recursos,limite,decimal,"Límite máximo (o mínimo, si se indica) del plan para ese recurso.",,30
+recursos,unidad,texto,Unidad de medida.,S/ | cupos | fraccion | horas | llamadas | meses | sesiones | sesiones/semana,30
+recursos,elegibilidad,texto,Compatibilidad o alcance del recurso.,Sede Centro | Sede Norte | Sede Sur,30
+recursos,nota,texto,Aclaración sobre cómo interpretar la fila.,,30
+operaciones,id_operacion,texto,Identificador único de la operación.,,6600
+operaciones,fecha_hora,texto,Fecha y hora de la operación.,,6600
+operaciones,sede,texto,"Sede, zona o área donde ocurre.",Sede Centro | Sede Norte | Sede Sur,6600
+operaciones,tipo,texto,Tipo de medición u operación.,inasistencia_dia | ocupacion_franja,6600
+operaciones,valor,decimal,Valor medido (ver unidad).,,6600
+operaciones,unidad,texto,Unidad de medida del valor.,% | reservas,6600
+operaciones,tamano_muestra,entero,Número de unidades que resume la fila.,,6600
+operaciones,denominador,decimal,Denominador cuando el valor forma parte de una proporción.,,6600
+operaciones,id_cliente,decimal,"Cliente asociado, si corresponde.",,6600
+operaciones,ref_evento,decimal,"Identificador del evento, pedido o lote de actividad al que se refiere.",,6600
+politica_actual,regla_id,texto,Identificador de la regla de la política vigente.,VF-H01 | VF-H02 | VF-H03 | VF-H04 | VF-H05 | VF-H06 | VF-H07 | VF-H08 | VF-H09 | VF-H10 | VF-H11 | VF-H12 | VF-R1,13
+politica_actual,alcance,texto,Decisión a la que aplica la regla.,contactos | horario|Sede Centro|Mañana | horario|Sede Centro|Mediodía | horario|Sede Centro|Noche | horario|Sede Centro|Tarde | horario|Sede Norte|Mañana | horario|Sede Norte|Mediodía | horario|Sede Norte|Noche | horario|Sede Norte|Tarde | horario|Sede Sur|Mañana | horario|Sede Sur|Mediodía | horario|Sede Sur|Noche | horario|Sede Sur|Tarde,13
+politica_actual,prioridad,entero,Orden de aplicación.,,13
+politica_actual,cantidades,entero,Cantidad que define la regla.,,13
+politica_actual,coste,decimal,"Coste unitario asociado, en soles.",,13
+politica_actual,fecha_vigencia,texto,Fecha desde la que rige la regla.,2026-10-01,13
+politica_actual,descripcion,texto,Descripción de la regla; permite reconstruir el escenario actual.,,13
+documentos,doc_id,texto,Identificador del documento. Un mismo doc_id puede tener varias versiones.,VF-DOC-01 | VF-DOC-02 | VF-DOC-03 | VF-DOC-04,5
+documentos,titulo,texto,Título del documento.,Protocolo de revisión humana de alertas | Reglas de renovación y cancelación | Reglas de reserva de clases | Uso de salas,5
+documentos,version,decimal,Versión del documento.,,5
+documentos,fecha_vigencia,texto,Fecha desde la que rige esta versión.,2025-02-01 | 2026-01-05 | 2026-01-20 | 2026-02-01 | 2026-03-01,5
+documentos,estado,texto,vigente o reemplazada. Las respuestas del asistente deben usar la versión vigente.,reemplazada | vigente,5
+documentos,texto,texto,Texto completo de la versión.,,5
+documentos,fuente_o_responsable,texto,Área responsable del documento.,Gerencia de Membresias | Jefatura de Operaciones | Oficial de Datos Personales,5

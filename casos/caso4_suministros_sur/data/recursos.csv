@@ -1,0 +1,23 @@
+periodo,recurso,linea,disponibilidad,consumo_unitario,coste,margen,limite,unidad,elegibilidad,nota
+2026-11,inventario,Detergentes y limpiadores,139.0,6.5,49.6,19.52,,unidades,ambas zonas,consumo_unitario = kg por unidad; coste = coste de compra
+2026-11,inventario,Desinfección,94.0,5.0,43.83,18.14,,unidades,ambas zonas,consumo_unitario = kg por unidad; coste = coste de compra
+2026-11,inventario,Empaque descartable,150.0,2.8,36.91,15.53,,unidades,ambas zonas,consumo_unitario = kg por unidad; coste = coste de compra
+2026-11,inventario,Papel e higiene,134.0,4.0,53.06,20.83,,unidades,ambas zonas,consumo_unitario = kg por unidad; coste = coste de compra
+2026-11,inventario,Menaje descartable,106.0,3.2,33.45,14.22,,unidades,ambas zonas,consumo_unitario = kg por unidad; coste = coste de compra
+2026-11,inventario,Bolsas y film,52.0,4.5,48.44,18.3,,unidades,ambas zonas,consumo_unitario = kg por unidad; coste = coste de compra
+2026-11,presupuesto_compra,todas,,,,,65000.0,S/,,compra de abastecimiento del plan
+2026-11,carga,todas,,,,,7500.0,kg,,capacidad de carga en cuatro semanas
+2026-11,horas_reparto,todas,,,,,320.0,horas,,capacidad de reparto en cuatro semanas
+2026-11,horas_por_pedido,todas,,0.4,,,,horas/pedido,,
+2026-11,horas_por_kg,todas,,0.01,,,,horas/kg,,
+2026-11,unidades_por_pedido,todas,,4.87,,,,unidades/pedido,,promedio de las últimas 4 semanas
+2026-11,reserva_capacidad_zona,Cusco ciudad,,0.2,,,,fraccion,,mínimo de la capacidad de carga reservado para la zona
+2026-11,reserva_capacidad_zona,Valle Sagrado,,0.2,,,,fraccion,,mínimo de la capacidad de carga reservado para la zona
+2026-11,presupuesto_retencion,todas,,,,,6000.0,S/,,
+2026-11,contacto_comercial,todas,,,12.0,,280.0,cuentas,,
+2026-11,incentivo,todas,,,35.0,,,S/ por cuenta que lo utiliza,,máximo; declarar tasa de uso supuesta
+2026-11,horizonte_retencion,todas,,6.0,,,,meses,,
+2026-11,efecto_incremental,bajo,0.0,,,,,fraccion,,
+2026-11,efecto_incremental,medio,0.04,,,,,fraccion,,
+2026-11,efecto_incremental,alto,0.09,,,,,fraccion,,
+2026-11,reduccion_capacidad_logistica,todas,,0.15,,,,fraccion,,escenario de sensibilidad

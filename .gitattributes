@@ -1,0 +1,8 @@
+* text=auto
+*.csv text eol=lf
+*.json text eol=lf
+*.ipynb text eol=lf
+*.db binary
+*.wasm binary
+*.png binary
+*.zip binary

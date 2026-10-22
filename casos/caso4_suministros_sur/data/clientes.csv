@@ -1,0 +1,1929 @@
+id_cliente,fecha_alta,zona,canal,segmento,tamano_negocio,consentimiento_contacto
+SS-00001,2021-07-11,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00002,2021-07-14,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00003,2021-07-16,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00004,2021-07-18,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00005,2021-07-19,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00006,2021-07-23,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00007,2021-07-24,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00008,2021-08-02,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00009,2021-08-07,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00010,2021-08-10,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00011,2021-08-26,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00012,2021-08-28,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00013,2021-08-29,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00014,2021-08-30,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00015,2021-08-31,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00016,2021-09-02,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00017,2021-09-07,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00018,2021-09-10,Cusco ciudad,web,Restaurante,micro,1
+SS-00019,2021-09-19,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00020,2021-09-22,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00021,2021-09-28,Valle Sagrado,ejecutivo comercial,Restaurante,micro,0
+SS-00022,2021-09-30,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00023,2021-09-30,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00024,2021-10-01,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00025,2021-10-02,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00026,2021-10-02,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00027,2021-10-04,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00028,2021-10-14,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00029,2021-10-14,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00030,2021-10-18,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00031,2021-10-19,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00032,2021-10-27,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00033,2021-10-29,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-00034,2021-11-02,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00035,2021-11-10,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00036,2021-11-18,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00037,2021-11-26,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00038,2021-11-26,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00039,2021-12-02,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00040,2021-12-05,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00041,2021-12-11,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00042,2021-12-12,Valle Sagrado,web,Restaurante,micro,1
+SS-00043,2021-12-12,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00044,2021-12-18,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00045,2021-12-25,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-00046,2021-12-30,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00047,2021-12-30,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00048,2021-12-31,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00049,2022-01-04,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00050,2022-01-05,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00051,2022-01-09,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00052,2022-01-11,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00053,2022-01-11,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00054,2022-01-13,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00055,2022-01-19,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00056,2022-01-23,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00057,2022-01-27,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00058,2022-01-30,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,0
+SS-00059,2022-01-30,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00060,2022-02-02,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-00061,2022-02-03,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00062,2022-02-04,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00063,2022-02-05,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00064,2022-02-10,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00065,2022-02-20,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00066,2022-02-21,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00067,2022-02-23,Cusco ciudad,web,Restaurante,mediano,1
+SS-00068,2022-02-23,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00069,2022-02-24,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00070,2022-02-24,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00071,2022-03-02,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00072,2022-03-09,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00073,2022-03-12,Valle Sagrado,web,Restaurante,mediano,1
+SS-00074,2022-03-18,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00075,2022-03-19,Valle Sagrado,web,Restaurante,pequeño,0
+SS-00076,2022-03-19,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00077,2022-03-21,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00078,2022-03-21,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00079,2022-03-26,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00080,2022-04-01,Cusco ciudad,web,Restaurante,micro,0
+SS-00081,2022-04-03,Cusco ciudad,web,Restaurante,mediano,0
+SS-00082,2022-04-03,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00083,2022-04-10,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00084,2022-04-12,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00085,2022-04-14,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00086,2022-04-14,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00087,2022-04-16,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00088,2022-04-16,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00089,2022-04-18,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00090,2022-04-18,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00091,2022-04-18,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-00092,2022-04-24,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-00093,2022-04-24,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00094,2022-04-26,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-00095,2022-04-28,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00096,2022-04-28,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00097,2022-04-29,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00098,2022-05-03,Valle Sagrado,web,Restaurante,pequeño,0
+SS-00099,2022-05-11,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00100,2022-05-19,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00101,2022-05-21,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00102,2022-05-22,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00103,2022-06-04,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00104,2022-06-06,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00105,2022-06-12,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00106,2022-06-20,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00107,2022-06-21,Cusco ciudad,web,Hotel pequeño,mediano,0
+SS-00108,2022-06-25,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00109,2022-06-28,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00110,2022-06-30,Cusco ciudad,web,Restaurante,mediano,1
+SS-00111,2022-07-13,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00112,2022-07-13,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00113,2022-07-14,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00114,2022-07-15,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00115,2022-07-16,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00116,2022-07-16,Cusco ciudad,web,Restaurante,mediano,1
+SS-00117,2022-07-18,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00118,2022-07-21,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00119,2022-07-21,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,0
+SS-00120,2022-07-23,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00121,2022-07-29,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00122,2022-08-01,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00123,2022-08-01,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00124,2022-08-02,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00125,2022-08-03,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00126,2022-08-08,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-00127,2022-08-08,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00128,2022-08-09,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00129,2022-08-12,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00130,2022-08-16,Cusco ciudad,web,Restaurante,micro,1
+SS-00131,2022-08-20,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00132,2022-08-21,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00133,2022-08-22,Valle Sagrado,web,Restaurante,mediano,1
+SS-00134,2022-08-24,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00135,2022-08-29,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-00136,2022-09-09,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00137,2022-09-10,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00138,2022-09-16,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00139,2022-09-16,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00140,2022-09-18,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-00141,2022-09-26,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00142,2022-09-26,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00143,2022-10-03,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-00144,2022-10-04,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00145,2022-10-04,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00146,2022-10-07,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00147,2022-10-09,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00148,2022-10-17,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00149,2022-10-17,Valle Sagrado,web,Restaurante,pequeño,0
+SS-00150,2022-10-22,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00151,2022-10-25,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00152,2022-10-26,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00153,2022-10-27,Cusco ciudad,web,Restaurante,micro,1
+SS-00154,2022-10-29,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00155,2022-11-02,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00156,2022-11-02,Valle Sagrado,web,Restaurante,mediano,1
+SS-00157,2022-11-03,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00158,2022-11-05,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00159,2022-11-08,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00160,2022-11-11,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00161,2022-11-15,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00162,2022-11-16,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00163,2022-11-18,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00164,2022-11-18,Cusco ciudad,web,Restaurante,micro,1
+SS-00165,2022-11-20,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00166,2022-11-22,Valle Sagrado,ejecutivo comercial,Restaurante,micro,0
+SS-00167,2022-11-25,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00168,2022-11-25,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00169,2022-11-27,Cusco ciudad,web,Restaurante,micro,1
+SS-00170,2022-11-28,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00171,2022-11-28,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00172,2022-12-02,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00173,2022-12-06,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00174,2022-12-07,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00175,2022-12-13,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00176,2022-12-17,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00177,2022-12-18,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00178,2022-12-19,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00179,2022-12-20,Cusco ciudad,web,Restaurante,micro,1
+SS-00180,2022-12-21,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00181,2023-01-02,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00182,2023-01-03,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00183,2023-01-04,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00184,2023-01-06,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00185,2023-01-08,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00186,2023-01-08,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-00187,2023-01-09,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00188,2023-01-10,Valle Sagrado,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00189,2023-01-12,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00190,2023-01-12,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00191,2023-01-14,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00192,2023-01-14,Valle Sagrado,web,Restaurante,micro,1
+SS-00193,2023-01-15,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00194,2023-01-16,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00195,2023-01-16,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-00196,2023-01-20,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00197,2023-01-21,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00198,2023-01-22,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-00199,2023-01-22,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-00200,2023-01-23,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00201,2023-01-24,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00202,2023-01-24,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00203,2023-01-26,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00204,2023-01-27,Cusco ciudad,teléfono,Restaurante,pequeño,0
+SS-00205,2023-01-27,Cusco ciudad,web,Restaurante,micro,1
+SS-00206,2023-01-28,Cusco ciudad,web,Restaurante,mediano,1
+SS-00207,2023-01-28,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00208,2023-01-29,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00209,2023-01-29,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00210,2023-02-01,Valle Sagrado,web,Restaurante,micro,1
+SS-00211,2023-02-04,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00212,2023-02-09,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00213,2023-02-09,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00214,2023-02-09,Valle Sagrado,web,Restaurante,micro,1
+SS-00215,2023-02-09,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00216,2023-02-12,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00217,2023-02-12,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00218,2023-02-14,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00219,2023-02-14,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00220,2023-02-14,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00221,2023-02-16,Cusco ciudad,web,Restaurante,micro,0
+SS-00222,2023-02-17,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00223,2023-02-18,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00224,2023-02-19,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00225,2023-02-21,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00226,2023-02-22,Valle Sagrado,web,Restaurante,micro,1
+SS-00227,2023-02-25,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00228,2023-02-27,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-00229,2023-02-27,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00230,2023-02-28,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-00231,2023-02-28,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00232,2023-02-28,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00233,2023-02-28,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00234,2023-03-02,Valle Sagrado,web,Restaurante,mediano,1
+SS-00235,2023-03-02,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00236,2023-03-02,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00237,2023-03-03,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00238,2023-03-04,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00239,2023-03-04,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00240,2023-03-06,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00241,2023-03-06,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00242,2023-03-09,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00243,2023-03-10,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00244,2023-03-10,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00245,2023-03-11,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00246,2023-03-13,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00247,2023-03-13,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00248,2023-03-13,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00249,2023-03-14,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00250,2023-03-14,Cusco ciudad,web,Restaurante,mediano,1
+SS-00251,2023-03-14,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00252,2023-03-15,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00253,2023-03-16,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00254,2023-03-17,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00255,2023-03-18,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00256,2023-03-18,Cusco ciudad,teléfono,Hotel pequeño,mediano,0
+SS-00257,2023-03-20,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00258,2023-03-21,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00259,2023-03-21,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-00260,2023-03-22,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00261,2023-03-23,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00262,2023-03-23,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00263,2023-03-23,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00264,2023-03-24,Cusco ciudad,teléfono,Restaurante,pequeño,0
+SS-00265,2023-03-28,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00266,2023-04-04,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00267,2023-04-07,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00268,2023-04-10,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00269,2023-04-11,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-00270,2023-04-12,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00271,2023-04-13,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00272,2023-04-13,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00273,2023-04-14,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00274,2023-04-14,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00275,2023-04-15,Cusco ciudad,web,Restaurante,micro,1
+SS-00276,2023-04-16,Cusco ciudad,web,Restaurante,micro,1
+SS-00277,2023-04-16,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00278,2023-04-17,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00279,2023-04-18,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00280,2023-04-19,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00281,2023-04-19,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,0
+SS-00282,2023-04-19,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00283,2023-04-19,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00284,2023-04-21,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00285,2023-04-21,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00286,2023-04-21,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-00287,2023-04-25,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00288,2023-04-25,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00289,2023-04-26,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00290,2023-04-27,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00291,2023-04-29,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00292,2023-04-29,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00293,2023-04-29,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00294,2023-05-01,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00295,2023-05-02,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-00296,2023-05-03,Cusco ciudad,web,Restaurante,micro,1
+SS-00297,2023-05-04,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00298,2023-05-04,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00299,2023-05-06,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00300,2023-05-06,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00301,2023-05-08,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00302,2023-05-09,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,0
+SS-00303,2023-05-09,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00304,2023-05-12,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00305,2023-05-12,Cusco ciudad,web,Restaurante,micro,1
+SS-00306,2023-05-12,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00307,2023-05-14,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00308,2023-05-14,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00309,2023-05-17,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00310,2023-05-18,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00311,2023-05-21,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00312,2023-05-26,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00313,2023-05-30,Cusco ciudad,ejecutivo comercial,Restaurante,micro,0
+SS-00314,2023-05-31,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-00315,2023-06-01,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00316,2023-06-03,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00317,2023-06-07,Cusco ciudad,web,Restaurante,micro,1
+SS-00318,2023-06-08,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00319,2023-06-08,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00320,2023-06-09,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00321,2023-06-10,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-00322,2023-06-12,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00323,2023-06-12,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00324,2023-06-13,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00325,2023-06-13,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-00326,2023-06-14,Cusco ciudad,web,Restaurante,micro,1
+SS-00327,2023-06-14,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00328,2023-06-14,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00329,2023-06-14,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00330,2023-06-15,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00331,2023-06-16,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00332,2023-06-17,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00333,2023-06-17,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00334,2023-06-17,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00335,2023-06-19,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00336,2023-06-22,Valle Sagrado,web,Restaurante,micro,1
+SS-00337,2023-06-23,Cusco ciudad,web,Restaurante,mediano,1
+SS-00338,2023-06-24,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00339,2023-06-24,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00340,2023-06-25,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-00341,2023-06-26,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00342,2023-06-26,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00343,2023-06-27,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00344,2023-06-28,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00345,2023-06-29,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-00346,2023-07-02,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00347,2023-07-02,Valle Sagrado,teléfono,Restaurante,micro,0
+SS-00348,2023-07-02,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00349,2023-07-04,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00350,2023-07-04,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00351,2023-07-04,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00352,2023-07-06,Cusco ciudad,teléfono,Restaurante,micro,0
+SS-00353,2023-07-07,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00354,2023-07-07,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00355,2023-07-09,Cusco ciudad,teléfono,Restaurante,mediano,0
+SS-00356,2023-07-09,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00357,2023-07-09,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00358,2023-07-09,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00359,2023-07-10,Valle Sagrado,web,Restaurante,mediano,1
+SS-00360,2023-07-10,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00361,2023-07-10,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00362,2023-07-11,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00363,2023-07-12,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00364,2023-07-13,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00365,2023-07-15,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00366,2023-07-17,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00367,2023-07-18,Cusco ciudad,teléfono,Restaurante,micro,0
+SS-00368,2023-07-19,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00369,2023-07-19,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00370,2023-07-23,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-00371,2023-07-24,Valle Sagrado,teléfono,Restaurante,micro,0
+SS-00372,2023-07-25,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00373,2023-07-26,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00374,2023-07-27,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00375,2023-07-29,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00376,2023-07-29,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00377,2023-07-29,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00378,2023-07-30,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00379,2023-08-02,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-00380,2023-08-03,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00381,2023-08-03,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-00382,2023-08-05,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00383,2023-08-07,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00384,2023-08-07,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00385,2023-08-09,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00386,2023-08-09,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00387,2023-08-11,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00388,2023-08-11,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00389,2023-08-11,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00390,2023-08-12,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00391,2023-08-13,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00392,2023-08-13,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00393,2023-08-13,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00394,2023-08-14,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00395,2023-08-15,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00396,2023-08-17,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00397,2023-08-17,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00398,2023-08-17,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00399,2023-08-19,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00400,2023-08-20,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00401,2023-08-20,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00402,2023-08-21,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00403,2023-08-22,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00404,2023-08-22,Cusco ciudad,web,Restaurante,micro,1
+SS-00405,2023-08-25,Cusco ciudad,web,Restaurante,mediano,1
+SS-00406,2023-08-25,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00407,2023-08-26,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-00408,2023-08-27,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00409,2023-08-27,Cusco ciudad,web,Restaurante,micro,1
+SS-00410,2023-08-30,Cusco ciudad,ejecutivo comercial,Restaurante,micro,0
+SS-00411,2023-08-30,Cusco ciudad,web,Restaurante,micro,1
+SS-00412,2023-08-30,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00413,2023-08-31,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00414,2023-09-02,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00415,2023-09-05,Valle Sagrado,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00416,2023-09-08,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00417,2023-09-08,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00418,2023-09-09,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00419,2023-09-10,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00420,2023-09-13,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00421,2023-09-14,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00422,2023-09-16,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00423,2023-09-18,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-00424,2023-09-19,Cusco ciudad,teléfono,Restaurante,micro,0
+SS-00425,2023-09-21,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00426,2023-09-23,Valle Sagrado,web,Restaurante,micro,1
+SS-00427,2023-09-24,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00428,2023-09-24,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00429,2023-09-27,Cusco ciudad,web,Restaurante,micro,1
+SS-00430,2023-09-27,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00431,2023-09-27,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00432,2023-09-28,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00433,2023-09-28,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00434,2023-09-28,Valle Sagrado,web,Restaurante,micro,1
+SS-00435,2023-09-30,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-00436,2023-10-03,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00437,2023-10-05,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00438,2023-10-05,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00439,2023-10-06,Cusco ciudad,web,Restaurante,micro,1
+SS-00440,2023-10-08,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00441,2023-10-09,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00442,2023-10-11,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00443,2023-10-11,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00444,2023-10-13,Valle Sagrado,web,Restaurante,micro,1
+SS-00445,2023-10-13,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00446,2023-10-13,Cusco ciudad,web,Restaurante,micro,1
+SS-00447,2023-10-15,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-00448,2023-10-16,Valle Sagrado,web,Restaurante,micro,1
+SS-00449,2023-10-17,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00450,2023-10-19,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00451,2023-10-23,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,0
+SS-00452,2023-10-23,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00453,2023-10-25,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00454,2023-10-25,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00455,2023-10-26,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00456,2023-10-26,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-00457,2023-10-28,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00458,2023-10-28,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00459,2023-10-29,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00460,2023-10-29,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00461,2023-10-30,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00462,2023-10-30,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00463,2023-10-31,Cusco ciudad,web,Restaurante,mediano,0
+SS-00464,2023-10-31,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-00465,2023-11-02,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00466,2023-11-02,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00467,2023-11-03,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,0
+SS-00468,2023-11-05,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00469,2023-11-06,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00470,2023-11-06,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00471,2023-11-07,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00472,2023-11-08,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00473,2023-11-08,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00474,2023-11-08,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00475,2023-11-09,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-00476,2023-11-09,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00477,2023-11-10,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00478,2023-11-15,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00479,2023-11-15,Cusco ciudad,ejecutivo comercial,Restaurante,micro,0
+SS-00480,2023-11-18,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00481,2023-11-19,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00482,2023-11-22,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00483,2023-11-22,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00484,2023-11-22,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00485,2023-11-23,Cusco ciudad,web,Restaurante,micro,1
+SS-00486,2023-11-23,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00487,2023-11-24,Cusco ciudad,web,Restaurante,micro,1
+SS-00488,2023-11-24,Valle Sagrado,teléfono,Restaurante,mediano,0
+SS-00489,2023-11-24,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00490,2023-11-24,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00491,2023-11-24,Cusco ciudad,web,Restaurante,micro,1
+SS-00492,2023-11-25,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00493,2023-11-25,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00494,2023-11-27,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00495,2023-11-28,Valle Sagrado,web,Restaurante,micro,1
+SS-00496,2023-11-29,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00497,2023-11-29,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00498,2023-11-30,Valle Sagrado,web,Restaurante,micro,0
+SS-00499,2023-12-01,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00500,2023-12-02,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00501,2023-12-04,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00502,2023-12-05,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00503,2023-12-06,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-00504,2023-12-08,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00505,2023-12-10,Cusco ciudad,web,Restaurante,pequeño,0
+SS-00506,2023-12-11,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00507,2023-12-11,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00508,2023-12-12,Cusco ciudad,teléfono,Restaurante,mediano,0
+SS-00509,2023-12-15,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00510,2023-12-15,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00511,2023-12-16,Cusco ciudad,web,Restaurante,mediano,1
+SS-00512,2023-12-16,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00513,2023-12-16,Cusco ciudad,web,Restaurante,micro,0
+SS-00514,2023-12-17,Valle Sagrado,web,Restaurante,micro,1
+SS-00515,2023-12-17,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00516,2023-12-17,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00517,2023-12-22,Cusco ciudad,web,Restaurante,mediano,1
+SS-00518,2023-12-24,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00519,2023-12-25,Valle Sagrado,web,Restaurante,micro,1
+SS-00520,2023-12-26,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00521,2023-12-28,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00522,2023-12-28,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00523,2023-12-29,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00524,2023-12-29,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00525,2023-12-30,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00526,2023-12-30,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00527,2023-12-30,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00528,2023-12-31,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00529,2024-01-01,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00530,2024-01-01,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00531,2024-01-01,Cusco ciudad,web,Restaurante,micro,1
+SS-00532,2024-01-02,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00533,2024-01-03,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00534,2024-01-03,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00535,2024-01-05,Valle Sagrado,web,Restaurante,micro,1
+SS-00536,2024-01-06,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00537,2024-01-09,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00538,2024-01-09,Cusco ciudad,web,Restaurante,micro,1
+SS-00539,2024-01-10,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00540,2024-01-12,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00541,2024-01-12,Cusco ciudad,web,Restaurante,mediano,1
+SS-00542,2024-01-13,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-00543,2024-01-16,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00544,2024-01-17,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00545,2024-01-17,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00546,2024-01-18,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00547,2024-01-18,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00548,2024-01-18,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00549,2024-01-19,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00550,2024-01-19,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00551,2024-01-20,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00552,2024-01-21,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00553,2024-01-22,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-00554,2024-01-22,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00555,2024-01-25,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00556,2024-01-27,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00557,2024-01-28,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00558,2024-01-30,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00559,2024-01-31,Cusco ciudad,web,Restaurante,micro,1
+SS-00560,2024-01-31,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00561,2024-02-03,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-00562,2024-02-04,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00563,2024-02-05,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00564,2024-02-06,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00565,2024-02-06,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00566,2024-02-06,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00567,2024-02-08,Cusco ciudad,web,Restaurante,micro,1
+SS-00568,2024-02-10,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00569,2024-02-10,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00570,2024-02-12,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00571,2024-02-12,Cusco ciudad,web,Restaurante,micro,1
+SS-00572,2024-02-12,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00573,2024-02-15,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00574,2024-02-16,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00575,2024-02-16,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00576,2024-02-16,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00577,2024-02-19,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00578,2024-02-20,Cusco ciudad,web,Restaurante,micro,1
+SS-00579,2024-02-20,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00580,2024-02-21,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00581,2024-02-23,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00582,2024-02-24,Valle Sagrado,web,Restaurante,micro,1
+SS-00583,2024-02-25,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00584,2024-02-27,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00585,2024-02-29,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,0
+SS-00586,2024-03-02,Cusco ciudad,web,Restaurante,mediano,1
+SS-00587,2024-03-02,Cusco ciudad,web,Restaurante,micro,1
+SS-00588,2024-03-06,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00589,2024-03-07,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-00590,2024-03-07,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00591,2024-03-08,Valle Sagrado,web,Restaurante,mediano,1
+SS-00592,2024-03-11,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00593,2024-03-11,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00594,2024-03-11,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00595,2024-03-12,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00596,2024-03-12,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00597,2024-03-14,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00598,2024-03-14,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00599,2024-03-15,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00600,2024-03-15,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00601,2024-03-16,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00602,2024-03-17,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00603,2024-03-17,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,0
+SS-00604,2024-03-18,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00605,2024-03-18,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00606,2024-03-20,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00607,2024-03-20,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00608,2024-03-21,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00609,2024-03-22,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-00610,2024-03-23,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00611,2024-03-23,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-00612,2024-03-24,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00613,2024-03-24,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,0
+SS-00614,2024-03-26,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00615,2024-03-27,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00616,2024-03-28,Cusco ciudad,web,Restaurante,mediano,1
+SS-00617,2024-03-29,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00618,2024-03-29,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00619,2024-03-30,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,0
+SS-00620,2024-03-30,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-00621,2024-03-31,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00622,2024-04-01,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00623,2024-04-02,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-00624,2024-04-02,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00625,2024-04-03,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00626,2024-04-07,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00627,2024-04-07,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00628,2024-04-08,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00629,2024-04-09,Cusco ciudad,teléfono,Restaurante,mediano,0
+SS-00630,2024-04-09,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00631,2024-04-10,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00632,2024-04-10,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00633,2024-04-11,Valle Sagrado,web,Restaurante,mediano,1
+SS-00634,2024-04-11,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00635,2024-04-13,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00636,2024-04-13,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00637,2024-04-15,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00638,2024-04-18,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00639,2024-04-18,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00640,2024-04-18,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00641,2024-04-18,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00642,2024-04-19,Valle Sagrado,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00643,2024-04-19,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00644,2024-04-20,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00645,2024-04-22,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00646,2024-04-23,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00647,2024-04-24,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00648,2024-04-25,Valle Sagrado,web,Restaurante,micro,1
+SS-00649,2024-04-25,Cusco ciudad,web,Restaurante,micro,1
+SS-00650,2024-04-26,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00651,2024-04-27,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00652,2024-04-27,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,0
+SS-00653,2024-04-27,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00654,2024-04-28,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00655,2024-04-28,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00656,2024-04-29,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00657,2024-04-29,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00658,2024-05-01,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00659,2024-05-01,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00660,2024-05-02,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00661,2024-05-03,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00662,2024-05-04,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-00663,2024-05-04,Cusco ciudad,web,Restaurante,micro,1
+SS-00664,2024-05-04,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00665,2024-05-05,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00666,2024-05-05,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-00667,2024-05-06,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00668,2024-05-07,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-00669,2024-05-07,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00670,2024-05-08,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00671,2024-05-08,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00672,2024-05-09,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00673,2024-05-09,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00674,2024-05-10,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00675,2024-05-13,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00676,2024-05-14,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00677,2024-05-15,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00678,2024-05-16,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00679,2024-05-16,Valle Sagrado,web,Restaurante,micro,1
+SS-00680,2024-05-17,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-00681,2024-05-18,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00682,2024-05-19,Valle Sagrado,web,Restaurante,micro,1
+SS-00683,2024-05-20,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00684,2024-05-20,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00685,2024-05-21,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00686,2024-05-22,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00687,2024-05-22,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00688,2024-05-23,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-00689,2024-05-23,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00690,2024-05-24,Valle Sagrado,web,Restaurante,mediano,1
+SS-00691,2024-05-26,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00692,2024-05-27,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00693,2024-05-29,Valle Sagrado,web,Restaurante,micro,1
+SS-00694,2024-05-29,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00695,2024-05-30,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00696,2024-05-31,Cusco ciudad,teléfono,Hotel pequeño,mediano,0
+SS-00697,2024-06-01,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00698,2024-06-01,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00699,2024-06-02,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00700,2024-06-02,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-00701,2024-06-02,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00702,2024-06-02,Valle Sagrado,web,Restaurante,mediano,1
+SS-00703,2024-06-02,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00704,2024-06-03,Valle Sagrado,web,Restaurante,micro,1
+SS-00705,2024-06-04,Cusco ciudad,web,Restaurante,mediano,1
+SS-00706,2024-06-05,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00707,2024-06-06,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00708,2024-06-06,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00709,2024-06-07,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00710,2024-06-07,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00711,2024-06-07,Valle Sagrado,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00712,2024-06-08,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00713,2024-06-08,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00714,2024-06-10,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-00715,2024-06-10,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00716,2024-06-10,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00717,2024-06-11,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00718,2024-06-11,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00719,2024-06-14,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00720,2024-06-14,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00721,2024-06-14,Valle Sagrado,web,Restaurante,mediano,1
+SS-00722,2024-06-15,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00723,2024-06-15,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-00724,2024-06-16,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00725,2024-06-16,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00726,2024-06-19,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00727,2024-06-19,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00728,2024-06-19,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00729,2024-06-19,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00730,2024-06-21,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00731,2024-06-21,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-00732,2024-06-21,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00733,2024-06-21,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00734,2024-06-21,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00735,2024-06-22,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00736,2024-06-23,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00737,2024-06-24,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00738,2024-06-25,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00739,2024-06-25,Cusco ciudad,web,Restaurante,pequeño,0
+SS-00740,2024-06-28,Valle Sagrado,web,Restaurante,micro,1
+SS-00741,2024-06-29,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00742,2024-07-01,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00743,2024-07-01,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00744,2024-07-01,Cusco ciudad,web,Restaurante,micro,1
+SS-00745,2024-07-01,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00746,2024-07-02,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00747,2024-07-02,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00748,2024-07-03,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00749,2024-07-04,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00750,2024-07-05,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00751,2024-07-05,Valle Sagrado,teléfono,Restaurante,micro,0
+SS-00752,2024-07-05,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-00753,2024-07-06,Cusco ciudad,web,Restaurante,micro,0
+SS-00754,2024-07-07,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00755,2024-07-08,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00756,2024-07-09,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00757,2024-07-09,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00758,2024-07-10,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00759,2024-07-11,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00760,2024-07-11,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00761,2024-07-11,Cusco ciudad,web,Restaurante,micro,1
+SS-00762,2024-07-11,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-00763,2024-07-13,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00764,2024-07-16,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00765,2024-07-17,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00766,2024-07-17,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00767,2024-07-17,Valle Sagrado,web,Hotel pequeño,mediano,0
+SS-00768,2024-07-17,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00769,2024-07-17,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-00770,2024-07-18,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00771,2024-07-18,Cusco ciudad,web,Restaurante,micro,1
+SS-00772,2024-07-19,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00773,2024-07-20,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00774,2024-07-20,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00775,2024-07-21,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00776,2024-07-21,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00777,2024-07-22,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00778,2024-07-22,Valle Sagrado,teléfono,Restaurante,pequeño,0
+SS-00779,2024-07-24,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00780,2024-07-24,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00781,2024-07-24,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00782,2024-07-24,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00783,2024-07-25,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00784,2024-07-27,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00785,2024-07-27,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00786,2024-07-29,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00787,2024-07-30,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00788,2024-07-31,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00789,2024-07-31,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00790,2024-08-01,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00791,2024-08-02,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00792,2024-08-03,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00793,2024-08-03,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00794,2024-08-04,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00795,2024-08-04,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00796,2024-08-05,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00797,2024-08-05,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00798,2024-08-06,Cusco ciudad,web,Restaurante,micro,1
+SS-00799,2024-08-07,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00800,2024-08-07,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,0
+SS-00801,2024-08-10,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00802,2024-08-11,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00803,2024-08-12,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00804,2024-08-13,Valle Sagrado,web,Restaurante,micro,1
+SS-00805,2024-08-13,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00806,2024-08-14,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00807,2024-08-16,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00808,2024-08-17,Cusco ciudad,web,Restaurante,micro,1
+SS-00809,2024-08-17,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00810,2024-08-18,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00811,2024-08-18,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00812,2024-08-19,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00813,2024-08-21,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00814,2024-08-23,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00815,2024-08-23,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00816,2024-08-25,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-00817,2024-08-25,Cusco ciudad,ejecutivo comercial,Restaurante,micro,0
+SS-00818,2024-08-26,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00819,2024-08-27,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00820,2024-08-30,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00821,2024-08-30,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00822,2024-08-31,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-00823,2024-09-03,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00824,2024-09-03,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00825,2024-09-05,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-00826,2024-09-05,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00827,2024-09-05,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-00828,2024-09-05,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00829,2024-09-06,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00830,2024-09-06,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00831,2024-09-06,Valle Sagrado,web,Hotel pequeño,mediano,1
+SS-00832,2024-09-08,Cusco ciudad,web,Restaurante,micro,1
+SS-00833,2024-09-09,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00834,2024-09-09,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00835,2024-09-12,Cusco ciudad,web,Restaurante,micro,1
+SS-00836,2024-09-14,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00837,2024-09-15,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00838,2024-09-17,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00839,2024-09-18,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00840,2024-09-19,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00841,2024-09-20,Cusco ciudad,web,Restaurante,micro,1
+SS-00842,2024-09-21,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00843,2024-09-21,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00844,2024-09-21,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00845,2024-09-22,Valle Sagrado,teléfono,Restaurante,micro,0
+SS-00846,2024-09-23,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00847,2024-09-23,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00848,2024-09-23,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00849,2024-09-24,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-00850,2024-09-25,Cusco ciudad,web,Restaurante,micro,1
+SS-00851,2024-09-25,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-00852,2024-09-25,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00853,2024-09-26,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00854,2024-09-27,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00855,2024-09-29,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00856,2024-09-29,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00857,2024-10-01,Valle Sagrado,web,Restaurante,micro,1
+SS-00858,2024-10-01,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00859,2024-10-01,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00860,2024-10-02,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-00861,2024-10-03,Valle Sagrado,web,Restaurante,micro,0
+SS-00862,2024-10-05,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00863,2024-10-05,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00864,2024-10-06,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00865,2024-10-06,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00866,2024-10-07,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00867,2024-10-07,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00868,2024-10-08,Valle Sagrado,web,Restaurante,micro,1
+SS-00869,2024-10-09,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,0
+SS-00870,2024-10-09,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00871,2024-10-12,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00872,2024-10-14,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00873,2024-10-14,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00874,2024-10-15,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00875,2024-10-15,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00876,2024-10-16,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-00877,2024-10-17,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00878,2024-10-17,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00879,2024-10-18,Cusco ciudad,teléfono,Restaurante,micro,0
+SS-00880,2024-10-18,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00881,2024-10-18,Cusco ciudad,web,Restaurante,micro,1
+SS-00882,2024-10-19,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00883,2024-10-20,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00884,2024-10-21,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00885,2024-10-22,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00886,2024-10-23,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00887,2024-10-23,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00888,2024-10-24,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00889,2024-10-24,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00890,2024-10-25,Valle Sagrado,web,Restaurante,mediano,1
+SS-00891,2024-10-26,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00892,2024-10-26,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00893,2024-10-26,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00894,2024-10-27,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00895,2024-10-27,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00896,2024-10-28,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00897,2024-10-30,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00898,2024-11-01,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-00899,2024-11-03,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,0
+SS-00900,2024-11-03,Cusco ciudad,web,Restaurante,mediano,1
+SS-00901,2024-11-03,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00902,2024-11-04,Cusco ciudad,teléfono,Restaurante,mediano,0
+SS-00903,2024-11-05,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00904,2024-11-06,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00905,2024-11-06,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00906,2024-11-07,Cusco ciudad,web,Restaurante,mediano,1
+SS-00907,2024-11-07,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00908,2024-11-08,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00909,2024-11-09,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00910,2024-11-11,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00911,2024-11-12,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00912,2024-11-14,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00913,2024-11-16,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00914,2024-11-17,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00915,2024-11-18,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-00916,2024-11-18,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00917,2024-11-19,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00918,2024-11-20,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00919,2024-11-21,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-00920,2024-11-22,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00921,2024-11-24,Valle Sagrado,web,Hotel pequeño,micro,0
+SS-00922,2024-11-24,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00923,2024-11-25,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00924,2024-11-26,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00925,2024-11-26,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00926,2024-11-28,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00927,2024-11-28,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-00928,2024-11-28,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00929,2024-11-29,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00930,2024-11-29,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00931,2024-11-30,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00932,2024-11-30,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00933,2024-11-30,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00934,2024-12-01,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00935,2024-12-03,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-00936,2024-12-03,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00937,2024-12-06,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00938,2024-12-07,Valle Sagrado,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00939,2024-12-07,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00940,2024-12-09,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00941,2024-12-11,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-00942,2024-12-12,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00943,2024-12-13,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00944,2024-12-13,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00945,2024-12-14,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00946,2024-12-14,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00947,2024-12-16,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00948,2024-12-16,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00949,2024-12-16,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00950,2024-12-19,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00951,2024-12-21,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00952,2024-12-22,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00953,2024-12-22,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-00954,2024-12-22,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-00955,2024-12-22,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00956,2024-12-23,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-00957,2024-12-23,Valle Sagrado,ejecutivo comercial,Restaurante,micro,0
+SS-00958,2024-12-25,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-00959,2024-12-25,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00960,2024-12-26,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00961,2024-12-27,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00962,2024-12-29,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00963,2024-12-30,Valle Sagrado,web,Restaurante,micro,1
+SS-00964,2024-12-30,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00965,2024-12-31,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00966,2024-12-31,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-00967,2025-01-01,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00968,2025-01-02,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00969,2025-01-04,Cusco ciudad,web,Restaurante,pequeño,1
+SS-00970,2025-01-05,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-00971,2025-01-05,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00972,2025-01-06,Valle Sagrado,web,Restaurante,pequeño,1
+SS-00973,2025-01-06,Cusco ciudad,web,Restaurante,micro,1
+SS-00974,2025-01-06,Valle Sagrado,web,Restaurante,micro,1
+SS-00975,2025-01-08,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00976,2025-01-08,Cusco ciudad,web,Hotel pequeño,mediano,0
+SS-00977,2025-01-09,Cusco ciudad,web,Restaurante,micro,1
+SS-00978,2025-01-10,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00979,2025-01-11,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00980,2025-01-11,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00981,2025-01-13,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-00982,2025-01-13,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-00983,2025-01-13,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00984,2025-01-14,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00985,2025-01-15,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-00986,2025-01-15,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-00987,2025-01-17,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-00988,2025-01-18,Valle Sagrado,teléfono,Restaurante,micro,0
+SS-00989,2025-01-18,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-00990,2025-01-19,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-00991,2025-01-20,Cusco ciudad,web,Restaurante,micro,1
+SS-00992,2025-01-21,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-00993,2025-01-21,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-00994,2025-01-21,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-00995,2025-01-22,Cusco ciudad,web,Restaurante,micro,1
+SS-00996,2025-01-22,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-00997,2025-01-23,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-00998,2025-01-24,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-00999,2025-01-26,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01000,2025-01-26,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01001,2025-01-27,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-01002,2025-01-28,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01003,2025-01-30,Cusco ciudad,ejecutivo comercial,Restaurante,micro,0
+SS-01004,2025-01-31,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01005,2025-02-01,Cusco ciudad,web,Restaurante,micro,1
+SS-01006,2025-02-02,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01007,2025-02-03,Valle Sagrado,web,Restaurante,micro,0
+SS-01008,2025-02-03,Cusco ciudad,web,Restaurante,micro,1
+SS-01009,2025-02-04,Cusco ciudad,web,Restaurante,micro,1
+SS-01010,2025-02-06,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01011,2025-02-06,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01012,2025-02-06,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01013,2025-02-08,Valle Sagrado,web,Restaurante,micro,1
+SS-01014,2025-02-10,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01015,2025-02-11,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01016,2025-02-11,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01017,2025-02-12,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-01018,2025-02-14,Valle Sagrado,web,Restaurante,micro,1
+SS-01019,2025-02-14,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01020,2025-02-16,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01021,2025-02-17,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01022,2025-02-18,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01023,2025-02-19,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-01024,2025-02-20,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01025,2025-02-20,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01026,2025-02-21,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01027,2025-02-21,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01028,2025-02-22,Valle Sagrado,web,Restaurante,pequeño,1
+SS-01029,2025-02-22,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01030,2025-02-23,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01031,2025-02-23,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01032,2025-02-26,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01033,2025-02-27,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01034,2025-02-27,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01035,2025-02-28,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01036,2025-02-28,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01037,2025-03-01,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-01038,2025-03-02,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01039,2025-03-02,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01040,2025-03-06,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01041,2025-03-07,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01042,2025-03-10,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01043,2025-03-11,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01044,2025-03-11,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01045,2025-03-13,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-01046,2025-03-14,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01047,2025-03-15,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-01048,2025-03-15,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01049,2025-03-15,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-01050,2025-03-16,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01051,2025-03-17,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01052,2025-03-18,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01053,2025-03-19,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01054,2025-03-20,Valle Sagrado,web,Restaurante,pequeño,1
+SS-01055,2025-03-21,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01056,2025-03-21,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01057,2025-03-22,Cusco ciudad,web,Restaurante,mediano,1
+SS-01058,2025-03-23,Valle Sagrado,teléfono,Hotel pequeño,pequeño,0
+SS-01059,2025-03-24,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01060,2025-03-24,Valle Sagrado,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01061,2025-03-24,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01062,2025-03-25,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01063,2025-03-25,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01064,2025-03-26,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01065,2025-03-27,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-01066,2025-03-27,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-01067,2025-03-28,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01068,2025-03-30,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01069,2025-04-01,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01070,2025-04-01,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01071,2025-04-01,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01072,2025-04-03,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01073,2025-04-03,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01074,2025-04-03,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01075,2025-04-04,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01076,2025-04-04,Cusco ciudad,web,Restaurante,mediano,1
+SS-01077,2025-04-05,Cusco ciudad,web,Restaurante,micro,1
+SS-01078,2025-04-06,Cusco ciudad,web,Restaurante,mediano,1
+SS-01079,2025-04-07,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01080,2025-04-08,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01081,2025-04-08,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01082,2025-04-08,Cusco ciudad,web,Restaurante,mediano,1
+SS-01083,2025-04-08,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01084,2025-04-08,Valle Sagrado,web,Restaurante,pequeño,1
+SS-01085,2025-04-10,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01086,2025-04-11,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01087,2025-04-11,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01088,2025-04-13,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01089,2025-04-13,Cusco ciudad,teléfono,Restaurante,mediano,0
+SS-01090,2025-04-13,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01091,2025-04-14,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01092,2025-04-15,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01093,2025-04-16,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01094,2025-04-16,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,0
+SS-01095,2025-04-17,Cusco ciudad,web,Restaurante,mediano,1
+SS-01096,2025-04-17,Cusco ciudad,ejecutivo comercial,Restaurante,micro,0
+SS-01097,2025-04-18,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01098,2025-04-18,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01099,2025-04-18,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01100,2025-04-18,Cusco ciudad,web,Restaurante,micro,1
+SS-01101,2025-04-18,Cusco ciudad,web,Restaurante,micro,1
+SS-01102,2025-04-19,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01103,2025-04-21,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01104,2025-04-22,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-01105,2025-04-23,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-01106,2025-04-23,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01107,2025-04-25,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01108,2025-04-27,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01109,2025-04-27,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01110,2025-04-28,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01111,2025-04-29,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01112,2025-04-30,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01113,2025-05-03,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01114,2025-05-03,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01115,2025-05-05,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01116,2025-05-05,Valle Sagrado,web,Restaurante,pequeño,0
+SS-01117,2025-05-05,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01118,2025-05-05,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01119,2025-05-06,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01120,2025-05-07,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01121,2025-05-07,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01122,2025-05-07,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01123,2025-05-07,Cusco ciudad,web,Restaurante,micro,1
+SS-01124,2025-05-08,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01125,2025-05-08,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-01126,2025-05-10,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01127,2025-05-10,Cusco ciudad,web,Restaurante,mediano,1
+SS-01128,2025-05-10,Valle Sagrado,web,Hotel pequeño,mediano,0
+SS-01129,2025-05-11,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01130,2025-05-11,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01131,2025-05-11,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01132,2025-05-12,Cusco ciudad,web,Restaurante,mediano,1
+SS-01133,2025-05-14,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01134,2025-05-15,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01135,2025-05-15,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01136,2025-05-16,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01137,2025-05-16,Cusco ciudad,teléfono,Hotel pequeño,pequeño,0
+SS-01138,2025-05-17,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01139,2025-05-17,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-01140,2025-05-17,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01141,2025-05-19,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01142,2025-05-19,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01143,2025-05-20,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01144,2025-05-20,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01145,2025-05-20,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01146,2025-05-21,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01147,2025-05-24,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01148,2025-05-24,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-01149,2025-05-24,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01150,2025-05-26,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-01151,2025-05-27,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01152,2025-05-27,Cusco ciudad,web,Restaurante,mediano,1
+SS-01153,2025-05-27,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01154,2025-05-28,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-01155,2025-05-28,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01156,2025-05-28,Cusco ciudad,web,Restaurante,micro,1
+SS-01157,2025-05-29,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01158,2025-05-30,Valle Sagrado,web,Restaurante,micro,1
+SS-01159,2025-05-30,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-01160,2025-05-31,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01161,2025-06-02,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01162,2025-06-02,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01163,2025-06-03,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01164,2025-06-03,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01165,2025-06-03,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01166,2025-06-05,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01167,2025-06-05,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01168,2025-06-06,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01169,2025-06-06,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01170,2025-06-09,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01171,2025-06-10,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01172,2025-06-11,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,0
+SS-01173,2025-06-11,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01174,2025-06-13,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01175,2025-06-13,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01176,2025-06-13,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01177,2025-06-14,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01178,2025-06-14,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01179,2025-06-14,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01180,2025-06-14,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01181,2025-06-14,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01182,2025-06-15,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01183,2025-06-16,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01184,2025-06-16,Valle Sagrado,web,Restaurante,mediano,1
+SS-01185,2025-06-16,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01186,2025-06-17,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01187,2025-06-18,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01188,2025-06-18,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01189,2025-06-18,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01190,2025-06-18,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01191,2025-06-20,Cusco ciudad,ejecutivo comercial,Restaurante,micro,0
+SS-01192,2025-06-20,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01193,2025-06-22,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-01194,2025-06-22,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01195,2025-06-22,Valle Sagrado,web,Restaurante,pequeño,1
+SS-01196,2025-06-22,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01197,2025-06-23,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01198,2025-06-23,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01199,2025-06-24,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01200,2025-06-24,Cusco ciudad,web,Restaurante,micro,1
+SS-01201,2025-06-25,Cusco ciudad,web,Restaurante,micro,1
+SS-01202,2025-06-25,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01203,2025-06-26,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-01204,2025-06-27,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01205,2025-06-28,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01206,2025-06-28,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01207,2025-06-28,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01208,2025-06-28,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01209,2025-06-29,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01210,2025-06-29,Valle Sagrado,teléfono,Restaurante,pequeño,0
+SS-01211,2025-06-30,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01212,2025-06-30,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01213,2025-06-30,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01214,2025-07-01,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01215,2025-07-01,Cusco ciudad,web,Restaurante,micro,1
+SS-01216,2025-07-02,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01217,2025-07-03,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01218,2025-07-04,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01219,2025-07-04,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-01220,2025-07-04,Cusco ciudad,web,Restaurante,micro,1
+SS-01221,2025-07-04,Cusco ciudad,web,Restaurante,micro,1
+SS-01222,2025-07-04,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01223,2025-07-05,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01224,2025-07-06,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01225,2025-07-07,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-01226,2025-07-07,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01227,2025-07-08,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01228,2025-07-09,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01229,2025-07-09,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01230,2025-07-10,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01231,2025-07-10,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01232,2025-07-10,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01233,2025-07-11,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-01234,2025-07-11,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01235,2025-07-11,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01236,2025-07-11,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01237,2025-07-12,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01238,2025-07-12,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01239,2025-07-12,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-01240,2025-07-13,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01241,2025-07-13,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01242,2025-07-14,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01243,2025-07-15,Valle Sagrado,teléfono,Restaurante,micro,0
+SS-01244,2025-07-16,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01245,2025-07-18,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01246,2025-07-18,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-01247,2025-07-19,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01248,2025-07-19,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01249,2025-07-20,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01250,2025-07-20,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01251,2025-07-20,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01252,2025-07-21,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01253,2025-07-22,Cusco ciudad,teléfono,Restaurante,micro,0
+SS-01254,2025-07-22,Cusco ciudad,web,Restaurante,mediano,1
+SS-01255,2025-07-23,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01256,2025-07-23,Cusco ciudad,web,Restaurante,micro,0
+SS-01257,2025-07-24,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01258,2025-07-24,Valle Sagrado,web,Restaurante,micro,1
+SS-01259,2025-07-24,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-01260,2025-07-26,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01261,2025-07-27,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-01262,2025-07-28,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-01263,2025-07-28,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-01264,2025-07-29,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01265,2025-07-30,Cusco ciudad,web,Restaurante,micro,0
+SS-01266,2025-07-30,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01267,2025-07-31,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01268,2025-07-31,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01269,2025-07-31,Valle Sagrado,web,Restaurante,micro,1
+SS-01270,2025-07-31,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01271,2025-07-31,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01272,2025-07-31,Valle Sagrado,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01273,2025-07-31,Valle Sagrado,web,Restaurante,pequeño,0
+SS-01274,2025-08-01,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,0
+SS-01275,2025-08-01,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01276,2025-08-01,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-01277,2025-08-06,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-01278,2025-08-06,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01279,2025-08-06,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01280,2025-08-07,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-01281,2025-08-07,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01282,2025-08-09,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01283,2025-08-09,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01284,2025-08-11,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01285,2025-08-12,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01286,2025-08-13,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01287,2025-08-14,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01288,2025-08-15,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01289,2025-08-16,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01290,2025-08-16,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01291,2025-08-16,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01292,2025-08-17,Valle Sagrado,web,Restaurante,pequeño,1
+SS-01293,2025-08-17,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01294,2025-08-19,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01295,2025-08-21,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01296,2025-08-22,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-01297,2025-08-22,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,0
+SS-01298,2025-08-23,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01299,2025-08-23,Valle Sagrado,web,Restaurante,micro,1
+SS-01300,2025-08-23,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01301,2025-08-25,Valle Sagrado,web,Hotel pequeño,micro,0
+SS-01302,2025-08-26,Valle Sagrado,teléfono,Restaurante,mediano,0
+SS-01303,2025-08-28,Cusco ciudad,ejecutivo comercial,Restaurante,micro,0
+SS-01304,2025-08-29,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01305,2025-09-02,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01306,2025-09-03,Valle Sagrado,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01307,2025-09-04,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01308,2025-09-04,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-01309,2025-09-08,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01310,2025-09-08,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-01311,2025-09-08,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01312,2025-09-09,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01313,2025-09-09,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01314,2025-09-10,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01315,2025-09-11,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01316,2025-09-12,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-01317,2025-09-13,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01318,2025-09-15,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01319,2025-09-15,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01320,2025-09-15,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01321,2025-09-16,Cusco ciudad,web,Restaurante,micro,1
+SS-01322,2025-09-17,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-01323,2025-09-17,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01324,2025-09-17,Valle Sagrado,web,Restaurante,micro,1
+SS-01325,2025-09-18,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01326,2025-09-18,Valle Sagrado,web,Restaurante,micro,1
+SS-01327,2025-09-19,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01328,2025-09-20,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-01329,2025-09-21,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01330,2025-09-22,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01331,2025-09-22,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01332,2025-09-23,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01333,2025-09-23,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01334,2025-09-24,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01335,2025-09-26,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01336,2025-09-27,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01337,2025-09-27,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01338,2025-09-27,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01339,2025-09-27,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01340,2025-09-28,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01341,2025-09-28,Cusco ciudad,web,Restaurante,micro,1
+SS-01342,2025-09-28,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01343,2025-09-28,Valle Sagrado,teléfono,Restaurante,micro,0
+SS-01344,2025-09-30,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01345,2025-10-01,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01346,2025-10-02,Cusco ciudad,web,Restaurante,micro,1
+SS-01347,2025-10-03,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01348,2025-10-03,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01349,2025-10-03,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01350,2025-10-03,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01351,2025-10-05,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01352,2025-10-07,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01353,2025-10-08,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01354,2025-10-08,Valle Sagrado,web,Hotel pequeño,micro,0
+SS-01355,2025-10-09,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01356,2025-10-10,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01357,2025-10-11,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,0
+SS-01358,2025-10-12,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01359,2025-10-13,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-01360,2025-10-13,Cusco ciudad,web,Restaurante,micro,1
+SS-01361,2025-10-14,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01362,2025-10-14,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01363,2025-10-15,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01364,2025-10-16,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01365,2025-10-16,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01366,2025-10-16,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-01367,2025-10-16,Cusco ciudad,web,Restaurante,mediano,1
+SS-01368,2025-10-17,Cusco ciudad,web,Restaurante,mediano,1
+SS-01369,2025-10-18,Cusco ciudad,web,Restaurante,micro,1
+SS-01370,2025-10-18,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01371,2025-10-19,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01372,2025-10-19,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01373,2025-10-20,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01374,2025-10-20,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01375,2025-10-20,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-01376,2025-10-23,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01377,2025-10-24,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01378,2025-10-24,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01379,2025-10-25,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-01380,2025-10-26,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01381,2025-10-26,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01382,2025-10-29,Valle Sagrado,web,Restaurante,pequeño,0
+SS-01383,2025-10-29,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01384,2025-10-29,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,0
+SS-01385,2025-10-31,Valle Sagrado,web,Restaurante,micro,1
+SS-01386,2025-11-01,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01387,2025-11-02,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-01388,2025-11-04,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-01389,2025-11-04,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01390,2025-11-05,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01391,2025-11-06,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01392,2025-11-07,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,0
+SS-01393,2025-11-08,Cusco ciudad,teléfono,Hotel pequeño,micro,0
+SS-01394,2025-11-09,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01395,2025-11-09,Cusco ciudad,web,Restaurante,mediano,1
+SS-01396,2025-11-10,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01397,2025-11-10,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01398,2025-11-10,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01399,2025-11-10,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01400,2025-11-11,Cusco ciudad,teléfono,Restaurante,pequeño,0
+SS-01401,2025-11-12,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01402,2025-11-12,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01403,2025-11-14,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01404,2025-11-15,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01405,2025-11-15,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01406,2025-11-15,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01407,2025-11-15,Valle Sagrado,web,Restaurante,mediano,1
+SS-01408,2025-11-15,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01409,2025-11-18,Cusco ciudad,web,Restaurante,mediano,1
+SS-01410,2025-11-18,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01411,2025-11-19,Cusco ciudad,teléfono,Restaurante,pequeño,0
+SS-01412,2025-11-20,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01413,2025-11-21,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01414,2025-11-21,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01415,2025-11-22,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01416,2025-11-22,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01417,2025-11-22,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-01418,2025-11-23,Valle Sagrado,web,Restaurante,pequeño,1
+SS-01419,2025-11-23,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01420,2025-11-24,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01421,2025-11-25,Cusco ciudad,web,Restaurante,pequeño,0
+SS-01422,2025-11-26,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01423,2025-11-26,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01424,2025-11-26,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01425,2025-11-26,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01426,2025-11-27,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01427,2025-11-28,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01428,2025-11-29,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01429,2025-11-30,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01430,2025-11-30,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01431,2025-11-30,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01432,2025-11-30,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01433,2025-12-01,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01434,2025-12-01,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01435,2025-12-01,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01436,2025-12-02,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01437,2025-12-02,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01438,2025-12-04,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01439,2025-12-07,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01440,2025-12-08,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01441,2025-12-09,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01442,2025-12-12,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01443,2025-12-13,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01444,2025-12-14,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-01445,2025-12-15,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01446,2025-12-17,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01447,2025-12-17,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01448,2025-12-17,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01449,2025-12-18,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01450,2025-12-19,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01451,2025-12-20,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-01452,2025-12-23,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01453,2025-12-23,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01454,2025-12-25,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01455,2025-12-26,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01456,2025-12-26,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-01457,2025-12-27,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01458,2025-12-27,Valle Sagrado,teléfono,Restaurante,pequeño,0
+SS-01459,2025-12-28,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01460,2025-12-30,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-01461,2025-12-30,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01462,2025-12-30,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-01463,2026-01-01,Cusco ciudad,web,Restaurante,micro,1
+SS-01464,2026-01-03,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01465,2026-01-04,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01466,2026-01-05,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01467,2026-01-07,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01468,2026-01-07,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01469,2026-01-07,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01470,2026-01-08,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01471,2026-01-09,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01472,2026-01-09,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01473,2026-01-09,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-01474,2026-01-10,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01475,2026-01-10,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01476,2026-01-11,Valle Sagrado,web,Restaurante,micro,1
+SS-01477,2026-01-12,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01478,2026-01-12,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01479,2026-01-12,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01480,2026-01-13,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01481,2026-01-14,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01482,2026-01-16,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01483,2026-01-16,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01484,2026-01-18,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01485,2026-01-19,Cusco ciudad,web,Hotel pequeño,micro,0
+SS-01486,2026-01-20,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01487,2026-01-20,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01488,2026-01-20,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01489,2026-01-21,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01490,2026-01-21,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01491,2026-01-22,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01492,2026-01-22,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01493,2026-01-24,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01494,2026-01-24,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01495,2026-01-24,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01496,2026-01-25,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-01497,2026-01-26,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01498,2026-01-26,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01499,2026-01-27,Valle Sagrado,web,Restaurante,pequeño,0
+SS-01500,2026-01-29,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01501,2026-01-30,Cusco ciudad,web,Restaurante,mediano,1
+SS-01502,2026-01-30,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01503,2026-02-01,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01504,2026-02-01,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01505,2026-02-03,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01506,2026-02-03,Cusco ciudad,web,Restaurante,mediano,1
+SS-01507,2026-02-04,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01508,2026-02-04,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-01509,2026-02-05,Valle Sagrado,teléfono,Restaurante,micro,0
+SS-01510,2026-02-05,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01511,2026-02-06,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-01512,2026-02-08,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-01513,2026-02-08,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01514,2026-02-08,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01515,2026-02-09,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01516,2026-02-09,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01517,2026-02-12,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01518,2026-02-14,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01519,2026-02-16,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01520,2026-02-16,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01521,2026-02-20,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01522,2026-02-22,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-01523,2026-02-24,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01524,2026-02-24,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01525,2026-02-24,Cusco ciudad,web,Restaurante,micro,1
+SS-01526,2026-02-28,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01527,2026-03-01,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01528,2026-03-02,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01529,2026-03-02,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01530,2026-03-03,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01531,2026-03-04,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-01532,2026-03-04,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01533,2026-03-04,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01534,2026-03-05,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01535,2026-03-05,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01536,2026-03-06,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01537,2026-03-07,Cusco ciudad,web,Restaurante,micro,1
+SS-01538,2026-03-07,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01539,2026-03-07,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01540,2026-03-07,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01541,2026-03-09,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01542,2026-03-09,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01543,2026-03-09,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01544,2026-03-09,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01545,2026-03-10,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01546,2026-03-11,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01547,2026-03-11,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01548,2026-03-12,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01549,2026-03-12,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01550,2026-03-13,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01551,2026-03-14,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01552,2026-03-15,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-01553,2026-03-17,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-01554,2026-03-17,Valle Sagrado,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01555,2026-03-18,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01556,2026-03-19,Cusco ciudad,teléfono,Restaurante,pequeño,0
+SS-01557,2026-03-20,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01558,2026-03-21,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-01559,2026-03-22,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01560,2026-03-23,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01561,2026-03-23,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01562,2026-03-23,Valle Sagrado,ejecutivo comercial,Restaurante,micro,0
+SS-01563,2026-03-24,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01564,2026-03-25,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01565,2026-03-26,Cusco ciudad,web,Restaurante,micro,1
+SS-01566,2026-03-27,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01567,2026-03-27,Cusco ciudad,web,Restaurante,mediano,1
+SS-01568,2026-03-28,Valle Sagrado,web,Restaurante,pequeño,1
+SS-01569,2026-03-28,Cusco ciudad,web,Restaurante,micro,1
+SS-01570,2026-03-28,Valle Sagrado,teléfono,Hotel pequeño,mediano,1
+SS-01571,2026-03-29,Valle Sagrado,web,Restaurante,micro,1
+SS-01572,2026-03-29,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01573,2026-03-29,Cusco ciudad,teléfono,Restaurante,micro,0
+SS-01574,2026-03-31,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01575,2026-03-31,Cusco ciudad,web,Restaurante,mediano,1
+SS-01576,2026-03-31,Cusco ciudad,web,Restaurante,micro,1
+SS-01577,2026-04-01,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01578,2026-04-01,Valle Sagrado,web,Restaurante,micro,1
+SS-01579,2026-04-01,Cusco ciudad,ejecutivo comercial,Restaurante,micro,0
+SS-01580,2026-04-02,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-01581,2026-04-04,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01582,2026-04-05,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01583,2026-04-06,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01584,2026-04-06,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01585,2026-04-08,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01586,2026-04-09,Valle Sagrado,web,Restaurante,mediano,1
+SS-01587,2026-04-09,Cusco ciudad,ejecutivo comercial,Restaurante,micro,0
+SS-01588,2026-04-09,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01589,2026-04-11,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-01590,2026-04-12,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01591,2026-04-12,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01592,2026-04-14,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01593,2026-04-14,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01594,2026-04-14,Cusco ciudad,web,Restaurante,micro,1
+SS-01595,2026-04-15,Cusco ciudad,web,Restaurante,mediano,0
+SS-01596,2026-04-16,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01597,2026-04-16,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01598,2026-04-16,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01599,2026-04-17,Valle Sagrado,web,Restaurante,pequeño,1
+SS-01600,2026-04-18,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01601,2026-04-19,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01602,2026-04-20,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01603,2026-04-21,Valle Sagrado,ejecutivo comercial,Restaurante,micro,0
+SS-01604,2026-04-21,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01605,2026-04-22,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01606,2026-04-23,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01607,2026-04-24,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01608,2026-04-25,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01609,2026-04-27,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01610,2026-04-27,Cusco ciudad,teléfono,Restaurante,micro,0
+SS-01611,2026-04-28,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01612,2026-04-28,Cusco ciudad,web,Hotel pequeño,micro,0
+SS-01613,2026-04-30,Valle Sagrado,web,Hotel pequeño,mediano,1
+SS-01614,2026-04-30,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01615,2026-05-01,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01616,2026-05-02,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01617,2026-05-03,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01618,2026-05-03,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-01619,2026-05-04,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01620,2026-05-04,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01621,2026-05-06,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01622,2026-05-07,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01623,2026-05-07,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01624,2026-05-07,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01625,2026-05-07,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01626,2026-05-08,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01627,2026-05-08,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-01628,2026-05-10,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01629,2026-05-10,Valle Sagrado,web,Restaurante,pequeño,1
+SS-01630,2026-05-11,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01631,2026-05-11,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01632,2026-05-11,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01633,2026-05-12,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01634,2026-05-12,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01635,2026-05-12,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01636,2026-05-13,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01637,2026-05-14,Valle Sagrado,web,Restaurante,micro,1
+SS-01638,2026-05-14,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01639,2026-05-14,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01640,2026-05-16,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01641,2026-05-16,Cusco ciudad,web,Restaurante,micro,1
+SS-01642,2026-05-16,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01643,2026-05-16,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01644,2026-05-17,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01645,2026-05-17,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01646,2026-05-17,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01647,2026-05-20,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01648,2026-05-20,Valle Sagrado,web,Restaurante,pequeño,1
+SS-01649,2026-05-20,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01650,2026-05-20,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01651,2026-05-20,Cusco ciudad,web,Restaurante,micro,1
+SS-01652,2026-05-20,Valle Sagrado,web,Restaurante,micro,1
+SS-01653,2026-05-21,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01654,2026-05-22,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01655,2026-05-22,Cusco ciudad,web,Restaurante,micro,1
+SS-01656,2026-05-23,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01657,2026-05-25,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-01658,2026-05-25,Valle Sagrado,web,Restaurante,micro,1
+SS-01659,2026-05-25,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01660,2026-05-26,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01661,2026-05-27,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-01662,2026-05-27,Valle Sagrado,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01663,2026-05-27,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01664,2026-05-28,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-01665,2026-05-28,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01666,2026-05-29,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01667,2026-05-30,Valle Sagrado,web,Restaurante,pequeño,1
+SS-01668,2026-05-30,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01669,2026-05-30,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01670,2026-05-30,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01671,2026-05-30,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01672,2026-05-31,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01673,2026-05-31,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01674,2026-05-31,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01675,2026-06-01,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01676,2026-06-02,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01677,2026-06-02,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01678,2026-06-02,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-01679,2026-06-02,Valle Sagrado,web,Restaurante,micro,1
+SS-01680,2026-06-03,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01681,2026-06-04,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01682,2026-06-05,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01683,2026-06-05,Cusco ciudad,web,Restaurante,micro,1
+SS-01684,2026-06-05,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01685,2026-06-06,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01686,2026-06-06,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01687,2026-06-07,Cusco ciudad,ejecutivo comercial,Restaurante,micro,0
+SS-01688,2026-06-09,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01689,2026-06-10,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01690,2026-06-10,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01691,2026-06-11,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01692,2026-06-11,Valle Sagrado,web,Restaurante,pequeño,1
+SS-01693,2026-06-11,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01694,2026-06-12,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-01695,2026-06-12,Valle Sagrado,web,Restaurante,mediano,1
+SS-01696,2026-06-12,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-01697,2026-06-13,Cusco ciudad,web,Restaurante,mediano,1
+SS-01698,2026-06-13,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01699,2026-06-13,Cusco ciudad,web,Restaurante,micro,1
+SS-01700,2026-06-13,Valle Sagrado,ejecutivo comercial,Restaurante,micro,0
+SS-01701,2026-06-14,Cusco ciudad,web,Restaurante,micro,1
+SS-01702,2026-06-14,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01703,2026-06-14,Cusco ciudad,web,Hotel pequeño,mediano,0
+SS-01704,2026-06-15,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01705,2026-06-16,Valle Sagrado,web,Restaurante,pequeño,0
+SS-01706,2026-06-17,Cusco ciudad,web,Restaurante,micro,1
+SS-01707,2026-06-17,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01708,2026-06-18,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01709,2026-06-18,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01710,2026-06-19,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01711,2026-06-19,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01712,2026-06-19,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01713,2026-06-20,Cusco ciudad,web,Restaurante,micro,0
+SS-01714,2026-06-20,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01715,2026-06-20,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01716,2026-06-20,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01717,2026-06-21,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01718,2026-06-21,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01719,2026-06-24,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01720,2026-06-25,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01721,2026-06-25,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-01722,2026-06-25,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01723,2026-06-25,Cusco ciudad,web,Restaurante,mediano,1
+SS-01724,2026-06-26,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01725,2026-06-27,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-01726,2026-06-27,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01727,2026-06-27,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01728,2026-06-27,Cusco ciudad,web,Restaurante,micro,1
+SS-01729,2026-06-28,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01730,2026-06-28,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01731,2026-06-28,Valle Sagrado,web,Restaurante,micro,1
+SS-01732,2026-06-28,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01733,2026-06-29,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01734,2026-06-29,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01735,2026-06-30,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01736,2026-06-30,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01737,2026-06-30,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01738,2026-07-01,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01739,2026-07-01,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01740,2026-07-02,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01741,2026-07-02,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01742,2026-07-02,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01743,2026-07-03,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01744,2026-07-03,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01745,2026-07-04,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01746,2026-07-04,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01747,2026-07-05,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01748,2026-07-05,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01749,2026-07-05,Cusco ciudad,web,Restaurante,micro,1
+SS-01750,2026-07-06,Cusco ciudad,web,Restaurante,micro,1
+SS-01751,2026-07-06,Valle Sagrado,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01752,2026-07-07,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01753,2026-07-07,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01754,2026-07-08,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01755,2026-07-08,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01756,2026-07-09,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01757,2026-07-09,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-01758,2026-07-10,Cusco ciudad,web,Restaurante,micro,1
+SS-01759,2026-07-10,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01760,2026-07-12,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01761,2026-07-13,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01762,2026-07-15,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01763,2026-07-15,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01764,2026-07-17,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01765,2026-07-18,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01766,2026-07-18,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-01767,2026-07-18,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01768,2026-07-19,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01769,2026-07-19,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-01770,2026-07-19,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01771,2026-07-19,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01772,2026-07-20,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01773,2026-07-20,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01774,2026-07-20,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01775,2026-07-21,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01776,2026-07-21,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01777,2026-07-21,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01778,2026-07-22,Cusco ciudad,web,Restaurante,micro,1
+SS-01779,2026-07-22,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01780,2026-07-22,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-01781,2026-07-22,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01782,2026-07-23,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01783,2026-07-23,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-01784,2026-07-24,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01785,2026-07-24,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01786,2026-07-25,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01787,2026-07-26,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01788,2026-07-27,Valle Sagrado,web,Hotel pequeño,mediano,1
+SS-01789,2026-07-27,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01790,2026-07-27,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01791,2026-07-27,Cusco ciudad,web,Restaurante,micro,1
+SS-01792,2026-07-28,Cusco ciudad,web,Restaurante,micro,1
+SS-01793,2026-07-28,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01794,2026-07-29,Cusco ciudad,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01795,2026-07-30,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01796,2026-07-31,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01797,2026-08-02,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01798,2026-08-03,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01799,2026-08-04,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01800,2026-08-04,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01801,2026-08-04,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01802,2026-08-05,Cusco ciudad,ejecutivo comercial,Restaurante,micro,0
+SS-01803,2026-08-06,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01804,2026-08-06,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01805,2026-08-08,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01806,2026-08-09,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01807,2026-08-09,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01808,2026-08-09,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01809,2026-08-10,Cusco ciudad,ejecutivo comercial,Restaurante,micro,0
+SS-01810,2026-08-10,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01811,2026-08-14,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,0
+SS-01812,2026-08-14,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01813,2026-08-15,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01814,2026-08-15,Cusco ciudad,teléfono,Restaurante,mediano,0
+SS-01815,2026-08-15,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01816,2026-08-16,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01817,2026-08-18,Cusco ciudad,teléfono,Restaurante,micro,0
+SS-01818,2026-08-18,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-01819,2026-08-19,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01820,2026-08-20,Valle Sagrado,web,Hotel pequeño,pequeño,1
+SS-01821,2026-08-20,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01822,2026-08-20,Cusco ciudad,web,Restaurante,mediano,1
+SS-01823,2026-08-20,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01824,2026-08-21,Cusco ciudad,web,Restaurante,mediano,1
+SS-01825,2026-08-21,Valle Sagrado,web,Restaurante,mediano,1
+SS-01826,2026-08-23,Valle Sagrado,teléfono,Hotel pequeño,pequeño,1
+SS-01827,2026-08-23,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01828,2026-08-24,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01829,2026-08-25,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01830,2026-08-25,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01831,2026-08-26,Valle Sagrado,web,Restaurante,micro,1
+SS-01832,2026-08-26,Cusco ciudad,web,Hotel pequeño,mediano,1
+SS-01833,2026-08-26,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01834,2026-08-28,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01835,2026-08-29,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01836,2026-08-29,Valle Sagrado,web,Restaurante,micro,1
+SS-01837,2026-09-01,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01838,2026-09-02,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01839,2026-09-03,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01840,2026-09-05,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01841,2026-09-06,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01842,2026-09-06,Cusco ciudad,web,Restaurante,micro,1
+SS-01843,2026-09-07,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01844,2026-09-07,Cusco ciudad,web,Restaurante,micro,1
+SS-01845,2026-09-07,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01846,2026-09-08,Cusco ciudad,web,Hotel pequeño,pequeño,0
+SS-01847,2026-09-10,Valle Sagrado,teléfono,Restaurante,pequeño,0
+SS-01848,2026-09-10,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01849,2026-09-10,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01850,2026-09-12,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01851,2026-09-12,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-01852,2026-09-14,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01853,2026-09-14,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01854,2026-09-14,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01855,2026-09-14,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01856,2026-09-15,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01857,2026-09-17,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01858,2026-09-17,Valle Sagrado,web,Restaurante,mediano,1
+SS-01859,2026-09-18,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-01860,2026-09-19,Cusco ciudad,web,Restaurante,mediano,1
+SS-01861,2026-09-19,Valle Sagrado,ejecutivo comercial,Restaurante,micro,1
+SS-01862,2026-09-20,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01863,2026-09-20,Cusco ciudad,teléfono,Restaurante,mediano,1
+SS-01864,2026-09-20,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01865,2026-09-21,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-01866,2026-09-21,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01867,2026-09-22,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01868,2026-09-23,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01869,2026-09-23,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01870,2026-09-23,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01871,2026-09-24,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01872,2026-09-24,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01873,2026-09-25,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01874,2026-09-25,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01875,2026-09-25,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01876,2026-09-25,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01877,2026-09-25,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01878,2026-09-25,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01879,2026-09-25,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01880,2026-09-26,Valle Sagrado,web,Restaurante,micro,1
+SS-01881,2026-09-26,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01882,2026-09-27,Cusco ciudad,web,Hotel pequeño,micro,1
+SS-01883,2026-09-28,Cusco ciudad,ejecutivo comercial,Hotel pequeño,pequeño,1
+SS-01884,2026-09-28,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01885,2026-09-28,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01886,2026-09-28,Valle Sagrado,web,Hotel pequeño,micro,1
+SS-01887,2026-09-30,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-01888,2026-10-01,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01889,2026-10-02,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01890,2026-10-02,Valle Sagrado,ejecutivo comercial,Hotel pequeño,mediano,1
+SS-01891,2026-10-04,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01892,2026-10-04,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01893,2026-10-05,Valle Sagrado,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01894,2026-10-06,Valle Sagrado,ejecutivo comercial,Restaurante,mediano,1
+SS-01895,2026-10-07,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01896,2026-10-07,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01897,2026-10-08,Cusco ciudad,web,Restaurante,micro,1
+SS-01898,2026-10-10,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01899,2026-10-10,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01900,2026-10-12,Cusco ciudad,web,Hotel pequeño,pequeño,1
+SS-01901,2026-10-12,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01902,2026-10-13,Valle Sagrado,teléfono,Restaurante,micro,1
+SS-01903,2026-10-14,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01904,2026-10-14,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01905,2026-10-16,Valle Sagrado,ejecutivo comercial,Restaurante,pequeño,1
+SS-01906,2026-10-16,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01907,2026-10-16,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01908,2026-10-19,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01909,2026-10-20,Cusco ciudad,teléfono,Hotel pequeño,pequeño,1
+SS-01910,2026-10-20,Cusco ciudad,teléfono,Restaurante,micro,1
+SS-01911,2026-10-20,Cusco ciudad,ejecutivo comercial,Restaurante,mediano,1
+SS-01912,2026-10-21,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01913,2026-10-22,Cusco ciudad,ejecutivo comercial,Restaurante,pequeño,1
+SS-01914,2026-10-24,Valle Sagrado,teléfono,Restaurante,pequeño,1
+SS-01915,2026-10-24,Valle Sagrado,web,Restaurante,micro,1
+SS-01916,2026-10-25,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01917,2026-10-25,Cusco ciudad,teléfono,Restaurante,pequeño,1
+SS-01918,2026-10-26,Cusco ciudad,ejecutivo comercial,Hotel pequeño,micro,1
+SS-01919,2026-10-26,Cusco ciudad,teléfono,Hotel pequeño,micro,1
+SS-01920,2026-10-27,Cusco ciudad,teléfono,Hotel pequeño,mediano,1
+SS-01921,2026-10-27,Valle Sagrado,teléfono,Restaurante,mediano,1
+SS-01922,2026-10-27,Cusco ciudad,web,Restaurante,micro,1
+SS-01923,2026-10-28,Cusco ciudad,web,Restaurante,pequeño,1
+SS-01924,2026-10-29,Valle Sagrado,web,Restaurante,mediano,1
+SS-01925,2026-10-30,Valle Sagrado,ejecutivo comercial,Hotel pequeño,pequeño,0
+SS-01926,2026-10-31,Cusco ciudad,ejecutivo comercial,Restaurante,micro,1
+SS-01927,2026-10-31,Valle Sagrado,teléfono,Hotel pequeño,micro,1
+SS-01928,2026-11-01,Valle Sagrado,teléfono,Hotel pequeño,micro,1
